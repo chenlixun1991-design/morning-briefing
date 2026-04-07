@@ -28,21 +28,40 @@ function renderBriefing(data) {
   const sections = data.sections || data;
   
   const sectionDefs = [
-    { key: 'international', icon: '🌍', title: '国际' },
-    { key: 'domestic', icon: '🇨🇳', title: '国内' },
-    { key: 'tech', icon: '💻', title: '科技' },
-    { key: 'hot', icon: '🔥', title: '热梗' },
-    { key: 'knowledge', icon: '📚', title: '新知' },
-    { key: 'finance', icon: '💰', title: '财经' },
+    { key: 'international', icon: '🌍', title: '国际', isHot: false },
+    { key: 'domestic', icon: '🇨🇳', title: '国内', isHot: false },
+    { key: 'tech', icon: '💻', title: '科技', isHot: false },
+    { key: 'trending', icon: '🔥', title: '热梗', isHot: true },
+    { key: 'hot', icon: '🔥', title: '热梗', isHot: true },
+    { key: 'research', icon: '📚', title: '新知', isHot: false },
+    { key: 'knowledge', icon: '📚', title: '新知', isHot: false },
+    { key: 'finance', icon: '💰', title: '财经', isHot: false },
   ];
   
   let html = `<div class="read-time">约${estimateReadTime(sections)}分钟读完</div>`;
   
+  // 用于去重和排序
+  const rendered = new Set();
+  
   for (const def of sectionDefs) {
-    const items = sections[def.key];
+    // 跳过已渲染的
+    if (rendered.has(def.key)) continue;
+    
+    let items = sections[def.key];
+    
+    // 如果没有，尝试别名
+    if ((!items || items.length === 0) && def.key === 'trending') {
+      items = sections['hot'];
+    }
+    if ((!items || items.length === 0) && def.key === 'research') {
+      items = sections['knowledge'];
+    }
+    
     if (!items || items.length === 0) continue;
     
-    if (def.key === 'hot') {
+    rendered.add(def.key);
+    
+    if (def.isHot) {
       // 热梗用标签样式
       html += `
         <section class="section">
@@ -79,7 +98,7 @@ function renderBriefing(data) {
 // 估算阅读时间
 function estimateReadTime(sections) {
   let wordCount = 0;
-  const textKeys = ['international', 'domestic', 'tech', 'knowledge', 'finance'];
+  const textKeys = ['international', 'domestic', 'tech', 'research', 'knowledge', 'finance'];
   for (const key of textKeys) {
     if (sections[key]) {
       sections[key].forEach(item => {
@@ -87,7 +106,10 @@ function estimateReadTime(sections) {
       });
     }
   }
-  if (sections.hot) wordCount += sections.hot.length * 5;
+  if (sections.trending || sections.hot) {
+    const hotItems = sections.trending || sections.hot;
+    wordCount += hotItems.length * 5;
+  }
   return Math.max(2, Math.ceil(wordCount / 400));
 }
 
