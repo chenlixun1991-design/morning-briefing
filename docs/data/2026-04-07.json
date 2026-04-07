@@ -1,57 +1,119 @@
 {
   "date": "2026-04-07",
-  "sections": {
-    "international": [
-      {
-        "title": "美以联手斩首伊朗情报头子",
-        "summary": "霍尔木兹海峡运输量锐减，特朗普威胁\"周二消灭伊朗\"，地区局势骤然升温",
-        "source": "BBC中文",
-        "url": "https://www.bbc.com/zhongwen"
-      },
-      {
-        "title": "阿耳忒弥斯2号成功发射",
-        "summary": "NASA阿尔忒弥斯2号绕月任务顺利升空，四名宇航员踏上38万公里征程",
-        "source": "NASA官网",
-        "url": "https://www.nasa.gov"
-      }
-    ],
-    "domestic": [
-      {
-        "title": "3月PMI重返扩张区间",
-        "summary": "制造业PMI 51.9，超市场预期，基建和出口贡献明显，新能源汽车出口强劲",
-        "source": "国家统计局",
-        "url": "https://www.stats.gov.cn"
-      }
-    ],
-    "tech": [
-      {
-        "title": "宁德时代钠离子电池重大突破",
-        "summary": "能量密度突破160Wh/kg，成本较锂电池低30%，2027年有望大规模量产",
-        "source": "36氪",
-        "url": "https://36kr.com"
-      }
-    ],
-    "hot": [
-      { "term": "触烂", "desc": "网络用语，指内容太真实让人受不了" },
-      { "term": "留友看", "desc": "指留下朋友自己偷偷去看" },
-      { "term": "M3", "desc": "某明星粉丝群体代号" },
-      { "term": "活人感", "desc": "形容博主/明星有真实生活感" }
-    ],
-    "knowledge": [
-      {
-        "title": "英国启动大规模临床试验改革",
-        "summary": "NHS将推行\"大胆试验\"计划，简化审批流程，加速新药上市",
-        "source": "Nature",
-        "url": "https://www.nature.com"
-      }
-    ],
-    "finance": [
-      {
-        "title": "A股慢牛根基稳固",
-        "summary": "机构普遍看好二季度行情，AI算力和半导体被重点推荐，增量资金持续入场",
-        "source": "财新",
-        "url": "https://caixin.com"
-      }
-    ]
-  }
+  "international": [
+    {
+      "title": "美F-16飞行员回忆营救驻伊美军",
+      "summary": "一名获得勋章的F-16飞行员披露了近日执行营救被困伊朗美军机组人员的任务细节。任务难度极高，飞行员在伊朗领空执行危险低空飞行，成功将人员带出。美军方暂未公布行动具体名称，但此次任务被视为美伊紧张关系中的重大事件。",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/video/decorated-f16-fighter-jet-pilot-what-went-into-mission-rescue-us-airmen-iran/"
+    },
+    {
+      "title": "特朗普警告伊朗时间不多了",
+      "summary": "特朗普在社交媒体发布警告，称伊朗的\"时间已所剩无几\"，暗示可能对伊核计划采取更严厉措施。此前美军成功从伊朗营救出被困机组人员，美伊关系再度紧张。外界担忧两国走向更激烈对抗。",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/video/decorated-f16-fighter-jet-pilot-what-went-into-mission-rescue-us-airmen-iran/"
+    },
+    {
+      "title": "Artemis II宇航员开始绕月飞行",
+      "summary": "NASA的Artemis II任务正式启动，四名宇航员搭乘猎户座飞船开始绕月球背面飞行。这是自阿波罗计划以来人类首次重返月球轨道，标志着美国重返月球计划的重大进展，为2026年载人登月任务铺平道路。",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/video/decorated-f16-fighter-jet-pilot-what-went-into-mission-rescue-us-airmen-iran/"
+    }
+  ],
+  "domestic": [
+    {
+      "title": "中国上市公司年报：AI成增长新引擎",
+      "summary": "截至2026年4月，中国上市公司陆续发布2025年报。数据显示，AI和机器人技术驱动的业绩增长正在成为中国经济新引擎，多家科技公司利润大幅攀升，反映出全球科技革命与中国产业升级战略形成共振。",
+      "source": "新华网",
+      "url": "https://english.news.cn/20260404/6d2777c9c5e94066b5f45ee251a0052f/c.html"
+    },
+    {
+      "title": "中国2026年计划执行140次航天发射",
+      "summary": "中国宣布2026年计划执行约140次航天发射，目标包括至少100次大型火箭发射和2000次卫星部署。此举旨在加速商业航天发展，扩大在全球航天市场的份额。酒泉等发射基地基础设施正快速扩充。",
+      "source": "SpaceNews",
+      "url": "https://spacenews.com/china-targets-140-launches-in-2026-amid-commercial-space-surge/"
+    },
+    {
+      "title": "吉利汽车Q1利润或创历史新高",
+      "summary": "德意志银行分析师指出，吉利汽车2026年第一季度有机净利润预计将达到41亿元人民币，创历史新高。增长主要受益于新车型的热销和出口业务的强劲表现。同时，小米电动车业务因高额研发投入预计Q1出现亏损。",
+      "source": "WSJ",
+      "url": "https://www.wsj.com/business/auto-transport-roundup-market-talk-b59fd4a4"
+    }
+  ],
+  "tech": [
+    {
+      "title": "美军用平板操控无人黑鹰直升机",
+      "summary": "在美国陆军国民警卫队训练中，一名士兵使用平板电脑控制西科斯基公司的可选驾驶黑鹰直升机执行任务，标志着无人系统与下一代武器集成的重要突破。无人机操控正向更简化的界面演进，降低士兵操作门槛。",
+      "source": "Defense News",
+      "url": "https://www.defensenews.com/home/?contentfeatureid=f0finyqzxdsp54a"
+    },
+    {
+      "title": "反无人机系统扎堆AUSA研讨会",
+      "summary": "在2026年AUSA全球力量研讨会上，多款反无人机系统集中亮相，军工企业竞相推出应对无人机威胁的新方案。随着无人机在战场上扩散，如何有效反制已成为各国军方重点关注议题。",
+      "source": "Defense News",
+      "url": "https://www.defensenews.com/video/2026/04/06/counter-drone-systems-proliferate-at-ausa-global-force-symposium-2026/"
+    },
+    {
+      "title": "SpaceX秘密提交IPO估值2万亿美元",
+      "summary": "据《纽约时报》报道，SpaceX已秘密提交IPO申请，Starlink卫星互联网业务的成功是核心推动因素，公司估值可能高达2万亿美元。若成功上市，将成为史上最大规模IPO。SpaceX此前一直保持私有，马斯克最终选择开放公众投资。",
+      "source": "RCR Wireless News",
+      "url": "https://www.rcrwireless.com/20260406/network-infrastructure/spacex-files-for-ipo-starlink-is-why-it-matters"
+    }
+  ],
+  "trending": [
+    {
+      "term": "解放日(Liberation Day)",
+      "desc": "特朗普宣布关税日，比特币暴跌，币圈用此讽刺自己被\"解放\"了"
+    },
+    {
+      "term": "Bartlett's Hooping Swing",
+      "desc": "IPL板球名场面：球员超级挥杆三振，引爆社媒讨论"
+    },
+    {
+      "term": "印度人=新石油",
+      "desc": "移民机构创始人称H-1B新规是美国损失，在印裔社群引发争议"
+    },
+    {
+      "term": "Starlink IPO",
+      "desc": "SpaceX上市传闻，成为投资圈最热话题"
+    },
+    {
+      "term": "AI就业悖论",
+      "desc": "AI取代工作论持续，年轻人用自嘲梗表达就业焦虑"
+    }
+  ],
+  "research": [
+    {
+      "title": "物理学家破解托卡马克等离子谜题",
+      "summary": "物理学家在《Physical Review Letters》发表研究，解答了困扰聚变领域多年的谜题：托卡马克装置中等离子体的环形旋转如何影响粒子在排气系统的分布。研究解决了模拟与真实测量长期不符的问题，推动聚变能源实用化进程。",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260401071957.htm"
+    },
+    {
+      "title": "科学家首次统一探测时空涟漪",
+      "summary": "华威大学科学家团队首次提出统一探测时空微小波动的方法，有望连接广义相对论与量子力学。这一突破对理解暗物质、引力和黑洞现象意义重大，或将开启基础物理学新纪元。",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260405003940.htm"
+    }
+  ],
+  "finance": [
+    {
+      "title": "紫金矿业完成期权行权",
+      "summary": "紫金矿业集团宣布，2023年股票期权激励计划第一期行权已完成，共1310万份期权已由参与者全额行权。行权价与现股价间的差价产生大额股权激励费用，市场关注其对全年业绩的影响。",
+      "source": "TipRanks",
+      "url": "https://www.tipranks.com/news/company-announcements/zijin-mining-completes-first-exercise-period-of-2023-share-option-incentive-scheme"
+    },
+    {
+      "title": "SpaceX IPO：史上最大规模",
+      "summary": "2026年Q1美国IPO市场募资额是去年同期近两倍，但近期地缘政治不确定性令前景蒙阴。SpaceX和OpenAI均计划年内上市，成为市场最大看点，其中SpaceX估值可能高达2万亿美元。",
+      "source": "Bloomberg Law",
+      "url": "https://news.bloomberglaw.com/bloomberg-law-analysis/analysis-q1-ipos-forge-ahead-as-openai-spacex-look-to-debuts"
+    },
+    {
+      "title": "美光股票获分析师看好AI前景",
+      "summary": "AI内存需求强劲，多家机构看好美光科技（Micron）后市表现。HBM芯片短缺持续，美光作为HBM主要供应商之一，有望在AI数据中心扩张中持续受益。存储芯片周期复苏信号明确。",
+      "source": "WSJ",
+      "url": "https://www.wsj.com/business/auto-transport-roundup-market-talk-b59fd4a4"
+    }
+  ]
 }
