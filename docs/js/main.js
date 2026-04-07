@@ -62,7 +62,7 @@ function renderBriefing(data) {
     rendered.add(def.key);
     
     if (def.isHot) {
-      // 热梗用标签样式
+      // 热梗用标签样式 + 悬浮卡片
       html += `
         <section class="section">
           <div class="section-title"><span class="icon">${def.icon}</span>${def.title}</div>
@@ -70,7 +70,10 @@ function renderBriefing(data) {
             ${items.map(item => {
               const term = typeof item === 'string' ? item : (item.term || item.title || '');
               const desc = typeof item === 'object' ? (item.desc || item.summary || '') : '';
-              return desc ? `<span class="hot-tag" title="${desc}">${term}</span>` : `<span class="hot-tag">${term}</span>`;
+              if (desc) {
+                return `<span class="hot-tag">${term}<span class="tooltip">${desc}</span></span>`;
+              }
+              return `<span class="hot-tag">${term}</span>`;
             }).join('')}
           </div>
         </section>
