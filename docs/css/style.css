@@ -81,8 +81,8 @@ body {
 
 /* 新闻条目 */
 .news-item {
-  margin-bottom: 16px;
-  padding-bottom: 16px;
+  margin-bottom: 20px;
+  padding-bottom: 20px;
   border-bottom: 1px dashed var(--border);
 }
 
@@ -93,16 +93,18 @@ body {
 }
 
 .news-title {
-  font-size: 16px;
+  font-size: 17px;
   font-weight: 600;
-  margin-bottom: 6px;
+  margin-bottom: 10px;
   color: var(--text-primary);
+  line-height: 1.4;
 }
 
 .news-summary {
-  font-size: 14px;
+  font-size: 15px;
   color: var(--text-secondary);
-  margin-bottom: 8px;
+  margin-bottom: 12px;
+  line-height: 1.8;
 }
 
 .news-source {
