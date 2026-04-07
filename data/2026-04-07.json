@@ -1,0 +1,57 @@
+{
+  "date": "2026-04-07",
+  "sections": {
+    "international": [
+      {
+        "title": "美以联手斩首伊朗情报头子",
+        "summary": "霍尔木兹海峡运输量锐减，特朗普威胁\"周二消灭伊朗\"，地区局势骤然升温",
+        "source": "BBC中文",
+        "url": "https://www.bbc.com/zhongwen"
+      },
+      {
+        "title": "阿耳忒弥斯2号成功发射",
+        "summary": "NASA阿尔忒弥斯2号绕月任务顺利升空，四名宇航员踏上38万公里征程",
+        "source": "NASA官网",
+        "url": "https://www.nasa.gov"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "3月PMI重返扩张区间",
+        "summary": "制造业PMI 51.9，超市场预期，基建和出口贡献明显，新能源汽车出口强劲",
+        "source": "国家统计局",
+        "url": "https://www.stats.gov.cn"
+      }
+    ],
+    "tech": [
+      {
+        "title": "宁德时代钠离子电池重大突破",
+        "summary": "能量密度突破160Wh/kg，成本较锂电池低30%，2027年有望大规模量产",
+        "source": "36氪",
+        "url": "https://36kr.com"
+      }
+    ],
+    "hot": [
+      { "term": "触烂", "desc": "网络用语，指内容太真实让人受不了" },
+      { "term": "留友看", "desc": "指留下朋友自己偷偷去看" },
+      { "term": "M3", "desc": "某明星粉丝群体代号" },
+      { "term": "活人感", "desc": "形容博主/明星有真实生活感" }
+    ],
+    "knowledge": [
+      {
+        "title": "英国启动大规模临床试验改革",
+        "summary": "NHS将推行\"大胆试验\"计划，简化审批流程，加速新药上市",
+        "source": "Nature",
+        "url": "https://www.nature.com"
+      }
+    ],
+    "finance": [
+      {
+        "title": "A股慢牛根基稳固",
+        "summary": "机构普遍看好二季度行情，AI算力和半导体被重点推荐，增量资金持续入场",
+        "source": "财新",
+        "url": "https://caixin.com"
+      }
+    ]
+  }
+}

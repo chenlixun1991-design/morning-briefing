@@ -1,0 +1,213 @@
+/* 晨间报纸风格 */
+:root {
+  --bg-color: #faf8f5;
+  --card-bg: #ffffff;
+  --text-primary: #2d2d2d;
+  --text-secondary: #666666;
+  --accent: #e85d04;
+  --border: #e8e4df;
+  --tag-bg: #fff3e8;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "PingFang SC", "Microsoft YaHei", sans-serif;
+  background: var(--bg-color);
+  color: var(--text-primary);
+  line-height: 1.7;
+  min-height: 100vh;
+}
+
+.container {
+  max-width: 680px;
+  margin: 0 auto;
+  padding: 40px 20px;
+}
+
+/* Header */
+.header {
+  text-align: center;
+  margin-bottom: 40px;
+  padding-bottom: 30px;
+  border-bottom: 1px solid var(--border);
+}
+
+.date {
+  font-size: 14px;
+  color: var(--text-secondary);
+  margin-bottom: 8px;
+}
+
+.header h1 {
+  font-size: 32px;
+  font-weight: 600;
+  margin-bottom: 8px;
+}
+
+.tagline {
+  font-size: 14px;
+  color: var(--text-secondary);
+}
+
+/* 板块卡片 */
+.section {
+  background: var(--card-bg);
+  border-radius: 12px;
+  padding: 24px;
+  margin-bottom: 20px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.04);
+}
+
+.section-title {
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--accent);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-bottom: 16px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.section-title .icon {
+  font-size: 16px;
+}
+
+/* 新闻条目 */
+.news-item {
+  margin-bottom: 16px;
+  padding-bottom: 16px;
+  border-bottom: 1px dashed var(--border);
+}
+
+.news-item:last-child {
+  margin-bottom: 0;
+  padding-bottom: 0;
+  border-bottom: none;
+}
+
+.news-title {
+  font-size: 16px;
+  font-weight: 600;
+  margin-bottom: 6px;
+  color: var(--text-primary);
+}
+
+.news-summary {
+  font-size: 14px;
+  color: var(--text-secondary);
+  margin-bottom: 8px;
+}
+
+.news-source {
+  font-size: 12px;
+  color: #999;
+}
+
+.news-source a {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+.news-source a:hover {
+  text-decoration: underline;
+}
+
+/* 热梗标签 */
+.hot-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.hot-tag {
+  background: var(--tag-bg);
+  color: var(--accent);
+  padding: 6px 12px;
+  border-radius: 20px;
+  font-size: 14px;
+}
+
+/* Footer */
+.footer {
+  text-align: center;
+  margin-top: 50px;
+  padding-top: 30px;
+  border-top: 1px solid var(--border);
+  font-size: 14px;
+  color: var(--text-secondary);
+}
+
+.footer a {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+.footer a:hover {
+  text-decoration: underline;
+}
+
+.credit {
+  margin-top: 8px;
+  font-size: 13px;
+}
+
+/* 阅读进度 */
+.read-time {
+  display: inline-block;
+  background: var(--tag-bg);
+  color: var(--accent);
+  padding: 4px 10px;
+  border-radius: 12px;
+  font-size: 12px;
+  margin-bottom: 20px;
+}
+
+/* Archive page */
+.archive-list {
+  list-style: none;
+}
+
+.archive-item {
+  background: var(--card-bg);
+  border-radius: 8px;
+  padding: 16px 20px;
+  margin-bottom: 12px;
+}
+
+.archive-item a {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-decoration: none;
+  color: var(--text-primary);
+}
+
+.archive-item a:hover {
+  color: var(--accent);
+}
+
+.archive-item .date {
+  margin-bottom: 0;
+}
+
+/* 响应式 */
+@media (max-width: 480px) {
+  .container {
+    padding: 24px 16px;
+  }
+  
+  .header h1 {
+    font-size: 26px;
+  }
+  
+  .section {
+    padding: 18px;
+  }
+}

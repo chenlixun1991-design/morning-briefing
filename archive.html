@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>历史存档 · 早间简报</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div class="container">
+    <header class="header">
+      <div class="date" id="currentDate"></div>
+      <h1>📚 历史存档</h1>
+      <p class="tagline">过往每日简报</p>
+    </header>
+
+    <main>
+      <ul class="archive-list" id="archiveList">
+        <li class="archive-item">
+          <span>加载中...</span>
+        </li>
+      </ul>
+    </main>
+
+    <footer class="footer">
+      <p><a href="index.html">← 返回今日简报</a></p>
+      <p class="credit">by Tomato 🍅</p>
+    </footer>
+  </div>
+
+  <script>
+    // 加载历史存档列表
+    async function loadArchive() {
+      const today = new Date();
+      document.getElementById('currentDate').textContent = today.toLocaleDateString('zh-CN', { 
+        year: 'numeric', month: 'long', day: 'numeric' 
+      });
+      
+      try {
+        // 尝试加载索引文件
+        const response = await fetch('data/archive.json');
+        if (response.ok) {
+          const list = await response.json();
+          renderArchive(list);
+        } else {
+          // 没有索引，动态扫描已有文件
+          await scanArchive();
+        }
+      } catch (e) {
+        await scanArchive();
+      }
+    }
+    
+    function renderArchive(list) {
+      const container = document.getElementById('archiveList');
+      if (list.length === 0) {
+        container.innerHTML = '<li class="archive-item"><span>暂无历史存档</span></li>';
+        return;
+      }
+      
+      container.innerHTML = list.map(item => `
+        <li class="archive-item">
+          <a href="data/${item.date}.html">
+            <span>🍅 ${item.date}</span>
+            <span class="news-source">${item.title || '查看详情'} →</span>
+          </a>
+        </li>
+      `).join('');
+    }
+    
+    async function scanArchive() {
+      // 简单实现：显示一个说明
+      document.getElementById('archiveList').innerHTML = `
+        <li class="archive-item">
+          <span>📅 历史存档将每日自动生成</span>
+        </li>
+      `;
+    }
+    
+    document.addEventListener('DOMContentLoaded', loadArchive);
+  </script>
+</body>
+</html>
