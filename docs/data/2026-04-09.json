@@ -1,0 +1,115 @@
+{
+  "date": "2026-04-09",
+  "international": [
+    {
+      "title": "敏昂莱当选缅甸总统",
+      "summary": "4月9日，亲军方的缅甸议会选举国防军总司令敏昂莱为总统。敏昂莱自2021年政变后实际掌控缅甸，此次正式就职总统职位进一步巩固其权力。此举加剧国际社会对缅甸民主倒退的担忧，同时影响东南亚区域安全与稳定。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/video/watch/idRW973503042026RP1/?chan=world-news"
+    },
+    {
+      "title": "美伊贸易威胁推高油价",
+      "summary": "4月初，美国与伊朗之间的贸易威胁持续升级，全球市场对霍尔木兹海峡可能关闭的担忧加剧，油价显著上涨。分析指出，若美伊局势进一步恶化，国际油价可能突破关键心理关口，对全球通胀预期产生连锁影响。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/video/watch/idRW973503042026RP1/?chan=world-news"
+    },
+    {
+      "title": "马克龙与高市显年轻态",
+      "summary": "法国总统马克龙在日本会见日本总务大臣高市早苗时，摆出"龙珠"经典姿势合影，引发社交媒体热议。此举被视为外交场合中的轻松互动，体现了法日关系的友好态势，也意外成为当天国际新闻中的热议话题。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/video/watch/idRW973503042026RP1/?chan=world-news"
+    }
+  ],
+  "china": [
+    {
+      "title": "中国电动车抵御油价冲击",
+      "summary": "中国电动车市场持续繁荣，有效缓冲了伊朗战争导致的油价冲击。得益于国内完善的电动车产业链和消费者偏好转变，中国对石油依赖度显著降低。比亚迪3月销量虽有所下滑，但在激烈竞争中仍保持强劲地位。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/video/watch/idRW011206042026RP1/?chan=business"
+    },
+    {
+      "title": "新疆精准农业 revolution",
+      "summary": "新疆棉田今年春季引入北斗导航自动驾驶系统等精准农业技术，大幅提升耕作效率与棉花品质。这标志着中国农业现代化进程加速，科技创新正在深度赋能传统农业转型升级，为乡村振兴注入新动力。",
+      "source": "CGTN",
+      "url": "https://news.cgtn.com/news/2026-04-03/Precision-agriculture-transforms-spring-farming-in-Xinjiang-1M2t2WFjlF6/p.html"
+    },
+    {
+      "title": "中国港口业业绩有望回升",
+      "summary": "星展银行研究指出，招商港口2026年盈利有望回升，主要受益于信贷成本压力减轻及联营公司贡献增加。分析认为，中国港口行业正逐步走出低谷，随着全球贸易回暖，业绩复苏态势有望延续。",
+      "source": "WSJ",
+      "url": "https://www.wsj.com/business/auto-transport-roundup-market-talk-b59fd4a4"
+    }
+  ],
+  "tech": [
+    {
+      "title": "AI代理工具加速普及",
+      "summary": "2026年AI技术持续渗透营销与广告行业，越来越多品牌和代理机构采用AI驱动的工作流程提升效率。三星、Runway等科技巨头纷纷推出面向企业的AI解决方案，AI工具正从实验阶段进入大规模商业应用阶段。",
+      "source": "Ad Age",
+      "url": "https://adage.com/technology/ai/aa-emerging-news-and-trends-samsung-runway-kalshi/"
+    },
+    {
+      "title": "品牌愚人节营销玩出新花样",
+      "summary": "2026年愚人节，各大品牌营销恶作剧频出，Babbel到Yahoo等品牌纷纷推出创意假产品。这些恶作剧模糊了真实与虚构的界限，反映品牌在注意力稀缺时代追求突破性传播的焦虑，也预示了未来营销创意的方向。",
+      "source": "Ad Age",
+      "url": "https://adage.com/technology/ai/aa-emerging-news-and-trends-samsung-runway-kalshi/"
+    },
+    {
+      "title": "小米汽车预计一季度亏损",
+      "summary": "德意志银行分析师指出，小米电动车业务因研发费用高企及促销策略，预计2026年一季度出现亏损。作为智能手机跨界造车的代表，小米汽车的发展路径折射出中国新能源车市场竞争之激烈。",
+      "source": "WSJ",
+      "url": "https://www.wsj.com/business/auto-transport-roundup-market-talk-b59fd4a4"
+    }
+  ],
+  "trending": [
+    {
+      "term": "多职业青年",
+      "desc": "指英国Z世代为应对生活成本高企而同时从事多份前线工作，折射就业新趋势。"
+    },
+    {
+      "term": "社媒自诊",
+      "desc": "医生警告年轻人不要从社交媒体自我诊断心理健康问题，反映信息过载时代的健康焦虑。"
+    },
+    {
+      "term": "Poly-employment",
+      "desc": "Z世代多重就业新词，指一人同时做多份工作，反映零工经济对传统就业模式的冲击。"
+    },
+    {
+      "term": "AI愚人节",
+      "desc": "形容2026年各大品牌用AI生成内容搞恶作剧，AI真假难辨成今年愚人节最大看点。"
+    }
+  ],
+  "research": [
+    {
+      "title": "可控核聚变等离子谜题破解",
+      "summary": "物理学家在《物理评论快报》发表研究，解释了托卡马克装置中等离子体粒子为何总从一侧排出。这一困扰学界多年的谜题获解，标志着可控核聚变研究取得重要进展，向商业化聚变能源再近一步。",
+      "source": "ScienceDaily",
+      "url": "http://www.sciencedaily.com/releases/2026/04/260401071957.htm"
+    },
+    {
+      "title": "统一探测时空涟漪新方法",
+      "summary": "华威大学领衔的科研团队开发出统一探测时空微小波动的新方法，有望深化对引力与量子力学关系的理解。该研究对暗物质探索和引力波研究具有重要意义，可能开启基础物理学新篇章。",
+      "source": "ScienceDaily",
+      "url": "http://www.sciencedaily.com/releases/2026/04/260405003940.htm"
+    }
+  ],
+  "finance": [
+    {
+      "title": "吉利一季度利润创新高",
+      "summary": "德意志银行分析师王彬指出，吉利汽车2026年一季度有机净利润预计达到41亿元人民币，创历史新高。吉利销量强劲增长得益于新能源车产品线持续扩张及出口业务快速增长，成为中国车企盈利标杆。",
+      "source": "WSJ",
+      "url": "https://www.wsj.com/business/auto-transport-roundup-market-talk-b59fd4a4"
+    },
+    {
+      "title": "东山的精密利润增22%",
+      "summary": "苏州东山精密制造股份有限公司初步估算，2025年净利润同比增长22.4%。公司业绩增长主要受益于消费电子和新能源业务的双轮驱动，订单量显著提升。",
+      "source": "TradingView",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N40Q0OB:0-suzhou-dongshan-precision-manufacturing-prelim-2025-net-profit-up-22-4-y-y/"
+    },
+    {
+      "title": "比亚迪销量持续承压",
+      "summary": "尽管比亚迪在国内新能源市场保持领先地位，但其3月汽车销量再度下滑，在激烈价格战中面临压力。比亚迪正通过海外扩张寻找新增长点，但其核心国内市场增速放缓引发投资者关注。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/video/watch/idRW011206042026RP1/?chan=business"
+    }
+  ]
+}
