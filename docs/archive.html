@@ -29,54 +29,51 @@
   </div>
 
   <script>
-    // 加载历史存档列表
-    async function loadArchive() {
-      const today = new Date();
-      document.getElementById('currentDate').textContent = today.toLocaleDateString('zh-CN', { 
-        year: 'numeric', month: 'long', day: 'numeric' 
+    function formatDisplayDate() {
+      return new Date().toLocaleDateString('zh-CN', {
+        year: 'numeric', month: 'long', day: 'numeric'
       });
-      
+    }
+
+    async function loadArchive() {
+      document.getElementById('currentDate').textContent = formatDisplayDate();
+
       try {
-        // 尝试加载索引文件
-        const response = await fetch('data/archive.json');
-        if (response.ok) {
-          const list = await response.json();
-          renderArchive(list);
-        } else {
-          // 没有索引，动态扫描已有文件
-          await scanArchive();
-        }
-      } catch (e) {
-        await scanArchive();
+        const response = await fetch('data/archive.json', { cache: 'no-store' });
+        if (!response.ok) throw new Error('Archive manifest not found');
+        const list = await response.json();
+        renderArchive(list);
+      } catch (error) {
+        console.error('Failed to load archive:', error);
+        renderEmptyState();
       }
     }
-    
+
     function renderArchive(list) {
       const container = document.getElementById('archiveList');
-      if (list.length === 0) {
-        container.innerHTML = '<li class="archive-item"><span>暂无历史存档</span></li>';
+      if (!Array.isArray(list) || list.length === 0) {
+        renderEmptyState();
         return;
       }
-      
+
       container.innerHTML = list.map(item => `
         <li class="archive-item">
-          <a href="data/${item.date}.html">
+          <a href="index.html?date=${encodeURIComponent(item.date)}">
             <span>🍅 ${item.date}</span>
-            <span class="news-source">${item.title || '查看详情'} →</span>
+            <span class="news-source">${item.title || '查看简报'} →</span>
           </a>
         </li>
       `).join('');
     }
-    
-    async function scanArchive() {
-      // 简单实现：显示一个说明
+
+    function renderEmptyState() {
       document.getElementById('archiveList').innerHTML = `
         <li class="archive-item">
-          <span>📅 历史存档将每日自动生成</span>
+          <span>📅 暂无历史存档，请稍后再试</span>
         </li>
       `;
     }
-    
+
     document.addEventListener('DOMContentLoaded', loadArchive);
   </script>
 </body>
