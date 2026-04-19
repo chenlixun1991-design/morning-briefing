@@ -1,0 +1,97 @@
+{
+  "date": "2026-04-20",
+  "international": [
+    {
+      "title": "美以伊战争持续",
+      "summary": "美国与以色列对伊朗的战争已进入第四周，特朗普曾表示将在两三周内结束战争。伊朗持续对地区目标发动袭击，中东局势持续紧张，国际社会呼吁停火谈判。",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/04/17/nx-s1-5788978/the-news-roundup-for-april-17-2026"
+    },
+    {
+      "title": "中国警告美勿封锁伊朗港口",
+      "summary": "霍尔木兹海峡对中伊贸易至关重要，中国警告美国不要封锁伊朗港口。中方表示海峡对全球能源运输具有战略意义，反对任何单边军事行动破坏地区稳定。",
+      "source": "Democracy Now",
+      "url": "https://www.democracynow.org/2026/4/14/headlines"
+    },
+    {
+      "title": "伊朗导弹袭击约旦被拦截",
+      "summary": "约旦军方称，过去五天内拦截了261枚来自伊朗的导弹和无人机。这是伊朗对地区盟友以色列军事行动的连锁反应，中东代理人冲突持续升级。",
+      "source": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Portal:Current_events/2026_April_4"
+    }
+  ],
+  "domestic": [
+    {
+      "title": "中瑞贸易协定升级谈判",
+      "summary": "中国表示愿意推进与瑞士升级双边贸易协定的谈判。此举旨在加强与欧洲传统伙伴的经贸关系，在全球贸易格局变化中寻求更多合作机会。",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/economy-news/china-willing-to-advance-talks-to-upgrading-switzerland-trade-pact-ministry-says-4622119"
+    },
+    {
+      "title": "习近平会见台湾在野党主席",
+      "summary": "习近平与台湾在野党国民党主席朱立伦举行历史性会晤，这是多年来两岸最高层级对话。会后大陆宣布一系列对台优惠政策，包括贸易便利化和文化交流措施。",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-12/china-unveils-taiwan-goodwill-steps-after-rare-opposition-talks"
+    }
+  ],
+  "tech": [
+    {
+      "title": "AI监管成为焦点",
+      "summary": "4月17日科技头条显示，AI监管和大型科技公司动态成为本周焦点。各主要经济体正加速制定AI治理框架，科技巨头面临更严格的合规要求。",
+      "source": "Tech Startups",
+      "url": "https://techstartups.com/2026/04/17/top-tech-news-today-april-17-2026/"
+    },
+    {
+      "title": "量子加密获图灵奖",
+      "summary": "量子计算先驱因加密突破获颁计算机界最高荣誉图灵奖。该成果为下一代安全通信奠定基础，有望在未来十年内实现量子安全网络普及。",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c7474004g01o"
+    }
+  ],
+  "trending": [
+    {
+      "term": "SBTI",
+      "desc": "愚蠢大人格测试，自嘲型性格标签在网上爆火，用于表达情绪而非定义人格"
+    },
+    {
+      "term": "ZZZZ",
+      "desc": "躺平人格标签，遇到挑战就睡觉，传达轻松自在的生活态度"
+    },
+    {
+      "term": "MALO",
+      "desc": "倒霉猴，用于调侃日常倒霉或尴尬时刻，年轻群体广泛使用"
+    },
+    {
+      "term": "Chinamaxxing",
+      "desc": "成为中国化，指通过生活方式选择变得更中国，如喝热水、穿拖鞋"
+    }
+  ],
+  "research": [
+    {
+      "title": "科学家发现光携带隐藏信息",
+      "summary": "研究显示光能通过隐藏维度传输信息，远比表面看起来复杂。这一发现可能革新光纤通信技术，并为量子计算提供新思路。",
+      "source": "Science Focus",
+      "url": "https://www.instagram.com/popular/science-breakthrough-discovery-april-2026/"
+    },
+    {
+      "title": "AI模型破译人类DNA生命密码",
+      "summary": "谷歌DeepMind发布能读取人类DNA生命密码的AI模型，可预测基因变异对健康的影响，推动个性化医疗和药物研发进入新阶段。",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c39428dv18yo"
+    }
+  ],
+  "finance": [
+    {
+      "title": "美股因伊朗局势缓和上涨",
+      "summary": "4月14日美股上涨，市场对美伊战争结束的预期升温。同时PPI数据显示通胀降温，强化了经济软着陆预期，投资者风险偏好回升。",
+      "source": "Yahoo Finance",
+      "url": "https://www.youtube.com/watch?v=faG-qmoaSo0"
+    },
+    {
+      "title": "美国经济增速放缓但仍稳健",
+      "summary": "2026年上半年美国经济保持韧性但增长放缓，通胀风险重新浮现。美联储面临在维持增长与控制物价之间寻找平衡的挑战。",
+      "source": "Mutual of America",
+      "url": "https://www.mutualofamerica.com/insights-and-tools/learning-center/emp/economic--market-perspective-april-2026"
+    }
+  ]
+}
