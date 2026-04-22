@@ -1,0 +1,104 @@
+{
+  "date": "2026-04-23",
+  "international": [
+    {
+      "title": "匈牙利总理奥尔班承认败选",
+      "summary": "匈牙利4月初举行国会大选，中右翼反对党Magyar取得压倒性胜利，总理奥尔班承认败选。这是匈牙利执政党14年来首次失利，新政府宣布将暂停国家媒体广播但保障新闻自由。数千民众走上街头庆祝这一历史性时刻，欧洲政治格局出现重大转向。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com"
+    },
+    {
+      "title": "Artemis II宇航员描述登月感受",
+      "summary": "美国宇航局Artemis II任务宇航员在第三天绕月飞行任务中表示"月亮确实越来越大"，他们搭乘猎户座飞船成功进入月球轨道，这是50年来人类最远的地外飞行。宇航员们形容这是"最特别的使命"，为2026年载人登月任务奠定基础。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/video/watch/idRW372219042026RP1/"
+    },
+    {
+      "title": "伊朗称霍尔木兹海峡开放",
+      "summary": "伊朗方面表示霍尔木兹海峡保持开放，美伊核谈判出现积极信号。伊朗外长称谈判取得进展，特朗普表示美伊有望"很快"达成协议，结束地区紧张局势。这一消息缓解了市场对全球能源供应的担忧。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com"
+    }
+  ],
+  "china": [
+    {
+      "title": "国防部要求新西兰停止挑衅",
+      "summary": "中国国防部新闻发言人表示，新西兰军方飞机近期在黄海和东中国海空域进行挑衅活动，要求新方约束前线部队、停止破坏性行为。我方同时批评菲律宾虚假指控中国渔民使用氰化物，称相关指责纯属造谣。",
+      "source": "Global Times",
+      "url": "https://www.globaltimes.cn/page/202604/1359100.shtml"
+    },
+    {
+      "title": "中国与土库曼斯坦深化能源合作",
+      "summary": "中国最高外交官访问土库曼斯坦，出席大型天然气项目奠基仪式并签署系列合作协议，标志着两国能源伙伴关系进一步深化。此举有助于保障中国西部能源进口多元化，同时提升土库曼斯坦天然气出口稳定性。",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-18/china-turkmenistan-deepen-gas-ties-as-project-breaks-ground"
+    },
+    {
+      "title": "中国公布2026年航天计划",
+      "summary": "中国国家航天局公布2026年重大任务规划，包括月球基地建设论证、可复用火箭试飞及火星采样返回任务。国家太空总署宣布将发射鹊桥三号中继卫星，为未来月背探测提供通信保障，推进载人登月工程。",
+      "source": "Global Times",
+      "url": "https://www.globaltimes.cn"
+    }
+  ],
+  "tech": [
+    {
+      "title": "钙钛矿太阳能电池效率破纪录",
+      "summary": "中国科学家团队宣布，采用铯掺杂策略的钙钛矿太阳能电池经权威认证达到26.61%光电转换效率，刷新世界纪录。该技术有望大幅降低光伏发电成本，加速清洁能源普及，预计5年内实现商业化量产。",
+      "source": "Tech Xplore",
+      "url": "https://techxplore.com/news/2026-04-perovskite-solar-cells-certified-efficiency.html"
+    },
+    {
+      "title": "ID@Xbox发布会今日举行",
+      "summary": "微软宣布将于4月23日联合IGN举办ID@Xbox独立游戏发布会，展示来自全球开发者的小型工作室游戏作品。发布会时间为太平洋时间上午10点，届时将公布多款Xbox独占及限时独占的独立游戏。",
+      "source": "Gematsu",
+      "url": "https://www.gematsu.com/2026/04/idxbox-showcase-set-for-april-23"
+    },
+    {
+      "title": "人形机器人北京半马夺冠",
+      "summary": "北京半程马拉松比赛中，人形机器人表现出色，多款国产人形机器人完成21公里赛程且完赛率创新高。中国人形机器人产业快速发展，在运动控制、续航等关键技术上取得突破，引发国际媒体关注。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/video/watch/idRW372219042026RP1/"
+    }
+  ],
+  "trending": [
+    { "term": "SLDPK", "desc": "广东话俚语，形容笑到飞起/笑爆全街，源于粤语"笑到扑街"的谐音" },
+    { "term": "Crush", "desc": "指暗恋对象或心动的瞬间，来自英文have a crush on someone，年轻人常在社交平台分享自己的Crush" },
+    { "term": "老Best", "desc": "老朋友的昵称，表达关系亲密且经得起时间考验，适用于多年老友互相称呼" },
+    { "term": "省流人生", "desc": "指极简生活方式，用最少资源维持生活运转，是年轻人面对压力时的自嘲式幽默表达" },
+    { "term": "精神续航", "desc": "指精神层面的能量补给，如追剧、玩游戏等能让自己恢复心理能量的活动，被称为"快乐平替"" }
+  ],
+  "research": [
+    {
+      "title": "美国科研机构呼吁保护科研预算",
+      "summary": "美国60余家科学和医学组织联合致信国会，强烈反对白宫提出的2027财年科研经费削减计划。信中指出，削减研发投资将损害美国科技创新竞争力，影响癌症研究、气候变化等关键领域进展，引发学界广泛担忧。",
+      "source": "Research Professional News",
+      "url": "https://www.researchprofessionalnews.com/rr-news-usa-2026-4-us-news-roundup-3-16-april/"
+    },
+    {
+      "title": "AI研究：不可预测的AGI或更难控制",
+      "summary": "一项新研究指出，高度不可预测的人工通用智能（AGI）可能更难被完全控制，科学家呼吁采用多样化AI策略来降低系统性风险。该研究强调在AGI真正出现前，人类需建立更完善的安全框架和监管机制。",
+      "source": "Tech Xplore",
+      "url": "https://techxplore.com"
+    }
+  ],
+  "finance": [
+    {
+      "title": "波音CEO确认2026年现金流目标",
+      "summary": "波音公司首席执行官确认，2026年自由现金流目标为10亿至30亿美元，表示公司正按计划推进。波音近年来受困于质量危机和罢工影响，此次表态显示公司经营状况正在逐步改善，投资者信心有所恢复。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/video/2026/04/22/opening-bell-april-22-2026.html"
+    },
+    {
+      "title": "私募大佬：现在是买入好时机",
+      "summary": "私募股权和私人信贷领域的知名投资者Steve Klinsky表示，当前市场环境下是买入资产的好机会。他指出，尽管宏观不确定性存在，但优质资产估值已具备吸引力，长期投资者应把握当前窗口进行布局。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com"
+    },
+    {
+      "title": "人形机器人格斗赛引关注",
+      "summary": "2026年Defence Services Asia防务展上，中国制造商东风的合作伙伴展示新型4×4步兵战车，同时人形机器人格斗赛事引发关注，资本加速进入具身智能赛道，推动人形机器人商业化进程。",
+      "source": "Janes",
+      "url": "https://www.janes.com/osint-insights/defence-news/defence/dsa-2026-malaysian-firm-showcases-44-infantry-combat-vehicle"
+    }
+  ]
+}
