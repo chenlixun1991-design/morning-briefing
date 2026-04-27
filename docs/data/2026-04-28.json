@@ -1,0 +1,120 @@
+{
+  "date": "2026-04-28",
+  "created_by": "Tomato 🍅",
+  "international": [
+    {
+      "title": "中欧产业摩擦",
+      "summary": "欧盟推进“欧洲制造”产业保护方案后，中国商务部27日批评其设置投资壁垒并警告反制。争议显示绿色制造、关键工业和供应链本土化正成为中欧经贸新焦点。",
+      "source": "France 24 / DigiTimes",
+      "url": "https://www.france24.com/en/europe/20260427-china-warns-eu-made-in-europe-plan-countermeasures"
+    },
+    {
+      "title": "乌以谷物争端",
+      "summary": "乌克兰据报警告以色列，若允许一艘涉嫌装载俄占区被盗谷物的货船在海法卸货，将引发外交后果。事件把黑海粮食、制裁执行和中东港口监管再次连在一起。",
+      "source": "The Kyiv Independent / Axios",
+      "url": "https://kyivindependent.com/ukraine-reportedly-warns-israel-of-diplomatic-crisis-over-stolen-grain-ship-bound-for-haifa/"
+    },
+    {
+      "title": "白宫晚宴枪案",
+      "summary": "美国白宫记者协会晚宴枪击嫌疑人已被华盛顿方面起诉，协会称活动将重新安排。案件延续美国政治集会安保压力，也让媒体、政要公共活动风险受到关注。",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/video/dc-officials-announce-charges-against-correspondents-dinner-shooting-suspect/"
+    }
+  ],
+  "domestic": [
+    {
+      "title": "人大常委会召开",
+      "summary": "十四届全国人大常委会第二十二次会议在京举行，法治日报头版聚焦全民普法和相关制度建设。会议议题将影响今年法治政府、普法教育和行政法规完善节奏。",
+      "source": "法治日报",
+      "url": "http://epaper.legaldaily.com.cn/PDF/20260428/01.pdf"
+    },
+    {
+      "title": "央行MLF操作",
+      "summary": "中国人民银行开展4000亿元一年期MLF操作，意在维护银行体系流动性合理充裕。临近月末和五一假期，资金投放有助稳定市场预期并观察后续利率信号。",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/cj/2026/04-24/10610383.shtml"
+    },
+    {
+      "title": "新就业群体意见",
+      "summary": "中办、国办发布加强新就业群体服务管理意见，提出完善平台算法治理、劳动报酬和休息保障。外卖、快递等灵活就业权益保护将进入更细的治理阶段。",
+      "source": "搜狐财经 / 新华社信息汇编",
+      "url": "https://www.sohu.com/a/1014982021_122014422"
+    }
+  ],
+  "tech": [
+    {
+      "title": "DeepSeek V4",
+      "summary": "DeepSeek V4预览版被外媒解读为AI竞赛转向效率优化，重点在MoE、混合注意力和国产芯片适配。模型竞争正从单纯堆参数转向成本、推理效率与供应链韧性。",
+      "source": "Forbes / Bloomberg",
+      "url": "https://www.forbes.com/sites/geruiwang/2026/04/26/deepseek-v4-shows-that-the-next-ai-race-is-about-efficiency/"
+    },
+    {
+      "title": "五角大楼接入Gemini",
+      "summary": "美国防部GenAI.mil平台新增Google Gemini 3.1 Pro，供企业级生成式AI系统使用。军方采用商用大模型提速，意味着安全评估、采购和AI治理压力同步上升。",
+      "source": "Defense One",
+      "url": "https://www.defenseone.com/defense-systems/2026/04/pentagon-adds-googles-latest-model-genaimil-usage-soars/413126/"
+    },
+    {
+      "title": "AI手机芯片合作",
+      "summary": "报道称高通因可能参与OpenAI AI手机处理器合作而上涨，联发科也被列为共同开发伙伴。AI-first终端若进入量产，将重塑手机芯片、端侧模型和应用生态竞争。",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/qualcomm-surges-report-openai-tie-120527138.html"
+    }
+  ],
+  "trending": [
+    {
+      "term": "爱你老己",
+      "desc": "“爱你自己”的谐音梗，用来自我安慰和悦己表达。"
+    },
+    {
+      "term": "留友看",
+      "desc": "在评论区留给朋友看，像轻量转发和种草。"
+    },
+    {
+      "term": "与众分",
+      "desc": "反向“与众不同”，吐槽自己和大家一样普通。"
+    },
+    {
+      "term": "触烂",
+      "desc": "true音译，表示非常认同、说得太对了。"
+    },
+    {
+      "term": "活人感",
+      "desc": "夸人真实自然、不模板化，有生活气。"
+    }
+  ],
+  "research": [
+    {
+      "title": "货运飞船抵空间站",
+      "summary": "NASA称Progress 95货运飞船接近国际空间站并准备对接，补给任务包含空间站日常运行物资。持续补给能力仍是近地轨道科研、载人驻留和国际合作的基础。",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/blogs/spacestation/2026/04/27/progress-95-cargo-craft-approaches-station-for-docking-on-nasa/"
+    },
+    {
+      "title": "光通信抗干扰",
+      "summary": "Nature Scientific Reports刊发自由空间光通信干扰信号分离研究，提出优化权重谱方法抑制干扰。若进一步工程化，可提升光通信在复杂环境中的稳定性。",
+      "source": "Nature Scientific Reports",
+      "url": "https://www.nature.com/articles/s41598-026-42985-z"
+    }
+  ],
+  "finance": [
+    {
+      "title": "A股业绩高峰",
+      "summary": "A股一季报披露进入高峰，锂电、硬质合金、铜箔等赛道多家公司净利润大幅增长。业绩兑现将成为节前市场筛选主线，也会放大高景气行业估值分化。",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/headline/2026-04-28/doc-inhvyvan8713420.shtml"
+    },
+    {
+      "title": "油价因谈判上涨",
+      "summary": "路透称美伊和平谈判停滞推升原油期货，市场担忧中东能源出口再受扰动。油价上行会加剧通胀顾虑，也影响美联储和其他央行本周政策预期。",
+      "source": "Reuters / KITCO",
+      "url": "https://www.kitco.com/news/off-the-wire/2026-04-27/oil-rises-stalled-peace-talks-while-wall-street-stocks-slip"
+    },
+    {
+      "title": "金价观望央行",
+      "summary": "黄金价格周一基本持稳，交易员等待主要央行决议并关注油价带来的通胀压力。若政策表态偏鹰，贵金属短线可能承压，但避险需求仍提供支撑。",
+      "source": "CNBC / Reuters",
+      "url": "https://www.cnbc.com/2026/04/27/gold-steadies-as-traders-await-central-bank-decisions-amid-inflation-worries.html"
+    }
+  ]
+}
