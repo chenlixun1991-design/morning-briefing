@@ -1,0 +1,120 @@
+{
+  "date": "2026-04-29",
+  "created_by": "Tomato 🍅",
+  "international": [
+    {
+      "title": "伊朗外长访俄",
+      "summary": "伊朗外长阿拉格齐27日抵达俄罗斯并计划会见普京，称美方“过度要求”导致首轮和谈失败。俄方表态支持伊朗并希望尽快实现和平，中东战事外交斡旋继续转向莫斯科。",
+      "source": "Le Monde / Reuters / DW",
+      "url": "https://www.lemonde.fr/en/international/article/2026/04/27/iranian-foreign-minister-blames-us-for-failure-of-talks_6752874_4.html"
+    },
+    {
+      "title": "朝鲜挺俄延续",
+      "summary": "朝鲜领导人金正恩会见俄罗斯防长别洛乌索夫时表示，将继续支持俄罗斯政策。朝俄军事与政治协作持续升温，乌克兰战事外溢和东北亚安全压力因此继续上升。",
+      "source": "Reuters / The Straits Times",
+      "url": "https://www.straitstimes.com/asia/east-asia/north-koreas-kim-says-he-will-continue-to-support-russias-policies-state-media-reports?ref=latest-headlines"
+    },
+    {
+      "title": "澳洲拟税科技巨头",
+      "summary": "澳大利亚公布草案，若Meta、Google、TikTok不与本地媒体达成新闻付费协议，将对其本地收入征收约2.25%费用。政策意在补贴新闻业，也可能触发与美国科技公司的新摩擦。",
+      "source": "Reuters / MarketScreener",
+      "url": "https://wincountry.com/2026/04/28/australia-to-charge-big-tech-companies-2-levy-unless-they-strike-local-news-deals/"
+    }
+  ],
+  "domestic": [
+    {
+      "title": "广西钦州洪涝",
+      "summary": "广西钦州27日遭遇强降雨，24小时雨量超过270毫米，城区内涝致车辆被淹，200多名居民被转移。异常强降雨提前出现，提醒华南沿海进入更高频的防汛应急状态。",
+      "source": "AP / Xinhua / Greenwich Time",
+      "url": "https://www.greenwichtime.com/news/world/article/heavy-flooding-in-southern-china-forces-22229536.php"
+    },
+    {
+      "title": "工业利润提速",
+      "summary": "国家统计局数据显示，一季度规模以上工业企业利润同比增长15.5%，3月单月增长15.8%，装备制造、高技术制造和有色金属表现突出。数据缓解能源成本冲击担忧，但外部不确定仍高。",
+      "source": "Xinhua / NBS",
+      "url": "https://english.news.cn/20260427/82a197ab6fb9486eb9b8bf8112d54b80/c.html"
+    },
+    {
+      "title": "五一国内游升温",
+      "summary": "五一假期临近，国内短途游、周边游和自驾需求保持强劲，入出境客流一季度也同比增长。油价和海外不确定性抬高长线出行成本，旅游消费更偏向近程、性价比与体验感。",
+      "source": "Tourism Review",
+      "url": "https://www.tourism-review.com/domestic-travelers-in-china-seek-meaningful-trips-news15432"
+    }
+  ],
+  "tech": [
+    {
+      "title": "AI资本开支考验",
+      "summary": "美股七巨头财报周开启，Meta、Alphabet、Amazon、Microsoft等AI基础设施投入合计达数千亿美元。市场焦点从“谁投得多”转向云业务增长和AI回报能否支撑估值。",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/mag-7-earnings-gauntlet-begins-111120851.html"
+    },
+    {
+      "title": "OpenAI手机芯片",
+      "summary": "报道称OpenAI正与高通、联发科合作开发AI-first手机处理器，量产时间可能在2028年。消息推升高通股价，也显示端侧AI正在从应用层竞争延伸到芯片和整机架构。",
+      "source": "Reuters / Yahoo Finance",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/qualcomm-surges-report-openai-tie-120527138.html"
+    },
+    {
+      "title": "Snap押注AR芯片",
+      "summary": "Snap旗下Specs宣布与高通达成多年合作，将使用Snapdragon XR芯片推动AR眼镜。统一芯片路线有望降低开发不确定性，也让AR竞争重新聚焦端侧AI、图形能力与生态速度。",
+      "source": "Glass Almanac",
+      "url": "https://glassalmanac.com/specs-reveals-snapdragon-xr-chips-for-2026-why-that-changes-ars-race/"
+    }
+  ],
+  "trending": [
+    {
+      "term": "后面有车",
+      "desc": "直播误会出圈，调侃过度紧张式提醒。"
+    },
+    {
+      "term": "不知道，我的身材很曼妙",
+      "desc": "淘宝神回复，万能逃避追问句式。"
+    },
+    {
+      "term": "随橙想/反耳",
+      "desc": "采访空耳梗，形容想退网又被吸回。"
+    },
+    {
+      "term": "不讲不讲",
+      "desc": "收住话题的语气梗，评论区常用。"
+    },
+    {
+      "term": "信我是秦始皇",
+      "desc": "反讽离谱说法，表示“我才不信”。"
+    }
+  ],
+  "research": [
+    {
+      "title": "AI辅助气候研究",
+      "summary": "Nature Climate Change 28日刊文讨论AI如何支持跨学科气候研究，强调模型可帮助连接气候科学、政策和社会影响。研究提示AI不是替代专家，而是提升协同和情景分析效率。",
+      "source": "Nature Climate Change",
+      "url": "https://www.nature.com/articles/s41558-026-02624-x"
+    },
+    {
+      "title": "人造神经元沟通",
+      "summary": "Nature Nanotechnology研究显示，印刷式人工神经元可与小鼠脑片神经细胞同步放电。成果可能推动更自然的脑机接口和低能耗类脑计算，但仍处于实验室验证阶段。",
+      "source": "Live Science / Nature Nanotechnology",
+      "url": "https://www.livescience.com/health/neuroscience/scientists-invent-artificial-neurons-that-talk-to-real-brain-cells-paving-way-to-better-brain-implants"
+    }
+  ],
+  "finance": [
+    {
+      "title": "阿联酋退出OPEC",
+      "summary": "阿联酋宣布5月1日退出OPEC，称基于产能政策和国家利益重新评估。该国为重要产油国，决定叠加中东袭击风险，可能改变OPEC内部协调和全球油价预期。",
+      "source": "Investopedia / The Guardian",
+      "url": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-04282026-11959883"
+    },
+    {
+      "title": "油价重返百元",
+      "summary": "因美国对伊朗停止袭船换停战提议存疑，WTI原油一度升至每桶100美元上方，布伦特也走高。能源价格再度上行会推高通胀压力，并影响央行利率路径判断。",
+      "source": "Investopedia / WSJ",
+      "url": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-04282026-11959883"
+    },
+    {
+      "title": "德银看多黄金",
+      "summary": "德意志银行称，若去美元化和央行增持黄金趋势持续，金价五年内存在升至每盎司8000美元情景。黄金储备配置上升反映各国对制裁风险和美元依赖的重新评估。",
+      "source": "Mining.com / Deutsche Bank",
+      "url": "https://www.mining.com/gold-price-could-see-8000-on-de-dollarization-deutsche-bank-projects/"
+    }
+  ]
+}
