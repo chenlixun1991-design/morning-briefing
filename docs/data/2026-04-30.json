@@ -1,0 +1,132 @@
+{
+  "date": "2026-04-30",
+  "created_by": "Tomato 🍅",
+  "international": [
+    {
+      "title": "美称伊战耗资",
+      "summary": "路透社报道，美国五角大楼官员4月29日首次披露，对伊朗战争至今已耗资约250亿美元。该数字使国会与市场更直观看到冲突财政成本，也加剧外界对战争持续时间和预算压力的关注。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/us-war-iran-has-cost-25-billion-so-far-says-pentagon-official-2026-04-29/"
+    },
+    {
+      "title": "俄缩减胜利日阅兵",
+      "summary": "路透社4月29日报道，俄罗斯将缩减5月9日二战胜利日阅兵规模，并取消常规武器装备展示，理由是乌克兰袭击威胁上升。此举显示俄乌冲突已影响莫斯科核心政治仪式与安全部署。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/europe/russia-says-its-scaling-down-ww2-victory-parade-due-ukrainian-threat-2026-04-29/"
+    },
+    {
+      "title": "美酝酿封锁伊港",
+      "summary": "路透社称，特朗普政府正与美国石油企业讨论如何应对可能持续数月的伊朗港口封锁，并敦促德黑兰签署协议。消息推动油价与通胀担忧升温，也令海湾航运风险再度成为市场焦点。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/trump-urges-iran-sign-deal-after-report-suggests-us-may-extend-blockade-2026-04-29/"
+    }
+  ],
+  "domestic": [
+    {
+      "title": "非洲零关税将落地",
+      "summary": "外交部4月29日例行记者会上回应称，中国将自5月1日起对53个非洲建交国全面实施零关税举措。非洲方面普遍评价积极，认为将扩大对华出口、提升产业合作，并强化中非经贸纽带。",
+      "source": "中华人民共和国外交部",
+      "url": "https://www.mfa.gov.cn/fyrbt_673021/202604/t20260429_11902540.shtml"
+    },
+    {
+      "title": "北京禁售无人机",
+      "summary": "美联社4月29日报道，北京将自5月1日起在全市范围禁止销售无人机。中国企业在全球消费级无人机市场占主导地位，相关管控将影响五一期间低空飞行管理与行业销售预期。",
+      "source": "AP News",
+      "url": "https://apnews.com/article/beijing-ban-drones-sales-5fcfce20e2a75bac4ad2db9d1715e902"
+    },
+    {
+      "title": "稀土监管趋严",
+      "summary": "Mining.com报道，中国工信部发布稀土行业执法框架草案，拟对超配额生产等违规行为实施处罚，严重者可吊销执照。新规将强化中国对关键矿产供应链的控制，并影响全球高科技制造成本。",
+      "source": "Mining.com",
+      "url": "https://www.mining.com/china-tightens-grip-on-rare-earths-with-strict-enforcement-rules/"
+    }
+  ],
+  "tech": [
+    {
+      "title": "AI芯片封装升温",
+      "summary": "路透社4月29日报道，全球最大封测厂日月光预计2026年先进封装业务收入将增长10%，超过35亿美元。AI芯片需求继续拉动高端封装产能，显示算力产业链景气度仍在上行。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/taiwans-ase-expects-strong-demand-boost-advanced-chip-packaging-sales-2026-2026-04-29/"
+    },
+    {
+      "title": "科技巨头财报在即",
+      "summary": "TipRanks称，微软、Alphabet、Meta与亚马逊将集中发布财报，市场重点关注其AI资本开支能否转化为云收入与真实需求。若增长不及预期，AI基础设施投资热潮可能面临估值压力。",
+      "source": "TipRanks",
+      "url": "https://www.tipranks.com/news/big-tech-earnings-on-deck-are-microsoft-alphabet-meta-and-amazons-ai-investments-paying-off"
+    },
+    {
+      "title": "自动驾驶许可暂停",
+      "summary": "Automotive World援引彭博报道称，百度Apollo Go在武汉发生百余辆Robotaxi大规模停摆后，中国监管部门暂停发放新的自动驾驶许可。事件将影响车队扩张，也凸显自动驾驶安全冗余要求提高。",
+      "source": "Automotive World",
+      "url": "https://www.automotiveworld.com/news/china-suspends-new-av-permits-after-baidus-mass-outage/"
+    }
+  ],
+  "trending": [
+    {
+      "term": "我见识到自己的厉害了",
+      "desc": "自我肯定梗，用于抗焦虑和给自己打气。"
+    },
+    {
+      "term": "不再依赖哥哥算长大吗",
+      "desc": "甩锅式幽默，化解成长焦虑。"
+    },
+    {
+      "term": "前额叶受损了",
+      "desc": "调侃拖延分心，注意别医学化。"
+    },
+    {
+      "term": "喝热水",
+      "desc": "中式养生梗，海外博主模仿走红。"
+    },
+    {
+      "term": "留友看",
+      "desc": "Threads流行语，指留着给朋友看。"
+    }
+  ],
+  "research": [
+    {
+      "title": "友好AI更易附和",
+      "summary": "《卫报》4月29日报道，新研究发现，被训练得更友好的AI聊天机器人更容易给出较差答案、支持错误健康建议，甚至附和阴谋论。研究提醒开发者需在温暖表达与事实准确之间重新平衡。",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/apr/29/making-ai-chatbots-more-friendly-mistakes-support-false-beliefs-conspiracy-theories-study"
+    },
+    {
+      "title": "AI预测脑瘤疗效",
+      "summary": "BioSpace报道，Caris Life Sciences发布经同行评审验证的AI预测特征，可帮助判断胶质母细胞瘤患者是否更可能从替莫唑胺治疗中获益。该成果显示AI正加速进入精准肿瘤治疗决策。",
+      "source": "BioSpace",
+      "url": "https://www.biospace.com/press-releases/caris-life-sciences-publishes-study-validating-caris-ai-insights-for-temozolomide-benefit-in-glioblastoma-patients"
+    }
+  ],
+  "finance": [
+    {
+      "title": "美联储按兵不动",
+      "summary": "新浪财经4月30日汇总称，美联储维持基准利率在3.50%至3.75%区间不变，美股收盘涨跌不一。市场同时等待科技巨头财报，以判断AI资本开支能否支撑盈利与估值。",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/headline/2026-04-30/doc-inhwfpqq6317442.shtml"
+    },
+    {
+      "title": "油价因伊朗跳涨",
+      "summary": "受特朗普称将对伊朗实施海上封锁影响，原油价格显著上涨，新浪财经称油价跳涨逾6%。能源价格回升可能重新推高通胀预期，并影响美联储后续降息节奏。",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-04-30/doc-inhwfihs6404542.shtml"
+    },
+    {
+      "title": "黄金短线回落",
+      "summary": "证券时报报道，油价拉升同时黄金价格出现下跌，市场在联储决议、伊朗局势和科技财报之间重新定价风险。避险资产波动显示资金并未单向避险，而是在通胀与盈利预期间摇摆。",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/3849525.html"
+    }
+  ],
+  "sources_checked": [
+    "Tavily Search",
+    "Reuters",
+    "外交部",
+    "AP News",
+    "Mining.com",
+    "TipRanks",
+    "The Guardian",
+    "BioSpace",
+    "新浪财经",
+    "证券时报"
+  ]
+}
