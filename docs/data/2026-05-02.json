@@ -1,0 +1,120 @@
+{
+  "date": "2026-05-02",
+  "created_by": "Tomato 🍅",
+  "international": [
+    {
+      "title": "北京禁售无人机",
+      "summary": "时事通信汇总称，北京为强化首都安全，阶段性禁止无人机销售和携带进入重点区域。低空设备监管继续收紧，相关消费、物流和安防场景会受到更严格的合规约束。",
+      "source": "时事通信",
+      "url": "https://www.jiji.com/jc/archives?g=int_archive_0"
+    },
+    {
+      "title": "美中贸易通话",
+      "summary": "时事通信称，美中在领导人会晤前进行部长级贸易电话沟通，尝试为关税、农产品和供应链议题降温。会谈若延续，将影响全球企业对中美关系的风险定价。",
+      "source": "时事通信",
+      "url": "https://www.jiji.com/jc/archives?g=int_archive_0"
+    },
+    {
+      "title": "伊朗局势拉锯",
+      "summary": "公视与BBC相关报道显示，美伊、以伊冲突与霍尔木兹海峡安全仍牵动市场。谈判反复叠加能源通道风险，使油价、航运保险和中东外交继续承压。",
+      "source": "公视新闻 / BBC中文",
+      "url": "https://news.pts.org.tw/article/806223"
+    }
+  ],
+  "domestic": [
+    {
+      "title": "十五五聚焦科技",
+      "summary": "全国两会专题与外媒解读显示，中国继续把高科技、自主可控和公共研发投入列为十五五重点。人工智能、量子、核聚变和生物技术将获得更明确政策牵引。",
+      "source": "新华网 / RFI",
+      "url": "https://www.news.cn/politics/2026lh/index.html"
+    },
+    {
+      "title": "电动卡车提速",
+      "summary": "BBC报道，中国2025年卡车销售中新能源占比升至29%，较2024年的14%明显提高。充换电设施、补贴和油价波动共同推动重卡电动化，产业链机会扩大。",
+      "source": "BBC中文",
+      "url": "https://www.bbc.com/zhongwen/articles/cjdpl59zjzlo/trad"
+    },
+    {
+      "title": "平台支付风波",
+      "summary": "BBC页面提及柬埔寨支付平台与电诈关联被冻结后，中国示威者爆发冲突。事件提醒跨境支付、灰产治理和海外华人安全问题仍高度交织，需要更强监管协作。",
+      "source": "BBC中文",
+      "url": "https://www.bbc.com/zhongwen/articles/cjdpl59zjzlo/trad"
+    }
+  ],
+  "tech": [
+    {
+      "title": "GTC聚焦物理AI",
+      "summary": "NVIDIA GTC 2026信息显示，IGX Thor正被用于建筑、制造、物流、医疗和航天等边缘场景。AI从云端模型继续下沉到设备和工业现场，推动物理AI落地。",
+      "source": "NVIDIA博客",
+      "url": "https://blogs.nvidia.cn/blog/gtc-2026-news/"
+    },
+    {
+      "title": "AI芯片需求高涨",
+      "summary": "多份科技与市场报道指向AI算力投资继续扩张，先进封装、2纳米制造和GPU供应链成为竞争核心。资本开支上升会强化半导体周期，但也提高泡沫与供给风险。",
+      "source": "COAIO / 上海情报服务平台",
+      "url": "https://www.istis.sh.cn/cms/news/article/75/28061"
+    },
+    {
+      "title": "6G进入实机验证",
+      "summary": "虎嗅报道，高通等厂商展示6G实时应用演示，爱立信同步推进AI RAN软硬件。通信业正把AI推理能力嵌入网络侧，为下一代终端和运营商效率做准备。",
+      "source": "虎嗅",
+      "url": "https://www.huxiu.com/article/4837690.html"
+    }
+  ],
+  "trending": [
+    {
+      "term": "MNYY",
+      "desc": "Must need要有，表示某物是必备配置。"
+    },
+    {
+      "term": "世一",
+      "desc": "世界第一缩写，用来夸人、店或作品最好。"
+    },
+    {
+      "term": "活人感",
+      "desc": "夸真实自然、不模板化，有生活气息。"
+    },
+    {
+      "term": "我去不早说",
+      "desc": "反应式吐槽梗，表达早知道就好了。"
+    },
+    {
+      "term": "预制xx",
+      "desc": "吐槽套路化、工业化、缺少真诚感。"
+    }
+  ],
+  "research": [
+    {
+      "title": "纺织回收突破",
+      "summary": "CAS指出，Avantium与阿姆斯特丹大学开发分步化学回收法，可分离混纺纺织品中的棉与聚酯。若示范工厂推进顺利，服装废弃物有望从低值处理转向高值循环。",
+      "source": "CAS",
+      "url": "https://www.cas.org/zh-hans/resources/cas-insights/scientific-breakthroughs-2026-emerging-trends-watch"
+    },
+    {
+      "title": "AI加速科研",
+      "summary": "新华社全球科技展望称，AI正在改变实验室发现流程，并与深空观测、生命科学和材料研发结合。科研范式从单点工具升级为自动化假设生成与验证体系。",
+      "source": "新华网",
+      "url": "https://www.news.cn/world/20260108/a6291ff2eca94acc8d10236a5ffb396f/c.html"
+    }
+  ],
+  "finance": [
+    {
+      "title": "美股强劲反弹",
+      "summary": "时事通信档案显示，纽约股市出现大幅反弹，道指上涨约790点，纳指刷新高位。AI与科技权重股仍是风险偏好核心，但高位波动也会放大市场分歧。",
+      "source": "时事通信",
+      "url": "https://www.jiji.com/jc/archives?g=int_archive_0"
+    },
+    {
+      "title": "电动重卡产业升温",
+      "summary": "BBC财经报道，中国电动卡车销量占比翻倍增长，油价波动和政策支持共同推高需求。若趋势延续，电池、换电站、商用车运营成本结构都会被重新计算。",
+      "source": "BBC中文",
+      "url": "https://www.bbc.com/zhongwen/articles/cjdpl59zjzlo/trad"
+    },
+    {
+      "title": "霍尔木兹牵动油价",
+      "summary": "BBC财经频道持续跟踪霍尔木兹海峡开关与船只安全事件，能源运输风险仍是市场变量。航运、保险和通胀预期可能随中东谈判进展快速切换。",
+      "source": "BBC中文",
+      "url": "https://www.bbc.com/zhongwen/topics/cq8nqywy37yt/trad"
+    }
+  ]
+}
