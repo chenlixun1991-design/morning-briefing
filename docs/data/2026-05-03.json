@@ -1,0 +1,135 @@
+{
+  "date": "2026-05-03",
+  "created_by": "Tomato 🍅",
+  "international": [
+    {
+      "title": "美伊霍海方案",
+      "summary": "路透5月2日报道，伊朗提出先开放霍尔木兹海峡、结束美国封锁，再把核议题留待后续谈判；特朗普称对方案“不满意”，但也表示不倾向军事路线。若谈判停滞，航运、油价和中东风险溢价仍会牵动全球市场。",
+      "source": "Reuters",
+      "url": "https://www.globalbankingandfinance.com/iran-offers-strait-deal-trump-dissatisfied-prefers/"
+    },
+    {
+      "title": "美欧汽车关税",
+      "summary": "特朗普称欧盟未履行贸易协议，将把欧盟输美汽车和卡车关税提高至25%；欧盟贸易官员批评做法“不可接受”并保留反制选项。关税升级可能打击跨大西洋供应链，并推高汽车与零部件成本。",
+      "source": "每日经济新闻 / CCTV",
+      "url": "https://www.mrjjxw.com/articles/2026-05-02/4377828.html"
+    },
+    {
+      "title": "加沙采访准入",
+      "summary": "AP、BBC、Reuters等二十多家媒体机构联合呼吁以色列允许外国记者独立进入加沙采访。禁令自2023年战争开始后持续存在，即便停火已超过半年仍未解除，新闻透明度与人道局势核验成为焦点。",
+      "source": "Los Angeles Times / AP",
+      "url": "https://www.latimes.com/world-nation/story/2026-04-30/media-organizations-call-on-israel-to-allow-foreign-reporters-independent-access-to-gaza"
+    }
+  ],
+  "domestic": [
+    {
+      "title": "五一流动高峰",
+      "summary": "新华社称“五一”假期首日全社会跨区域人员流动量预计达3.441亿人次，同比增长3.4%。公路仍是主力，铁路、水路同比增长，民航略降。高强度流动检验交通调度，也继续带动假日文旅消费。",
+      "source": "新华社",
+      "url": "https://www.beijing.gov.cn/ywdt/zybwdt/202605/t20260502_4634071.html"
+    },
+    {
+      "title": "铁路单日新高",
+      "summary": "人民网转新华社消息，5月1日全国铁路发送旅客2484.4万人次，创单日旅客发送量历史新高；5月2日预计发送1970万人次并加开1222列。热门线路集中在京沪广深成杭等城市圈，折射假日出行韧性。",
+      "source": "人民网 / 新华社",
+      "url": "http://society.people.com.cn/n1/2026/0502/c1008-40712908.html"
+    },
+    {
+      "title": "中国任安理会主席",
+      "summary": "新华社消息，中国担任联合国安理会5月轮值主席，将围绕国际和平安全议程推进重点工作。当前中东、欧洲和全球南方议题交织，轮值主席职责将考验中国在多边协调与议程设置中的外交操作空间。",
+      "source": "新华社",
+      "url": "https://www.news.cn/20260502/07dfcb5feb6f4736ad894268723f616f/c.html"
+    }
+  ],
+  "tech": [
+    {
+      "title": "美军AI网络",
+      "summary": "美国国防部5月1日称，已与SpaceX、OpenAI、谷歌、英伟达、微软、AWS等7家公司达成协议，把AI能力接入机密网络，用于提升作战决策优势。AI基础模型进入军用闭环，会放大安全、伦理和供应商锁定争议。",
+      "source": "CCTV国际时讯 / 每日经济新闻",
+      "url": "https://www.mrjjxw.com/articles/2026-05-02/4377828.html"
+    },
+    {
+      "title": "苹果业绩超预期",
+      "summary": "新浪财经汇总称，苹果二财季营收和盈利超预期，股价走高；公司还给出强于市场预期的第三财季收入展望。iPhone表现仍有分化，但Mac、服务和回购计划支撑市场情绪，AI路线仍是下一阶段关注点。",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/headline/2026-05-02/doc-inhwmzun4917289.shtml?froms=ggmp"
+    },
+    {
+      "title": "英特尔创新高",
+      "summary": "新浪财经热点称，英特尔股价一度涨超6%并突破100美元，市值超过5000亿美元；一季度数据中心与AI业务同比增长约22%，二季度指引也高于预期。市场开始重新定价CPU和AI芯片生态中的老牌厂商。",
+      "source": "新浪财经",
+      "url": "https://cj.sina.cn/articles/view/7857201856/1d45362c001904yhpg?froms=ggmp"
+    }
+  ],
+  "trending": [
+    {
+      "term": "不知道，我的身材很曼妙",
+      "desc": "淘宝问答神回复，凡尔赛式自信回应。"
+    },
+    {
+      "term": "做完你的做你的",
+      "desc": "鸡排主理人名场面，形容忙中控场。"
+    },
+    {
+      "term": "活人感",
+      "desc": "形容真实自然、不像被生活格式化。"
+    },
+    {
+      "term": "赛博对账",
+      "desc": "网上互核经历与共同记忆，找同类。"
+    },
+    {
+      "term": "留友看",
+      "desc": "Threads流行语，留言留给朋友看。"
+    }
+  ],
+  "research": [
+    {
+      "title": "章鱼智能路径",
+      "summary": "Nature近期关注章鱼大脑是否像人类一样工作，或代表另一种智能演化路线。相关讨论提醒AI与神经科学研究，不必只以人类认知为唯一模板，分布式身体控制和感知融合可能提供新启发。",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-01302-4"
+    },
+    {
+      "title": "变暖突然加速",
+      "summary": "ScienceDaily报道，波茨坦气候影响研究所团队在剔除自然影响后发现，约2015年以来全球变暖速度出现统计显著加快，置信度超过98%。若趋势延续，气候适应、能源转型和灾害预算都需更快前置。",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260309183208.htm"
+    }
+  ],
+  "finance": [
+    {
+      "title": "美股科技领涨",
+      "summary": "新浪财经称，5月2日美股收盘涨跌不一，纳指与标普500再创新高，纳指首次收在25000点上方；苹果、英特尔等科技股走强。本轮上涨由财报和AI叙事支撑，但中东油价仍是扰动变量。",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/headline/2026-05-02/doc-inhwmzun4917289.shtml?froms=ggmp"
+    },
+    {
+      "title": "油价高位回落",
+      "summary": "每日经济新闻早参显示，国际油价收跌，美油报约102.5美元/桶、布油约108.84美元/桶，但周线仍上涨。美伊谈判与霍尔木兹通航前景决定下一步油价区间，也会影响通胀和全球制造成本。",
+      "source": "每日经济新闻",
+      "url": "https://www.mrjjxw.com/articles/2026-05-02/4377828.html"
+    },
+    {
+      "title": "上市公司分红",
+      "summary": "每日经济新闻援引中上协称，2025年全市场上市公司营收73.01万亿元、净利润5.40万亿元，3711家公司公布现金分红方案，合计2.43万亿元。分红规模增加有助于提升股东回报，也反映监管推动长期资金入市。",
+      "source": "每日经济新闻 / 中上协",
+      "url": "https://www.mrjjxw.com/articles/2026-05-02/4377828.html"
+    }
+  ],
+  "sources_checked": [
+    "Tavily Search",
+    "Reuters",
+    "AP",
+    "Los Angeles Times",
+    "新华社",
+    "人民网",
+    "每日经济新闻",
+    "CCTV",
+    "新浪财经",
+    "Nature",
+    "ScienceDaily",
+    "LingoAce",
+    "callcarbar"
+  ]
+}
