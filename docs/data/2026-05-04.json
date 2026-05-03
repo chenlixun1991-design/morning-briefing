@@ -1,0 +1,137 @@
+{
+  "date": "2026-05-04",
+  "created_by": "Tomato 🍅",
+  "international": [
+    {
+      "title": "霍海船只遇袭",
+      "summary": "据The Sun Chronicle等报道，一艘船只在霍尔木兹海峡附近遇袭，时点正值伊朗审视美国对其最新方案的回应。事件再次抬高中东航运风险，油价和海湾市场情绪可能继续受扰动。",
+      "source": "The Sun Chronicle",
+      "url": "https://www.thesunchronicle.com/news/nation_world/ship-is-attacked-near-strait-of-hormuz-as-iran-reviews-us-response-to-latest-proposal/article_63e3e81f-12ba-5b4a-b7d3-3a544c26b9b7.html"
+    },
+    {
+      "title": "海湾股市收高",
+      "summary": "路透5月3日报道，多数海湾股市收高，但美伊潜在协议的不确定性限制涨幅。投资者一边评估外交缓和可能，一边防范谈判反复对能源、航运和地区风险资产造成冲击。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/gulf-bourses-close-higher-us-iran-uncertainty-caps-upside-2026-05-03/"
+    },
+    {
+      "title": "加沙农业受损",
+      "summary": "半岛电视台相关报道显示，加沙战争扩大及农地落入以色列控制后，当地农业生产持续受损。粮食供给、农户生计和人道援助压力叠加，战后恢复成本可能进一步上升。",
+      "source": "Al Jazeera / Modern Ghana",
+      "url": "https://www.modernghana.com/videonews/aljazeera/1/643087/"
+    }
+  ],
+  "domestic": [
+    {
+      "title": "铁路客流新高",
+      "summary": "路透援引中国铁路数据称，5月1日全国铁路发送旅客2480万人次，创单日纪录。五一出行需求集中释放，显示旅游和探亲流动韧性，也考验热门城市交通、住宿和景区承载。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/chinas-railway-hit-new-single-day-passenger-record-may-day-2026-05-02/"
+    },
+    {
+      "title": "北京禁售无人机",
+      "summary": "CNN报道，北京5月1日起实施新规，禁止购买、租赁或飞行新的消费级无人机。监管转向更严格空域安全管理，对航拍、低空消费场景和无人机零售渠道都会产生短期影响。",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/05/01/china/china-drones-beijing-ban"
+    },
+    {
+      "title": "AI改造微短剧",
+      "summary": "纽约时报关注中国娱乐业用AI生成脚本、镜头和人物素材，微短剧生产效率被推高，同时引发演员、编剧和版权方反弹。内容工业化提速，但创作权益与质量控制成为新矛盾。",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/05/03/world/asia/china-microdrama-ai-backlash.html"
+    }
+  ],
+  "tech": [
+    {
+      "title": "高通OpenAI手机",
+      "summary": "Yahoo Finance援引分析师称，高通和联发科可能参与OpenAI的AI-first手机芯片合作，量产或在2028年。若落地，端侧AI入口竞争将从应用层延伸到处理器和整机生态。",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/qualcomm-surges-report-openai-tie-120527138.html"
+    },
+    {
+      "title": "芯片股历史月",
+      "summary": "CNBC称，4月半导体股出现“历史性”反弹，投资者对AI基建投入过热的担忧缓和。行情从少数AI龙头扩散到更广芯片链，但后续仍取决于云厂商资本开支和订单兑现。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/01/tech-download-chip-stocks-surge-historic-month-intel-apple.html"
+    },
+    {
+      "title": "AI挤压消费芯片",
+      "summary": "Manufacturing.net报道，AI数据中心热潮正在改变存储和芯片需求结构，高带宽内存等资源优先流向服务器。消费电子厂商可能面临供给紧张与成本压力，产品节奏也会被影响。",
+      "source": "Manufacturing.net",
+      "url": "https://www.manufacturing.net/artificial-intelligence/news/22965965/ai-data-center-boom-leaving-consumer-electronics-short-of-chips"
+    }
+  ],
+  "trending": [
+    {
+      "term": "活人感",
+      "desc": "形容真实松弛、不像被生活格式化。"
+    },
+    {
+      "term": "赛博对账",
+      "desc": "网上互核经历，确认同款记忆。"
+    },
+    {
+      "term": "留友看",
+      "desc": "留言留给朋友看，用于转发好内容。"
+    },
+    {
+      "term": "city不city",
+      "desc": "调侃地方洋气与否，旅游场景常用。"
+    },
+    {
+      "term": "沪币",
+      "desc": "吐槽上海物价高，像用另一种币。"
+    }
+  ],
+  "research": [
+    {
+      "title": "碳管追赶铜",
+      "summary": "Phys.org报道，Science论文展示插层碳纳米管纤维取得高比电导率，正缩小与铜的差距。若规模化和稳定性继续突破，轻量导线、航空航天和高效电机材料可能迎来新选择。",
+      "source": "Phys.org / Science",
+      "url": "https://phys.org/news/2026-04-carbon-nanotubes-gap-copper.html"
+    },
+    {
+      "title": "宇宙线断裂",
+      "summary": "Phys.org报道，DAMPE卫星发现多类宇宙线在约15TeV附近呈现共同谱断裂，支持按粒子刚性解释加速和传播过程。结果有助于约束银河系高能粒子来源模型。",
+      "source": "Phys.org",
+      "url": "https://phys.org/news/2026-04-dampe-satellite-reveals-cosmic-rays.html"
+    }
+  ],
+  "finance": [
+    {
+      "title": "五月卖出再议",
+      "summary": "路透Take Five提示，市场进入“Sell in May”传统观察窗口，投资者将同时盯住美联储预期、企业财报和地缘风险。科技股强势带来支撑，但估值和油价仍是主要变量。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/take-five/global-markets-themes-graphic-2026-05-01/"
+    },
+    {
+      "title": "油价约111美元",
+      "summary": "WSJ和San Francisco Chronicle市场报道显示，布伦特油价维持在约111美元/桶附近。中东局势和美伊谈判牵动能源风险溢价，高油价会继续传导至通胀、运输和制造成本。",
+      "source": "WSJ / San Francisco Chronicle",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-01-2026"
+    },
+    {
+      "title": "苹果谷歌受关注",
+      "summary": "WSJ市场直播称，美股期货小幅走高，苹果和Alphabet成为投资者焦点，科技财报继续主导风险偏好。若盈利展望稳住，AI资本开支叙事仍会支撑纳指，但波动可能加大。",
+      "source": "WSJ",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-01-2026"
+    }
+  ],
+  "sources_checked": [
+    "Tavily Search CLI",
+    "Reuters",
+    "The Sun Chronicle",
+    "CNN",
+    "The New York Times",
+    "Yahoo Finance",
+    "CNBC",
+    "Manufacturing.net",
+    "Phys.org",
+    "Science",
+    "WSJ",
+    "San Francisco Chronicle",
+    "Al Jazeera",
+    "LingoAce",
+    "callcarbar"
+  ]
+}
