@@ -1,0 +1,132 @@
+{
+  "date": "2026-05-05",
+  "created_by": "Tomato 🍅",
+  "international": [
+    {
+      "title": "霍海航运停摆",
+      "summary": "路透5月4日报道，美国称将协助被困船只通过霍尔木兹海峡，但多数航运仍陷停摆。伊朗相关方案与美方回应继续拉扯，全球能源运输、保险费率和海湾安全预期同步承压。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/most-strait-hormuz-shipping-standstill-despite-latest-us-pledge-2026-05-04/"
+    },
+    {
+      "title": "伊朗袭击升级",
+      "summary": "路透称，伊朗对船只及阿联酋油港相关目标展示武力，美军也通报拦截导弹、无人机和小艇。地区冲突从军事对峙外溢到港口与航道，市场对油价和供应链风险更敏感。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/trump-says-us-help-ships-stranded-strait-hormuz-tanker-hit-by-projectiles-2026-05-04/"
+    },
+    {
+      "title": "美伊谈判僵持",
+      "summary": "多家国际媒体报道，美伊围绕霍尔木兹海峡开放与核谈判顺序分歧仍在。特朗普对伊方方案态度谨慎，外交窗口尚未关闭，但军事威慑与航运安全压力正在同步上升。",
+      "source": "Reuters / VOA",
+      "url": "https://www.reuters.com/world/middle-east/iranian-proposal-rejected-by-trump-would-open-strait-before-nuclear-talks-iran-2026-05-02/"
+    }
+  ],
+  "domestic": [
+    {
+      "title": "五一流动新高",
+      "summary": "新华社援引交通运输部数据称，今年五一假期全社会跨区域人员流动量预计达15.2亿人次，创历史同期新高。旅游、探亲和本地消费集中释放，交通调度与城市接待能力成为假日经济关键。",
+      "source": "新华社 / 环球网",
+      "url": "https://news.gscn.com.cn/system/2026/05/02/013492566.shtml"
+    },
+    {
+      "title": "文旅提质升级",
+      "summary": "新华社报道，五一文旅市场全面升温，各地通过赛事、演艺、乡村体验和精细化服务，把短期客流转化为停留消费。假日经济从门票驱动转向场景驱动，考验城市运营能力。",
+      "source": "新华社",
+      "url": "https://www.news.cn/fortune/20260503/6edd66d46eb54b1ca2dd7da6f03d077f/c.html"
+    },
+    {
+      "title": "消费券促出游",
+      "summary": "文化和旅游部启动全国五一文化和旅游消费周，各地计划举办约1.37万场文旅活动、发放超2.84亿元消费券。政策意图是放大假期消费热度，带动餐饮、住宿和交通链条。",
+      "source": "新华社",
+      "url": "https://www.news.cn/20260427/1aa4294c09904b49a18e42d1acd0f03b/c.html"
+    }
+  ],
+  "tech": [
+    {
+      "title": "Sierra融资950M",
+      "summary": "TechCrunch报道，Bret Taylor创办的企业AI公司Sierra完成9.5亿美元融资，投后估值超150亿美元。资本继续涌入企业级AI服务，客服、销售和工作流自动化赛道竞争会进一步升温。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/"
+    },
+    {
+      "title": "AI服务合资潮",
+      "summary": "TechCrunch援引消息称，Anthropic与OpenAI均在推进企业AI服务合资项目。大模型公司正从API和订阅转向深度交付，争夺大型客户预算，也会改变咨询、系统集成和SaaS生态。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/04/anthropic-and-openai-are-both-launching-joint-ventures-for-enterprise-ai-services/"
+    },
+    {
+      "title": "华为芯片抢购",
+      "summary": "路透独家称，DeepSeek V4发布后，中国大型科技公司加紧获取华为AI芯片。国产模型与国产算力适配成为新焦点，供给紧张可能影响训练、推理成本和云厂商采购节奏。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/big-chinese-tech-firms-scramble-secure-huawei-ai-chips-after-deepseek-v4-launch-2026-04-29/"
+    }
+  ],
+  "trending": [
+    {
+      "term": "活人感",
+      "desc": "形容真实松弛、不像被流程格式化。"
+    },
+    {
+      "term": "留友看",
+      "desc": "留着给朋友看，常见于转发评论。"
+    },
+    {
+      "term": "与众分",
+      "desc": "主动分享给大家，带一点玩梗语气。"
+    },
+    {
+      "term": "给到夯",
+      "desc": "夸某事很热很顶，用于种草场景。"
+    },
+    {
+      "term": "班味",
+      "desc": "形容被上班消耗后的疲惫气质。"
+    }
+  ],
+  "research": [
+    {
+      "title": "CO₂制塑料原料",
+      "summary": "Phys.org收录论文称，研究团队开发银基电极结构，将二氧化碳转化为塑料前体的效率提升至86%。若能放大应用，碳捕集利用与化工减排可能获得更实用的材料路径。",
+      "source": "Phys.org",
+      "url": "https://phys.org/news/2026-04-electrode-technology-efficiency-plastic-precursors.html"
+    },
+    {
+      "title": "CRISPR测病毒",
+      "summary": "Phys.org报道，KAIST及国际团队提出利用CRISPR反应速度模式同时识别多种病毒和变异株。该方法若通过临床验证，可提升呼吸道感染筛查效率，降低多重检测成本。",
+      "source": "Phys.org",
+      "url": "https://phys.org/news/2026-04-crispr-patterns-multiple-viruses-variants.html"
+    }
+  ],
+  "finance": [
+    {
+      "title": "油价推高波动",
+      "summary": "路透市场报道显示，因美方否认伊朗相关说法并叠加霍尔木兹紧张，油价跳涨、全球股市表现分化。能源风险溢价重新定价，债券、航空运输和通胀预期都会受到牵动。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-05-04/"
+    },
+    {
+      "title": "美股资金降温",
+      "summary": "路透称，截至4月29日当周，美国股票基金资金流入降至六周低位，投资者担心原油价格飙升压制盈利和消费。资金情绪从追涨转向防守，短线市场更依赖财报验证。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/us-equity-fund-inflows-ease-six-week-low-2026-05-04/"
+    },
+    {
+      "title": "亚股强欧股弱",
+      "summary": "路透Trading Day指出，除日本外亚洲股市单日上涨2.8%，韩国股市领涨；欧洲股市则创近一个月最差表现。全球资金在油价、债券收益率和地缘风险之间快速切换。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/commentary/reuters-open-interest/global-markets-trading-day-graphic-2026-05-04/"
+    }
+  ],
+  "sources_checked": [
+    "Tavily Search CLI",
+    "Reuters",
+    "VOA Chinese",
+    "新华网",
+    "中新网",
+    "环球网",
+    "TechCrunch",
+    "Phys.org",
+    "LingoAce",
+    "callcarbar"
+  ]
+}
