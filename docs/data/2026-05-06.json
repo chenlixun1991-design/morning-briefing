@@ -1,0 +1,120 @@
+{
+  "date": "2026-05-06",
+  "created_by": "Tomato 🍅",
+  "international": [
+    {
+      "title": "洪都拉斯台海信",
+      "summary": "美国共和党参议员致函洪都拉斯总统，敦促其重新评估与北京建交后的外交路线并恢复同台湾邦交。事件反映中美在中美洲影响力竞争仍在延续，台湾外部空间继续承压。",
+      "source": "美国之音中文网",
+      "url": "https://www.voachinese.com/p/6143.html"
+    },
+    {
+      "title": "霍尔木兹护航",
+      "summary": "BBC中文聚焦特朗普政府在霍尔木兹海峡推进“自由计划”，试图保护商船通行。中东紧张局势若升级，将直接影响全球能源运输、油价和通胀预期。",
+      "source": "BBC News 中文",
+      "url": "https://www.bbc.com/zhongwen/topics/c83plve5vmjt/simp"
+    },
+    {
+      "title": "邮轮病毒噩梦",
+      "summary": "大西洋一艘邮轮旅程因汉坦病毒暴发变成公共卫生事件，百度热榜与BBC均列入焦点。事件提醒邮轮密闭空间传染病风险，也可能影响旅游安全监管。",
+      "source": "BBC News 中文 / 百度热榜",
+      "url": "https://www.bbc.com/zhongwen/topics/c83plve5vmjt/simp"
+    }
+  ],
+  "domestic": [
+    {
+      "title": "浏阳烟花事故",
+      "summary": "湖南浏阳烟花厂爆炸事故死亡人数升至26人、61人受伤，企业负责人已被控制，当地要求烟花爆竹企业全面停产整顿。事故将推动高危行业安全排查和责任追究。",
+      "source": "澎湃新闻",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33099002"
+    },
+    {
+      "title": "五一文旅收官",
+      "summary": "“加长版”五一假期收官，多地景区接待游客数创历史新高，人均打卡城市数量增加。消费热度说明文旅仍是内需亮点，也给交通、景区承载和服务质量带来压力。",
+      "source": "澎湃新闻",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33099873"
+    },
+    {
+      "title": "青年学子期待",
+      "summary": "百度实时热点首位为“总书记对青年学子的殷切期待”，五四后青年成长、教育强国和科技报国议题继续升温。相关表述将影响高校育人、就业引导与青年政策传播。",
+      "source": "百度实时热点",
+      "url": "https://www.baidu.com/s?wd=%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%AF%B9%E9%9D%92%E5%B9%B4%E5%AD%A6%E5%AD%90%E7%9A%84%E6%AE%B7%E5%88%87%E6%9C%9F%E5%BE%85"
+    }
+  ],
+  "tech": [
+    {
+      "title": "CES硬科技潮",
+      "summary": "CES Asia 2026聚焦AI芯片、端侧AI和半导体设备材料，英伟达、AMD、寒武纪等展示新一代算力产品。AI正把终端、数据中心和国产设备推入同一轮升级周期。",
+      "source": "软盟资讯",
+      "url": "https://news.softunis.com/55551.html"
+    },
+    {
+      "title": "半导体万亿关口",
+      "summary": "多份市场报道预计AI需求将推动全球半导体营收在2026年首次突破1万亿美元，高性能计算、数据中心和边缘AI成为核心动力，产业链涨价和扩产压力同步上升。",
+      "source": "新浪新闻",
+      "url": "https://www.sina.cn/news/detail/5294807699428098.html"
+    },
+    {
+      "title": "OpenAI手机加速",
+      "summary": "微博热搜出现“OpenAI或加速手机开发”，此前市场关注其与芯片及终端伙伴合作。若AI-first手机成型，端侧模型、入口分发和移动生态竞争会进一步改写。",
+      "source": "微博热搜",
+      "url": "https://s.weibo.com/weibo?q=OpenAI%E6%88%96%E5%8A%A0%E9%80%9F%E6%89%8B%E6%9C%BA%E5%BC%80%E5%8F%91"
+    }
+  ],
+  "trending": [
+    {
+      "term": "奥德赛时期",
+      "desc": "把人生探索期比作旅程，鼓励迷茫时继续体验。"
+    },
+    {
+      "term": "灵感菇",
+      "desc": "形容突然冒出的创意，像蘑菇一样一茬一茬。"
+    },
+    {
+      "term": "办公室申公豹",
+      "desc": "吐槽职场里拱火、挑事、制造混乱的人。"
+    },
+    {
+      "term": "496工作制",
+      "desc": "调侃更离谱工时，用来吐槽加班压力。"
+    },
+    {
+      "term": "东北人ABS系统",
+      "desc": "夸东北人冰雪路面走路稳，自带防滑系统。"
+    }
+  ],
+  "research": [
+    {
+      "title": "哺乳动物皮脊",
+      "summary": "Nature相关研究解析哺乳动物皮脊形成机制，发现表皮与真皮细胞信号互作尤其BMP通路具有关键作用。该发现有助理解指纹、触觉演化和皮肤再生医学。",
+      "source": "Nature / 佰迈客生物",
+      "url": "http://www.biomarker.com.cn/archives/36053"
+    },
+    {
+      "title": "X射线四波混频",
+      "summary": "Nature/Science论文导读介绍相干非线性X射线四光子相互作用实验，展示原子尺度多维关联光谱潜力。若扩展到超快时间域，可用于观察生物分子和量子材料动态。",
+      "source": "中南大学期刊社",
+      "url": "https://journals.csu.edu.cn/news-detail/1533"
+    }
+  ],
+  "finance": [
+    {
+      "title": "油价推升债息",
+      "summary": "新浪财经汇总称，中东紧张局势重燃推高油价，欧洲和美国债市下跌，德国国债收益率上行。能源冲击会强化通胀担忧，并影响市场对央行利率路径的定价。",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/headline/2026-05-05/doc-inhwuxfq9292687.shtml"
+    },
+    {
+      "title": "李嘉诚套现",
+      "summary": "百度实时热点显示“套现约455亿，李嘉诚又卖了”进入高位讨论。大型资产出售被市场视为观察地产、港资配置和全球资产估值变化的信号，短期会带来情绪波动。",
+      "source": "百度实时热点",
+      "url": "https://www.baidu.com/s?wd=%E5%A5%97%E7%8E%B0%E7%BA%A6455%E4%BA%BF+%E6%9D%8E%E5%98%89%E8%AF%9A%E5%8F%88%E5%8D%96%E4%BA%86"
+    },
+    {
+      "title": "美股全面收黑",
+      "summary": "AASTOCKS援引美股重点摘要称，韩货轮爆炸、阿联遇袭带动原油飙涨，道指大跌约550点，美股三大指数收跌。地缘风险正在重新压制风险资产偏好。",
+      "source": "AASTOCKS / 鉅亨网",
+      "url": "http://www.aastocks.com/tc/usq/news/comment.aspx?source=ANUE&id=AN6442208&catg=1"
+    }
+  ]
+}
