@@ -1,0 +1,120 @@
+{
+  "date": "2026-05-08",
+  "created_by": "Tomato 🍅",
+  "international": [
+    {
+      "title": "俄乌无人机升级",
+      "summary": "俄罗斯称乌克兰在莫斯科胜利日活动前发动大规模无人机袭击，莫斯科同时拒绝基辅提出的停火安排。红场安保收紧，双方空袭与反击继续推高平民风险和欧洲安全紧张度。",
+      "source": "AP News",
+      "url": "https://apnews.com/article/russia-ukraine-war-drone-attack-moscow-celebrations-3fd7de0bc63bc349422117e1517e724d"
+    },
+    {
+      "title": "拉脱维亚升空战机",
+      "summary": "拉脱维亚称两架无人机从俄罗斯方向进入其领空并坠落，军方紧急升空战机应对。事件显示俄乌无人机战正外溢至北约边境，波罗的海地区防空和误判风险同步上升。",
+      "source": "Newsweek",
+      "url": "https://www.newsweek.com/latvia-scrambles-fighter-jets-drones-crash-into-nato-territory-russia-ukraine-war-11922092"
+    },
+    {
+      "title": "印巴紧张周年",
+      "summary": "巴基斯坦在与印度冲突周年前警告，若遭攻击将作出强力回应。克什米尔议题仍是南亚安全火药桶，双方纪念节点上的强硬表态可能影响边境管控和地区外交气氛。",
+      "source": "AP News",
+      "url": "https://apnews.com/article/pakistan-india-war-kashmir-anniversary-683ab7446c2f019f545d68ddd3e1a7f1"
+    }
+  ],
+  "domestic": [
+    {
+      "title": "中美议员会见",
+      "summary": "李强在北京会见美国国会参议员代表团，强调落实两国元首共识、加强对话沟通，并重申台湾问题是中美关系红线。此访为特朗普访华前的高层接触释放稳定信号。",
+      "source": "外交部",
+      "url": "https://www.mfa.gov.cn/zyxw/202605/t20260507_11906474.shtml"
+    },
+    {
+      "title": "中乌总理会晤",
+      "summary": "李强会见乌兹别克斯坦总理阿里波夫，提出加强能源资源、互联互通、数字经济和绿色经济合作，并推动中吉乌铁路建设。中亚通道与产业合作将继续升温。",
+      "source": "中国驻斯里兰卡使馆",
+      "url": "https://lk.china-embassy.gov.cn/zgxw/202605/t20260507_11906489.htm"
+    },
+    {
+      "title": "社会救助立法",
+      "summary": "中国日报报道，中国通过社会救助领域基础性法律，为低收入和困难家庭提供更稳定的制度保障。新法落地后，跨部门信息共享、社会组织参与和精准救助将成为执行重点。",
+      "source": "China Daily",
+      "url": "https://global.chinadaily.com.cn/a/202605/02/WS69f54166a310d6866eb46a36.html"
+    }
+  ],
+  "tech": [
+    {
+      "title": "月之暗面融资",
+      "summary": "TechCrunch称月之暗面完成20亿美元融资、估值达200亿美元，Kimi模型收入和API使用快速增长。中国开源/开放权重模型热度继续吸引全球资本，AI应用商业化进入加速期。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/07/chinas-moonshot-ai-raises-2b-at-20b-valuation-as-demand-for-open-source-ai-skyrockets/"
+    },
+    {
+      "title": "SpaceX造AI芯片",
+      "summary": "纽约时报称SpaceX计划在得州投资550亿美元建设AI芯片工厂，项目总支出可能更高，并服务SpaceX、Tesla和xAI体系。马斯克系公司正把算力、芯片和AI应用进一步垂直整合。",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/05/07/business/spacex-chips-terafab.html"
+    },
+    {
+      "title": "企业AI内迁",
+      "summary": "F5报告显示，企业AI推理从试验转向生产后，越来越多机构选择在自有云、机房和边缘环境运行。AI基础设施竞争将从模型调用转向网络、安全、延迟和混合部署能力。",
+      "source": "RCR Wireless News",
+      "url": "https://www.rcrwireless.com/20260507/ai/f5-ai-inference-in-house"
+    }
+  ],
+  "trending": [
+    {
+      "term": "爱你老己",
+      "desc": "“爱你自己”谐音，自我安慰、悦己式告别常用。"
+    },
+    {
+      "term": "我去不早说",
+      "desc": "吐槽反转句，表示早知道就换选择或行动。"
+    },
+    {
+      "term": "活人感",
+      "desc": "夸人真实自然、不模板化，有生活气息。"
+    },
+    {
+      "term": "外耗",
+      "desc": "把压力向外释放，少内耗、边界感更强。"
+    },
+    {
+      "term": "我要验牌",
+      "desc": "对线时要求亮证据，常用于质疑和拆穿。"
+    }
+  ],
+  "research": [
+    {
+      "title": "医疗分诊AI短板",
+      "summary": "Nature Medicine研究简报称，ChatGPT Health在结构化分诊测试中部分关键病例表现不足。医疗AI虽已被公众和医生广泛使用，但高风险诊断和分诊仍需要更严格验证。",
+      "source": "Nature Medicine",
+      "url": "https://www.nature.com/articles/s41591-026-04427-1"
+    },
+    {
+      "title": "AI辅助胰癌早筛",
+      "summary": "NDTV报道，Mayo Clinic与MD Anderson开发的REDMOD可从常规CT中识别肉眼难察的组织变化，最多提前三年提示胰腺癌风险。若经临床验证，有望改善早诊率。",
+      "source": "NDTV / Mayo Clinic",
+      "url": "https://www.ndtv.com/science/ai-system-detects-pancreatic-cancer-years-before-doctors-can-study-shows-11437958"
+    }
+  ],
+  "finance": [
+    {
+      "title": "美股盈利韧性",
+      "summary": "Yahoo Finance实时财报报道显示，标普500成分股一季报整体仍保持双位数盈利增长，科技巨头继续支撑市场情绪。伊朗战争和关税风险未完全压倒AI与消费龙头业绩。",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/earnings-live-updates-sp-500-earnings-growth-trend-impresses-100000216.html"
+    },
+    {
+      "title": "欧车关税压力",
+      "summary": "Yahoo Finance称特朗普对欧盟汽车征收25%关税，可能让奔驰、宝马、大众等车型在美国涨价上万美元。汽车贸易摩擦将推高购车成本，并影响欧洲车企在美定价策略。",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/economy/policy/articles/trumps-25-eu-car-tariff-113500776.html"
+    },
+    {
+      "title": "AI资本开支高企",
+      "summary": "大型科技公司财报继续显示AI支出高涨，市场估算今年超大规模云厂商资本开支可达7250亿美元。算力投资支撑上游景气，但也让投资者更关注回报周期和泡沫风险。",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/earnings-live-updates-sp-500-earnings-growth-trend-impresses-100000216.html"
+    }
+  ]
+}
