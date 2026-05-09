@@ -1,0 +1,136 @@
+{
+  "date": "2026-05-10",
+  "created_by": "Tomato 🍅",
+  "international": [
+    {
+      "title": "美伊海湾对峙",
+      "summary": "《耶路撒冷邮报》5月9日滚动称，美国打击疑似违反霍尔木兹封锁的伊朗油轮，伊方警告若美军重返波斯湾将“坚决回应”。海湾局势升温会推高能源、航运与区域安全风险。",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/iran-news/2026-05-09/live-updates-895602"
+    },
+    {
+      "title": "俄阅兵降规格",
+      "summary": "CNN报道称，俄罗斯胜利日阅兵因担忧乌克兰无人机袭击而明显缩减，红场未见惯常重型坦克和装备展示。即便短暂停火生效，俄乌战场风险仍影响莫斯科安全叙事和外界判断。",
+      "source": "CNN",
+      "url": "https://edition.cnn.com/2026/05/09/world/video/russia-ukraine-war-victory-day-parade-putin-trump-digvid"
+    },
+    {
+      "title": "以黎谈判将启",
+      "summary": "《耶路撒冷邮报》称，以色列与黎巴嫩谈判预计5月14日至15日在美国斡旋下恢复，背景是以军打击真主党设施及边境火箭袭击。若谈判推进，或缓和北以边境持续升级的军事压力。",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/iran-news/2026-05-09/live-updates-895602"
+    }
+  ],
+  "domestic": [
+    {
+      "title": "出口增速加快",
+      "summary": "海关数据经AP、WSJ等报道显示，中国4月出口同比增长14.1%，明显高于3月2.5%，也超过市场预期；进口增长25.3%。外需韧性短期稳定经济，但也会放大中美贸易谈判前的外部摩擦。",
+      "source": "AP News",
+      "url": "https://apnews.com/article/china-trade-exports-growth-april-4e17ad3271e7391a27a247698cddd6f8"
+    },
+    {
+      "title": "天眼部件国产",
+      "summary": "人民网报道，“中国天眼”FAST近日启动馈源驱动钢丝绳更换，关键锚固接头已实现国产化。核心部件替换能力提升，意味着大型科学装置维护自主性增强，也支撑后续天文观测稳定运行。",
+      "source": "人民网",
+      "url": "http://finance.people.com.cn/n1/2026/0509/c1004-40716160.html"
+    },
+    {
+      "title": "冰川科普馆开放",
+      "summary": "人民网青海消息称，祁连山国家公园候选区八一冰川科普馆5月8日开放，这是国内首个现代冰川科普场馆。公众教育与生态保护结合，有助于提升冰川退缩、气候变化议题的可见度。",
+      "source": "人民网",
+      "url": "http://qh.people.com.cn/n2/2026/0509/c378418-41575126.html"
+    }
+  ],
+  "tech": [
+    {
+      "title": "AR眼镜竞速",
+      "summary": "Glass Almanac梳理称，Snap、Google、Samsung等2026年均推进AI/AR眼镜，Meta则把资源更多转向AI底层能力。消费电子屏幕入口之争正从手机延伸到眼镜，开发者生态可能提前布局。",
+      "source": "Glass Almanac",
+      "url": "https://glassalmanac.com/5-augmented-reality-devices-in-2026-that-could-change-daily-screens/"
+    },
+    {
+      "title": "OpenAI手机传闻",
+      "summary": "Forbes援引供应链分析称，OpenAI“AI Agent手机”或最早2027年上半年量产，MediaTek可能成为芯片供应方。若成真，手机交互会从App入口转向任务代理，但商业与隐私风险仍待验证。",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/ewanspence/2026/05/08/android-news-headlines-galaxy-a27-oneui-8-5-pixel-11-open-ai-fitbit-air/"
+    },
+    {
+      "title": "诺基亚押注光芯",
+      "summary": "《耶路撒冷邮报》消费科技栏目称，诺基亚收购Infinera后强化光芯片与激光制造能力，试图服务AI算力、6G和网络基础设施。老牌通信厂商正从手机记忆转向高带宽底座。",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/consumerism/article-895105"
+    }
+  ],
+  "trending": [
+    {
+      "term": "洞洞鞋刚出锅",
+      "desc": "洞洞鞋脱模像食物出锅，用来调侃工业ASMR。"
+    },
+    {
+      "term": "前额叶受损",
+      "desc": "借脑科学说法，为拖延、冲动找幽默解释。"
+    },
+    {
+      "term": "奥德赛时期",
+      "desc": "形容年轻人迷茫探索、边走边找方向。"
+    },
+    {
+      "term": "爱你老己",
+      "desc": "“爱你老弟”谐音，表达轻松悦己。"
+    },
+    {
+      "term": "回头摇挑战",
+      "desc": "短视频动作梗，回头配节奏摇摆出片。"
+    }
+  ],
+  "research": [
+    {
+      "title": "废水预警真菌",
+      "summary": "Newswise报道，新研究用废水监测预测医疗机构中耐药耳念珠菌的出现。若方法成熟，医院可在临床暴发前获得环境信号，提前调整感染防控和抗真菌药物策略。",
+      "source": "Newswise",
+      "url": "https://www.newswise.com/articles/wastewater-intelligence-predicts-the-emergence-of-clinically-relevant-and-drug-resistant-candidozyma-auris-at-healthcare-facilities"
+    },
+    {
+      "title": "格陵兰融冰激增",
+      "summary": "ScienceDaily引述巴塞罗那大学发表于Nature Communications的研究称，格陵兰冰盖极端融化事件自1990年以来显著增多，融水产量激增。海平面、北大西洋环流和沿海城市风险需重新评估。",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260504023852.htm"
+    }
+  ],
+  "finance": [
+    {
+      "title": "中国贸易超预期",
+      "summary": "WSJ称，中国4月出口同比增长14.1%，显著高于经济学家预期，进口也保持两位数增长。贸易仍是经济稳定器，但在特朗普访华和关税议题前，顺差扩大可能成为谈判焦点。",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/world/china/chinas-export-growth-accelerated-in-april-49032b3b"
+    },
+    {
+      "title": "水务股受关注",
+      "summary": "Ad Hoc News报道，北控水务披露2025年稳健业绩并强调中国与东南亚扩张，吸引基础设施投资者关注。公用事业资产在波动市况下具防御性，但增长仍取决于项目回款与费率机制。",
+      "source": "AD HOC NEWS",
+      "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/beijing-enterprises-water-stock-hk0371000832-regulated-water-utility/69299250"
+    },
+    {
+      "title": "量子IPO升温",
+      "summary": "TipRanks市场新闻显示，Honeywell支持的Quantinuum提交IPO，IBM量子精度突破也带动相关讨论。AI之后，量子计算继续吸引资本想象，但商业化节奏和估值兑现仍存在高不确定性。",
+      "source": "TipRanks",
+      "url": "https://www.tipranks.com/news/company-announcements/news-corp-class-a-signals-strong-digital-led-momentum"
+    }
+  ],
+  "sources_checked": [
+    "Tavily Search",
+    "The Jerusalem Post",
+    "CNN",
+    "AP News",
+    "人民网",
+    "Glass Almanac",
+    "Forbes",
+    "新浪财经",
+    "偷渡鱼今日热榜",
+    "Newswise",
+    "ScienceDaily",
+    "The Wall Street Journal",
+    "AD HOC NEWS",
+    "TipRanks"
+  ]
+}
