@@ -1,0 +1,120 @@
+{
+  "date": "2026-05-12",
+  "created_by": "Tomato 🍅",
+  "international": [
+    {
+      "title": "特朗普将访华",
+      "summary": "Politico称，特朗普预计本周启程访华并会见习近平，这是美国总统近九年来首次访华。行程叠加伊朗战事、乌克兰停火等议题，中美关系与全球外交节奏都将被重新聚焦。",
+      "source": "Politico",
+      "url": "https://www.politico.com/newsletters/playbook/2026/05/11/trump-goes-international-00913742"
+    },
+    {
+      "title": "伊朗战冲击亚洲",
+      "summary": "AP报道，伊朗战事可能带来第二轮能源冲击，亚洲经济体正担心油气价格、航运与通胀压力再度上行。若供应链和能源成本继续波动，亚洲制造业与消费价格都会承压。",
+      "source": "AP News",
+      "url": "https://apnews.com/article/middle-east-wars-energy-asia-gas-oil-45dcf2b9059930f298136720564d6ae6"
+    },
+    {
+      "title": "乌克兰停火窗口",
+      "summary": "Politico在外交周展望中提到，乌克兰出现临时停火窗口，普京暗示战争可能接近尾声。停火若能延续，将影响欧洲安全安排、援乌节奏和美欧外交谈判筹码。",
+      "source": "Politico",
+      "url": "https://www.politico.com/newsletters/playbook/2026/05/11/trump-goes-international-00913742"
+    }
+  ],
+  "domestic": [
+    {
+      "title": "中美元首将会晤",
+      "summary": "新华社称，应习近平邀请，特朗普将于5月13日至15日对中国进行国事访问。这是两国元首继釜山后再次面对面会晤，也是美国总统时隔九年再访华，市场关注贸易与AI议题。",
+      "source": "新华社",
+      "url": "https://www.news.cn/20260512/fbbd02b3e89c447db8156f82acd740d5/c.html"
+    },
+    {
+      "title": "护士节慰问一线",
+      "summary": "新华社报道，刘国中在国际护士节前夕看望北京急救中心一线护士，向全国600多万护理工作者致意，并强调提升护理服务水平。老龄化和基层医疗需求上升，使护理体系建设更关键。",
+      "source": "新华社",
+      "url": "https://www.news.cn/politics/20260511/6ce75c1db9ce4891a0a1ded5a4688684/c.html"
+    },
+    {
+      "title": "中关村三十八岁",
+      "summary": "新华社报道，中关村从电子一条街发展为国家自主创新示范区，迎来38岁节点。报道强调其在硬科技创业、成果转化和创新生态中的角色，反映北京继续押注科技产业集群。",
+      "source": "新华社 / 北京市科委",
+      "url": "https://kw.beijing.gov.cn/xwdt/mtbd/202605/t20260511_4645206.html"
+    }
+  ],
+  "tech": [
+    {
+      "title": "Cerebras冲刺IPO",
+      "summary": "Yahoo Finance称，阿联酋背景AI芯片公司Cerebras拟公开上市，目标募资最高48亿美元，或成2026年最大IPO。AI算力需求继续推高芯片资产估值，也加剧供应链竞争。",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-chipmaker-cerebras-to-stage-blockbuster-ipo-ai-in-focus-for-trump-xi-meeting-100000457.html"
+    },
+    {
+      "title": "科技高管赴京",
+      "summary": "Yahoo Finance报道，英伟达黄仁勋、苹果库克等科技高管预计加入美国访华代表团。中美会谈将涉及贸易、伊朗战争与强AI模型，科技公司会直接感受政策与出口管制走向。",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-ai-chipmaker-cerebras-to-stage-blockbuster-ipo-nvidias-jensen-huang-goes-to-china-100000740.html"
+    },
+    {
+      "title": "华硕预热AI终端",
+      "summary": "Business Insider报道，华硕与ROG将在Computex 2026展示下一代AI与游戏创新，覆盖企业、边缘与消费设备。AI PC从概念转向展台产品，硬件厂商开始争夺端侧入口。",
+      "source": "Business Insider / GlobeNewswire",
+      "url": "https://markets.businessinsider.com/news/stocks/asus-and-republic-of-gamers-to-showcase-next-generation-ai-and-20-years-of-gaming-innovation-at-computex-2026-1036137284"
+    }
+  ],
+  "trending": [
+    {
+      "term": "我去不早说",
+      "desc": "反转式吐槽，表示早知道就换选择。"
+    },
+    {
+      "term": "活人感",
+      "desc": "夸真实不端着，常用于内容和人设。"
+    },
+    {
+      "term": "抽象",
+      "desc": "离谱荒诞表达，用来解压和玩梗。"
+    },
+    {
+      "term": "外耗",
+      "desc": "把消耗转向外界，调侃自我保护。"
+    },
+    {
+      "term": "奥德赛时期",
+      "desc": "形容年轻人延迟上岸、探索漂泊。"
+    }
+  ],
+  "research": [
+    {
+      "title": "对AI少说症状",
+      "summary": "Nature Health研究显示，受试者面对AI医疗聊天机器人时，比面对医生提供更少症状细节，可能源于隐私顾虑和“AI不懂我”的心理。输入质量下降会直接影响健康评估可靠性。",
+      "source": "Nature Health / Medical Dialogues",
+      "url": "https://medicaldialogues.in/mdtv/medicine/videos/incomplete-symptom-reporting-to-ai-may-affect-health-assessments-study-suggests-170144"
+    },
+    {
+      "title": "海洋微生物寻药",
+      "summary": "Nature Computational Science介绍DeepSeMS方法，用大语言模型挖掘全球海洋微生物组的隐藏生物合成潜力。AI正把生物多样性转化为化学多样性，为新药发现打开更大搜索空间。",
+      "source": "Nature Computational Science",
+      "url": "https://www.nature.com/articles/s43588-026-00984-0"
+    }
+  ],
+  "finance": [
+    {
+      "title": "美股续创新高",
+      "summary": "Investopedia称，标普500和纳指再创新高，AI与芯片股继续支撑风险偏好。但油价因美伊停火不确定而上涨，市场一边押注科技成长，一边重新定价地缘通胀风险。",
+      "source": "Investopedia",
+      "url": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-05112026-11971208"
+    },
+    {
+      "title": "美国CPI待公布",
+      "summary": "Investor's Business Daily报道，美国CPI通胀报告将于周二公布，能源价格成为焦点。若油价和通胀压力继续走高，美联储降息预期可能降温，股债市场波动会同步放大。",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-ai-chip-stocks-oil-prices-trump-iran-comments-cpi-inflation/"
+    },
+    {
+      "title": "中国PPI转热",
+      "summary": "Reuters报道，中国4月PPI同比上涨2.8%，为45个月高位，并连续第二个月上升。中东能源冲击推高工业成本，结束长期出厂通缩后，企业利润和下游价格传导值得关注。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/china-april-producer-inflation-surges-to-45-month-high-2026-05-11/"
+    }
+  ]
+}
