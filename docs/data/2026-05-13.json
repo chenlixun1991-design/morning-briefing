@@ -1,0 +1,137 @@
+{
+  "date": "2026-05-13",
+  "created_by": "Tomato 🍅",
+  "international": [
+    {
+      "title": "特朗普访华",
+      "summary": "新华社称，美国总统特朗普应邀于5月13日至15日对中国进行国事访问。此访发生在中美经贸、伊朗局势和科技竞争交织之时，元首外交被寄望为双边关系降温并重启沟通。",
+      "source": "新华社",
+      "url": "https://www.news.cn/world/20260513/2d0e7ea782de44c3b71551bf4751b493/c.html"
+    },
+    {
+      "title": "美伊停火承压",
+      "summary": "CNN报道，美国总统特朗普称与伊朗的停火处于“生命维持”状态，白宫团队正评估后续选项。中东风险若再升温，将继续牵动能源价格、航运安全和大国外交协调。",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/05/12/us/5-things-to-know-for-may-12-high-prices-us-china-relations-hantavirus-outbreak-lincoln-memorial-harvard"
+    },
+    {
+      "title": "美中联合缉毒",
+      "summary": "NBC News称，美中执法部门在特朗普访华前联合破获跨境走私贩毒案并逮捕5名嫌疑人。安全执法合作释放缓和信号，但能否外溢到贸易、科技和地区安全议题仍待观察。",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/video/u-s-and-china-execute-joint-drug-bust-ahead-of-trump-xi-summit-263141445981"
+    }
+  ],
+  "domestic": [
+    {
+      "title": "食品贸易增长",
+      "summary": "人民网报道，APEC食品安全合作论坛披露，今年前4个月全国食品贸易进出口额5948.6亿元，同比增长6.5%。食品贸易回暖显示消费与供应链韧性，也对跨境食品安全监管提出更高要求。",
+      "source": "人民网",
+      "url": "http://paper.people.com.cn/rmrbhwb/pc/content/202605/13/content_30156409.html"
+    },
+    {
+      "title": "致敬白衣天使",
+      "summary": "新华社报道，5月12日国际护士节，全国606.2万名护士迎来节日。护理队伍规模扩大，意味着老龄化、基层医疗和公共卫生体系对专业护理能力的依赖继续上升。",
+      "source": "新华社",
+      "url": "https://www.news.cn/politics/20260513/00de248b49dd4d73b1ea1ef6b6c7b084/c.html"
+    },
+    {
+      "title": "京CGT课题征集",
+      "summary": "北京市科委发布细胞与基因治疗关键技术储备课题征集通知，聚焦产业创新发展三年行动方案。地方政策继续押注CGT等前沿医疗赛道，推动科研储备向产业化转化。",
+      "source": "北京市科委",
+      "url": "https://kw.beijing.gov.cn/zwgk/zcwj/202605/t20260512_4647873.html"
+    }
+  ],
+  "tech": [
+    {
+      "title": "DeepSeek适配华为",
+      "summary": "纽约时报报道，DeepSeek首次称其新模型已针对华为芯片优化。中国AI公司正加速摆脱对英伟达的依赖，这既是算力供应链自主化里程碑，也会改变模型训练和推理成本结构。",
+      "source": "纽约时报",
+      "url": "https://www.nytimes.com/2026/05/12/business/china-semiconductor-ai-deepseek.html"
+    },
+    {
+      "title": "AI创投破纪录",
+      "summary": "PitchBook报告称，2026年一季度AI风投达2555亿美元，单季超过2025全年。资金高度集中在OpenAI、Anthropic、xAI等平台型公司，显示AI资本竞赛继续向头部巨头集中。",
+      "source": "PitchBook",
+      "url": "https://pitchbook.com/news/reports/q1-2026-ai-vc-trends"
+    },
+    {
+      "title": "AI处方后台",
+      "summary": "Forbes报道，Forus正用AI处理处方行政后台，自动判断既往用药、限制和药房条件。医疗AI开始从问诊入口深入保险、合规和履约流程，目标是减少处方无法兑现的浪费。",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/amyfeldman/2026/05/12/billions-in-prescriptions-go-unfilled-this-startup-is-using-ai-to-fix-that/"
+    }
+  ],
+  "trending": [
+    {
+      "term": "我去不早说",
+      "desc": "反转吐槽句，表达早知道就不这样了。"
+    },
+    {
+      "term": "活人感",
+      "desc": "夸真实松弛，不像模板化人设。"
+    },
+    {
+      "term": "外耗",
+      "desc": "把能量花在外界噪音上的自嘲。"
+    },
+    {
+      "term": "奥德赛时期",
+      "desc": "把低谷形容为漫长但有意义的漂流。"
+    },
+    {
+      "term": "智能原生代",
+      "desc": "指把AI当日常助手的一代年轻人。"
+    }
+  ],
+  "research": [
+    {
+      "title": "古人类工具改写认知",
+      "summary": "ScienceDaily援引Field Museum研究称，中国古人类约14.6万年前已制造更复杂石器，显示严酷冰期中仍有规划和创新能力。发现挑战“创造力只在富足环境中出现”的旧叙事。",
+      "source": "ScienceDaily / Field Museum",
+      "url": "http://www.sciencedaily.com/releases/2026/05/260508003113.htm"
+    },
+    {
+      "title": "阿尔茨海默新线索",
+      "summary": "Nature Aging研究亮点称，微胶质样细胞中的体细胞变异可能与阿尔茨海默病理有关。若后续验证成立，脑内随年龄累积的细胞突变或成为解释神经退行的新路径。",
+      "source": "Nature Aging",
+      "url": "https://www.nature.com/articles/s43587-026-01135-w"
+    }
+  ],
+  "finance": [
+    {
+      "title": "美国通胀升温",
+      "summary": "CNBC报道，美国4月消费者价格同比上涨3.8%，为2023年5月以来最高。通胀回潮压缩降息空间，也会让美股估值、债券收益率和消费信心继续承压。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/video/2026/05/12/the-pre-market-rundown-2-may-12-2026.html"
+    },
+    {
+      "title": "美债赤字扩大",
+      "summary": "CNBC称，美国财政部公布2026财年赤字已达9540亿美元。高赤字叠加高利率会推升融资成本，市场将更关注国债供给、美元走势及财政可持续性。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/video/2026/05/12/u-s-treasury-reports-954b-deficit-for-fiscal-year-26.html"
+    },
+    {
+      "title": "中国PPI走高",
+      "summary": "Reuters报道，中国4月PPI同比上涨2.8%、CPI上涨1.2%，能源成本与出行需求推高价格。持续多年的出厂通缩出现拐点，企业利润和政策节奏都将被重新评估。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/china-april-producer-inflation-surges-to-45-month-high-2026-05-11/"
+    }
+  ],
+  "sources_checked": [
+    "Tavily Search",
+    "新华社",
+    "人民网",
+    "北京市科委",
+    "CNN",
+    "NBC News",
+    "纽约时报",
+    "PitchBook",
+    "Forbes",
+    "新浪新闻热梗盘点",
+    "36氪",
+    "ScienceDaily",
+    "Nature Aging",
+    "CNBC",
+    "Reuters"
+  ]
+}
