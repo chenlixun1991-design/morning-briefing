@@ -1,0 +1,137 @@
+{
+  "date": "2026-05-14",
+  "created_by": "Tomato 🍅",
+  "international": [
+    {
+      "title": "中美元首会晤",
+      "summary": "AP报道，特朗普抵达北京，双方试图修复关税战造成的贸易下滑。若会谈能延长稀土与关税缓和窗口，将影响全球制造、科技供应链和市场风险偏好。",
+      "source": "AP News",
+      "url": "https://apnews.com/article/us-china-trade-exports-tariffs-0c153f76289c1758dcbf27d95ad32ce9"
+    },
+    {
+      "title": "霍海油轮通行",
+      "summary": "Reuters称，中国超大型油轮“远华湖”在美伊冲突封锁背景下驶出霍尔木兹海峡，载有约200万桶伊拉克原油。航运恢复迹象将牵动油价、保险和能源安全预期。",
+      "source": "Reuters / The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-896072"
+    },
+    {
+      "title": "美媒遭传唤",
+      "summary": "MediaPost援引华盛顿邮报称，美国司法部就伊朗战争泄密调查传唤《华尔街日报》。新闻机构称将反对，事件凸显战时信息管控与新闻自由之间的紧张。",
+      "source": "MediaPost / Washington Post",
+      "url": "https://www.mediapost.com/publications/article/415051/deal-reached-with-hackers-in-canvas-learning-syste.html"
+    }
+  ],
+  "domestic": [
+    {
+      "title": "农业法修订",
+      "summary": "财新报道，中国修订农业法，强调保障粮食供给并提升农村收入。政策把安全底线与乡村收入增长放在同一框架内，后续将影响土地、补贴和农产品供应链治理。",
+      "source": "Caixin Global",
+      "url": "https://www.caixinglobal.com/2026-05-13/china-overhauls-agriculture-law-to-secure-food-supply-and-boost-rural-incomes-102443627.html"
+    },
+    {
+      "title": "中国造船领跑",
+      "summary": "Seatrade Maritime称，中国一季度造船完工量、新接订单和手持订单全球份额分别达57.3%、84.9%、69.8%。外需集中流向中国船厂，强化高端制造出口优势。",
+      "source": "Seatrade Maritime News",
+      "url": "https://www.seatrade-maritime.com/shipyards/china-leads-the-global-shipbuilding-market-in-q1"
+    },
+    {
+      "title": "北京自动驾驶",
+      "summary": "CNN报道，北京国际车展上Pony.ai等企业展示自动驾驶与电动车技术，行业把车展视为未来出行对话场。Robotaxi商业化、监管和城市道路协同将继续升温。",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/05/13/world/video/beijing-pony-ai-autonomous-driving-hnk-spc"
+    }
+  ],
+  "tech": [
+    {
+      "title": "AI基站算力之争",
+      "summary": "RCR Wireless报道，T-Mobile、诺基亚和英伟达都押注AI原生基站，但对CPU还是GPU架构分歧明显。无线网络边缘算力将影响6G、机器人和低时延应用成本。",
+      "source": "RCR Wireless News",
+      "url": "https://www.rcrwireless.com/20260513/ai/cpu-vs-gpu-ai-tower"
+    },
+    {
+      "title": "AI芯片股反弹",
+      "summary": "Yahoo Finance称，黄仁勋随特朗普访华、全球存储供应趋紧，带动半导体和光通信股票盘前上涨。AI硬件景气仍强，但政策谈判与出口限制仍是核心波动源。",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/ai-chip-stocks-surge-again-114249160.html"
+    },
+    {
+      "title": "谷歌I/O前瞻",
+      "summary": "CNET称，Google I/O 2026预计聚焦智能体AI、Android XR眼镜和跨设备工作流。市场关注点已从炫技转向低延迟、隐私与真实可用的日常AI体验。",
+      "source": "CNET",
+      "url": "https://www.cnet.com/tech/services-and-software/can-google-wow-us-at-io-2026-heres-what-it-has-to-get-right/"
+    }
+  ],
+  "trending": [
+    {
+      "term": "抽象力",
+      "desc": "用荒诞玩梗消解压力，评论区常见。"
+    },
+    {
+      "term": "痛文化",
+      "desc": "二次元周边表达热爱，常见“痛包”。"
+    },
+    {
+      "term": "赛博对账",
+      "desc": "线上核对共同经历，确认同频感。"
+    },
+    {
+      "term": "不早说",
+      "desc": "反转吐槽：现在才说已经晚了。"
+    },
+    {
+      "term": "活人感",
+      "desc": "夸真实自然，不像精修模板人设。"
+    }
+  ],
+  "research": [
+    {
+      "title": "二维生长定律",
+      "summary": "ScienceDaily援引维尔茨堡大学研究称，团队用光物质准粒子实验证实二维KPZ普适缩放，解决约40年物理难题。发现暗示晶体、生物等增长过程可能共享隐藏规则。",
+      "source": "ScienceDaily / University of Würzburg",
+      "url": "http://www.sciencedaily.com/releases/2026/05/260505234622.htm"
+    },
+    {
+      "title": "银河中心巡天",
+      "summary": "NASA称，哈勃已为Roman望远镜银河核球时域巡天完成前置观测。新旧数据对照将帮助识别恒星和行星信号，为Roman最快9月发射后的系外行星研究铺路。",
+      "source": "NASA Science",
+      "url": "https://science.nasa.gov/missions/roman-space-telescope/hubble-survey-sets-up-romans-future-look-near-milky-ways-center/"
+    }
+  ],
+  "finance": [
+    {
+      "title": "美联储或再加息",
+      "summary": "WSJ报道，波士顿联储主席Collins称若通胀持续，不排除需要加息。能源价格和关税压力让降息预期降温，债券收益率、美元和成长股估值都将受影响。",
+      "source": "Wall Street Journal",
+      "url": "https://www.wsj.com/economy/central-banking/feds-collins-says-she-could-envision-the-need-for-rate-hikes-95b509dc"
+    },
+    {
+      "title": "腾讯利润增21%",
+      "summary": "Yahoo财经援引财报称，腾讯一季度利润同比增长21%，但营收低于预期，公司继续把战略重心转向AI。结果显示平台公司利润韧性仍在，增长动能更依赖AI投入变现。",
+      "source": "Yahoo Finance / 鉅亨网",
+      "url": "https://hk.finance.yahoo.com/news/%E8%B2%A1%E5%A0%B1-%E9%A8%B0%E8%A8%8A%E6%88%B0%E7%95%A5%E8%BD%89%E5%90%91ai-q1%E5%88%A9%E6%BD%A4%E5%A4%A7%E5%A2%9E21-%E4%BD%86%E7%87%9F%E6%94%B6%E6%9C%AA%E9%81%94%E9%A0%90%E6%9C%9F-140007043.html"
+    },
+    {
+      "title": "港股AI领涨",
+      "summary": "Yahoo财经称，港股周三窄幅震荡，恒指涨0.15%、恒生科技指数涨0.46%，AI与半导体板块较强。资金继续偏向成长题材，但外围政策与估值压力仍限制指数弹性。",
+      "source": "Yahoo Finance / 鉅亨网",
+      "url": "https://hk.finance.yahoo.com/news/%E6%B8%AF%E8%82%A1%E7%9B%A4%E5%BE%8C-ai%E8%88%87%E5%8D%8A%E5%B0%8E%E9%AB%94%E5%BC%B7%E5%8B%A2%E9%A0%98%E6%BC%B2-%E6%81%92%E6%8C%87%E6%BC%B20-15-%E6%99%BA%E8%AD%9C%E6%BC%B2%E8%B6%8536-084058490.html"
+    }
+  ],
+  "sources_checked": [
+    "Tavily Search",
+    "AP News",
+    "Reuters",
+    "The Jerusalem Post",
+    "MediaPost",
+    "Washington Post",
+    "Caixin Global",
+    "Seatrade Maritime News",
+    "CNN",
+    "RCR Wireless News",
+    "Yahoo Finance",
+    "CNET",
+    "ScienceDaily",
+    "NASA Science",
+    "Wall Street Journal"
+  ]
+}
