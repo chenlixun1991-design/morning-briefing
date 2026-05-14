@@ -1,0 +1,133 @@
+{
+  "date": "2026-05-15",
+  "created_by": "Tomato 🍅",
+  "international": [
+    {
+      "title": "中美北京会谈",
+      "summary": "新华社和AP报道，习近平与特朗普5月14日在北京会谈，议题涉及贸易、伊朗局势、台湾及双边关系。会谈若延续缓和窗口，将直接影响全球供应链、能源风险和市场情绪。",
+      "source": "新华社 / AP News",
+      "url": "https://www.news.cn/politics/leaders/20260514/c97e8f2b2cfd48348b7f8ba57edc4b0f/c.html"
+    },
+    {
+      "title": "台湾问题受关注",
+      "summary": "AP聚焦中美元首会谈中有关台湾问题的表述。双方在安全与主权议题上仍有分歧，后续美方对台军售、区域军事互动与中美互信修复节奏都将受到牵动。",
+      "source": "AP News",
+      "url": "https://apnews.com/article/china-xi-trump-taiwan-independence-5d26e536240b881b06c26cd2be9ba632"
+    },
+    {
+      "title": "美伊紧张推油价",
+      "summary": "Fibre2Fashion称，美国与伊朗紧张及原油波动推升石脑油价格，一周涨幅约11%。若局势继续升级，乙烯、丙烯、苯及合成纤维成本可能继续上行。",
+      "source": "Fibre2Fashion",
+      "url": "https://www.fibre2fashion.com/news/raw-material-price-news/naphtha-prices-jump-11-in-week-amid-us-iran-tensions-crude-rally-310311-newsdetails.htm"
+    }
+  ],
+  "domestic": [
+    {
+      "title": "中美元首会谈",
+      "summary": "新华社报道，5月14日上午，国家主席习近平在人民大会堂同来华进行国事访问的美国总统特朗普举行会谈。官方表述强调共同利益大于分歧，释放稳定双边关系信号。",
+      "source": "新华网",
+      "url": "https://www.news.cn/politics/leaders/20260514/94fe0d22f1d340008651826543d29937/c.html"
+    },
+    {
+      "title": "东方智慧试航",
+      "summary": "新华社称，全球首艘2.4万标箱甲醇双燃料集装箱船“东方智慧”轮从江苏南通出江试航。该船体现中国高端船舶制造能力，也呼应航运业低碳转型需求。",
+      "source": "新华网",
+      "url": "https://www.news.cn/20260514/8ff0f81a63944657848399d7bfee1208/c.html"
+    },
+    {
+      "title": "海归科技回流",
+      "summary": "WSJ报道，更多曾在美国工作的中国科技人才回国，正在增强中国AI与半导体相关产业的人才供给。趋势反映中美科技竞争下，人才流向正成为产业能力变量。",
+      "source": "Wall Street Journal",
+      "url": "https://www.wsj.com/business/china-silicon-valley-sea-turtles-tech-ai-talent-46385d38"
+    }
+  ],
+  "tech": [
+    {
+      "title": "富士康AI增长",
+      "summary": "WSJ称，富士康一季度收入和利润表现强劲，AI服务器、网络与云产品已成为重要收入来源。公司从手机代工向AI硬件供应链节点转型，受益于全球算力建设。",
+      "source": "Wall Street Journal",
+      "url": "https://www.wsj.com/tech/foxconn-posts-strong-results-on-ai-hardware-sales-81f2ab18"
+    },
+    {
+      "title": "Cerebras上市",
+      "summary": "WSJ报道，AI芯片公司Cerebras在纳斯达克首日交易大涨，股价一度触发暂停交易。强势IPO显示资本市场仍追逐AI算力故事，也加剧对高估值泡沫的讨论。",
+      "source": "Wall Street Journal",
+      "url": "https://www.wsj.com/finance/stocks/cerebras-to-kick-off-hotly-anticipated-year-for-artificial-intelligence-ipos-8b08ead7"
+    },
+    {
+      "title": "NASA测新芯片",
+      "summary": "Astrobiology援引NASA消息称，下一代太空处理器进入测试阶段，项目面向高性能航天计算。若验证顺利，未来深空任务可获得更强本地计算与AI处理能力。",
+      "source": "Astrobiology / NASA",
+      "url": "https://astrobiology.com/2026/05/tricorder-tech-nasas-next-gen-space-processor-undergoes-testing.html"
+    }
+  ],
+  "trending": [
+    {
+      "term": "哈基米",
+      "desc": "萌宠爱称，因电影备案再被讨论。"
+    },
+    {
+      "term": "老舅变老抽",
+      "desc": "谐音调侃梗，常用于抽象玩笑。"
+    },
+    {
+      "term": "算他们没用",
+      "desc": "追星反讽句，表达失望或脱粉。"
+    },
+    {
+      "term": "赛车忘删MOD",
+      "desc": "AI赛车整活，把万物放上赛道。"
+    },
+    {
+      "term": "五十年后的TA",
+      "desc": "AI老年化视频，玩未来想象。"
+    }
+  ],
+  "research": [
+    {
+      "title": "污水磷回收",
+      "summary": "Nature Sustainability刊文讨论污水中磷资源回收。磷是农业肥料关键元素，若回收技术规模化，可降低矿石依赖、减少水体富营养化，并提升城市循环经济价值。",
+      "source": "Nature Sustainability",
+      "url": "https://www.nature.com/articles/s41893-026-01775-1"
+    },
+    {
+      "title": "蛋白工程新法",
+      "summary": "Nature Methods介绍Sequence Display用于蛋白工程，结合高通量筛选与机器学习提升分子设计效率。该方向有望加速药物、酶和合成生物学材料开发。",
+      "source": "Nature Methods",
+      "url": "https://www.nature.com/articles/s41592-026-03106-w"
+    }
+  ],
+  "finance": [
+    {
+      "title": "美股再创新高",
+      "summary": "Investopedia报道，思科领涨科技股，标普500和纳指收于纪录高位，道指重回50000点上方。AI交易仍是主线，但市场也关注中美北京会谈带来的政策变量。",
+      "source": "Investopedia",
+      "url": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-05142026-11974563"
+    },
+    {
+      "title": "AI交易升温",
+      "summary": "Yahoo Finance称，美股继续上涨，投资者聚焦AI相关股票；思科因削减岗位、加码AI资源配置而大涨。企业资本开支向AI集中，支撑科技股风险偏好。",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/u-stock-futures-tick-ai-105000991.html"
+    },
+    {
+      "title": "北京会谈牵动市场",
+      "summary": "Reuters经Yahoo Finance报道，美股在科技股带动下收高，同时投资者观察特朗普与习近平在北京的会谈进展。贸易、能源与供应链议题仍可能改变全球资产定价。",
+      "source": "Reuters / Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-futures-rise-100721449.html"
+    }
+  ],
+  "sources_checked": [
+    "Tavily Search",
+    "新华网",
+    "AP News",
+    "Wall Street Journal",
+    "Investopedia",
+    "Yahoo Finance",
+    "Reuters",
+    "Fibre2Fashion",
+    "Nature Sustainability",
+    "Nature Methods",
+    "Astrobiology / NASA"
+  ]
+}
