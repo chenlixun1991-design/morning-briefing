@@ -1,0 +1,135 @@
+{
+  "date": "2026-05-16",
+  "created_by": "Tomato 🍅",
+  "international": [
+    {
+      "title": "中美元首再会",
+      "summary": "SCMP和AP报道，习近平与特朗普在北京行程最后阶段继续会晤，议题覆盖贸易、台湾、伊朗与双边框架。会谈释放沟通信号，但具体政策突破仍有限，全球市场继续观察后续执行。",
+      "source": "SCMP / AP News",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3353622/xi-trump-talks-live-leaders-set-meet-again-over-tea-and-working-lunch"
+    },
+    {
+      "title": "波斯湾风险升温",
+      "summary": "CBS News提到联合国警告波斯湾危机，Newsweek称伊朗战争推高美国燃油价格压力。能源通道与油价波动正牵动通胀预期，并可能传导至航空、航运和消费成本。",
+      "source": "CBS News / Newsweek",
+      "url": "https://www.newsweek.com/videos/the-bulletin-may-15s-news-in-60-seconds"
+    },
+    {
+      "title": "美拟起诉卡斯特罗",
+      "summary": "CBS News报道称，美国消息人士称政府正推进对劳尔·卡斯特罗的起诉安排，相关进展与CIA局长访问古巴同框出现。若成形，将给美古关系和地区外交带来新压力。",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/video/doctor-explains-which-foods-help-avoid-or-cause-brain-fog/"
+    }
+  ],
+  "domestic": [
+    {
+      "title": "多地强降雨",
+      "summary": "央视新闻报道，5月15日至19日广东、贵州等地有大范围降雨，部分地区大雨或暴雨，局地大暴雨。中央气象台继续发布暴雨和强对流蓝色预警，出行与防灾需留意。",
+      "source": "央视新闻",
+      "url": "https://news.cctv.com/2026/05/16/ARTIm9rKorGEhmInBHurV6TT260515.shtml"
+    },
+    {
+      "title": "西南麦区收获",
+      "summary": "央视新闻称，西南麦区冬小麦进入大面积收获期。夏粮占全年粮食产量两成多，其中九成以上为冬小麦，当前收获进度将影响全年粮食稳产预期和后续农机调度。",
+      "source": "央视新闻",
+      "url": "https://news.cctv.com/2026/05/16/ARTIJrg2CzWLazyJLclTykCA260515.shtml"
+    },
+    {
+      "title": "证监会护权",
+      "summary": "央视新闻报道，证监会副主席陈华平表示将多措并举支持投资者依法维权，推动损害赔偿落实落地。监管重心继续指向信息披露、违法追责和中小投资者保护。",
+      "source": "央视新闻",
+      "url": "https://news.cctv.com/2026/05/16/ARTIprymw6uoERF12eQ4yZbq260515.shtml"
+    }
+  ],
+  "tech": [
+    {
+      "title": "海上AI机房",
+      "summary": "Fox News报道，Panthalassa正测试可在海上运行的AI数据中心节点Ocean-3，目标用海浪能源支持推理计算。方案有望缓解电力压力，但盐雾、风暴与维护成本仍是关键挑战。",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/tech/ai-data-centers-may-soon-ride-ocean-waves"
+    },
+    {
+      "title": "欧盟AI延期",
+      "summary": "RCR Wireless称，欧盟把高风险AI合规期限推迟至2027年底，为企业审计系统、补足治理和端点管理争取时间。延期不代表放松，AI透明、可追溯和安全要求仍会推进。",
+      "source": "RCR Wireless News",
+      "url": "https://www.rcrwireless.com/20260515/opinion/eu-ai-act-delay-hexnode"
+    },
+    {
+      "title": "谷歌I/O预热",
+      "summary": "CNET报道，谷歌I/O预计披露智能体AI模型、Android 17、Android XR智能眼镜及Android与ChromeOS融合进展。AI入口争夺正从聊天工具延伸到系统与硬件。",
+      "source": "CNET",
+      "url": "https://www.cnet.com/videos/google-to-detail-agentic-ai-models-at-io-android-17-features-and-smart-glasses-reveal-expected-tech-today/"
+    }
+  ],
+  "trending": [
+    {
+      "term": "气血强度",
+      "desc": "夸人精力旺，也自嘲打工人亚健康。"
+    },
+    {
+      "term": "哈基米",
+      "desc": "萌宠爱称，因电影备案再度出圈。"
+    },
+    {
+      "term": "少癫大癫",
+      "desc": "形容夸张程度，从离谱到非常离谱。"
+    },
+    {
+      "term": "点部署",
+      "desc": "港式网络语，问下一步怎么办。"
+    },
+    {
+      "term": "世一",
+      "desc": "世界第一缩写，用来夸人或物很顶。"
+    }
+  ],
+  "research": [
+    {
+      "title": "蛋白工程新法",
+      "summary": "Nature Methods介绍Sequence Display用于蛋白工程，把高通量筛选、机器学习与分子设计结合。该方法有望提高新酶、药物候选分子和合成生物学组件的发现效率。",
+      "source": "Nature Methods",
+      "url": "https://www.nature.com/articles/s41592-026-03106-w"
+    },
+    {
+      "title": "阿尔茨海默线索",
+      "summary": "Nature Aging研究亮点称，小胶质样细胞中的体细胞变异与阿尔茨海默病病理相关。发现提示大脑随年龄累积的突变，可能参与神经退行性疾病机制。",
+      "source": "Nature Aging",
+      "url": "https://www.nature.com/articles/s43587-026-01135-w"
+    }
+  ],
+  "finance": [
+    {
+      "title": "全球股市回落",
+      "summary": "AP报道，油价上行冲击债市，全球股市从纪录高位回落，AI相关科技股领跌。投资者担心能源价格推高通胀与利率预期，风险偏好短线降温。",
+      "source": "AP / Bozeman Daily Chronicle",
+      "url": "https://www.bozemandailychronicle.com/ap_news/business/stock-markets-worldwide-drop-from-records-as-worries-about-oil-prices-rattle-the-bond-market/article_737bb82e-a340-5aee-aade-73e5c63eacf9.html"
+    },
+    {
+      "title": "美债收益上破",
+      "summary": "MarketWatch称，美股三大指数走低，10年期美债收益率升破4.5%，黄金白银下跌，油价在中美元首会后走高。债券市场重新定价通胀和政策路径。",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-and-nasdaq-set-to-pull-back-as-treasury-yields-climb"
+    },
+    {
+      "title": "H200采购获批",
+      "summary": "新浪财经芝麻AI速递称，美国商务部批准10家中国公司购买英伟达H200处理器，最早2025年12月可售，但部分公司放弃采购。芯片出口限制与AI算力需求仍在博弈。",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/headline/2026-05-16/doc-inhxzrez4878780.shtml"
+    }
+  ],
+  "sources_checked": [
+    "Tavily Search",
+    "SCMP",
+    "AP News",
+    "CBS News",
+    "Newsweek",
+    "央视新闻",
+    "Fox News",
+    "RCR Wireless News",
+    "CNET",
+    "新浪财经",
+    "Nature Methods",
+    "Nature Aging",
+    "MarketWatch"
+  ]
+}
