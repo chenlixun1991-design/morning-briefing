@@ -1,0 +1,135 @@
+{
+  "date": "2026-05-20",
+  "created_by": "Tomato 🍅",
+  "international": [
+    {
+      "title": "台军售受阻",
+      "summary": "纽约时报称，特朗普政府对140亿美元对台军售显露迟疑，北京可能借机拖延装备交付。此事牵动台海威慑、美国盟友信任与中美谈判筹码，后续需看白宫是否补强承诺。",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/issue/todaysinyt/2026/05/19/todays-new-york-times-international-edition"
+    },
+    {
+      "title": "卡塔尔气运受挫",
+      "summary": "纽约时报报道，伊朗袭击及海运停摆正冲击卡塔尔天然气出口，使其旅游、金融和商业转型承压。若能源航道持续受阻，全球LNG供应、海湾财政和通胀预期都会被放大。",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/issue/todaysinyt/2026/05/19/todays-new-york-times-international-edition"
+    },
+    {
+      "title": "刚果埃博拉升温",
+      "summary": "纽约时报世界版称，刚果埃博拉病例快速增加，医护人员面临物资短缺，世卫组织警告疫情可能持续数月。公共卫生压力若外溢，将考验中非地区监测、疫苗和跨境协作。",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/section/world"
+    }
+  ],
+  "domestic": [
+    {
+      "title": "粤桂澳水网",
+      "summary": "新华网头条聚焦粤桂澳民生保障水网建设，强调跨区域水资源调度、供水安全与湾区协同。工程推进有助于提升城市韧性，也会带动水利投资、生态治理和应急保障能力。",
+      "source": "新华网",
+      "url": "https://www.news.cn/"
+    },
+    {
+      "title": "消费业态回暖",
+      "summary": "新华视点称，春季消费场景活跃，多元业态释放新动能，线下文旅、首店经济与服务消费继续修复。消费回暖有利于稳增长，但居民预期和就业收入仍是持续性的关键变量。",
+      "source": "新华网",
+      "url": "https://www.news.cn/"
+    },
+    {
+      "title": "金融支持转型",
+      "summary": "新华网金融栏目提到，人民银行行长潘功胜强调加大金融支持中国经济结构转型力度。政策重点预计继续落在科技创新、绿色转型和民营企业融资，影响银行信贷投向。",
+      "source": "新华网",
+      "url": "https://www.news.cn/"
+    }
+  ],
+  "tech": [
+    {
+      "title": "Gemini转向智能体",
+      "summary": "TechCrunch称，Google在I/O 2026把Gemini 3.5 Flash押注到智能体能力，而非单纯聊天机器人。AI竞争正从模型对话转向可执行任务、跨应用协作和系统级入口。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/"
+    },
+    {
+      "title": "谷歌智能眼镜",
+      "summary": "TechCrunch报道，Google在I/O 2026发布音频驱动的智能眼镜，借鉴Meta路线强化可穿戴AI入口。若体验成熟，语音、视觉与手机生态的边界会进一步被重新定义。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/"
+    },
+    {
+      "title": "微软AI芯片",
+      "summary": "The Verge报道，微软Maia 200 AI芯片正与亚马逊、谷歌自研芯片正面竞争。云厂商加速掌控算力供应链，意在降低对英伟达依赖，并优化大模型训练与推理成本。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/news/867670/microsoft-maia-200-ai-chip-announcement"
+    }
+  ],
+  "trending": [
+    {
+      "term": "我去不早说",
+      "desc": "评论区反应梗，吐槽知道太晚。"
+    },
+    {
+      "term": "不讲不讲",
+      "desc": "打断话题，表示懂了但不展开。"
+    },
+    {
+      "term": "硬控",
+      "desc": "被内容强烈吸引，移不开眼。"
+    },
+    {
+      "term": "还得是你",
+      "desc": "夸张认可对方，常带调侃。"
+    },
+    {
+      "term": "要确欸",
+      "desc": "你要确定欸的缩写，用于傻眼。"
+    }
+  ],
+  "research": [
+    {
+      "title": "AI反问题新法",
+      "summary": "ScienceDaily称，宾大研究者提出带“mollifier layers”的AI方法，让反问题求解更稳定、计算量更低。该技术可帮助从观测结果倒推隐藏原因，未来或用于遗传学和工程建模。",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/"
+    },
+    {
+      "title": "无细胞制造",
+      "summary": "CAS 2026趋势报告指出，无细胞生物制造正成为生物技术热点，可在无需活细胞和发酵罐的情况下生产蛋白、酶或化学品。它有望提升药物发现、疫苗开发和现场制造效率。",
+      "source": "CAS",
+      "url": "https://www.cas.org/resources/cas-insights/scientific-breakthroughs-2026-emerging-trends-watch"
+    }
+  ],
+  "finance": [
+    {
+      "title": "中国一季度5%",
+      "summary": "美中经济安全审查委员会称，中国2026年一季度GDP增长5.0%，但消费偏弱、数据口径和伊朗战争带来的通胀压力仍是隐忧。增长质量与内需修复将决定全年政策力度。",
+      "source": "USCC",
+      "url": "https://www.uscc.gov/trade-bulletins/china-bulletin-may-5-2026"
+    },
+    {
+      "title": "中美缓和待考",
+      "summary": "China Briefing分析称，2026年中美关系虽有阶段性缓和，但政治、监管与安全摩擦仍可能反复。企业在供应链、关税、出口管制和合规布局上仍需保留多套预案。",
+      "source": "China Briefing",
+      "url": "https://www.china-briefing.com/news/us-china-relations-in-2026-what-to-watch/"
+    },
+    {
+      "title": "美股关注AI与税务",
+      "summary": "CNBC首页显示，市场继续关注AI、SpaceX融资安排及美国税务执法和解等议题。科技资本开支与政策不确定性并存，可能继续影响风险资产估值与投资者情绪。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/"
+    }
+  ],
+  "sources_checked": [
+    "Tavily Search",
+    "The New York Times",
+    "BBC World Service",
+    "新华网",
+    "TechCrunch",
+    "The Verge",
+    "ScienceDaily",
+    "CAS",
+    "USCC",
+    "China Briefing",
+    "CNBC",
+    "LingoAce",
+    "Look Pretty"
+  ]
+}
