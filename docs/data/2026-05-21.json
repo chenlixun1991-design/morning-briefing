@@ -1,0 +1,137 @@
+{
+  "date": "2026-05-21",
+  "created_by": "Tomato 🍅",
+  "international": [
+    {
+      "title": "中东缓和试探",
+      "summary": "RFI、VOA均关注美伊谈判与霍尔木兹海峡局势。华盛顿称谈判有进展但保留备选方案，市场则押注冲突可能降温。若航道恢复，油价与全球通胀压力有望缓和，但核议题仍是硬结。",
+      "source": "RFI / VOA",
+      "url": "https://www.rfi.fr/cn/%E5%85%B3%E9%94%AE%E8%AF%8D/%E5%9B%BD%E9%99%85"
+    },
+    {
+      "title": "以黎延长停火",
+      "summary": "VOA中文报道，美国国务院称以色列与黎巴嫩同意将停火延长45天，并计划6月继续和平谈判。停火给边境居民和区域外交留下窗口，但真主党、以军行动和中东外溢风险仍需观察。",
+      "source": "VOA中文",
+      "url": "https://www.voachinese.com/p/6143.html"
+    },
+    {
+      "title": "欧洲分歧加深",
+      "summary": "德国之声称，中东局势升级后，欧盟内部对美以行动、伊朗反击和外交路径反应不一。欧洲缺乏统一立场会削弱斡旋能力，也让北约、能源安全和难民压力更容易被连锁放大。",
+      "source": "德国之声",
+      "url": "https://www.dw.com/zh/%E4%B8%AD%E4%B8%9C%E5%B1%80%E5%8A%BF%E8%BF%85%E9%80%9F%E5%8D%87%E7%BA%A7-%E6%AC%A7%E7%9B%9F%E5%90%84%E5%9B%BD%E5%8F%8D%E5%BA%94%E4%B8%8D%E4%B8%80/a-76176459"
+    }
+  ],
+  "domestic": [
+    {
+      "title": "中俄协作升级",
+      "summary": "新华网报道，习近平5月20日在北京同俄罗斯总统普京会谈，强调推动中俄全面战略协作迈向更高质量。此举将影响能源、贸易、安全和全球南方议题，也会被外界视作大国关系风向标。",
+      "source": "新华网",
+      "url": "https://app.xinhuanet.com/news/article.html?articleId=202605213225a001b1b145928700178b96ca1f20"
+    },
+    {
+      "title": "春季外交复盘",
+      "summary": "新华社长文总结2026年春季中国元首外交，强调多国政要密集访华、合作文件频繁签署。对内是开放与稳定叙事，对外则释放中国希望在动荡国际环境中提供确定性的信号。",
+      "source": "新华网",
+      "url": "https://app.xinhuanet.com/news/article.html?articleId=2026050464d59a0c0b2e4557b5fce0614083f6ae"
+    },
+    {
+      "title": "美伊谈判进展",
+      "summary": "中新网援引消息称，美国副总统万斯表示美伊谈判取得很大进展，但美方也准备了“B方案”。该表态关系到中东局势、能源价格和中国外交斡旋空间，短期仍会牵动市场情绪。",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/"
+    }
+  ],
+  "tech": [
+    {
+      "title": "英伟达看好中国",
+      "summary": "RFI援引法新社称，黄仁勋预计中国市场最终会向可训练和运行AI系统的美国高端芯片开放。若限制放松，英伟达、中国云厂商和国产替代链条都会受影响，芯片管制博弈仍是核心变量。",
+      "source": "RFI",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260519-%E8%8B%B1%E4%BC%9F%E8%BE%BE%E9%A6%96%E5%B8%AD%E6%89%A7%E8%A1%8C%E5%AE%98%E9%A2%84%E8%AE%A1%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%E5%B0%86%E5%90%91%E5%85%B6ai%E8%8A%AF%E7%89%87%E6%95%9E%E5%BC%80%E5%A4%A7%E9%97%A8"
+    },
+    {
+      "title": "英伟达生态下注",
+      "summary": "东方财富称，英伟达2026年AI生态股权投资已超400亿美元，覆盖芯片、光子、云服务和模型企业。算力公司正从卖硬件转向控制生态入口，未来竞争会更像平台战。",
+      "source": "东方财富",
+      "url": "https://wap.eastmoney.com/a/202605113732514424.html"
+    },
+    {
+      "title": "OpenAI芯片化",
+      "summary": "美南新闻称，OpenAI与博通推进定制AI芯片合作，意在降低对通用GPU的依赖。大模型竞争继续下沉到硬件、能耗和供应链，云厂商与芯片设计公司的议价权可能重排。",
+      "source": "美南新闻",
+      "url": "https://scdaily.com/zh-CN/post/92664"
+    }
+  ],
+  "trending": [
+    {
+      "term": "活人感",
+      "desc": "形容真实自然，不像被生活格式化。"
+    },
+    {
+      "term": "赛博对账",
+      "desc": "网上核对共同经历，确认同温层。"
+    },
+    {
+      "term": "我去不早说",
+      "desc": "知道太晚的夸张反应句式。"
+    },
+    {
+      "term": "爱你老己",
+      "desc": "悦己表达，调侃式好好爱自己。"
+    },
+    {
+      "term": "做完你的做你的",
+      "desc": "忙中控场，回应催进度场景。"
+    }
+  ],
+  "research": [
+    {
+      "title": "乳腺癌AI诊断",
+      "summary": "上海科技大学报道，沈定刚团队发表多模态AI辅助乳腺癌无创精准诊断方法BINDS，可结合多源数据评估病灶风险和亚型。若进一步临床验证，有望减少侵入性检查并提升早筛效率。",
+      "source": "上海科技大学",
+      "url": "https://shanghaitech.edu.cn/2026/0520/c1006a1122173/page.htm"
+    },
+    {
+      "title": "黑盒AI可解释",
+      "summary": "中科院深圳先进院团队在Nature Biomedical Engineering发表类关联流形学习方法，把医疗黑盒AI决策压缩成医生可理解的低维可视化规律。该方法或推动医疗AI从准确率走向可信使用。",
+      "source": "中科院深圳先进院",
+      "url": "https://www.siat.ac.cn/siatxww/kyjz/202605/t20260519_8204933.html"
+    }
+  ],
+  "finance": [
+    {
+      "title": "美股受AI拖累",
+      "summary": "华尔街日报中文网称，科技股拖累主要股指，纳指回落，市场同时关注AI公司收入和资本开支压力。若AI基础设施投入兑现慢于预期，高估值科技股可能继续承压。",
+      "source": "华尔街日报中文网",
+      "url": "https://cn.wsj.com/zh-hans/news/markets"
+    },
+    {
+      "title": "油价跌破百元",
+      "summary": "雅虎财经称，美国股指期货走高，原油跌回每桶100美元以下，投资者从美国可能结束伊朗军事行动的信号中获得缓和预期。能源价格回落有利通胀，但地缘风险尚未解除。",
+      "source": "Yahoo Finance 香港",
+      "url": "https://hk.finance.yahoo.com/news/%E4%BB%8A%E6%97%A5%E8%B2%A1%E7%B6%93%E5%B8%82%E5%A0%B45%E4%BB%B6%E5%A4%A7%E4%BA%8B-%E8%80%90%E5%85%8B%E5%85%AC%E4%BD%88%E8%B2%A1%E5%A0%B1-%E9%BB%83%E9%87%91%E9%80%A3%E5%8D%874%E6%97%A5-%E5%8E%9F%E6%B2%B9%E4%B8%8B%E8%B7%8C-104436275.html"
+    },
+    {
+      "title": "OpenAI支出忧虑",
+      "summary": "雅虎财经援引报道称，OpenAI新用户和收入目标承压，引发市场担心其数据中心合约和算力支出。甲骨文、CoreWeave、微软、英伟达等相关股票受牵连，AI链条开始重估现金流。",
+      "source": "Yahoo Finance 香港",
+      "url": "https://hk.finance.yahoo.com/news/%E5%8A%A0%E6%8B%BF%E5%A4%A7tsx%E8%82%A1%E6%8C%87%E6%9C%9F%E8%B2%A8%E8%B5%B0%E8%BB%9F-%E6%8A%95%E8%B3%87%E8%80%85%E9%97%9C%E6%B3%A8%E7%BE%8E%E4%BC%8A%E5%83%B5%E5%B1%80%E8%88%87openai%E6%86%82%E6%85%AE-132607163.html"
+    }
+  ],
+  "sources_checked": [
+    "Tavily Search",
+    "RFI",
+    "VOA中文",
+    "德国之声",
+    "新华网",
+    "中国新闻网",
+    "东方财富",
+    "美南新闻",
+    "LingoAce",
+    "悟空中文",
+    "上海科技大学",
+    "中科院深圳先进院",
+    "华尔街日报中文网",
+    "Yahoo Finance 香港"
+  ]
+}
+
