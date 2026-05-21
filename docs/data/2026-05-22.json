@@ -1,0 +1,125 @@
+{
+  "date": "2026-05-22",
+  "created_by": "Tomato 🍅",
+  "international": [
+    {
+      "title": "乌军再炸炼厂",
+      "summary": "路透与美联社称，乌克兰无人机夜袭俄罗斯石油旗下锡兹兰炼油厂并引发大火，泽连斯基称这是5月内第11座被打击的俄炼厂。事件继续压迫俄方能源出口与后勤韧性，也显示远程打击仍在升级。",
+      "source": "Reuters / AP",
+      "url": "https://www.reuters.com/world/ukrainian-drones-strike-russias-syzran-oil-refinery-kyiv-says-2026-05-21/"
+    },
+    {
+      "title": "中俄签40余合作",
+      "summary": "CNBC援引会晤信息称，普京访华期间中俄签署贸易、教育、科技和核安全等40多项合作，但“西伯利亚力量2号”仍无突破。北京借连续接待特朗普与普京强化自身枢纽地位，全球博弈意味更浓。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/21/china-russia-putin-xi-jinping-ties-deals-energy-siberia-pipeline-trump-visits-.html"
+    },
+    {
+      "title": "习近平或访朝鲜",
+      "summary": "路透引述韩联社称，习近平最早可能于下周访问朝鲜，并被视作在特朗普与金正恩之间寻找斡旋空间。若成行，将牵动东北亚安全、半岛谈判节奏以及中朝关系再升温的外部预期。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/chinas-xi-may-visit-north-korea-early-next-week-yonhap-reports-2026-05-20/"
+    }
+  ],
+  "domestic": [
+    {
+      "title": "前四月经济稳进",
+      "summary": "国家统计局称，前四个月工业增加值同比增5.6%，高技术制造业增12.6%，社会消费品零售总额增1.9%，城镇调查失业率4月降至5.2%。增长结构继续偏向高技术与出口，但内需仍需加力修复。",
+      "source": "国家统计局",
+      "url": "https://www.stats.gov.cn/english/PressRelease/202605/t20260518_1963724.html"
+    },
+    {
+      "title": "山西毁长城案拘4人",
+      "summary": "China Daily报道，山西4名矿工因涉嫌破坏明长城部分墙体被刑拘，现场出现坍塌和被切穿痕迹，属不可逆损毁。事件再次暴露文保与工程边界管理问题，后续追责与修复安排值得持续关注。",
+      "source": "China Daily",
+      "url": "https://www.chinadaily.com.cn/a/202605/21/WS6a0ec2e9a310d6866eb49f66.html"
+    },
+    {
+      "title": "中巴75周年升温",
+      "summary": "半岛电视台梳理称，中巴建交75周年之际，巴基斯坦议会通过重申友谊决议，谢里夫计划于5月23日访华。纪念节点把经贸、基建与安全合作再次推到台前，也会强化区域外交联动预期。",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/5/21/iron-brothers-how-china-and-pakistan-built-an-unlikely-75-year-bond"
+    }
+  ],
+  "tech": [
+    {
+      "title": "Anthropic谈芯片",
+      "summary": "CNBC称，Anthropic正与微软洽谈采用Maia 200 AI芯片，双方尚未签约，但已反映头部模型公司正主动分散对通用GPU的依赖。若合作落地，云厂商自研芯片商业化会明显提速，算力竞赛将更硬件化。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/21/anthropic-microsoft-maia-200-ai-chip.html"
+    },
+    {
+      "title": "英伟达再押数据中心",
+      "summary": "路透称，黄仁勋用新一代数据中心芯片与超预期销售展望安抚投资者，核心信号是英伟达仍想把AI景气延长到下一轮基础设施升级。若客户资本开支继续跟进，AI硬件链条的高估值还会被继续支撑。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/video/watch/idRW231820052026RP1"
+    }
+  ],
+  "trending": [
+    {
+      "term": "活人感",
+      "desc": "夸人真实松弛，不像模板人。"
+    },
+    {
+      "term": "爱你老己",
+      "desc": "玩笑式悦己表达，主打先爱自己。"
+    },
+    {
+      "term": "情绪消费",
+      "desc": "为缓解情绪而下单、打卡或囤物。"
+    },
+    {
+      "term": "AI陪伴",
+      "desc": "把AI当聊天搭子、情绪搭子。"
+    },
+    {
+      "term": "奥德赛时期",
+      "desc": "调侃人生漂流探索阶段。"
+    }
+  ],
+  "research": [
+    {
+      "title": "衰老细胞新标记",
+      "summary": "ScienceDaily转述梅奥诊所成果称，研究者发现DNA适配体可选择性结合衰老“僵尸细胞”，未来有望更精准识别并靶向与衰老、癌症和神经退行性疾病相关的细胞群。其意义在于把抗衰研究推向可定位、可干预阶段。",
+      "source": "ScienceDaily / Mayo Clinic",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260515001733.htm"
+    },
+    {
+      "title": "深度学习解RNA剪接",
+      "summary": "Nature Computational Science介绍的HELIX框架，可结合序列特征与RNA结合蛋白表达，预测不同生物情境下的全长转录本使用。它有助于把复杂剪接机制从“看不清”推进到可建模、可比较的层面。",
+      "source": "Nature Computational Science",
+      "url": "https://www.nature.com/articles/s43588-026-00987-x"
+    }
+  ],
+  "finance": [
+    {
+      "title": "英伟达带动AI交易",
+      "summary": "路透称，英伟达给出超预期销售展望，并继续押注新数据中心芯片，市场把这视作AI资本开支仍未见顶的信号。相关链条估值因此获得再确认，但也让资金更集中押注少数核心龙头。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/video/watch/idRW231820052026RP1"
+    },
+    {
+      "title": "债市主线仍是通胀",
+      "summary": "路透评论认为，尽管英国政局再生变数，债券市场眼下更在意的仍是通胀，而非单一政治事件。判断逻辑在于物价黏性会直接决定利率路径与久期风险，意味着全球债市短线仍难轻松转向宽松叙事。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/video/watch/idRW250321052026RP1"
+    },
+    {
+      "title": "油价回落约2%",
+      "summary": "路透梳理显示，市场因美伊协议前景仍不明朗而调整预期，国际油价收跌约2%。价格回落可暂时缓解输入型通胀压力，但霍尔木兹海峡与中东航运风险未解，能源波动仍可能随谈判反复放大。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/energy/opec-leaders-expected-up-july-oil-output-target-despite-hormuz-disruption-2026-05-21"
+    }
+  ],
+  "sources_checked": [
+    "Tavily Search",
+    "Reuters",
+    "AP News",
+    "CNBC",
+    "国家统计局",
+    "China Daily",
+    "Al Jazeera",
+    "ScienceDaily",
+    "Nature Computational Science"
+  ]
+}
