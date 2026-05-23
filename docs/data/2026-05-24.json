@@ -1,0 +1,109 @@
+{
+  "date": "2026-05-24",
+  "international": [
+    {
+      "title": "美伊停火谈判推进",
+      "summary": "路透称，美国、伊朗与斡旋方巴基斯坦均表示，持续近三个月的战事停火谈判取得进展，德黑兰正推动形成谅解备忘录。若未来几天进入实质协议阶段，中东油运风险与全球能源价格波动都可能暂时缓和。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/us-iran-report-progress-talks-ending-war-looking-next-few-days-2026-05-23/"
+    },
+    {
+      "title": "塞尔维亚爆发冲突",
+      "summary": "塞尔维亚首都贝尔格莱德爆发大规模反政府示威，警方与要求总统下台的抗议者发生冲突。路透称现场人数从数万到十万不等，催泪瓦斯与震爆弹都已出现，显示该国政治危机正从街头动员升级为更高烈度的治理考验。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/police-protesters-clash-serbia-crowds-demand-presidents-exit-2026-05-23/"
+    }
+  ],
+  "domestic": [
+    {
+      "title": "山西煤矿事故致90死",
+      "summary": "据美联社援引新华社信息，山西长治沁源一处煤矿发生爆炸，死亡人数已升至90人，成为近年最严重矿难之一。事故再度把矿山安全、地方监管和高危行业问责推上前台，预计后续全国范围的安全排查力度会进一步加码。",
+      "source": "AP News",
+      "url": "https://apnews.com/article/china-shanxi-coal-mine-explosion-6816642e300ae6a8aded7c8dcc3eba61"
+    },
+    {
+      "title": "AI加速进入高校",
+      "summary": "新华社报道，第64届中国高等教育博览会上，AI教学、科研辅助和学科融合成为核心议题，显示人工智能正快速融入高校体系。它既可能提高课程与科研效率，也会倒逼高校重写培养方案、师资结构和人才评估方式。",
+      "source": "Xinhua",
+      "url": "http://www.jx.xinhuanet.com/20260523/b24b205fec324fc6bd03d7936033936d/c.html"
+    },
+    {
+      "title": "U17国足获亚洲亚军",
+      "summary": "新华社称，中国U17男足在亚洲杯决赛2比3不敌日本，收获亚军并拿到世少赛门票。虽然未能夺冠，但青年队连续取得突破，给近年承压的中国足球带来少见的积极信号，也会继续推高外界对青训兑现能力的关注。",
+      "source": "Xinhua",
+      "url": "https://app.xinhuanet.com/news/article.html?articleId=20260523c40e90a334c04e51910bfd882279cfd3"
+    }
+  ],
+  "technology": [
+    {
+      "title": "Google猛推AI搜索",
+      "summary": "路透称，Google在I/O 2026集中升级Gemini与搜索，把AI Mode、AI Overviews和可生成代码与图示的搜索能力推向更大规模用户。搜索从“带AI功能”转向“以AI为核心”，意味着内容分发、广告和开发生态都会继续被重塑。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/google-expected-court-coders-consumers-io-conference-2026-05-19/"
+    },
+    {
+      "title": "SpaceX星舰试飞过关",
+      "summary": "AP与多家媒体称，SpaceX升级版Starship完成一次总体成功的试飞，虽然轨道插入和助推器返回仍有瑕疵，但关键飞行目标基本达成。由于这次测试紧贴IPO预期窗口，结果不只影响航天进度，也直接牵动市场对其资本故事的信心。",
+      "source": "AP News",
+      "url": "https://apnews.com/article/spacex-elon-musk-starship-rocket-launch-53eb1c43f870561788839b08c401bf8f"
+    },
+    {
+      "title": "AI超级IPO竞速",
+      "summary": "路透整理显示，SpaceX递交IPO材料后，OpenAI与Anthropic也被视为2026最受关注的潜在上市对象。AI叙事正从技术竞赛走向资本市场大考，谁先上市、谁先接受公开财报与增长审视，都会影响下一阶段行业估值锚点。",
+      "source": "Reuters / Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/factbox-mega-ipos-loom-wall-205642104.html"
+    }
+  ],
+  "memes": [
+    {
+      "term": "电子榨菜",
+      "desc": "吃饭时必配视频，泛指下饭内容。"
+    },
+    {
+      "term": "班味",
+      "desc": "形容人被工作腌入味的疲态。"
+    },
+    {
+      "term": "水灵灵地",
+      "desc": "夸张副词，常接吐槽或反差句。"
+    },
+    {
+      "term": "已读乱回",
+      "desc": "故意答非所问，主打抽象感。"
+    }
+  ],
+  "research": [
+    {
+      "title": "肺部碱基编辑再推进",
+      "summary": "Nature Materials 关注的一项研究展示，可通过气道递送的脂质纳米颗粒把RNA碱基编辑工具送入肺部上皮，并用于纠正囊性纤维化相关突变。若后续动物和临床转化顺利，肺部遗传病治疗将从概念验证走向更可实施的路径。",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/s41563-026-02602-w"
+    },
+    {
+      "title": "HELIX预测RNA剪接",
+      "summary": "HELIX深度学习框架被报道可在多种生物情境下更准确预测RNA剪接与异构体使用，有望帮助研究者定位致病变异并优化药物设计。它的意义不只是模型精度提高，而是把复杂转录调控更早带进精准医疗决策流程。",
+      "source": "GEN",
+      "url": "https://www.genengnews.com/topics/artificial-intelligence/helix-ai-model-accurately-predicts-rna-splicing-unlocks-precision-medicine/"
+    }
+  ],
+  "finance": [
+    {
+      "title": "美股情绪继续亢奋",
+      "summary": "华尔街日报称，尽管中东冲突、能源波动和AI泡沫担忧并存，投资者仍持续追涨股票，主要指数重回纪录高位。市场定价显示资金仍愿意为增长和科技叙事付高估值，但这也意味着后续对政策、盈利或地缘意外会更敏感。",
+      "source": "WSJ",
+      "url": "https://www.wsj.com/finance/stocks/investors-just-cant-get-enough-of-stocks-these-days-d85caba0"
+    },
+    {
+      "title": "SpaceX财务底牌曝光",
+      "summary": "PitchBook解读SpaceX S-1称，公司对外强调AI基础设施故事，但实际收入主力仍是Starlink，AI板块占比有限且自由现金流消耗巨大。对二级市场而言，这意味着估值能否站稳，最终还得回到业务结构与现金创造能力本身。",
+      "source": "PitchBook",
+      "url": "https://pitchbook.com/news/reports/q2-2026-spacex-update-starlink-prints-ai-burns-a-dissection-of-its-s-1"
+    },
+    {
+      "title": "中国牛肉配额趋紧",
+      "summary": "行业媒体与路透相关报道显示，澳大利亚和巴西对华牛肉出口配额接近用尽，两国正争取维持对华出货，同时中国也在恢复部分美国牛肉和禽类准入。农产品贸易流向因此面临重排，肉类价格与相关企业利润预期都会受影响。",
+      "source": "Global Agriculture / Reuters context",
+      "url": "https://www.global-agriculture.com/global-agriculture/looming-beef-market-access-issues-create-uncertainty/"
+    }
+  ]
+}
