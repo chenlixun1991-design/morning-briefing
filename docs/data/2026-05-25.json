@@ -1,0 +1,119 @@
+{
+  "date": "2026-05-25",
+  "international": [
+    {
+      "title": "美伊谈判现进展",
+      "summary": "路透称，美国、伊朗与斡旋方巴基斯坦均表示，持续近三个月的冲突谈判出现进展，德黑兰正推动形成谅解备忘录。若未来几天进入实质协议阶段，霍尔木兹海峡风险与全球能源价格波动都有望暂时缓和。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/us-iran-report-progress-talks-ending-war-looking-next-few-days-2026-05-23/"
+    },
+    {
+      "title": "巴铁列车遭袭",
+      "summary": "美联社报道，巴基斯坦奎达附近铁路旁发生自杀式爆炸，造成至少23人死亡，多节车厢倾覆。事件发生在地区安全本已紧张之际，不仅加重巴方反恐压力，也让周边跨境运输和地区稳定面临新的不确定性。",
+      "source": "AP News",
+      "url": "https://apnews.com/article/pakistan-train-bombing-quetta-6e89b99c169abf9e34d018e8bc0a627a"
+    },
+    {
+      "title": "俄军再袭基辅",
+      "summary": "美联社称，俄罗斯再次以导弹和无人机袭击基辅，震动市中心并造成至少10人受伤，显示远程打击强度仍在上升。乌俄互攻继续消耗城市防空与民生韧性，也让外界对停火前景和欧洲安全局势保持高度警惕。",
+      "source": "AP News",
+      "url": "https://apnews.com/article/russia-ukraine-war-kyiv-missile-drone-attack-998aeaab5833ca397290d9ee2737b0e5"
+    }
+  ],
+  "domestic": [
+    {
+      "title": "全球再掀访华潮",
+      "summary": "央视报道，今年以来多国领导人密集访华，从西方主要国家到全球南方都在加强与中国接触。背景是全球局势震荡、供应链重组和发展议题升温，访华潮反映各方更重视中国市场、产能与外交协调能力对全球局势的影响。",
+      "source": "CCTV",
+      "url": "https://news.cctv.com/2026/05/24/ARTID7ByJMAOpHWYtowyoKKW260524.shtml"
+    },
+    {
+      "title": "消费主引擎提速",
+      "summary": "人民日报称，提振消费专项行动实施一年多来成效明显，2025年社零总额首次突破50万亿元，最终消费对经济增长贡献率达52%。今年前4个月以旧换新、线上服务和新能源汽车继续拉动内需，稳增长抓手正从投资进一步转向消费。",
+      "source": "人民日报 / CCTV",
+      "url": "https://jingji.cctv.com/2026/05/24/ARTIFf9rHCMbxHZKLO5DFXJu260524.shtml"
+    },
+    {
+      "title": "文化强国再定调",
+      "summary": "央视称，2026文化强国建设高峰论坛围绕文化创新、人才培养和产业升级凝聚共识，呼应“十五五”规划与民族复兴叙事。它不仅是文化议题本身的推进，也意味着内容产业、公共文化服务和地方文旅竞争将继续获得政策加力。",
+      "source": "CCTV",
+      "url": "https://news.cctv.com/2026/05/24/ARTIkZ8YHIu3j5zHRsgdGesU260524.shtml"
+    }
+  ],
+  "technology": [
+    {
+      "title": "Google猛推Spark",
+      "summary": "Google I/O 2026后续解读显示，Gemini Spark被定位为可长期代管邮件、任务和跨应用流程的个人AI代理，搜索也进一步转向对话式体验。它意味着Google正把AI从“功能”升级为“操作层”，并继续重塑搜索、办公和广告生态。",
+      "source": "Forbes / Google I/O context",
+      "url": "https://www.forbes.com/sites/quickerbettertech/2026/05/24/small-business-technology-news-from-epicor-google-microsoft-boston-dynamics-and-claude/"
+    },
+    {
+      "title": "Computex前哨升温",
+      "summary": "多家科技媒体称，黄仁勋与苏姿丰已相继抵达台北，为Computex 2026新品与AI硬件对决预热。随着算力需求仍高位运行，NVIDIA与AMD的路线图不仅影响PC和服务器市场，也会继续牵动全球AI基础设施投资方向与供应链节奏。",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/nvidia-jensen-huang-amd-lisa-su-land-in-taiwan-ahead-of-computex-to-showcase-next-generation-lineups/"
+    },
+    {
+      "title": "量子威胁被AI催快",
+      "summary": "CoinDesk援引安全研究者观点称，AI正在加速量子计算对现有加密体系的威胁评估，迫使加密货币和更广泛数字安全行业提前准备后量子迁移。影响不只在币圈，长期看也会倒逼身份认证、支付与数据基础设施更早升级。",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/05/24/ai-is-speeding-up-the-quantum-threat-to-crypto-security-experts-warn"
+    }
+  ],
+  "memes": [
+    {
+      "term": "从从容容",
+      "desc": "理想状态梗，常配反差式自嘲。"
+    },
+    {
+      "term": "误闯天家",
+      "desc": "自嘲误入高门槛场景，文艺感强。"
+    },
+    {
+      "term": "当个事儿办",
+      "desc": "把小事郑重处理，主打反差幽默。"
+    },
+    {
+      "term": "高雅人士",
+      "desc": "表面体面内里崩溃的抽象戏称。"
+    },
+    {
+      "term": "刚出锅",
+      "desc": "形容东西新鲜滚烫，也可玩抽象。"
+    }
+  ],
+  "research": [
+    {
+      "title": "猫癌研究助攻人癌",
+      "summary": "ScienceDaily援引圭尔夫大学研究称，团队分析全球近500个猫肿瘤样本后发现，猫、狗与人类癌症共享多种关键致癌基因，尤其涉及侵袭性乳腺癌。意义在于跨物种肿瘤学开始提供可复用靶点，未来或同步改进宠物与人类治疗策略。",
+      "source": "ScienceDaily / University of Guelph",
+      "url": "http://www.sciencedaily.com/releases/2026/05/260523103943.htm"
+    },
+    {
+      "title": "AI幻觉渗入论文",
+      "summary": "最新研究追踪发现，生物医学论文中的虚构参考文献近年显著增多，2026年前七周已有更高占比论文出现不存在的引用。问题不只是模型会胡编，更在于错误内容正进入正式知识库，学术审核与披露机制因此面临升级压力。",
+      "source": "Yahoo / science reporting",
+      "url": "https://www.yahoo.com/news/science/articles/ai-hallucinations-infiltrating-expert-entering-090000090.html"
+    }
+  ],
+  "finance": [
+    {
+      "title": "海湾股市押注和谈",
+      "summary": "路透称，受美伊接近达成和平安排、霍尔木兹海峡有望恢复通航的预期提振，多数海湾股市周日明显上涨。市场正在把地缘缓和重新计入价格，这既有助于短线风险偏好修复，也说明油运与能源价格仍是当前资本市场最敏感的变量。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/most-gulf-markets-surge-us-iran-peace-deal-expectations-2026-05-24/"
+    },
+    {
+      "title": "全球股指多数走高",
+      "summary": "路透市场页显示，标普500、道指、纳指、欧股与日经指数普遍收高，布油维持在每桶104美元上方，10年期美债收益率小幅回落。资金一边追逐增长与科技叙事，一边继续盯紧中东局势与能源价格对通胀和风险资产的二次冲击。",
+      "source": "Reuters Markets",
+      "url": "https://www.reuters.com/markets/companies/GFINBURO.MX/key-metrics/management-effectiveness/"
+    },
+    {
+      "title": "IPO狂热测试估值",
+      "summary": "金融时报与多家媒体持续讨论，SpaceX、OpenAI、Anthropic等潜在大体量上市正在把AI繁荣叙事推向新估值考验。一级市场的乐观情绪若进一步外溢到二级市场，既可能抬高科技股风险偏好，也会放大泡沫见顶的争论。",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/7e153dc1-7e13-44d0-9c49-8071a4c29261"
+    }
+  ]
+}
