@@ -1,0 +1,119 @@
+{
+  "date": "2026-05-26",
+  "international": [
+    {
+      "title": "美伊和谈逼近",
+      "summary": "路透称，美国国务卿鲁比奥表示美方仍优先争取与伊朗达成“好协议”，核心是重开霍尔木兹海峡并启动限时核谈判。虽然白宫淡化“马上敲定”的预期，但市场已提前交易缓和情景，油价和避险情绪同步回落。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/rubio-says-us-will-either-have-good-agreement-with-iran-or-deal-with-it-another-2026-05-25/"
+    },
+    {
+      "title": "俄军重击基辅",
+      "summary": "路透视频与美联社报道，俄罗斯再次以大批无人机和导弹袭击基辅，并动用“榛树”高超声速导弹，成为近阶段最重轰炸之一。此举显示俄乌互耗仍在升级，乌克兰防空与城市基础设施继续承压，停火前景被进一步拉远。",
+      "source": "Reuters / AP News",
+      "url": "https://apnews.com/photo-gallery/russia-strikes-kyiv-with-drones-hypersonic-missile-photos-cbb89c34b1aa486d89faa5bc2050c8f9"
+    },
+    {
+      "title": "中俄高层再互动",
+      "summary": "路透视频线索显示，习近平与普京在北京会晤并再次强调中俄关系稳定性。背景是乌克兰战争、中东局势与全球供应链同步震荡，这类高层互动不仅关乎双边合作，也会影响外界对欧亚安全格局与能源外交走向的判断。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/video/watch/idRW332325052026RP1/"
+    }
+  ],
+  "domestic": [
+    {
+      "title": "神舟二十三会师",
+      "summary": "新华社称，神舟二十三号3名航天员已进入天宫空间站，与神舟二十一号乘组完成会师，开启新一轮在轨轮换。这既延续中国空间站常态化运营，也为后续长期驻留、空间科学实验和载人深空能力积累提供更稳定的任务节奏。",
+      "source": "Xinhua",
+      "url": "https://english.news.cn/20260525/8c4379ff9feb456aaa306f8d53260bba/c.html"
+    },
+    {
+      "title": "港籍航天员亮相",
+      "summary": "据多家报道，神舟二十三号任务中包含首位执行载人航天任务的香港航天员，并已随乘组进驻天宫。事件的象征意义超过单次发射本身，既提升香港青年对国家科技工程的参与感，也强化大湾区与国家航天体系的人才连接。",
+      "source": "Xinhua / New York Post",
+      "url": "https://nypost.com/2026/05/25/world-news/china-launches-shenzhou-23-spacecraft-with-1-of-3-astronauts-set-for-yearlong-stay/"
+    },
+    {
+      "title": "科技工作者日定档",
+      "summary": "新华网消息，2026年全国科技工作者日新闻发布会在北京举行，公布了今年相关活动安排。该节点延续国家对科技人才与创新生态的政策强调，既服务社会科普，也为地方科技活动、人才表彰和创新传播提供集中放大窗口。",
+      "source": "新华网",
+      "url": "http://www.news.cn/photo/20260525/a1f65dfa3f3645e4b3eb9adb68b281c1/c.html"
+    }
+  ],
+  "technology": [
+    {
+      "title": "华为抛出韬定律",
+      "summary": "华为在IEEE ISCAS 2026上提出“τ韬定律”与LogicFolding路线，试图用时间尺度压缩信号延迟，绕开单纯几何缩放瓶颈。若这一路线能落地到手机与AI算力场景，将对受限环境下的先进半导体设计形成新的技术叙事。",
+      "source": "Huawei / Reuters context",
+      "url": "https://www.huawei.com/en/news/2026/5/ieee-iscas-tau-scaling"
+    },
+    {
+      "title": "富士通押注多AI",
+      "summary": "富士通公布可自我进化的多AI Agent技术，强调系统能边执行业务边学习并动态优化流程。它代表企业软件正在从“调用模型”转向“让代理持续接管流程”，后续落地效果将取决于权限治理、数据质量与异常控制能力。",
+      "source": "ACN Newswire",
+      "url": "https://www.acnnewswire.com/press-release/english/107301/fujitsu-develops-self-evolving-multi-ai-agent-technology-that-learns-and-adapts-to-business-operations"
+    },
+    {
+      "title": "Computex拼AI存储",
+      "summary": "Computex 2026前夕，厂商把焦点从单纯堆算力延伸到AI存储与能效，PROMISE等企业主打高密度、低功耗架构。信号很明确: 算力竞赛进入“电力与容量”约束期，谁能把能耗、扩展性和吞吐平衡好，谁更可能吃到下一轮基础设施红利。",
+      "source": "Financial Times / PRNewswire",
+      "url": "https://markets.ft.com/data/announce/detail?dockey=600-202605242200PR_NEWS_EURO_ND__EN62792-1"
+    }
+  ],
+  "memes": [
+    {
+      "term": "67",
+      "desc": "课堂短视频带火，常指玩梗起哄。"
+    },
+    {
+      "term": "何意味",
+      "desc": "把“什么意思”说成文绉绉反问。"
+    },
+    {
+      "term": "班味",
+      "desc": "形容人一看就很疲惫像刚下班。"
+    },
+    {
+      "term": "老派爱好复活",
+      "desc": "拼豆钩织手账回潮，主打慢生活。"
+    },
+    {
+      "term": "高雅人士",
+      "desc": "假装体面实则发疯的反差自嘲。"
+    }
+  ],
+  "research": [
+    {
+      "title": "单细胞模型再进阶",
+      "summary": "Nature评述两种新方法显示，原本在大规模序列上训练的模型，如今能更高效迁移到单细胞层面，用于预测基因调控与变异效应。意义在于基础模型正从“会看序列”走向“更懂细胞状态”，生物计算的分辨率被继续拉高。",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/s41592-026-03113-x"
+    },
+    {
+      "title": "甜菜汁降压获证据",
+      "summary": "ScienceDaily援引埃克塞特大学研究称，老年人连续两周饮用富含硝酸盐的甜菜根汁后，口腔菌群结构与血压指标都出现改善，而年轻组不明显。这提示饮食干预可能通过口腔微生物影响心血管健康，为健康老龄化提供了更细颗粒度机制。",
+      "source": "ScienceDaily / University of Exeter",
+      "url": "http://www.sciencedaily.com/releases/2026/05/260524021154.htm"
+    }
+  ],
+  "finance": [
+    {
+      "title": "和谈预期推升股市",
+      "summary": "路透称，市场押注美伊冲突可能转向谈判后，全球股指普遍走高、美元与油价回落。背后逻辑是霍尔木兹海峡若恢复通航，通胀与能源冲击会先行缓和，但市场也在警惕协议若反复，风险资产可能迅速回吐当前乐观定价。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/global-markets-wrapup-1-2026-05-24/"
+    },
+    {
+      "title": "欧股创两月新高",
+      "summary": "路透报道，受美伊和谈乐观情绪带动，欧洲股市升至两个多月高位，银行、航空等对油价敏感板块领涨。资金短线明显转向风险资产，但这一反弹仍高度依赖地缘局势继续降温，否则能源链恢复节奏仍可能拖累后续盈利预期。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/markets/europe/european-shares-climb-over-two-month-highs-iran-us-peace-optimism-2026-05-25/"
+    },
+    {
+      "title": "新加坡Q1超预期",
+      "summary": "路透称，新加坡一季度GDP同比增长6.0%，高于初值和市场预期，显示AI与区域贸易带动效果明显。不过官方同时提醒，中东冲突与输入型通胀风险上升。对亚洲资产而言，这是一份“增长强、外部扰动也强”的典型样本。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/singapore-economy-grows-6-yy-q1-above-advance-estimate-2026-05-25/"
+    }
+  ]
+}
