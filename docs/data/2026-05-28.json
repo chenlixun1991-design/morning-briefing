@@ -1,0 +1,107 @@
+{
+  "date": "2026-05-28",
+  "international": [
+    {
+      "title": "刚果埃博拉失控",
+      "summary": "路透称刚果（金）本轮埃博拉已在社区隐匿传播数周，接触者追踪、检测试剂和燃料都短缺，前线医生也出现死亡病例。由于疫苗和疗法尚未就位，加上援助人手不足，疫情外溢与跨境传播风险同步上升，全球公共卫生体系承压。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/breakneck-ebola-epidemic-congo-outpaces-worlds-response-2026-05-27/"
+    },
+    {
+      "title": "美伊现霍尔木兹草案",
+      "summary": "伊朗国家电视台称已拿到美伊冲突初步谅解框架草案：若协议推进，伊朗将在一个月内恢复霍尔木兹海峡商业航运至战前水平，美方则撤离周边军事力量并解除海上封锁。消息尚未定稿，但已显著影响中东风险预期与全球能源运输情绪。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/iran-says-draft-us-deal-would-reopen-hormuz-shipping-end-naval-blockade-2026-05-27/"
+    }
+  ],
+  "china": [
+    {
+      "title": "工业利润加速回升",
+      "summary": "CNBC援引官方数据称，中国4月规模以上工业企业利润同比增长24.7%，为2023年末以来最快，前四个月累计增长18.2%。电子与采矿行业拉动明显，但消费偏弱和房地产低迷仍拖累内需，这意味着制造业修复更强、经济结构分化也更突出。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/27/china-april-industrial-profits-growth.html"
+    },
+    {
+      "title": "小米利润承压出海",
+      "summary": "路透经ET Manufacturing转引称，小米一季度调整后净利润为61亿元人民币，同比大幅下滑43%，低于市场预期。公司称存储等零部件涨价叠加国内竞争加剧，正压缩手机业务利润，因此将继续加码海外市场，以对冲成本上升与本土价格战压力。",
+      "source": "ET Manufacturing / Reuters",
+      "url": "https://manufacturing.economictimes.indiatimes.com/amp/news/hi-tech/xiaomi-eyes-overseas-growth-as-costs-domestic-competition-weigh/131340495"
+    }
+  ],
+  "tech": [
+    {
+      "title": "SK海力士破万亿",
+      "summary": "路透称，受高端HBM等AI存储芯片需求持续爆发带动，SK海力士市值首次突破1万亿美元，跻身三星、Micron之后的“万亿俱乐部”。供给收紧与价格上行继续强化市场对AI算力产业链的乐观预期，也让存储芯片重新站上科技叙事中心。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/sk-hynix-market-capitalisation-tops-1-trln-2026-05-27/"
+    },
+    {
+      "title": "台查英伟达芯片转运",
+      "summary": "路透援引彭博称，台湾检方怀疑有人先将搭载英伟达高端芯片的服务器出口到日本，再转运至中国，并已拘留三名涉案人员。这被视为台湾首次公开打击AI芯片绕道流向中国的案件，显示美国出口管制正外溢到东亚供应链合规与执法层面。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/taiwan-suspects-nvidia-chips-smuggled-china-via-japan-bloomberg-news-reports-2026-05-27/"
+    },
+    {
+      "title": "新思科技上调指引",
+      "summary": "路透报道，新思科技因AI芯片设计软件需求强劲，上调2026财年营收与利润指引，预计全年营收达96.3亿至97.1亿美元。芯片架构复杂度上升、超大规模云厂商持续扩张，使EDA工具成为AI时代的“卖铲人”，也强化了上游软件环节的景气判断。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/synopsys-raises-annual-forecast-demand-ai-chip-design-software-2026-05-27/"
+    }
+  ],
+  "memes": [
+    {
+      "term": "活人感",
+      "desc": "夸人有真实情绪，不像模板人"
+    },
+    {
+      "term": "爱你老己",
+      "desc": "谐音爱你老几，实际是先爱自己"
+    },
+    {
+      "term": "原神牛逼",
+      "desc": "表情包烂梗，常用于反差式起哄"
+    },
+    {
+      "term": "搞抽象",
+      "desc": "故意离谱整活，用来制造笑点"
+    },
+    {
+      "term": "甲亢哥",
+      "desc": "指IShowSpeed，代指高能发疯感"
+    }
+  ],
+  "research": [
+    {
+      "title": "AI蛋白模型开源",
+      "summary": "路透称，扎克伯格支持的Biohub发布一套面向药物发现的开源“世界模型”，可帮助研究者理解并设计蛋白质。团队已用其生成针对癌症和免疫靶点的新型蛋白结合体，并在实验室中激活免疫细胞。若平台化落地顺利，生物研发迭代速度有望明显提升。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/zuckerbergs-philanthropic-venture-unveils-ai-world-model-drug-discovery-2026-05-27/"
+    },
+    {
+      "title": "南极冰层成太空探针",
+      "summary": "NASA发布新研究称，科研团队把南极冰盖作为天然介质来探测极端宇宙信号，希望借助超洁净、低干扰环境捕捉高能粒子线索。该方向一边拓展了极端天体物理观测方法，一边也让南极在气候研究之外，成为基础科学竞争中的关键观测场。",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/feature/goddard/2026/new-instrument-used-antarctic-ice-sheet-to-probe-extreme-universe"
+    }
+  ],
+  "finance": [
+    {
+      "title": "美股期指受AI提振",
+      "summary": "路透称，AI相关盈利预期持续走强，带动美国三大股指期货全面上扬，纳指与标普延续强势；高盛还把标普500年末目标从7600点上调至8000点。市场一边押注企业盈利继续兑现，一边等待PCE数据验证通胀路径，风险偏好明显回暖。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/wall-st-futures-rise-ai-optimism-investors-optimistic-mideast-truce-2026-05-27/"
+    },
+    {
+      "title": "油价回落但忧虑未散",
+      "summary": "路透市场评论指出，随着市场押注美伊局势可能走向缓和，国际油价回吐前一日部分涨幅，早盘一度下跌约3%。不过霍尔木兹航运与中东停火前景仍未真正明朗，欧洲通胀和加息预期因此反复摆动，能源仍是当前全球资产定价的核心变量。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/commentary/reuters-open-interest/global-markets-view-usa-2026-05-27/"
+    },
+    {
+      "title": "大基金备战OpenAI上市",
+      "summary": "路透称，部分美国共同基金与被动基金正提前预留现金，准备应对SpaceX与OpenAI潜在上市带来的指数调仓和仓位再平衡。若两家超级IPO落地，可能迫使大盘权重再分配，也会进一步抬高AI与商业航天板块在一级、二级市场的估值联动。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/legal/government/us-funds-set-aside-cash-spacex-openai-prepare-go-public-analysts-say-2026-05-27/"
+    }
+  ]
+}
