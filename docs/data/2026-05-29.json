@@ -1,0 +1,119 @@
+{
+  "date": "2026-05-29",
+  "international": [
+    {
+      "title": "美伊停火反复",
+      "summary": "路透称，美伊正讨论将停火再延长60天，并同步开启核项目谈判，但协议仍待特朗普最终拍板。与此同时，伊朗革命卫队宣称打击美军基地，霍尔木兹海峡通行量仍远低于战前，导致油价、航运与避险资产继续大幅波动。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/energy/oil-rebounds-after-us-strikes-iran-military-site-2026-05-27/"
+    },
+    {
+      "title": "泽连斯基催防空",
+      "summary": "美联社报道，泽连斯基在瑞典公开要求美国追加“爱国者”导弹系统，以应对俄罗斯近期加大的导弹与无人机空袭。乌方希望借欧洲访问继续争取防空与军援承诺，这也意味着俄乌战场正在从消耗战进一步拉向防空体系竞争。",
+      "source": "AP News",
+      "url": "https://apnews.com/article/russia-ukraine-war-drones-missiles-sweden-63efe7b5482de04a4fda9884f3bf7ebe"
+    },
+    {
+      "title": "以军炸贝鲁特南郊",
+      "summary": "美联社称，以色列在华盛顿关键会谈前空袭贝鲁特南郊，并波及黎巴嫩南部多地，造成平民伤亡和新一轮撤离。此举显示以黎边境冲突仍在升级，中东停火谈判的外溢风险并未缓解，也让地区安全和外交博弈再次承压。",
+      "source": "AP News",
+      "url": "https://apnews.com/article/lebanon-israel-hezbollah-airstrikes-tyre-washington-talks-9ee3d769ae672c1a64dae905797a73da"
+    }
+  ],
+  "china": [
+    {
+      "title": "城市更新规划落地",
+      "summary": "新华社消息显示，国务院印发《城市更新“十五五”规划》，明确未来五年城市更新的目标指标、重点任务、重大工程和政策举措。信号很清晰：旧城改造、公共空间修复和城市功能升级将继续加码，地方投资与民生建设会同步受带动。",
+      "source": "新华社",
+      "url": "https://www.court.gov.cn/xinshidai/xiangqing/501351.html"
+    },
+    {
+      "title": "中印边境会谈续推",
+      "summary": "外交部发布新闻稿称，中印举行边境事务磋商和协调工作机制第35次会议，双方就边境局势和后续安排交换意见。会谈延续了近年通过外交与军方渠道稳控局势的路径，短期内有助于降低摩擦升级风险，也为双边关系留下回旋空间。",
+      "source": "中华人民共和国外交部",
+      "url": "https://www.fmprc.gov.cn/wjdt_674879/sjxw_674887/202605/t20260528_11919784.shtml"
+    },
+    {
+      "title": "中国整合登月计划",
+      "summary": "中国载人航天工程方面披露，正把载人登月与嫦娥探月体系在任务、资源和团队三方面整合，目标仍是2030年前实现中国人首次登月。此举意味着登月工程进入更强统筹阶段，也会带动火箭、飞船、测控和深空科研链条继续提速。",
+      "source": "Space.com",
+      "url": "https://www.space.com/space-exploration/china-shakes-up-its-space-programs-to-land-astronauts-on-the-moon-by-2030-we-will-spare-no-effort"
+    }
+  ],
+  "tech": [
+    {
+      "title": "Anthropic估值飙升",
+      "summary": "路透称，Anthropic完成650亿美元融资后，投后估值升至9650亿美元，资金将主要用于扩充算力并扩大Claude产品线。这不仅把AI大模型竞赛推向更重资本、更重基础设施的阶段，也会继续抬高行业对头部模型公司的估值预期。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/anthropic-raises-65-billion-now-valued-965-billion-2026-05-28/"
+    },
+    {
+      "title": "中国酝酿AI期货",
+      "summary": "路透独家称，中国正研究建立AI token期货市场，希望在AI金融化和算力资产定价上与美国竞争。若落地，这会把模型、算力和金融工具进一步绑定，不只影响科技企业融资方式，也可能重塑中美在AI资本市场上的博弈节奏。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/china-works-ai-token-futures-market-sources-say-race-with-us-2026-05-28/"
+    },
+    {
+      "title": "戴尔上调AI指引",
+      "summary": "路透报道，戴尔把年度AI服务器收入预期从500亿美元上调到600亿美元，并同步上修全年营收与利润指引，盘后股价大涨。信号很直接：云厂商和大企业仍在继续扩建AI数据中心，服务器、存储和电力链条景气度还没见顶。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/dell-raises-annual-forecasts-ai-data-center-buildout-fuels-demand-2026-05-28/"
+    }
+  ],
+  "memes": [
+    {
+      "term": "活人感",
+      "desc": "夸内容真实有情绪，不像流水线模板"
+    },
+    {
+      "term": "初代同事",
+      "desc": "指一起入职成长的那批老同事"
+    },
+    {
+      "term": "窝囊旅游",
+      "desc": "低强度图省事，但也想出去玩"
+    },
+    {
+      "term": "基础不基础",
+      "desc": "万能反问句，拿来抽象吐槽"
+    },
+    {
+      "term": "从从容容游刃有余",
+      "desc": "自嘲想稳住节奏，实际手忙脚乱"
+    }
+  ],
+  "research": [
+    {
+      "title": "韦布解剖星团诞生",
+      "summary": "NASA发布韦布望远镜新研究：团队观测了4个近邻星系中近9000个星团，发现质量更大的星团会更快摆脱诞生云团。这个结果能帮助科学家更好理解恒星形成、星系演化以及行星系统在何处更容易孕育，基础天文学因此又往前推了一步。",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/image-article/webb-studies-star-clusters/"
+    },
+    {
+      "title": "南极隔离揭示人际压",
+      "summary": "Phys.org转述PNAS研究称，科研人员用可穿戴传感器跟踪南极越冬团队互动，发现长期隔离环境下的社交结构会显著影响压力水平。结论对火星任务、月球基地和深海驻留都很关键，因为极端环境管理的难点往往不是硬件，而是人和人之间。",
+      "source": "Phys.org / PNAS",
+      "url": "https://phys.org/news/2026-05-months-antarctic-isolation-reveal-missions.html"
+    }
+  ],
+  "finance": [
+    {
+      "title": "美股三大指数新高",
+      "summary": "CNBC汇总显示，美国4月核心通胀年率为3.3%，基本符合预期，叠加AI与IPO乐观情绪，三大股指再创收盘新高。市场一边押注通胀没有失控，一边继续追逐科技成长资产，但利率预期与地缘冲突仍可能随时打断这轮风险偏好。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/video/2026/05/28/all-three-major-averages-notch-record-closes.html"
+    },
+    {
+      "title": "油价股市继续拉扯",
+      "summary": "路透称，因美国再度打击伊朗目标、科威特又传出导弹和无人机袭击，亚洲股市回落、油价重新上冲，全球资产再度切回避险模式。中东局势一天一变，已经成为当前利率、通胀预期和航运成本的共同变量，市场波动性短期难降。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-05-28/"
+    },
+    {
+      "title": "美国新屋销售转弱",
+      "summary": "路透报道，美国4月新屋销售同比下滑11.3%，东北、南部和中西部都走弱，高房贷利率与房价仍在压制需求。房地产降温说明居民端融资环境并未真正放松，也给“通胀已稳、经济仍强”的市场叙事泼了点冷水，后续利率路径更敏感。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/us-new-home-sales-slump-april-amid-higher-mortgage-rates-prices-2026-05-28/"
+    }
+  ]
+}
