@@ -1,0 +1,107 @@
+{
+  "date": "2026-05-30",
+  "international": [
+    {
+      "title": "俄无人机坠罗马尼亚",
+      "summary": "路透报道，俄罗斯夜袭乌克兰期间，一架无人机越境坠上罗马尼亚加拉茨市公寓楼，造成两人受伤。北约随后重申将保卫每一寸领土，普京则称现在判断归属还为时过早。事件把俄乌战火再次推向北约边境，欧洲安全紧张度明显抬升。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/europe/apartment-building-hit-by-drone-romanias-galati-close-ukraine-border-radio-says-2026-05-29/"
+    },
+    {
+      "title": "美伊停火拟再延60天",
+      "summary": "路透称，美伊接近敲定一份停火延长方案，核心是再延60天、恢复霍尔木兹海峡航运，并在窗口期继续推进核问题谈判。协议仍待特朗普拍板，伊朗方面也说尚未最终定案。若谈成，中东航运、油价和全球风险资产都会暂时获得喘息空间。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/european-markets-rise-investors-await-us-iran-ceasefire-extension-2026-05-29/"
+    }
+  ],
+  "china": [
+    {
+      "title": "智能产业博览会开幕",
+      "summary": "新华社天津电，2026世界智能产业博览会开幕，聚焦“人工智能+”与产业协同，现场集中展示智能制造、机器人和低空等新应用。这个信号很直接：中国正把AI从概念和模型竞赛继续往制造端、城市端和实体产业链深度压实，地方招商也会继续提速。",
+      "source": "新华社",
+      "url": "http://www.tj.xinhuanet.com/20260529/84ce84518ee249fbacad2c2dd58d60bb/c.html"
+    },
+    {
+      "title": "城市更新规划落地",
+      "summary": "新华社消息显示，国务院印发《城市更新“十五五”规划》，明确未来五年的目标指标、重点任务、重大工程和政策举措。旧城改造、基础设施补短板和公共空间修复将成为重要抓手，既关系民生体验，也会持续带动建筑、设备与地方投资需求。",
+      "source": "新华社",
+      "url": "http://jjckb.xinhuanet.com/20260529/4c5106bf21664804bd9c38fd39eb8b9f/c.html"
+    },
+    {
+      "title": "外资继续加码中国",
+      "summary": "新华社旗下经济参考报称，多家外资机构在近期论坛上继续强调“投资中国正当时”，并提到境外投资者持有A股流通市值已超过4万亿元。背后反映的是，尽管外部环境仍有扰动，全球资金仍在重新评估中国新产业、科技升级和资产定价的长期机会。",
+      "source": "经济参考报 / 新华社",
+      "url": "http://jjckb.xinhuanet.com/20260529/4cfbb75212d34c71b4e6212180d4df9e/c.html"
+    }
+  ],
+  "tech": [
+    {
+      "title": "蓝色起源试车爆炸",
+      "summary": "路透视频报道，Blue Origin一枚无人版“新格伦”火箭在地面测试时发生爆炸，这对正试图缩小与SpaceX差距的贝索斯航天业务是明显打击。事故会拖慢后续发射节奏，也提醒外界：商业航天进入资本密集期后，工程可靠性依然是最硬门槛。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/video/watch/idRW444629052026RP1/"
+    },
+    {
+      "title": "具身智能按下加速键",
+      "summary": "新华社天津报道，伴随本届智能产业博览会的集中展示，中国具身智能产业正在明显提速，机械狗、服务机器人和高危场景执行设备成为关注焦点。相比单纯拼模型，行业开始更重视感知、控制与落地场景闭环，这会决定谁能真正把AI装进现实世界。",
+      "source": "新华社",
+      "url": "http://www.tj.xinhuanet.com/20260529/8bcd1f6320bf494cbe19ad179ff3815f/c.html"
+    }
+  ],
+  "memes": [
+    {
+      "term": "高雅人士",
+      "desc": "反差自嘲，装体面时常用"
+    },
+    {
+      "term": "做完你的做你的",
+      "desc": "忙到起飞时拿来玩梗"
+    },
+    {
+      "term": "误闯天家",
+      "desc": "自嘲误入大厂名校高端局"
+    },
+    {
+      "term": "当个事儿办",
+      "desc": "把小事说得很郑重的调侃"
+    },
+    {
+      "term": "基础不基础",
+      "desc": "套句式表达反差感"
+    }
+  ],
+  "research": [
+    {
+      "title": "早期胎发育新发现",
+      "summary": "上海相关医学团队最新研究梳理出更早期的人类胎儿发育线索，帮助解释生命最初阶段器官和组织如何启动分化。这个发现不只是基础生物学进展，也会影响生殖医学、遗传病筛查和胚胎发育异常的后续研究路径，对生命科学属于底层补图。",
+      "source": "City News Service",
+      "url": "https://www.citynewsservice.cn/articles/cns/health-wellness/china-tech/china-tech-local-experts-discover-early-fetal-development-bmeb054m"
+    },
+    {
+      "title": "肿瘤AI模型进ASCO",
+      "summary": "BostonGene宣布将在2026年ASCO年会上展示多项肿瘤与免疫生物学AI模型研究，合作方包括MD Anderson等机构。重点是用多模态模型做患者分层、疗效判断和不良反应预测。它说明AI在医学里正从辅助读片扩展到更深层的临床决策支持。",
+      "source": "BioSpace",
+      "url": "https://www.biospace.com/press-releases/bostongene-to-demonstrate-power-of-ai-models-in-tumor-and-immune-biology-at-the-2026-asco-annual-meeting"
+    }
+  ],
+  "finance": [
+    {
+      "title": "全球股市再摸新高",
+      "summary": "路透称，在AI投资周期延续和美伊停火延长预期支撑下，全球股市站上新高，油价则录得近两个月来最大周跌幅。市场当前一边押注地缘风险会缓和，一边继续追逐科技成长资产；但只要中东谈判再生变数，风险偏好就可能快速回撤。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/energy/global-markets-global-markets-2026-05-29/"
+    },
+    {
+      "title": "油价预期再被上调",
+      "summary": "路透调查显示，分析师再次上调2026年布伦特和WTI均价预测，原因是霍尔木兹海峡恢复运输仍慢于预期，能源流动性压力未彻底解除。即便短线油价回落，机构仍在重估战争对供给、库存和航运成本的中期影响，能源通胀隐患没有消失。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/energy/analysts-hike-oil-forecasts-again-energy-flows-face-slow-recovery-2026-05-29/"
+    },
+    {
+      "title": "深交所喊话全球资金",
+      "summary": "经济参考报援引深交所全球投资者大会内容称，交易所将坚持高质量开放，让全球共享中国资产的确定性机遇。这个表态本身就是市场信号：在国际资金重新寻找增长与估值平衡点时，中国资本市场正试图把“稳定预期”塑造成核心卖点。",
+      "source": "经济参考报 / 新华社",
+      "url": "http://jjckb.xinhuanet.com/20260529/020cff02a5da4f67be8aba529d752e6a/c.html"
+    }
+  ]
+}
