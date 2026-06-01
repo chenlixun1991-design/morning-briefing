@@ -1,0 +1,121 @@
+{
+  "date": "2026-06-02",
+  "created_by": "Tomato 🍅",
+  "international": [
+    {
+      "title": "美伊再起交火",
+      "summary": "路透称美国周末打击伊朗军事目标后，伊朗革命卫队6月1日宣布回击一处美军使用的空军基地，科威特方面还报告拦截导弹和无人机。中东停火谈判因此再添变数，能源与航运风险重新抬头。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/aerospace-defense/us-says-it-struck-iranian-military-sites-tehran-responds-with-air-base-attack-2026-06-01/"
+    },
+    {
+      "title": "伊朗寻求临时协议",
+      "summary": "另一篇路透独家称，伊朗正推动与美国达成有限的过渡性协议，希望在不对核计划作出重大让步的前提下缓解国内经济压力、换取流动性。若谈成，短期可降温局势，但长期分歧并未真正解决。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/iran-eyes-limited-us-deal-relieve-economic-strain-buy-time-2026-06-01/"
+    },
+    {
+      "title": "法军登检俄油轮",
+      "summary": "法国总统马克龙表示，法国海军在大西洋公海登检了一艘与俄罗斯有关、受国际制裁约束的油轮，并称行动得到英国等伙伴支持。此举说明欧洲对俄制裁执行仍在加码，也会继续扰动灰色航运网络。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/frances-macron-says-french-navy-boarded-russia-linked-oil-tanker-2026-06-01/"
+    }
+  ],
+  "domestic": [
+    {
+      "title": "对外投资新规落地",
+      "summary": "新华社6月1日消息，李强签署国务院令，公布《国务院关于对外投资的规定》，将于7月1日起施行。新规强调分类分级监管、风险防控和海外权益保护，意味着跨境投资将从鼓励扩张转向更重合规与安全。",
+      "source": "新华社/新华网",
+      "url": "https://www.news.cn/politics/20260601/dbafa4980bfb4164801c60704a9f4b6f/c.html"
+    },
+    {
+      "title": "文化传承再提速",
+      "summary": "新华网刊文总结文化传承新进展，提到第四次全国文物普查已完成76.7万处“三普”文物复查，并新发现文物超过13万处。文保、非遗和国家文化公园建设同步推进，文化资源正更系统地转化为公共教育与消费内容。",
+      "source": "新华网",
+      "url": "https://www.news.cn/politics/leaders/20260601/2e77b6338c3b4880b8d7dde081c71615/c.html"
+    },
+    {
+      "title": "六一寄望少年成长",
+      "summary": "“六一”当天，新华社系报道聚焦总书记对新时代少年儿童的寄望，核心仍是讲好红色故事、传承红色基因、在实践中成长成才。信号很明确，青少年思政与实践教育今年仍会是基层教育工作的重要抓手。",
+      "source": "新华社经济参考报",
+      "url": "http://jjckb.xinhuanet.com/20260601/5003390415344721ad1e61c28e51d27d/c.html"
+    }
+  ],
+  "tech": [
+    {
+      "title": "英伟达推AI PC芯片",
+      "summary": "在台北电脑展前夕，英伟达CEO黄仁勋公布首批与微软合作的PC处理器方案，并将于今秋进入多家Windows电脑。AI算力从云端继续下探到终端，x86笔电与ARM AI PC之争也被进一步点燃。",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvda-stock-set-strong-open-073837501.html"
+    },
+    {
+      "title": "边缘AI继续扩张",
+      "summary": "IEI 在 Computex 2026 展出多款边缘AI平台，主打工业现场的实时控制、视觉识别与网络韧性。信号很直接，AI 正从数据中心向制造、机器人和关键基础设施渗透，边缘部署将成为下阶段竞争焦点。",
+      "source": "PR Newswire / The Manila Times",
+      "url": "https://www.manilatimes.net/2026/06/01/tmt-newswire/pr-newswire/iei-showcases-resilient-edge-ai-platforms-at-computex-2026-advancing-ai-deployment-across-industrial-applications/2355324"
+    },
+    {
+      "title": "超微发新一代服务器",
+      "summary": "Supermicro 宣布推出12款面向云与数据中心的新服务器，搭载 Intel Xeon 6+ 处理器，强调更高密度和更低总体拥有成本。随着AI与通用算力一并扩容，服务器厂商正同时拼性能、能效和部署速度。",
+      "source": "Financial Times / PR Newswire",
+      "url": "https://markets.ft.com/data/announce/detail?dockey=600-202605312300PR_NEWS_EURO_ND__EN71761-1"
+    }
+  ],
+  "trending": [
+    {
+      "term": "原神牛逼",
+      "desc": "尴尬时已读乱回的万能梗图"
+    },
+    {
+      "term": "这才是动漫社",
+      "desc": "夸二次元氛围到位的感叹句"
+    },
+    {
+      "term": "我要擦皮鞋",
+      "desc": "小孩口播走红后的抽象复读梗"
+    },
+    {
+      "term": "？！逼逼！？",
+      "desc": "从牛逼梗二创出的三段式抽象图"
+    },
+    {
+      "term": "天涯社区复活",
+      "desc": "老论坛回归，引发一波怀旧玩梗"
+    }
+  ],
+  "research": [
+    {
+      "title": "X-59将首破音障",
+      "summary": "ScienceDaily 汇总 NASA 信息称，X-59 实验机已完成近音速测试，正准备首次突破音障，并尝试把传统“音爆”变成更轻的“闷响”。如果验证成功，超音速客运重返人口密集区上空会更接近现实。",
+      "source": "ScienceDaily / NASA",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260601025338.htm"
+    },
+    {
+      "title": "新晶体可同时像金属",
+      "summary": "ScienceDaily 报道，一种新绘制清楚性质的层状晶体在可见光频段同时表现出接近金属与玻璃的特征，可强力操控光传播。相关成果或推动超薄AR眼镜、智能隐形眼镜和微型高速光芯片的发展。",
+      "source": "ScienceDaily",
+      "url": "http://www.sciencedaily.com/releases/2026/06/260601025322.htm"
+    }
+  ],
+  "finance": [
+    {
+      "title": "AI继续托举美股",
+      "summary": "路透称，尽管中东紧张局势仍在延烧，但英伟达与微软的新AI动作推动美国股指期货在6月首个交易日走高。市场短期显然更愿意交易AI成长叙事，而非把风险资产完全锚定在地缘冲突上。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/africa/wall-street-futures-gain-ai-advances-overshadow-us-iran-tensions-2026-06-01/"
+    },
+    {
+      "title": "中国收紧对外投资",
+      "summary": "彭博称，中国发布新指令强化对外投资安全审查，要求跨境投资在技术、数据和国家安全维度接受更统一的监管。政策会提高敏感行业交易门槛，也让企业今后的海外并购与资本外流更受约束。",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-01/china-tightens-outbound-investment-rules-with-eye-on-security"
+    },
+    {
+      "title": "日韩股市再创新高",
+      "summary": "美联社报道，随着市场押注伊朗战事脆弱但未进一步失控，加上AI交易延续，日本和韩国股市继续刷新高位，油价则同步走强。亚洲市场当下呈现“风险偏好回暖但仍带防御”的典型结构。",
+      "source": "AP News",
+      "url": "https://apnews.com/article/stocks-markets-oil-iran-trump-hormuz-5045f5cc9eed81f1dec2006234e1337c"
+    }
+  ]
+}
+
