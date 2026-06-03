@@ -1,0 +1,120 @@
+{
+  "date": "2026-06-04",
+  "created_by": "Tomato 🍅",
+  "international": [
+    {
+      "title": "伊朗袭击科威特",
+      "summary": "路透称伊朗向科威特机场方向发动无人机和导弹袭击，地区防空系统随即启动拦截。事件说明中东战事仍在外溢，不只推高油价和避险情绪，也让海湾国家在安全与外交上承受更大压力。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/iran-drone-missile-attack-hits-kuwait-airport-state-news-agency-says-2026-06-03/"
+    },
+    {
+      "title": "乌军袭击彼得堡油港",
+      "summary": "美联社报道，乌克兰无人机击中圣彼得堡一处石油码头，事发时间临近俄方重要经济论坛。袭击把战火进一步拉向俄核心城市与能源设施，也会增加俄罗斯国内安保成本与能源运输波动预期。",
+      "source": "AP News",
+      "url": "https://apnews.com/article/russia-ukraine-petersburg-oil-terminal-putin-drone-887969921c595f3a81c3b6c0b120b5f3"
+    },
+    {
+      "title": "欧盟催德国快改革",
+      "summary": "欧盟委员会敦促德国加快数字化改革、削减行政繁文缛节，并警告其赤字水平持续高于欧盟红线。叠加伊朗战事带来的能源压力，欧洲最大经济体的放缓风险正继续影响欧元区增长前景。",
+      "source": "DW / Reuters",
+      "url": "https://www.dw.com/en/germany-news-naturalizations-reach-record-high-in-2025/live-77400790"
+    }
+  ],
+  "domestic": [
+    {
+      "title": "166家外资电信获批",
+      "summary": "工信部披露，自增值电信业务开放试点启动以来，已有166家外资企业获得经营批复。信号很明确，中国仍在继续扩大服务业开放，这会提升外资参与数字服务市场的预期，也利于稳投资与稳信心。",
+      "source": "人民网",
+      "url": "http://finance.people.com.cn/n1/2026/0604/c1004-40733524.html"
+    },
+    {
+      "title": "世界汉学家大会开幕",
+      "summary": "第三届世界汉学家大会在敦煌开幕，近70个国家300多名中外代表参会，重点讨论文明互鉴与文化交流。事件既服务中国叙事的国际传播，也会带动敦煌相关文旅、学术合作与公共外交热度上升。",
+      "source": "甘肃省政府",
+      "url": "http://www.gansu.gov.cn/gsszf/gsyw/202606/174342606.shtml"
+    },
+    {
+      "title": "涉企执法强调精准",
+      "summary": "人民日报评论指出，规范涉企执法要做到该严则严、当宽则宽，避免简单一刀切，并披露专项行动已查纠一批突出问题。对民营企业而言，这有助于稳定经营预期，也释放继续优化营商环境的政策信号。",
+      "source": "人民网",
+      "url": "http://society.people.com.cn/n1/2026/0604/c1008-40733575.html"
+    }
+  ],
+  "tech": [
+    {
+      "title": "微软押注AI第四极",
+      "summary": "微软AI负责人Suleyman在Build大会上直言，全球真正重要的大模型实验室只有三家，而微软想成为第四家。表态背后是其加码模型、自主智能体与开发者生态，意在减少对外部模型的长期依赖。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition"
+    },
+    {
+      "title": "奥特曼反对审批制",
+      "summary": "路透称，OpenAI首席执行官奥特曼将游说美国国会议员，不要强制要求AI模型上线前逐个审批。他担心过度前置监管拖慢模型发布节奏，影响美国AI产业竞争力，也让行业监管路线之争继续升温。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/openais-altman-urge-us-lawmakers-not-require-ai-model-approvals-2026-06-03/"
+    },
+    {
+      "title": "Meta推企业AI代理",
+      "summary": "路透报道，Meta推出面向企业场景的AI业务代理，主打自动化处理日常运营任务。它意味着大厂正把AI竞争从聊天助手推进到真实工作流，后续比拼重点会落在部署成本、数据安全和执行效果上。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/meta-launches-enterprise-focused-ai-business-agent-automate-daily-operations-2026-06-03/"
+    }
+  ],
+  "trending": [
+    {
+      "term": "露比酱",
+      "desc": "洗脑语音梗，模仿唱跳和对嘴。"
+    },
+    {
+      "term": "真冰凉",
+      "desc": "喝冷饮后夸爽，常用于短视频配音。"
+    },
+    {
+      "term": "信我是秦始皇",
+      "desc": "吐槽太离谱，表示根本不信。"
+    },
+    {
+      "term": "Brainrot",
+      "desc": "抽象迷因风，形容越看越上头。"
+    },
+    {
+      "term": "回答我look",
+      "desc": "逼问式口头禅，适合搞笑对线。"
+    }
+  ],
+  "research": [
+    {
+      "title": "LSST将重塑伽马天文",
+      "summary": "NASA会议材料指出，Rubin天文台LSST将以高频率、广覆盖夜空巡天，帮助锁定伽马暴、中微子源和暗物质相关目标。它会显著提升多信使天文学的观测效率，也可能改写未来十年的高能天体研究框架。",
+      "source": "NASA Science",
+      "url": "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/gr-sig-seminar-29-may-2026/"
+    },
+    {
+      "title": "哈勃拍到暗弱不规则星系",
+      "summary": "NASA发布哈勃新图像，展示距离约2300万光年的矮不规则星系ESO 490-017。此类低表面亮度星系难观测却很关键，有助理解恒星形成、星系演化和宇宙早期结构如何一步步长成今天的样子。",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/image-article/hubble-spies-faint-irregular-galaxy/"
+    }
+  ],
+  "finance": [
+    {
+      "title": "ADP就业强于预期",
+      "summary": "CNBC援引ADP数据称，美国5月私人部门新增就业12.2万人，高于市场预期。数据缓解了经济骤冷担忧，但也让市场继续博弈美联储降息节奏，后续非农和通胀数据的重要性因此进一步抬升。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/video/2026/06/03/opening-bell-june-3-2026.html"
+    },
+    {
+      "title": "亚马逊登顶财富500强",
+      "summary": "《华尔街日报》称，亚马逊在最新《财富》500强榜单中按营收首次超过沃尔玛，成为美国最大公司。除了零售规模继续扩大，这也反映云计算和广告业务的复合拉动，强化了资本市场对其增长韧性的判断。",
+      "source": "WSJ",
+      "url": "https://www.wsj.com/business/financial-services-roundup-market-talk-9da65f62"
+    },
+    {
+      "title": "油价受中东战事抬升",
+      "summary": "路透与市场媒体普遍指出，中东冲突持续推高原油价格，并压制全球风险偏好。对市场来说，这意味着通胀回落路径可能再受扰动，航运、航空和制造业成本都会重新面临上行压力。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/media-telecom/global-markets-view-europe-2026-06-03/"
+    }
+  ]
+}
