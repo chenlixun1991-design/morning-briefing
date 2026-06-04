@@ -1,0 +1,120 @@
+{
+  "date": "2026-06-05",
+  "created_by": "Tomato 🍅",
+  "international": [
+    {
+      "title": "台方再提六四记忆",
+      "summary": "路透报道，六四事件37周年之际，台湾方面公开呼吁北京正视历史、承认真相并推动和解，对岸则继续维持高压沉默。事件让两岸政治叙事再度升温，也会牵动美欧对中国人权与台海议题的表态节奏。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/taiwan-presses-china-confront-tiananmen-past-2026-06-04/"
+    },
+    {
+      "title": "索马里首都爆冲突",
+      "summary": "美联社称，索马里首都摩加迪沙在反政府示威前夕爆发武装冲突，安全部队与反对派支持者对峙升级。局势显示该国政治裂痕仍深，也可能影响外部援助推进与东非地区的反恐、安全合作安排。",
+      "source": "AP News",
+      "url": "https://apnews.com/article/mogadishu-somalia-fighting-5c309734648b6270e88595b267de6fa3"
+    },
+    {
+      "title": "斯里兰卡养老院失火",
+      "summary": "美联社报道，斯里兰卡一所养老院夜间起火，造成12人死亡、8人受伤。事故再次暴露当地养老与消防设施薄弱，也会推动政府面对建筑检查、老龄照护监管和公共安全投入不足等长期问题。",
+      "source": "AP News",
+      "url": "https://apnews.com/article/sri-lanka-fire-nursing-home-f1d47c50d14ca13b5ba87d34b03e45e9"
+    }
+  ],
+  "domestic": [
+    {
+      "title": "全面绿色转型定调",
+      "summary": "人民日报在六五环境日推出专题，强调以全面绿色转型共建美丽中国，并结合自然资源、生态环境等部门最新数据展开解读。信号很明确，绿色发展已从口号转向体系化推进，也会持续影响地方投资与产业布局。",
+      "source": "人民网",
+      "url": "http://env.people.com.cn/n1/2026/0605/c1010-40734190.html"
+    },
+    {
+      "title": "网上离境退税首店上线",
+      "summary": "人民日报披露，全国首家网上离境退税商店落地北京，境外旅客可在线选购带退税标识的商品并录入证件信息。此举把退税流程进一步数字化，既利于激发入境消费，也为扩内需和便利化服务提供新样板。",
+      "source": "人民网",
+      "url": "https://paper.people.com.cn/rmrb/pc/content/202606/04/content_30160939.html"
+    },
+    {
+      "title": "喀什奥什航线加密",
+      "summary": "中新网称，喀什至奥什直飞航线自6月5日起加密至每周两班，以回应跨境出行和商贸往来需求上升。对新疆与中亚而言，这不仅是运力补充，也有助强化口岸联通、旅游流动和区域合作的实际黏性。",
+      "source": "中新网",
+      "url": "http://www.xj.chinanews.com.cn/dizhou/2026-06-04/detail-ihffasus1903396.shtml"
+    }
+  ],
+  "tech": [
+    {
+      "title": "美国抛AI监管草案",
+      "summary": "路透称，美国两党众议员公布AI监管草案，拟限制各州直接针对模型开发立法，但保留对AI使用场景的监管空间。它反映华盛顿正试图统一监管框架，也会持续影响模型公司合规和州联邦权限博弈。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04/"
+    },
+    {
+      "title": "量子计算股冲纳斯达克",
+      "summary": "路透报道，霍尼韦尔旗下Quantinuum登陆纳斯达克前完成16.8亿美元IPO，定价高于原区间，市场对量子计算热情明显升温。它既是新股市场回暖信号，也让资本重新押注后AI时代的下一层算力故事。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/honeywells-quantinuum-heads-nasdaq-debut-quantum-computing-gains-momentum-2026-06-04/"
+    },
+    {
+      "title": "富士康联手英特尔",
+      "summary": "路透称，富士康宣布与英特尔合作开发下一代AI基础设施与智能计算平台，覆盖芯片、机架、系统到应用层。合作说明AI竞争已从模型延展到整套供应链，也会加速硬件厂商争夺企业级算力订单。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/foxconn-announces-strategic-collaboration-with-intel-next-gen-ai-infrastructure-2026-06-04/"
+    }
+  ],
+  "trending": [
+    {
+      "term": "AI味",
+      "desc": "吐槽内容像机器写的，常用于文案视频。"
+    },
+    {
+      "term": "已读乱回",
+      "desc": "看完消息随便回，带点摆烂幽默。"
+    },
+    {
+      "term": "班味",
+      "desc": "形容人一脸上班疲态，常自嘲打工。"
+    },
+    {
+      "term": "松弛感",
+      "desc": "夸人不拧巴很从容，也可反讽装松弛。"
+    },
+    {
+      "term": "电子榨菜",
+      "desc": "吃饭时必配的下饭视频或播客内容。"
+    }
+  ],
+  "research": [
+    {
+      "title": "胰腺癌靶点被攻破",
+      "summary": "ScienceDaily汇总临床研究称，新药daraxonrasib首次有效命中长期被视为“不可成药”的胰腺癌KRAS突变靶点，并在关键试验中接近把患者生存期翻倍。若后续验证顺利，胰腺癌治疗路径可能被明显改写。",
+      "source": "ScienceDaily",
+      "url": "http://www.sciencedaily.com/releases/2026/06/260604044247.htm"
+    },
+    {
+      "title": "南极冰下发现巨构造",
+      "summary": "ScienceDaily报道，研究人员在东南极冰盖下识别出扇形巨型盆地网络，多个已知冰下地貌被证实属于同一超大构造。发现不仅补强古地质演化解释，也会帮助科学界更准确理解冰盖稳定性与海平面风险。",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260604044244.htm"
+    }
+  ],
+  "finance": [
+    {
+      "title": "SpaceX定价颠覆IPO",
+      "summary": "路透评论称，SpaceX把IPO定价拉到每股135美元，并以极强主导权改写传统簿记流程，华尔街更像被动跟随。若发行顺利，这会强化超级明星公司对融资规则的话语权，也可能带动后续科技新股效仿。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/commentary/breakingviews/spacex-straps-bankers-first-autonomous-ipo-2026-06-04"
+    },
+    {
+      "title": "航空业承压油价飙升",
+      "summary": "路透称，全球航空公司高层将在行业峰会集中讨论伊朗战事引发的燃油成本冲击，穆迪已把航空业前景下调为负面。燃油与绕飞成本若持续抬升，票价、利润和航线安排都会面临新一轮重估压力。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/aerospace-defense/global-airline-chiefs-confront-iran-war-fuel-shock-industry-summit-2026-06-04"
+    },
+    {
+      "title": "博通失速拖累科技股",
+      "summary": "路透视频与市场数据都显示，博通因AI增长指引未再上修、季度收入未达高预期，股价单日大跌逾13%。这提醒市场即便站在AI主线里，估值也要持续被业绩兑现支撑，科技股波动可能重新放大。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/video/watch/idRW589204062026RP1"
+    }
+  ]
+}
