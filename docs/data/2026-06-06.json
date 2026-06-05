@@ -1,0 +1,114 @@
+{
+  "date": "2026-06-06",
+  "created_by": "Tomato 🍅",
+  "international": [
+    {
+      "title": "黎南部再遭空袭",
+      "summary": "美联社称，以军向黎巴嫩南部多村发出撤离警告约三小时后实施空袭，安贡等地收容的大批流离失所者再度受冲击。事件说明停火仍极脆弱，也让伊朗要求把黎以局势纳入更大停战安排的压力继续上升。",
+      "source": "AP News",
+      "url": "https://apnews.com/article/lebanon-israel-hezbollah-airstrikes-ceasefire-303de2f806c493917150e9443ab99c03"
+    },
+    {
+      "title": "罗港炸毁海上无人机",
+      "summary": "美联社报道，一架用于乌战场的海上无人机在罗马尼亚康斯坦察港自爆，未致伤亡，但当局紧急疏散并搜寻周边风险目标。该事件紧接着俄乌战火外溢至北约成员国的前次误击之后，黑海安全与北约警戒因此再度升温。",
+      "source": "AP News",
+      "url": "https://apnews.com/article/drone-romania-black-sea-explosion-ukraine-defc53b2383a67475230c8349a47d7c6"
+    }
+  ],
+  "domestic": [
+    {
+      "title": "国务院集中人事调整",
+      "summary": "新华网援引人社部消息称，国务院6月5日任免多名国家工作人员，丁向群出任国家金融监督管理总局局长，刘苏社、洪宗明分别履新文旅部和退役军人事务部。此次调整涉及金融监管与部委高层配置，后续政策执行节奏值得关注。",
+      "source": "新华网",
+      "url": "https://www.news.cn/20260605/8d6e8057d4b1487683913c7b9a4f1c4e/c.html"
+    },
+    {
+      "title": "生态环境公报发布",
+      "summary": "生态环境部发布《2025中国生态环境状况公报》，显示全国PM2.5平均浓度降至28微克每立方米，优良水质断面连续两年保持九成以上。数据说明“十四五”减排和治理继续生效，也会影响地方绿色投资、环保考核与碳市场推进。",
+      "source": "新华网",
+      "url": "https://www.news.cn/energy/20260605/878a50ea1b7745fcbe2720fc01ca2ba3/c.html"
+    },
+    {
+      "title": "夏粮麦收全面提速",
+      "summary": "央视网称，各地6月5日起加快冬小麦收获，河北等主产区由南向北全面开镰，集中保障夏粮颗粒归仓。麦收推进不仅关系粮食安全和价格预期，也直接影响后续夏播衔接与农机、物流等季节性需求。",
+      "source": "央视网",
+      "url": "https://news.cctv.com/2026/06/05/ARTI561MYCBdRChiuJpY6GaR260605.shtml"
+    }
+  ],
+  "tech": [
+    {
+      "title": "Anthropic缓和白宫关系",
+      "summary": "路透称，因国防供应链风险争议而与政府关系紧张的Anthropic，近期与白宫和财政系统沟通升温，并获邀参与AI行政令相关讨论。公司在IPO前争取修复官方关系，反映头部模型企业的监管、国防与资本市场正越来越深度绑定。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/aerospace-defense/blacklisted-ai-company-anthropic-white-house-ease-tensions-ahead-ipo-sources-say-2026-06-05/"
+    },
+    {
+      "title": "Quantinuum冲击纳指",
+      "summary": "路透报道，霍尼韦尔旗下量子计算公司Quantinuum在强劲认购下把IPO规模扩大至16.8亿美元，准备登陆纳斯达克。资本愿意为“后AI时代”算力故事继续买单，但也意味着量子赛道将更快接受上市公司式的业绩与估值检验。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/honeywells-quantinuum-heads-nasdaq-debut-quantum-computing-gains-momentum-2026-06-04/"
+    },
+    {
+      "title": "富士康联手英特尔",
+      "summary": "路透称，富士康与英特尔将联合开发下一代AI基础设施与智能计算平台，并探索定制芯片和系统整合方案。合作说明AI竞争正从单点芯片转向整套系统与供应链协同，企业级算力订单争夺会进一步升温。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/foxconn-announces-strategic-collaboration-with-intel-next-gen-ai-infrastructure-2026-06-04/"
+    }
+  ],
+  "trending": [
+    {
+      "term": "工位养殖",
+      "desc": "在工位囤绿植零食杯子，把座位养成小生态。"
+    },
+    {
+      "term": "班味",
+      "desc": "形容人一脸上班疲态，常用来自嘲打工状态。"
+    },
+    {
+      "term": "电子榨菜",
+      "desc": "吃饭时必配的视频、播客或反复刷的老剧。"
+    },
+    {
+      "term": "已读乱回",
+      "desc": "看完消息随手乱答，带点摆烂式幽默。"
+    },
+    {
+      "term": "AI味",
+      "desc": "吐槽内容太像机器写的，不够像真人表达。"
+    }
+  ],
+  "research": [
+    {
+      "title": "胰腺癌靶点被攻破",
+      "summary": "ScienceDaily整理临床研究称，新药daraxonrasib首次有效命中长期被视为“不可成药”的KRAS胰腺癌靶点。在500名转移性患者的三期试验中，生存期由6.7个月提升到13.2个月，若后续验证顺利，治疗路径可能被明显改写。",
+      "source": "ScienceDaily",
+      "url": "http://www.sciencedaily.com/releases/2026/06/260604044247.htm"
+    },
+    {
+      "title": "南极冰下现巨型盆地",
+      "summary": "ScienceDaily报道，研究团队在东南极冰盖下识别出扇形巨型盆地网络，并将多个已知冰下地貌重新归入同一超大构造体系。发现不仅补强古地质演化解释，也有助改进冰盖稳定性和海平面变化的长期预测。",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260604044244.htm"
+    }
+  ],
+  "finance": [
+    {
+      "title": "美股遭科技股拖累",
+      "summary": "美联社称，强劲5月就业数据推高年内加息预期，同时大型科技股遭抛售，美股出现数月来最差单日表现，纳指领跌。市场从“AI高估值”重新切回利率与盈利兑现逻辑，全球风险资产波动可能继续放大。",
+      "source": "AP News",
+      "url": "https://apnews.com/article/stocks-markets-iran-oil-trump-b5e10863b81cb1d6399f688ad8885c46"
+    },
+    {
+      "title": "OPEC+料继续增产",
+      "summary": "路透在周度市场前瞻中称，尽管伊朗战事仍扰动中东局势，OPEC+部长会议仍倾向在7月继续小幅上调产量目标。增产预期与霍尔木兹海峡谈判进展交织，使油价在供应担忧和需求旺季之间反复拉扯。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/take-five/global-markets-themes-graphic-2026-06-05/"
+    },
+    {
+      "title": "SpaceX带动融资窗口",
+      "summary": "路透称，SpaceX上市若按计划推进，市值有望跻身美国前十大上市公司，并可能带动Anthropic等超大科技企业相继冲刺资本市场。若明星项目顺利融资，2026年下半年的科技IPO窗口和估值基准都可能被重写。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/take-five/global-markets-themes-graphic-2026-06-05/"
+    }
+  ]
+}
