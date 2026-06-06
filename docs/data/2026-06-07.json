@@ -1,0 +1,116 @@
+{
+  "date": "2026-06-07",
+  "created_by": "Tomato 🍅",
+  "international": [
+    {
+      "title": "霍尔木兹升级",
+      "summary": "路透称伊朗向海湾方向放出无人机后，美军打击伊朗沿海雷达点位，并在科威特、巴林方向拦截多枚导弹。局势把停火谈判再次推远，也推高了航运、油价和地区安全的不确定性。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/us-attacks-iranian-coastal-sites-after-iran-launches-drones-latest-flare-up-2026-06-06/"
+    },
+    {
+      "title": "黎以停火再破",
+      "summary": "美联社报道，以军空袭黎巴嫩南部，造成黎军人员死亡，发生在脆弱停火仅维持数日之后。事件说明边境摩擦仍可能迅速外溢，黎巴嫩国内安全和中东斡旋空间都面临新压力。",
+      "source": "AP News",
+      "url": "https://apnews.com/article/lebanon-israel-hezbollah-airstrike-soldiers-killed-iran-6150614827e9f932807527799b50f5d0"
+    },
+    {
+      "title": "乌干达封关防疫",
+      "summary": "美联社称，乌干达因埃博拉传播风险关闭刚果（金）边境口岸，跨境贸易商当即遭遇货损和停摆。公共卫生事件正重新影响东非供应链，也提醒周边国家提前收紧检疫与边检协同。",
+      "source": "AP News",
+      "url": "https://apnews.com/article/uganda-congo-border-ebola-aeadf10365ad29a8d374e1e54e48b033"
+    }
+  ],
+  "domestic": [
+    {
+      "title": "国常会定就业策",
+      "summary": "6月6日国务院常务会议听取就业工作汇报，审议就业优先战略“十五五”规划，同时研究新型工业化和未来产业发展。信号很明确，下阶段稳就业不会只靠短期托底，而会和产业升级一起推进。",
+      "source": "华兴网",
+      "url": "https://www.hxw.gov.cn/content/2026/06/06/14902963.html"
+    },
+    {
+      "title": "夏粮收获过半",
+      "summary": "人民网援引农业部门数据称，截至6月5日17时，全国夏粮小麦已收获1.84亿亩，进度达54.29%，单日投入联合收割机23.68万台。麦收进度快于去年同期，有助于稳住粮食供给和农产品价格预期。",
+      "source": "人民网",
+      "url": "https://cpc.people.com.cn/n1/2026/0606/c64387-40735024.html"
+    },
+    {
+      "title": "首张海游证签发",
+      "summary": "人民网报道，全国首张“无目的地海上游”出入境通行证已在上海签发，面向不靠岸、只进行海上巡游的新场景。政策试点意味着邮轮与近海休闲消费正在获得更细分的制度支持，也给文旅产品创新留出空间。",
+      "source": "人民网",
+      "url": "https://cpc.people.com.cn/n1/2026/0606/c64387-40735025.html"
+    }
+  ],
+  "tech": [
+    {
+      "title": "SpaceX带热散户",
+      "summary": "路透称，SpaceX启动IPO分销安排后，欧洲零售投资情绪被明显点燃，银行端也尝试让个人投资者获得更接近机构的配售待遇。太空公司正从技术叙事走向大众金融叙事，估值争议也随之放大。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/legal/transactional/musks-spacex-ipo-jolts-life-back-into-european-retail-investing-2026-06-06/"
+    },
+    {
+      "title": "AI资本监管加码",
+      "summary": "路透称，中国证监系统要求基金业支持硬科技和人工智能创新，同时警惕“概念炒作”、复杂嵌套与程序化交易失衡。对科技圈来说，这意味着AI融资仍受鼓励，但市场更强调长期资本和真实落地能力。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/legal/government/china-urges-fund-managers-support-innovation-warns-against-concept-hype-2026-06-06/"
+    },
+    {
+      "title": "呼和浩特拼绿算",
+      "summary": "人民网英文网报道，呼和浩特正推进数据中心建设，以绿色算力作为新增长点。算力竞争已经不只是服务器数量比拼，而是同步考验能源成本、可再生电力接入和区域产业承载能力。",
+      "source": "People's Daily Online",
+      "url": "https://en.people.cn/n3/2026/0606/c90000-20464553.html"
+    }
+  ],
+  "trending": [
+    {
+      "term": "备战奥运",
+      "desc": "把认真健身调侃成上强度冲奥。"
+    },
+    {
+      "term": "男友氛围",
+      "desc": "形容随拍松弛、很有代入感。"
+    },
+    {
+      "term": "摇摇沙",
+      "desc": "联名神曲带火的洗脑口号。"
+    },
+    {
+      "term": "运动搭子",
+      "desc": "一起健身打球的固定伙伴。"
+    }
+  ],
+  "research": [
+    {
+      "title": "塑料催化新综述",
+      "summary": "Nature 收录综述系统梳理“原子级精确催化剂”在废塑料加氢裂解中的作用，重点讨论如何提升稳定性、选择性与能耗表现。若相关体系继续工程化，塑料循环利用有望从实验室路线迈向更可复制的工业方案。",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/s41467-026-74156-z"
+    },
+    {
+      "title": "基因用药更算账",
+      "summary": "Nature 旗下《Pharmacogenomics Journal》研究评估高胆固醇患者采用基因指导他汀治疗的成本效益，认为精准分层有助减少不良反应和资源浪费。医保与药物基因组学结合，正逐步从概念走向实际支付讨论。",
+      "source": "The Pharmacogenomics Journal",
+      "url": "https://www.nature.com/articles/s41397-026-00419-z"
+    }
+  ],
+  "finance": [
+    {
+      "title": "基金业防炒概念",
+      "summary": "路透称，中国监管层要求13万亿美元基金业支持创新，同时点名遏制概念炒作、过度投机与不公平程序化交易。对市场而言，这既是给硬科技融资开口子，也是继续压缩短线资金博弈空间。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/legal/government/china-urges-fund-managers-support-innovation-warns-against-concept-hype-2026-06-06/"
+    },
+    {
+      "title": "航司承压试涨价",
+      "summary": "路透在里约航空峰会报道，伊朗战事推高燃油价格并扰乱航路，航司正测试票价上调和运力收缩能否覆盖成本。若高油价持续，暑期出行和全球航空复苏节奏都可能被重新定价。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/energy/airline-chiefs-grapple-with-fuel-shock-fare-test-rio-summit-2026-06-06/"
+    },
+    {
+      "title": "Breeze筹备上市",
+      "summary": "路透称，美国低成本航司 Breeze Airways 计划在2027年推进IPO，但管理层明确表示要等市场与行业窗口配合。资本市场对航空资产的定价仍偏谨慎，上市节奏更多取决于利率、油价与需求恢复。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/us-budget-carrier-breeze-airways-sets-sights-2027-ipo-2026-06-06/"
+    }
+  ]
+}
