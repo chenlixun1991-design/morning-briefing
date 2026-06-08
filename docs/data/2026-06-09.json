@@ -1,0 +1,120 @@
+{
+  "date": "2026-06-09",
+  "created_by": "Tomato 🍅",
+  "international": [
+    {
+      "title": "以伊停火再摇晃",
+      "summary": "以色列与伊朗在4月停火后首次重新互射导弹，虽然双方随后暂时收手，但都警告若再受挑衅将继续报复。事件说明中东局势仍极脆弱，能源、航运与全球避险情绪短期都难真正降温。",
+      "source": "AP News",
+      "url": "https://apnews.com/article/c16dc4917512f7436a3921a4b044b98b"
+    },
+    {
+      "title": "美以对伊策略分歧",
+      "summary": "美联社称，特朗普希望尽快压低战事并重启谈判，但内塔尼亚胡仍坚持继续打击黎巴嫩和伊朗目标。盟友之间节奏分化，意味着停火谈判难度上升，也让油价与地区安全预期继续承压。",
+      "source": "AP News",
+      "url": "https://apnews.com/article/2230178d2cd4aa6b96e3e022b734d498"
+    },
+    {
+      "title": "乌军再打俄油设施",
+      "summary": "乌克兰与俄罗斯官员均证实，乌军周一再度袭击俄罗斯本土及克里米亚油料设施，继续把经济成本压向莫斯科。若能源设施受损扩大，俄方后勤与出口会继续受扰，欧洲制裁压力也将同步加码。",
+      "source": "AP News",
+      "url": "https://apnews.com/article/e1b3549cfc8b357c14b44b932789fc53"
+    }
+  ],
+  "domestic": [
+    {
+      "title": "习近平会见金正恩",
+      "summary": "新华社报道，习近平在平壤同金正恩举行会谈，强调中方高度重视中朝传统友好，朝方重申坚持一个中国原则。此访既强化政治互信，也会继续影响东北亚安全、经贸协作与地区外交博弈。",
+      "source": "新华社 / 商务部转载",
+      "url": "https://www.mofcom.gov.cn/syxwfb/art/2026/art_6112eb8e1eff4affab6486a546199261.html"
+    },
+    {
+      "title": "百日冲刺促就业",
+      "summary": "教育部宣布从6月至8月开展2026届高校毕业生就业“百日冲刺”行动，要求各地高校集中拓岗、稳岗并强化指导服务。背景是毕业季压力叠加，总体目标是稳住青年就业与社会预期。",
+      "source": "新华社",
+      "url": "https://www.hn.news.cn/20260608/a87462560e4f487d98538b6d8b178f7c/c.html"
+    },
+    {
+      "title": "对外投资新规公布",
+      "summary": "李强签署国务院令，公布《国务院关于对外投资的规定》，将于7月1日起施行，明确政策制定、监督与投资者规范经营要求。新规有助于提高境外投资透明度，也为企业出海设下更清晰边界。",
+      "source": "新华社 / 商务部转载",
+      "url": "https://www.mofcom.gov.cn/xwfb/ldrhd/art/2026/art_cd10b42753a3450a9f87229807dcfc40.html"
+    }
+  ],
+  "tech": [
+    {
+      "title": "OpenAI递交IPO",
+      "summary": "路透称，OpenAI已在美国秘密递交IPO申请，成为AI巨头加速登陆资本市场的最新动作。若顺利推进，行业融资、估值与监管讨论都会进一步升温，也会把大模型商业化能力放到更聚光的位置。",
+      "source": "Reuters",
+      "url": "https://www.investing.com/news/stock-market-news/openai-files-for-us-ipo-after-anthropic-as-ai-giants-head-to-public-markets-4731713"
+    },
+    {
+      "title": "Meta推企业AI代理",
+      "summary": "Meta发布面向企业的AI Business Agent，可在WhatsApp等场景中自动处理预约、销售和日常运营。它标志大厂竞争正从聊天助手转向真实工作流，后续比拼重点会落在执行效果与成本控制。",
+      "source": "Reuters",
+      "url": "https://www.investing.com/news/stock-market-news/meta-launches-enterprisefocused-ai-business-agent-to-automate-daily-operations-4724559"
+    },
+    {
+      "title": "英伟达发RTX Spark",
+      "summary": "Computex 2026上，英伟达推出RTX Spark超级芯片平台，主打把Windows PC升级为可运行代理式AI任务的新终端。若厂商跟进顺利，AI PC会从营销概念进一步走向本地算力与应用生态竞争。",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/laptops/nvidia-unveils-rtx-spark-superchip-at-computex-2026-new-platform-promises-to-turn-windows-into-an-agentic-ai-os-with-arm-cpu-blackwell-gpu-and-128gb-unified-memory"
+    }
+  ],
+  "trending": [
+    {
+      "term": "爱你老己",
+      "desc": "自我安慰梗，主打先心疼自己。"
+    },
+    {
+      "term": "活人感",
+      "desc": "夸人真实鲜活，不像上班机器。"
+    },
+    {
+      "term": "留友看",
+      "desc": "留言给朋友看，常见于Threads。"
+    },
+    {
+      "term": "与众分",
+      "desc": "抽象改写梗，表示很有节目效果。"
+    },
+    {
+      "term": "给到夯",
+      "desc": "夸到位、够猛，适合评论区捧场。"
+    }
+  ],
+  "research": [
+    {
+      "title": "量子电路补LLM记忆",
+      "summary": "一项新预印本提出，用小规模量子电路适配器增强大模型记忆能力，在几乎不新增太多参数的情况下改善上下文处理。若后续硬件与实验跟上，这可能为“更轻量的大模型增强”打开新路线。",
+      "source": "Phys.org / arXiv",
+      "url": "https://phys.org/news/2026-06-quantum-circuits-ai-memory-limitations.html"
+    },
+    {
+      "title": "研究演示AI蠕虫",
+      "summary": "多伦多大学团队在arXiv展示可跨异构网络传播的AI蠕虫原型，能自动寻找并利用已知漏洞完成扩散。研究虽是受控验证，但已提醒行业：公开模型若缺少隔离与权限治理，安全外溢风险会迅速放大。",
+      "source": "Tech Xplore / arXiv",
+      "url": "https://techxplore.com/news/2026-06-ai-worm-networks-online-device.html"
+    }
+  ],
+  "finance": [
+    {
+      "title": "跨境整治不涉强平",
+      "summary": "路透报道，中国证监会回应称，打击非法跨境证券投资不会导致离岸账户被强制关闭或资产强制清算。监管层一边维持整治态势，一边安抚市场情绪，核心是控风险但尽量避免额外冲击投资者信心。",
+      "source": "Reuters",
+      "url": "https://www.investing.com/news/economy-news/china-says-illegal-outbound-investment-crackdown-wont-lead-to-forced-liquidation-4729710"
+    },
+    {
+      "title": "美股期货随芯片回稳",
+      "summary": "路透称，经历上周五大跌后，标普500和纳指期货周一随芯片股企稳反弹，英伟达、博通和美光盘前均回升。不过中东局势仍让资金保持谨慎，说明市场短线修复并不等于风险已经真正解除。",
+      "source": "Reuters",
+      "url": "https://za.investing.com/news/economy-news/sp-500-nasdaq-futures-climb-as-chip-stocks-stabilize-4317631"
+    },
+    {
+      "title": "OPEC+四连增配额",
+      "summary": "路透称，OPEC+同意在霍尔木兹海峡危机背景下第四次上调产量配额，继续向市场释放“可增供”信号。但海峡受阻仍让多国实际增产受限，这意味着名义扩产未必能立刻压低高企的能源价格。",
+      "source": "Reuters",
+      "url": "https://www.marketscreener.com/news/opec-set-for-fourth-oil-quota-hike-since-hormuz-closure-sources-say-ce7f5dd2dd8ff123"
+    }
+  ]
+}
