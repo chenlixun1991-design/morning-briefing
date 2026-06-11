@@ -1,0 +1,131 @@
+{
+  "date": "2026-06-12",
+  "created_by": "Tomato 🍅",
+  "international": [
+    {
+      "title": "伊美战事现缓和",
+      "summary": "美联社报道，特朗普在放狠话数小时后叫停对伊朗的新一轮打击，理由是结束战争的谈判出现突破。局势虽未真正解除，但至少暂时压住了中东升级节奏，也让油价、航运和全球风险偏好先获得一口喘息空间。",
+      "source": "AP News",
+      "url": "https://apnews.com/article/iran-us-ceasefire-hezbollah-israel-11-june-2026-3c2c6d356a1e25b4d7edf66b2edba57d"
+    },
+    {
+      "title": "全球流离失所破亿",
+      "summary": "美联社援引联合国难民署数据称，2025年因战争与迫害流离失所的人数仍接近1.18亿，虽然十年来首次回落，但规模依旧惊人。苏丹、黎巴嫩等地持续动荡，意味着人道援助、边境承压和国际安置争议短期都不会明显降温。",
+      "source": "AP News",
+      "url": "https://apnews.com/article/refugees-conflict-persecution-un-migration-displacement-4dbcddd571b1ad2de8fadff609fec393"
+    },
+    {
+      "title": "G7边境严防示威",
+      "summary": "美联社称，G7峰会在瑞法边境召开前，当地启动近似疫情时期的边检和安保管制，以防暴力抗议蔓延。多国领导人齐聚叠加贸易、战争和移民议题升温，使这场峰会不仅是外交协调场，也是欧洲街头治理能力的压力测试。",
+      "source": "AP News",
+      "url": "https://apnews.com/article/switzerland-france-g7-border-security-trump-fb02a9eaf01543fdce630a1981c3f224"
+    }
+  ],
+  "domestic": [
+    {
+      "title": "对外投资新规答问",
+      "summary": "国家发改委官网披露，司法部、国家发改委和商务部就《国务院关于对外投资的规定》集中答记者问，新规将于7月1日起施行。信号很明确，后续中国企业“走出去”会更重规范、合规与风险管控，也利于稳定跨境投资预期和执行边界。",
+      "source": "国家发展改革委",
+      "url": "https://www.ndrc.gov.cn/fggz/202606/t20260608_1405735.html"
+    },
+    {
+      "title": "外交部吁有关方停火",
+      "summary": "人民网转新华社消息，外交部就伊朗局势表态，强烈敦促有关方立即停止军事行动，回到对话谈判轨道。表态一方面回应中东战事外溢风险，另一方面也延续了中方近期在地区冲突中的劝和立场，对能源、航运与周边安全议题都有现实指向。",
+      "source": "人民网",
+      "url": "https://world.people.com.cn/n1/2026/0611/c1002-40738632.html"
+    },
+    {
+      "title": "长春谋汽车产业重振",
+      "summary": "路透称，长春公布汽车产业振兴草案，计划借比亚迪、小米等新势力合作机会，带动本地整车和零部件体系升级。背后既是传统汽车城应对新能源转型压力，也说明地方正把产业整合、招商与技术换挡同时推进，争取稳住制造业基本盘。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/autos-transportation/chinas-changchun-unveils-auto-revamp-plan-seeks-byd-xiaomi-boost-ev-push-2026-06-11/"
+    }
+  ],
+  "tech": [
+    {
+      "title": "ChatGPT接入沃尔玛",
+      "summary": "美联社报道，OpenAI与沃尔玛合作，让用户可直接在ChatGPT里完成商品选购与下单。它说明聊天机器人正从“回答问题”走向“实际成交”，后续电商平台、支付接口和品牌流量分发规则都可能被AI重写，搜索式购物会更快变成交易式对话。",
+      "source": "AP News",
+      "url": "https://apnews.com/article/openai-walmart-chatgpt-shopping-partnership-59b72cc5f1a3377b4ada89d035dc1884"
+    },
+    {
+      "title": "Anthropic押注公益AI",
+      "summary": "美联社称，Anthropic宣布推出“Claude Corps”，并承诺投入1.5亿美元，培训并派驻1000名AI fellows进入非营利组织。相比单纯卷模型参数，这更像是在抢占公共部门和公益组织的真实使用场景，也给AI落地竞争开了新赛道。",
+      "source": "AP News",
+      "url": "https://apnews.com/article/anthropic-ai-claude-corps-daniela-amodei-b1c130a08417d13e1256f8982d233b0e"
+    },
+    {
+      "title": "AI股再现过山车",
+      "summary": "美联社报道，AI概念股再度剧烈反转，标普500在单日内从上涨转为大幅回落，市场情绪像坐过山车。它提醒投资者，当前AI叙事虽然仍强，但估值已经高度敏感，只要利率、油价或业绩预期出现扰动，科技股波动就会被迅速放大。",
+      "source": "AP News",
+      "url": "https://apnews.com/article/stocks-markets-ai-tech-iran-0446d424c0bf722dd5b09d70b8a1da3d"
+    }
+  ],
+  "trending": [
+    {
+      "term": "活人感",
+      "desc": "夸人真实自然，不像模板人设。"
+    },
+    {
+      "term": "班味",
+      "desc": "打工疲态外露时的自嘲说法。"
+    },
+    {
+      "term": "赛博对账",
+      "desc": "网友互相核对共同经历和记忆。"
+    },
+    {
+      "term": "助我破鼎",
+      "desc": "自我打气梗，常用于冲刺时刻。"
+    },
+    {
+      "term": "抽象力",
+      "desc": "用荒诞玩梗化解压力的能力。"
+    }
+  ],
+  "research": [
+    {
+      "title": "深海鲸落变生命岛",
+      "summary": "美联社报道，科学家在东南印度洋发现数百万年前的鲸落墓地，周围仍滋养着海蜇、管虫和蛇尾等海洋生物群落。研究说明鲸尸坠海不仅是死亡终点，也会成为深海生态的长期能量站，对理解海底生命网络和古海洋环境都很关键。",
+      "source": "AP News",
+      "url": "https://apnews.com/article/whale-graveyard-diamantina-zone-2338ae91adeb89d19cee3cc36a68b76a"
+    },
+    {
+      "title": "自旋子首获实验证据",
+      "summary": "科学网转科技日报称，爱尔兰团队借助“自旋见证光谱学”，首次获得量子自旋液体关键准粒子“自旋子”的实验证据。突破意义不只在基础物理，它还为未来拓扑量子计算材料的筛选和验证提供了新方法，离“量子硅”又近了一步。",
+      "source": "科学网",
+      "url": "https://news.sciencenet.cn/htmlnews/2026/6/566328.shtm"
+    }
+  ],
+  "finance": [
+    {
+      "title": "SpaceX今夜闯华尔街",
+      "summary": "美联社称，马斯克旗下SpaceX将于周五以每股135美元、约5.556亿股发行规模登陆华尔街，机构和散户预期都会积极认购。若上市顺利，不只会改写今年IPO热度，也会把商业航天、卫星网络和AI算力资产重新推到市场中心。",
+      "source": "AP News",
+      "url": "https://apnews.com/article/spacex-musk-starship-ipo-satellites-data-center-293e82ea0216efdd0ff7601baf85bae8"
+    },
+    {
+      "title": "油价飙升压低美股",
+      "summary": "路透视频快讯称，美国股市收跌的同时，油价因中东局势一度飙升约12%，叠加就业市场走弱，市场避险情绪明显抬头。对投资者来说，这意味着通胀回落路径再添变数，航空、零售和高估值成长板块都会承受更直接的压力。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/video/watch/idRW170806032026RP1"
+    },
+    {
+      "title": "美初请失业金回升",
+      "summary": "《华尔街日报》援引劳工部数据称，截至6月6日当周美国初请失业金人数升至22.9万。虽然整体就业市场仍被认为健康，但这组数据与油价冲击叠加后，足以让市场重新评估经济韧性，并继续拉扯美联储年内降息节奏的预期。",
+      "source": "Wall Street Journal",
+      "url": "https://www.wsj.com/economy/jobs/u-s-jobless-claims-rose-last-week-70b53ca9"
+    }
+  ],
+  "sources_checked": [
+    "Tavily Search",
+    "AP News",
+    "Reuters",
+    "人民网",
+    "国家发展改革委",
+    "科学网",
+    "Wall Street Journal",
+    "LingoAce",
+    "抖音搜索"
+  ]
+}
