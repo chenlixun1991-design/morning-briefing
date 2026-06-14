@@ -1,0 +1,120 @@
+{
+  "date": "2026-06-15",
+  "created_by": "Tomato 🍅",
+  "international": [
+    {
+      "title": "日内瓦反G7升级",
+      "summary": "路透6月14日报道，日内瓦反G7游行升级为骚乱，示威者焚毁特斯拉车辆并砸毁联合国机构窗户，警方发射催泪瓦斯驱散。峰会安保随之再收紧，欧洲对抗议外溢、跨境执法与公共秩序的担忧同步升温。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/americas/protesters-smash-windows-set-tesla-ablaze-anti-g7-march-geneva-2026-06-14/"
+    },
+    {
+      "title": "泽连斯基通话特朗普",
+      "summary": "路透6月14日报道，乌克兰总统泽连斯基与特朗普通话，重点讨论停火推进、外交节奏与对俄施压。随着华盛顿同时和基辅、莫斯科保持接触，俄乌战场之外的谈判博弈正在升温，后续停火窗口仍取决于多方让步幅度。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/europe/ukraines-zelenskiy-discussed-war-diplomacy-call-with-trump-adviser-says-2026-06-14/"
+    },
+    {
+      "title": "瑞士否决限民提案",
+      "summary": "路透6月14日报道，瑞士公投否决把总人口封顶在一千万的提案，选民更看重经济稳定与对欧关系。结果令企业界和劳动力市场暂时松口气，也说明欧洲移民与增长议题仍会持续主导多国政治讨论。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/europe/switzerland-votes-proposal-cap-population-10-million-2026-06-14/"
+    }
+  ],
+  "domestic": [
+    {
+      "title": "青岛峰会今启幕",
+      "summary": "人民日报6月15日报道，第七届跨国公司领导人青岛峰会于15日至17日举行，围绕开放合作与未来产业展开交流。峰会在外资预期分化背景下释放稳外资信号，也将成为观察跨国企业继续加码中国的重要窗口。",
+      "source": "人民日报",
+      "url": "http://js.people.com.cn/n2/2026/0615/c360301-41610133.html"
+    },
+    {
+      "title": "前五月社融17.48万亿",
+      "summary": "人民日报6月15日报道，人民银行数据显示，今年前5个月社会融资规模增量累计17.48万亿元，存量继续扩大。融资总量稳步抬升，说明宽信用仍在发力，也为后续投资、地产修复和企业现金流预期提供支撑。",
+      "source": "人民日报",
+      "url": "http://paper.people.com.cn/rmrb/pc/content/202606/15/content_30163056.html"
+    },
+    {
+      "title": "两岸融合再推进",
+      "summary": "人民日报6月15日报道，两岸融合发展示范区建设专题推进会在厦门举行，会议强调把示范区建设继续做深做实。此举释放出政策层面对产业协同、民生互通与区域联动的持续推动信号，福建仍是关键试验场。",
+      "source": "人民日报",
+      "url": "http://paper.people.com.cn/rmrb/pc/content/202606/15/content_30163054.html"
+    }
+  ],
+  "tech": [
+    {
+      "title": "Meta拆解Manus交易",
+      "summary": "TechCrunch援引多方消息称，Meta正按中方要求拆解对中国AI初创公司Manus的20亿美元交易，并切断内部系统接入。事件显示跨境AI并购已深受地缘监管影响，资本、人才和模型合作门槛正明显提高。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/"
+    },
+    {
+      "title": "Anthropic封新模型接口",
+      "summary": "TechCrunch 6月14日报道，Anthropic在美国政府指令后暂停新模型访问，引发印度科技圈对“依赖海外基础模型”风险的集中讨论。它把AI主权、算力自主和本土模型投入重新推上台面，外溢影响不止于印度市场。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/"
+    },
+    {
+      "title": "英国拟禁16岁以下社媒",
+      "summary": "TechCrunch 6月14日报道，英国首相斯塔默准备宣布限制16岁以下未成年人使用主流社交平台，并同步压缩陌生人聊天和夜间刷屏功能。若政策落地，全球社媒平台在未成年人保护、年龄验证和产品设计上都将承受更大压力。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/14/uk-may-ban-social-media-for-children-under-16/"
+    }
+  ],
+  "trending": [
+    {
+      "term": "哈王老吉",
+      "desc": "哈兰德广告洗脑曲，吐槽魔性上头。"
+    },
+    {
+      "term": "挪威的森林",
+      "desc": "哈兰德配伍佰BGM，评论区狂接歌。"
+    },
+    {
+      "term": "躲过这一杰",
+      "desc": "张杰谢娜谐音梗，常用来接力吐槽。"
+    },
+    {
+      "term": "老钱就在我身边",
+      "desc": "见到豪门感场景时的夸张玩笑。"
+    },
+    {
+      "term": "苏超先于世界杯",
+      "desc": "调侃本土联赛玩梗速度比大赛还快。"
+    }
+  ],
+  "research": [
+    {
+      "title": "单次投出28层3D图像",
+      "summary": "Phys.org 6月14日报道，UCLA团队结合深度学习编码器与衍射解码器，完成单次曝光下的28层三维图像投射，相关成果发表于《Light: Science & Applications》。这让轻量化3D显示、成像和光学计算的想象空间明显扩大。",
+      "source": "Phys.org / Light: Science & Applications",
+      "url": "https://phys.org/news/2026-06-layer-3d-images-shot.html"
+    },
+    {
+      "title": "南非望远镜捕获超早期信号",
+      "summary": "Phys.org 6月13日报道，南非望远镜探测到迄今最强的早期宇宙信号之一，帮助研究者更清楚追踪星系形成初期环境。它意味着人类在观测宇宙“童年期”方面又向前迈了一步，也会推动后续射电天文学研究布局。",
+      "source": "Phys.org / The Conversation",
+      "url": "https://phys.org/news/2026-06-south-african-telescope-recordbreaking-early.html"
+    }
+  ],
+  "finance": [
+    {
+      "title": "美联储年内降息预期转弱",
+      "summary": "路透近期调查显示，受战争推升的能源通胀影响，多数经济学家预计美联储将在2026年剩余时间按兵不动，部分机构甚至推迟到2027年再看降息。全球资产定价因此继续围绕高利率、强美元和风险偏好收缩来调整。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/fed-hold-rates-this-year-cut-calls-fade-war-inflation-persists-economists-say-2026-06-09"
+    },
+    {
+      "title": "SpaceX创纪录募资750亿",
+      "summary": "CNBC 6月12日报道，SpaceX完成750亿美元募资，被称为史上最大IPO级交易之一，市场同时讨论其估值、治理和马斯克个人风险。超级公司融资能力继续抬升，也让AI、航天和一级市场热度重新被点燃。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/video/2026/06/12/spacex-raises-75b-in-biggest-ever-ipo.html"
+    },
+    {
+      "title": "伊朗协议摇摆牵动油运",
+      "summary": "CNBC 6月14日报道，美伊停战与重开霍尔木兹海峡的协议仍悬而未决，但以色列与黎巴嫩真主党再度交火，令市场担心油运通道稳定性。只要海峡风险未消退，油价、航运保险和全球通胀预期都难真正回落。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/14/iran-deal-teeters-israel-strikes-lebanon.html"
+    }
+  ]
+}
