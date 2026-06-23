@@ -1,0 +1,120 @@
+{
+  "date": "2026-06-24",
+  "created_by": "Tomato 🍅",
+  "international": [
+    {
+      "title": "法国热浪酿溺亡潮",
+      "summary": "法国在欧洲极端热浪中出现数十起野泳溺亡，路透称自周末以来已有40人死亡；英国、意大利、西班牙也受高温冲击，学校、交通和用水同步承压。热浪正把气候风险从天气事件推成公共安全与城市治理议题。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/environment/around-20-drown-france-people-seek-relief-heatwave-2026-06-23/"
+    },
+    {
+      "title": "土耳其会前大抓捕",
+      "summary": "美联社报道，土耳其在7月北约峰会前于安卡拉展开大规模突袭，拘押209名嫌疑人。官方强调是反恐维稳，但在峰会临近节点高强度清场，也会继续放大外界对土耳其安全压力与国内人权边界的关注。",
+      "source": "AP News",
+      "url": "https://apnews.com/article/turkey-nato-summit-suspects-detained-864260d7cbe9ca73cd05115cd638ee93"
+    },
+    {
+      "title": "福建舰过航台湾海峡",
+      "summary": "台湾防务部门称，中国最新航母福建舰23日驶经台湾海峡，是4月以来首次在这条敏感水道公开通行。台方全程监控并指大陆持续加码海空压力，事件让台海军演、威慑与误判风险再次升温。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/chinas-most-advanced-aircraft-carrier-sails-through-taiwan-strait-taipei-says-2026-06-23/"
+    }
+  ],
+  "domestic": [
+    {
+      "title": "汽车后市场再扩围",
+      "summary": "路透23日报道，中国发布措施扩大汽车后市场，要求清理不合理限制，并提升改装、维修、租赁和赛事产业标准。政策既在为汽车消费找新增量，也想把存量车时代的服务链条做成新的增长抓手。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/china-announces-measures-expand-automotive-after-market-2026-06-23/"
+    },
+    {
+      "title": "江苏押注脑机接口",
+      "summary": "人民日报24日报道，刘国中在江苏调研时要求把生物医药做成新兴支柱产业，并把脑机接口作为未来产业重点培育。信号很明确：从基础研究到临床转化再到产业化，前沿技术正被更早纳入地方增长布局。",
+      "source": "人民日报 / 新华社",
+      "url": "http://js.people.com.cn/n2/2026/0624/c360300-41619024.html"
+    },
+    {
+      "title": "国企改革再部署",
+      "summary": "新华社23日消息，全国进一步深化国资国企改革动员部署会在京召开，强调做强做优做大国有企业和国有资本，并推进主责主业聚焦、资源整合与科技成果转化。后续央国企考核与重组节奏值得继续看。",
+      "source": "人民日报 / 新华社",
+      "url": "http://politics.people.com.cn/n1/2026/0624/c1001-40746036.html"
+    }
+  ],
+  "tech": [
+    {
+      "title": "中国超算重回榜首",
+      "summary": "路透23日报道，深圳国家超算中心的LineShine登顶TOP500，成为中国三年来首次重返榜首，且使用国产芯片。不过它在更接近AI负载的测试中只排第四，说明这更像算力自立展示，而非AI霸主已定。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/china-beats-us-with-worlds-fastest-supercomputer-race-not-geared-ai-work-2026-06-23"
+    },
+    {
+      "title": "Meta发299美元眼镜",
+      "summary": "Meta与依视路陆逊梯卡推出自有品牌AI眼镜，起售价299美元，明显低于去年的高价款，并首次搭载Superintelligence Labs的Muse Spark模型。它在把AI硬件从尝鲜品继续推向更大众的消费层。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/technology/meta-announces-new-range-smart-glasses-starting-299-2026-06-23"
+    },
+    {
+      "title": "美政府催Meta送审AI",
+      "summary": "路透引述《纽约时报》称，美国政府正推动Meta把新AI模型交由联邦部门做自愿安全评审，以便提前识别网络攻击和军事滥用风险。这意味着前沿模型的发布流程，正被更深地纳入国家安全框架。",
+      "source": "Reuters / NYT",
+      "url": "https://www.reuters.com/world/us/us-presses-meta-agree-ai-reviews-security-concerns-rise-nyt-reports-2026-06-23/"
+    }
+  ],
+  "trending": [
+    {
+      "term": "我要验牌",
+      "desc": "查底牌的质疑梗，常用于不信。"
+    },
+    {
+      "term": "老人杯",
+      "desc": "吐槽世界杯老将多、话题偏怀旧。"
+    },
+    {
+      "term": "班味",
+      "desc": "形容被上班耗空后的疲态气质。"
+    },
+    {
+      "term": "00弟弟05酒",
+      "desc": "金莎话题梗，指年下伴侣配老酒。"
+    },
+    {
+      "term": "活人感",
+      "desc": "夸人自然松弛，不像预制人设。"
+    }
+  ],
+  "research": [
+    {
+      "title": "血浆蛋白可测衰老",
+      "summary": "《Nature Medicine》研究显示，血浆蛋白可推断特定细胞类型的衰老状态，并预测后续疾病与死亡风险；在APOE4人群中，老化星形胶质细胞还与阿尔茨海默病风险明显相关。体检式早筛因此更近一步。",
+      "source": "Nature Medicine / News-Medical",
+      "url": "https://www.news-medical.net/news/20260616/Blood-proteins-reveal-which-aging-cells-may-raise-disease-risk.aspx"
+    },
+    {
+      "title": "三维分子剖析升级",
+      "summary": "《Nature Methods》介绍的新平台把光片成像与计算机引导精密铣削结合起来，能在完整组织里做更深层的三维分子分析。它有望把空间组学从“看局部”推进到“看整体结构里的分子关系”。",
+      "source": "Nature Methods",
+      "url": "https://www.nature.com/articles/s41592-026-03149-z"
+    }
+  ],
+  "finance": [
+    {
+      "title": "数字欧元闯过关键关",
+      "summary": "路透23日报道，欧洲议会相关委员会为数字欧元开绿灯，最早下月可与成员国和欧委会展开立法谈判。欧盟想借此降低对Visa、万事达等美国支付网络依赖，但银行存款外流和建设成本争议仍很大。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/finance/ecb-secures-key-parliamentary-backing-digital-euro-2026-06-23/"
+    },
+    {
+      "title": "亚股重估加息路径",
+      "summary": "路透23日报道，市场重新定价美联储更鹰派路径后，亚洲股市普遍承压，韩国股市跌幅尤为明显；油价反弹、黄金和加密资产回落。资金正在从“赌宽松”切回“防通胀”，全球风险偏好同步降温。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/global-markets-global-markets-2026-06-23/"
+    },
+    {
+      "title": "日元逼近四十年低位",
+      "summary": "路透23日报道，美元兑日元升至161.55附近，距离1986年以来最弱水平只差一步。市场押注美联储继续偏鹰，同时担心日本被迫再度口头或实际干预汇市；汇率波动也会继续外溢到亚洲资产定价。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/dollar-firms-hawkish-fed-bets-oil-rebound-yen-near-40-year-low-2026-06-23/"
+    }
+  ]
+}
