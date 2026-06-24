@@ -1,0 +1,120 @@
+{
+  "date": "2026-06-25",
+  "created_by": "Tomato 🍅",
+  "international": [
+    {
+      "title": "俄控塞港大停电",
+      "summary": "路透6月24日报道，乌方打击导致俄控克里米亚塞瓦斯托波尔大范围停电，莫斯科控制的赫尔松部分地区也受波及。事件说明俄乌战线仍在向后方基础设施延伸，黑海港口、安全补给和当地民生压力同步上升。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/europe/russian-held-sevastopol-without-power-after-ukraine-strikes-moscow-installed-2026-06-24/"
+    },
+    {
+      "title": "法国现埃博拉病例",
+      "summary": "路透6月24日报道，一名结束刚果（金）人道任务返法的医生被确诊感染埃博拉，这是法国与本轮疫情相关的首个输入病例。患者已隔离、同机密接被追踪，欧洲公共卫生系统随之收紧警戒，跨境疫情防控再度升温。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/france-reports-ebola-case-doctor-returning-humanitarian-mission-congo-2026-06-24/"
+    },
+    {
+      "title": "北约峰会前先灭火",
+      "summary": "路透6月24日报道，北约秘书长吕特赴白宫会见特朗普，试图在7月安卡拉峰会前缓和美欧因伊朗战争与驻欧兵力问题产生的紧张。会谈焦点落在防务开支、欧洲自担责任与持续援乌，联盟内部裂痕再次被摆上台面。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/aerospace-defense/natos-rutte-meet-trump-aiming-ease-tensions-ahead-july-summit-2026-06-24/"
+    }
+  ],
+  "domestic": [
+    {
+      "title": "夏季达沃斯开幕",
+      "summary": "新华社、外交部与美联社6月24日报道，第十七届夏季达沃斯论坛在大连开幕，李强在致辞中强调中国技术进步是世界机遇而非威胁，并把“规模化创新”放到增长核心位置。论坛释放的信号，直接关系外界对中国创新、投资和开放预期。",
+      "source": "新华社 / 外交部 / AP News",
+      "url": "https://www.mfa.gov.cn/zyxw/202606/t20260624_11951432.shtml"
+    },
+    {
+      "title": "充电桩总量破2249万",
+      "summary": "中国政府网6月24日援引国家能源局数据称，截至2026年5月底，全国电动汽车充电基础设施达到2249.7万个，同比增长44.9%。这说明新能源车渗透继续倒逼配套扩容，也会进一步影响城建投资、能源调度和车企交付节奏。",
+      "source": "中国政府网 / 国家能源局",
+      "url": "http://big5.www.gov.cn/gate/big5/www.gov.cn/zhengce/jiedu/tujie/202606/content_7073207.htm"
+    },
+    {
+      "title": "金融总资产556万亿",
+      "summary": "人民日报6月24日报道，人民银行初步统计显示，一季度末我国金融业机构总资产达556.34万亿元，同比增长8.8%。资金体量继续扩张，反映金融体系对实体投融资仍在加杠杆，也让市场更关注后续信贷流向与风险消化能力。",
+      "source": "人民日报",
+      "url": "https://cpc.people.com.cn/n1/2026/0624/c64387-40746305.html"
+    }
+  ],
+  "tech": [
+    {
+      "title": "OpenAI发首颗自研芯",
+      "summary": "路透6月24日报道，OpenAI发布与博通联合设计的首款推理芯片 Jalapeño，计划年内投入使用，用于支撑ChatGPT等大模型推理。它意味着OpenAI正减少对英伟达的单点依赖，AI竞争也从模型赛跑转向算力全栈自控。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/openai-unveils-custom-chip-it-designed-with-broadcom-boost-its-ai-infrastructure-2026-06-24/"
+    },
+    {
+      "title": "高通洽谈字节定制芯",
+      "summary": "路透6月24日报道，高通正与字节跳动洽谈提供定制芯片设计服务，若成交，字节将成为其数据中心定制芯业务的早期大客户。信号很明确：美国芯片公司仍想深做中国AI市场，字节也在为长期算力自主做更深布局。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/qualcomm-talks-provide-custom-chip-design-services-bytedance-sources-say-2026-06-24/"
+    },
+    {
+      "title": "中国超算重回榜首",
+      "summary": "路透6月23日报道，中国深圳国家超级计算中心的 LineShine 登顶最新 TOP500，成为三年来中国首次重返全球超算榜首。不过专家提醒，它在更接近 AI 任务的测试里只排第四，因此更像展示国产算力自给，而非已全面领跑 AI。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/china-beats-us-with-worlds-fastest-supercomputer-race-not-geared-ai-work-2026-06-23/"
+    }
+  ],
+  "trending": [
+    {
+      "term": "不喜欢也没关系",
+      "desc": "王俊凯相关热搜，拿来表达真诚式安慰。"
+    },
+    {
+      "term": "无畏的猫",
+      "desc": "因体型反差刷屏，常用于夸张感叹。"
+    },
+    {
+      "term": "客厅没必要",
+      "desc": "小户型生活流热议，吐槽传统装修。"
+    },
+    {
+      "term": "官宣120部大剧",
+      "desc": "平台片单爆量，常被拿来调侃画饼。"
+    },
+    {
+      "term": "一滴泪镜头",
+      "desc": "古偶名场面热议，适合玩演技梗。"
+    }
+  ],
+  "research": [
+    {
+      "title": "土壤菌打出抗生素组合拳",
+      "summary": "Nature 6月24日报道，研究人员在土壤链霉菌中发现一个大型基因簇，可一次生成多种协同抗生素并杀伤多重耐药细菌。由于多分子联合作用更难被病原体绕开，这项发现有望为下一代抗耐药药物开发提供全新路线。",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-01990-y"
+    },
+    {
+      "title": "激光陀螺逼近零漂移",
+      "summary": "Nature 6月25日新一期报道，研究团队利用手性激光与自发对称破缺，突破了环形激光陀螺传统锁定极限，使近零旋转状态下的测量更稳定。若后续工程化成功，惯导、航空航天和高精密传感器都会直接受益。",
+      "source": "Nature",
+      "url": "https://www.nature.com/nature/volumes/654/issues/8120"
+    }
+  ],
+  "finance": [
+    {
+      "title": "特朗普要查油企油价",
+      "summary": "路透6月24日报道，特朗普要求美国司法部调查油企是否在汽油价格上存在“哄抬”行为。背景是原油回落但终端油价迟迟不降，消费者不满升温。若监管压力继续加强，能源股估值、炼化利润和美国选举议题都会被牵动。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/energy/trump-instructs-doj-probe-oil-companies-over-higher-gasoline-prices-2026-06-24"
+    },
+    {
+      "title": "金价承压ETF或流出",
+      "summary": "路透6月24日报道，随着市场重新押注美联储进一步收紧政策，黄金 ETF 可能再现资金流出。金价较年初高点已明显回撤，强美元和更高利率预期正在削弱避险吸引力，这会影响贵金属、矿业股与全球资产配置节奏。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/gold-etfs-could-see-fresh-outflows-rising-bets-fed-monetary-tightening-2026-06-24"
+    },
+    {
+      "title": "全球股市小跌美元新高",
+      "summary": "路透6月24日报道，科技股在美光财报前再度走弱，MSCI 全球指数回落，美元升至一年高位，市场风险偏好转谨慎。与此同时，油价因霍尔木兹运输恢复预期继续回落，说明资金正从地缘避险切换到重新计价利率与科技估值压力。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-06-24"
+    }
+  ]
+}
