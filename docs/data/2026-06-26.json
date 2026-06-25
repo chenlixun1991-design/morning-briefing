@@ -1,0 +1,132 @@
+{
+  "date": "2026-06-26",
+  "created_by": "Tomato 🍅",
+  "international": [
+    {
+      "title": "乌称俄调防空",
+      "summary": "美联社称，泽连斯基表示乌军连续无人机打击后，俄方正把更多防空系统调往莫斯科和关键设施，前线拦截能力可能因此被分流。信号很清楚，战事正从消耗战继续外溢到纵深防御与本土安全成本。",
+      "source": "AP News",
+      "url": "https://apnews.com/article/russia-ukraine-war-drones-crimea-trump-25dc47db4d1a3b2908b8f060434aa765"
+    },
+    {
+      "title": "霍尔木兹通航回暖",
+      "summary": "美联社与路透均显示，尽管伊朗革命卫队仍发出威胁，油轮已重新穿越霍尔木兹海峡，原油货运量接近冲突前水平。中东供应链紧张暂时缓和，全球航运与能源市场先获得喘息，但地区风险并未真正清零。",
+      "source": "AP News / Reuters",
+      "url": "https://apnews.com/article/iran-us-israel-war-hormuz-strait-june-25-2026-862164c2aecbdc376dea434198eaf75f"
+    },
+    {
+      "title": "欧盟再拨援乌贷款",
+      "summary": "美联社报道，欧盟释放30亿欧元贷款支持乌克兰重建，这是其两年承诺中的最新一笔资金。短期有助于基建修复和财政稳定，长期则意味着欧洲对乌支持仍会持续，也让俄乌冲突的地缘与预算博弈继续拉长。",
+      "source": "AP News",
+      "url": "https://apnews.com/article/poland-ukraine-eu-war-recovery-b8b37d260236ab1b55ecede39d3192c7"
+    }
+  ],
+  "domestic": [
+    {
+      "title": "特供酒再遭严打",
+      "summary": "新华网披露，国务院食安办集中通报一批“特供酒”典型案件，已立案52件、抓获40名嫌疑人，并查实涉案酒品7.52万箱。监管重点已转向直播、电商和暗语营销，释放出对灰色消费链条持续高压整治的明确信号。",
+      "source": "新华网",
+      "url": "https://www.news.cn/legal/20260625/c72bf57ff16f4255a739b66fcf173161/c.html"
+    },
+    {
+      "title": "夏季达沃斯热议AI",
+      "summary": "新华社英文网报道，夏季达沃斯上，多位青年创业者把自己定义为连接AI技术与真实产业的桥梁，讨论重点落在落地应用与创新协作。风向显示，国内这轮AI关注点正从模型热闹感，继续转向产业化和商业兑现能力。",
+      "source": "Xinhua",
+      "url": "https://english.news.cn/20260625/e5d5ee19c9d94c738fa346fb094b9f40/c.html"
+    },
+    {
+      "title": "委震波及中国公民",
+      "summary": "新华社客户端称，委内瑞拉连遭两次7级以上强震后，余震已达138次，死亡人数升至188人，其中2名中国公民不幸遇难。事件一方面提示拉美灾害风险升高，另一方面也让海外领保和人员安全再次成为国内关注点。",
+      "source": "新华社",
+      "url": "https://app.xinhuanet.com/news/article.html?articleId=202606260f77880b07a445378ddc2193cefc56bf"
+    }
+  ],
+  "tech": [
+    {
+      "title": "芯片股迎强反弹",
+      "summary": "路透称，美光与高通给出更强的AI相关指引后，全球芯片股合计反弹约4000亿美元，市场对算力投资回报的担忧暂时降温。它说明AI主线还没熄火，但后续估值能否站稳，仍要看需求兑现和资本开支节奏。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/micron-qualcomm-forecasts-ignite-400-billion-ai-chip-stock-rally-2026-06-24/"
+    },
+    {
+      "title": "IBM秀亚纳米芯",
+      "summary": "路透报道，IBM发布可制造小于1纳米芯片的新技术，目标直指更高强度的AI计算负载，并称量产有望在五年内推进。若后续工艺和代工环节跟上，这会把先进制程竞争再往前推一档，也影响未来算力成本曲线。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/ibm-unveils-tech-chip-smaller-than-1-nanometer-ai-computing-push-2026-06-25/"
+    },
+    {
+      "title": "自动驾驶首套全球规",
+      "summary": "CGTN援引联合国欧洲经委会消息称，全球首套自动驾驶汽车规则已获通过，要求测试可信、安全治理可审计，并证明系统风险不高于合格人类驾驶员。新规会抬高产业准入门槛，也让量产和跨国合规更有共同基线。",
+      "source": "CGTN",
+      "url": "https://news.cgtn.com/news/2026-06-25/First-global-rules-adopted-for-self-driving-cars-UN-says-1Ogh8J6FGvu/p.html"
+    }
+  ],
+  "trending": [
+    {
+      "term": "活人感",
+      "desc": "夸人真实松弛，不像模板人设。"
+    },
+    {
+      "term": "班味",
+      "desc": "打工疲态上脸时的自嘲说法。"
+    },
+    {
+      "term": "预制XX",
+      "desc": "吐槽过度包装的人设或生活。"
+    },
+    {
+      "term": "做完你的做你的",
+      "desc": "忙乱中控场，常拿来自嘲赶工。"
+    },
+    {
+      "term": "空降疲惫",
+      "desc": "突然被塞任务，瞬间心累。"
+    }
+  ],
+  "research": [
+    {
+      "title": "埃博拉症状认知偏差",
+      "summary": "路透称，刚果研究人员在505例确诊病例中发现，本轮Bundibugyo型埃博拉仅约10%患者出现出血，显著低于公众熟悉的旧印象。这种症状认知错位会削弱社区配合度，也提醒公共卫生沟通不能只沿用旧模板。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/ebola-bundibugyo-outbreak-rages-knowledge-gaps-still-challenge-response-2026-06-25/"
+    },
+    {
+      "title": "细菌电池试探落地",
+      "summary": "路透视频介绍，英国初创Bactery正利用土壤天然微生物持续释电，希望做出适配各种土壤的低功耗细菌电池。它短期更像补充型能源方案，但若稳定性和成本跑通，传感器、农业和偏远设备供电会先受益。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/video/watch/idRW744409062026RP1/?chan=science&location=channel-item"
+    }
+  ],
+  "finance": [
+    {
+      "title": "美PCE通胀再破4%",
+      "summary": "路透称，美国5月PCE同比涨幅重回4%以上，为2023年4月以来首次，消费者支出仍偏强，美联储继续加息的可能性因此没有完全退出。对全球市场来说，这会抬高美元和利率中枢预期，也让成长股继续承压。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/markets/us/us-pce-inflation-measure-tops-40-may-consumer-spending-strong-2026-06-25"
+    },
+    {
+      "title": "全球股市跟随反弹",
+      "summary": "路透报道，受美光和高通乐观指引带动，亚洲与全球股市普遍回升，美元则徘徊在近一年高位。它说明资金仍愿意押注AI主线，但前提是企业盈利要继续证明高估值合理，否则波动会再次迅速放大。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/global-markets-wrapup-1-2026-06-25"
+    },
+    {
+      "title": "油价回落但未脱险",
+      "summary": "路透显示，随着更多油轮驶离霍尔木兹海峡、供应忧虑缓和，油价一度回到伊朗战事前水平附近；但近阿曼货船遇袭又让盘中再度反弹。市场已从单边恐慌转入高波动模式，能源与航运资产仍会随消息面急摆。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/energy/oil-prices-fall-tankers-exit-strait-hormuz-2026-06-25"
+    }
+  ],
+  "sources_checked": [
+    "Tavily Search",
+    "Reuters",
+    "AP News",
+    "新华网",
+    "新华社",
+    "Xinhua",
+    "CGTN",
+    "LingoAce",
+    "WuKong Education",
+    "抖音搜索"
+  ]
+}
