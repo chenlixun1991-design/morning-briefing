@@ -1,0 +1,133 @@
+{
+  "date": "2026-06-27",
+  "created_by": "Tomato 🍅",
+  "international": [
+    {
+      "title": "乌俄纵深空袭升级",
+      "summary": "美联社称，俄方表示一夜拦截660架乌军无人机，范围覆盖本土12个地区、克里米亚及周边海域，规模接近开战以来最大之一。乌方同时称俄军导弹与无人机继续打击民用设施，意味着双方正把消耗战进一步推向纵深目标与本土安全。",
+      "source": "AP News",
+      "url": "https://apnews.com/article/russia-ukraine-war-biggest-drone-attack-a356e2a119f3cb9422ede6acbedf56f3"
+    },
+    {
+      "title": "欧洲热浪难脱人祸",
+      "summary": "路透援引气候科学家分析称，本周席卷西欧的破纪录热浪在没有人为气候变化的情况下几乎不可能发生，夜间高温概率较二十年前放大约100倍。热浪已扰乱供电、学校和交通，说明极端天气正从环境议题加速变成公共健康与城市治理压力。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/sustainability/cop/europes-heatwave-virtually-impossible-without-climate-change-scientists-say-2026-06-26/"
+    },
+    {
+      "title": "数字税引爆新关税",
+      "summary": "路透报道，特朗普威胁对任何征收美国数字服务税的国家立即加征100%关税，直接点燃与欧洲的新一轮贸易摩擦。法国现行税率为3%，部分议员还想提高到6%，若美欧继续互相施压，科技公司税负、跨境商品价格和谈判节奏都可能同步受冲击。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/us/trump-threatens-100-tariff-any-country-that-imposes-digital-services-tax-2026-06-26/"
+    }
+  ],
+  "domestic": [
+    {
+      "title": "北京高楼传撞机事故",
+      "summary": "路透引述现场目击者称，一架体量约轿车大小的飞行器于26日晚撞上北京中信大厦高层外立面，现场至少两块玻璃受损，警方随后封路并劝离围观者。官方尚未公布原因，但事件迅速引发对超大城市低空安全、通报透明度和应急处置机制的关注。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/beijing-steps-up-police-presence-around-citys-tallest-tower-reuters-witnesses-2026-06-26/"
+    },
+    {
+      "title": "中孟宣布新阶段合作",
+      "summary": "国务院英文网显示，习近平26日在北京会见来华访问的孟加拉国总理塔里克·拉赫曼，提出支持其新政府平稳施政，并推进高质量共建“一带一路”。这意味着中国正继续加深南亚经贸与基础设施连接，也为区域供应链和周边外交释放稳定合作信号。",
+      "source": "The State Council",
+      "url": "https://english.www.gov.cn/news/202606/26/content_WS6a3defecc6d00ca5f9a0bd1e.html"
+    },
+    {
+      "title": "再提农业农村现代化",
+      "summary": "中国日报报道，习近平在山东德州考察时再次强调农业与农村发展，要求把“三农”工作继续抓实。这个表态放在当前消费修复与地方产业转型背景下，意义不只在粮食安全，也在于稳县域经济、补农村基础设施短板，并为后续政策资源投向提供风向。",
+      "source": "China Daily",
+      "url": "https://www.chinadaily.com.cn/a/202606/26/WS6a3dd8e1a310986e2b46206f.html"
+    }
+  ],
+  "tech": [
+    {
+      "title": "OpenAI亮出自研芯片",
+      "summary": "路透称，OpenAI联合博通推出首款自研推理芯片“Jalapeño”，目标今年底部署，用于回答聊天机器人请求并降低对英伟达的依赖。若性能和功耗兑现，这会让头部模型公司从“抢GPU”转向“自造算力平台”，进一步改写AI基础设施竞争方式。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/openai-unveils-custom-chip-it-designed-with-broadcom-boost-its-ai-infrastructure-2026-06-24/"
+    },
+    {
+      "title": "Waymo召回近四千车",
+      "summary": "多家美媒跟进的NHTSA文件显示，Waymo因自动驾驶系统可能误入封闭施工路段，已对3871辆第五代无人车发起自愿软件召回，并临时收紧高速运营。问题不在单次事故，而在机器人出租车扩张期如何证明自己能处理最混乱、最难标准化的真实道路环境。",
+      "source": "Fox News / NHTSA filing",
+      "url": "https://www.foxnews.com/science/waymo-recalls-robotaxis-construction-zone-risk"
+    },
+    {
+      "title": "CXMT上市信号走强",
+      "summary": "Digitimes称，长鑫存储推进上市，被市场视为中国加速DRAM自给的重要一步。背景是全球半导体供应链继续分化，AI又把内存需求和资本开支推高。若融资顺利，国内存储链会获得更强扩产能力，也会让中外厂商在价格、技术和政策层面继续缠斗。",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260624VL210/cxmt-self-sufficiency-ipo-2026-semiconductor-industry.html"
+    }
+  ],
+  "trending": [
+    {
+      "term": "活人感",
+      "desc": "夸人真实松弛，不像模板号。"
+    },
+    {
+      "term": "外耗",
+      "desc": "被社交和环境消耗后的自嘲。"
+    },
+    {
+      "term": "爱你老己",
+      "desc": "提醒先心疼自己，常作安慰梗。"
+    },
+    {
+      "term": "我要验牌",
+      "desc": "不信对方人设，要求亮底牌。"
+    },
+    {
+      "term": "67",
+      "desc": "无意义乱入梗，主打荒诞搞笑。"
+    }
+  ],
+  "research": [
+    {
+      "title": "探针或见黑洞吞白矮星",
+      "summary": "ScienceDaily转述港大团队成果称，中国主导的爱因斯坦探针捕捉到一次异常X射线事件，特征最符合“中等质量黑洞撕裂并吞噬白矮星”的解释。这类天体现象极为罕见，若后续证据继续成立，将帮助天文学补上中等质量黑洞存在与行为机制的关键拼图。",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260625060222.htm"
+    },
+    {
+      "title": "宠物金鱼也能毁湖",
+      "summary": "ScienceDaily报道，美国研究人员发现，被放生或逃逸的金鱼不仅能在野外存活，还会显著改造淡水生态系统，干扰原有水体结构和物种关系。它把“别随便放生宠物”从道德提醒升级成可量化的生态风险，也给城市湖泊管理和公众科普多加了一层现实压力。",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260622091524.htm"
+    }
+  ],
+  "finance": [
+    {
+      "title": "美光继续唱多内存景气",
+      "summary": "路透称，美光预计AI驱动下的内存紧张状态可能延续到2027年后，并已拿到约220亿美元、覆盖数据中心到汽车的战略客户承诺。它说明AI不仅推升算力需求，也把存储从周期股逻辑往供给更刚性的基础设施逻辑上拉，行业议价权因此继续上移。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/micron-forecasts-quarterly-revenue-above-estimates-2026-06-24/"
+    },
+    {
+      "title": "高通豪赌AI机房芯片",
+      "summary": "彭博称，高通预计到2029财年，数据中心AI组件年销售额将超过150亿美元，明显加速从手机芯片向更大算力市场转身。资本市场之所以买账，在于这不只是新故事，而是向英伟达统治地盘正面试探；若订单兑现，全球AI芯片竞争格局会更分散。",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-24/qualcomm-projects-data-center-chip-sales-of-15-billion-by-2029"
+    },
+    {
+      "title": "纳指周线承压",
+      "summary": "《华尔街日报》盘中直播显示，纳指在芯片股回落拖累下结束艰难一周，科技板块高位震荡，而原油价格则跌破每桶70美元。市场情绪很像在重新给AI热度和地缘风险定价：盈利预期还在，但只要兑现速度稍慢，资金就会先从最拥挤的高估值资产撤退。",
+      "source": "WSJ",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-26-2026"
+    }
+  ],
+  "sources_checked": [
+    "Tavily Search",
+    "Reuters",
+    "AP News",
+    "The State Council",
+    "China Daily",
+    "ScienceDaily",
+    "DigiTimes",
+    "Bloomberg",
+    "WSJ",
+    "Fox News / NHTSA filing",
+    "新浪新闻"
+  ]
+}
