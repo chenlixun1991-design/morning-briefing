@@ -1,0 +1,128 @@
+{
+  "date": "2026-06-28",
+  "created_by": "Tomato 🍅",
+  "international": [
+    {
+      "title": "乌军纵深无人机战",
+      "summary": "Axios称，乌克兰近期把长程无人机战进一步推向俄罗斯纵深，打击对象覆盖炼油厂、油库和多地基础设施，并被描述为开战以来最大规模攻势之一。它既在消耗俄方后勤，也把本土安全焦虑重新拉回俄罗斯社会与谈判桌前。",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/06/27/ukraine-drone-strikes-russia-refineries"
+    },
+    {
+      "title": "欧洲热浪继续东移",
+      "summary": "路透报道，破纪录热浪已从西欧继续向德国和波兰推进，德国气温一度突破41摄氏度，法国已有数十人死亡，各地同时面临限水、交通扰动与公共健康压力。极端高温正从单纯天气事件，变成城市治理和基础设施承压的现实测试。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/environment/germany-poland-poised-soaring-temperatures-heatwave-moves-east-2026-06-27/"
+    },
+    {
+      "title": "以黎安保协议遇阻",
+      "summary": "路透称，以色列与黎巴嫩刚在美方斡旋下签署安全框架协议，真主党领导人次日即公开指其为“投降”，南黎南部也再遭无人机袭击。协议落地即遇强烈反弹，意味着边境局势虽出现谈判窗口，但短期内仍难真正降温。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/israeli-drone-strike-hits-southern-lebanon-day-after-security-deal-2026-06-27/"
+    }
+  ],
+  "domestic": [
+    {
+      "title": "北京小飞机撞楼",
+      "summary": "路透援引朝阳区政府通报称，6月26日一架轻型飞行器撞上北京中信大厦外立面，造成1人死亡、13人受伤。事故迅速引发公众对超大城市低空飞行管理、核心商务区应急响应以及后续调查透明度的关注，相关安全议题预计还会继续发酵。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/small-aircraft-crash-beijing-kills-one-person-injures-13-local-govt-says-2026-06-27/"
+    },
+    {
+      "title": "多名高官失去人大职",
+      "summary": "路透报道，中国全国人大常委会撤销6名军方代表、原金融监管总局局长李云泽及已被调查的马兴瑞等人的代表资格。这被外界视为反腐与军工体系整肃继续深入，也释放出政治与金融系统问责并行升级的强烈信号。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/china-strips-generals-ex-financial-regulator-politburo-member-lawmaker-posts-2026-06-27/"
+    },
+    {
+      "title": "再提农业农村现代化",
+      "summary": "多家官媒转引新华社称，习近平近日再次要求以更扎实举措推进农业和农村现代化，重点仍是粮食稳产、重要农产品供给和农民增收。背景是内需修复仍需托底，这类表态通常也会为后续“三农”政策与资金投向提前定调。",
+      "source": "Global Agriculture / Xinhua",
+      "url": "https://www.global-agriculture.com/global-agriculture/global-times-xi-calls-for-solid-measures-to-modernize-agriculture-rural-areas/"
+    }
+  ],
+  "tech": [
+    {
+      "title": "OpenAI暂缓公测新模",
+      "summary": "根据VitalLaw与路透跟进，OpenAI应白宫要求暂缓公开发布具较强网络能力的GPT-5.6系列，仅先向少量可信伙伴限量预览。它说明前沿模型正被纳入更早期的政府安全审查，今后大模型上线节奏可能越来越像高风险基础设施审批。",
+      "source": "VitalLaw / Reuters",
+      "url": "https://www.vitallaw.com/news/at-white-house-request-openai-delays-public-release-of-cyber-capable-models/cspd0122c1ff35adbd43fcbf1605f033cd94d4"
+    },
+    {
+      "title": "苹果头显高管投OpenAI",
+      "summary": "TechCrunch援引彭博称，负责Vision Pro的苹果副总裁Paul Meade将离职并加入OpenAI硬件团队。考虑到OpenAI正与Jony Ive合作推进AI设备，这次挖角不仅是人才流动，也加剧了苹果与OpenAI在下一代终端入口上的正面竞争。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/"
+    },
+    {
+      "title": "Anthropic获局部放行",
+      "summary": "路透称，特朗普政府接近允许Anthropic恢复部分Fable 5或Mythos 5模型访问，仅向受信任机构重新开放。和OpenAI同步受限相比，这表明美国正尝试对高能力模型实行“限域放行”机制，行业竞争将同时受技术与监管节奏双重影响。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/us-close-allowing-anthropic-restore-fable-5-model-axios-reports-2026-06-27/"
+    }
+  ],
+  "trending": [
+    {
+      "term": "赚了",
+      "desc": "源自“赢了赚了输了算了”，淡化输赢。"
+    },
+    {
+      "term": "看我数据",
+      "desc": "电竞语境常见，拿战绩给自己撑腰。"
+    },
+    {
+      "term": "大计划的一部分",
+      "desc": "把翻车硬说成布局，主打嘴硬搞笑。"
+    },
+    {
+      "term": "烂梗",
+      "desc": "指被过度滥用、让人尴尬的旧梗。"
+    }
+  ],
+  "research": [
+    {
+      "title": "鼻咽癌分出双亚型",
+      "summary": "Nature子刊最新研究通过大规模蛋白质组与磷酸化组分析，把鼻咽癌划分为S1和S2两类分子亚型，并进一步构建了初步诊断与预后模型。价值不只在“分型更细”，而是把个体化治疗和放疗联合用药的路径推得更可操作。",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/s41392-026-02742-0"
+    },
+    {
+      "title": "固态激光制冷规范化",
+      "summary": "Nature Reviews Methods Primers发布关于固态激光制冷的标准化综述，强调实验结果报告方式需要统一，以提升不同研究之间的可比性和可复现性。对基础研究来说，这类“方法学收口”往往是领域从概念验证走向工程化的重要前兆。",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/s43586-026-00504-4"
+    }
+  ],
+  "finance": [
+    {
+      "title": "美通胀指标冲三年高",
+      "summary": "AP报道，美联储偏好的通胀指标在5月升至近三年高位，按年涨幅达到4.1%，同时房贷利率继续上行。能源与AI相关硬件成本被认为是主要推手，这意味着美国消费压力未散，市场对年内货币政策与居民支出的预期都要重新定价。",
+      "source": "AP News",
+      "url": "https://apnews.com/article/economy-inflation-iran-trump-unemployment-935feff61ebcb6a7dfbb604b7a49fcff"
+    },
+    {
+      "title": "沙特重启大港装油",
+      "summary": "CNBC称，沙特阿美已恢复拉斯坦努拉港原油装载，此前该港因伊朗封锁海峡相关风险停摆近四个月。全球最大原油港口回归，意味着中东供应链正尝试恢复常态，也解释了近期油价回落和市场风险溢价收缩背后的供给修复预期。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/27/saudi-aramco-resumes-oil-loading-at-ras-tanura-in-boost-to-supply.html"
+    },
+    {
+      "title": "中国工业利润仍双增",
+      "summary": "CNBC援引国家统计局数据称，中国规模以上工业企业5月利润同比增长21.1%，虽较4月放缓，但仍保持双位数增速。电脑、通信和电子设备利润在前五个月大涨103.9%，显示AI投资与出口仍在托举制造业，不过下游需求偏弱的分化也没消失。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/27/china-industrial-profits-stay-resilient-as-economy-leans-on-factories.html"
+    }
+  ],
+  "sources_checked": [
+    "Tavily Search",
+    "Reuters",
+    "Axios",
+    "TechCrunch",
+    "VitalLaw",
+    "AP News",
+    "CNBC",
+    "Nature",
+    "新浪财经",
+    "新华社转引"
+  ]
+}
