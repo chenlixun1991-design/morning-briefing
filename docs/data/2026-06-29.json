@@ -1,0 +1,131 @@
+{
+  "date": "2026-06-29",
+  "created_by": "Tomato 🍅",
+  "international": [
+    {
+      "title": "乌军再炸俄炼油厂",
+      "summary": "美联社称，乌克兰28日发动新一轮远程无人机袭击，点燃俄罗斯南部一座重要炼油设施，俄方同时继续以导弹和无人机回击乌境内目标。战事已从前线消耗进一步外溢到能源基础设施，意味着俄乌都在抬高对方本土与供应链成本。",
+      "source": "AP News",
+      "url": "https://apnews.com/article/ukraine-russia-war-oil-refinery-drones-88370faa1a49504438388f2854d7afd3"
+    },
+    {
+      "title": "委震搜救仍在黄金期",
+      "summary": "美联社报道，委内瑞拉连环强震后死亡人数已升至约1450人，但国际救援队28日仍从废墟中救出幸存者。事件一边暴露当地救援物资和组织能力不足，一边提醒拉美灾害治理与城市抗震能力仍是高风险短板。",
+      "source": "AP News",
+      "url": "https://apnews.com/article/venezuela-earthquakes-rescue-video-481079f432c186459ee7c6d7647a835c"
+    },
+    {
+      "title": "中欧贸易摩擦升温",
+      "summary": "彭博经《Automotive News》转引称，中方在布鲁塞尔会晤前警告，若欧盟继续强化对华限制，两边贸易关系可能趋于冻结。它不只是汽车与关税问题，也会波及制造业投资、供应链安排和中欧后续谈判节奏。",
+      "source": "Automotive News / Bloomberg",
+      "url": "https://www.autonews.com/europe/ane-china-eu-trade-talks-intensify-0628/"
+    }
+  ],
+  "domestic": [
+    {
+      "title": "工业利润仍显韧性",
+      "summary": "路透援引中国国家统计局数据称，5月规模以上工业企业利润同比增长21.1%，虽较4月放缓，但整体仍维持双位数增长。出口和工厂产出继续托底经济，不过地产疲弱、内需偏软与行业分化也说明修复并不均衡。",
+      "source": "Reuters / 101 WIXX",
+      "url": "https://wixx.com/2026/06/26/china-industrial-profits-stay-resilient-as-economy-leans-on-factories-exports"
+    },
+    {
+      "title": "人造太阳再过里程碑",
+      "summary": "新华社英文网显示，合肥聚变装置关键的环向场超导磁体完成新工程节点，被视作中国“人造太阳”项目推进的重要里程碑。若后续系统集成顺利，不只关系聚变发电前景，也会增强高端材料、低温工程和大科学装置能力。",
+      "source": "Xinhua",
+      "url": "http://english.news.cn/20260628/677b2a8023124581a5a9d86385dff9f4/c.html"
+    },
+    {
+      "title": "景德镇迎国际陶瓷大会",
+      "summary": "新华社英文网报道，2026国际陶瓷学院大会已在景德镇开幕，全球艺术家和从业者集中交流。它表面是文化与艺术事件，背后则连着城市品牌、文旅消费和传统制造升级，说明地方正把文化资产继续转成产业增量。",
+      "source": "Xinhua",
+      "url": "https://english.news.cn/20260629/d64d488feb9c4db8a85e2c7416f37e8d/c.html"
+    }
+  ],
+  "tech": [
+    {
+      "title": "智元量产再冲高",
+      "summary": "《The Robot Report》称，上海智元机器人第15000台具身机器人已下线，较此前5000台和10000台节点明显提速。它说明人形与具身机器人正在从概念验证走向规模交付，供应链、场景落地和资本预期都会被同步抬高。",
+      "source": "The Robot Report",
+      "url": "https://www.therobotreport.com/agibot-produces-15000th-robot-marking-milestone-embodied-ai-deployment/"
+    },
+    {
+      "title": "美光财报再点燃AI",
+      "summary": "路透称，市场在美光财报前后重新押注AI带来的内存需求，芯片板块情绪快速回暖。资金逻辑很直接，只要高盈利还能兑现，AI基础设施仍是最拥挤的主线；但估值已被抬得很高，稍弱指引就可能触发更大回撤。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/nervous-investors-await-micron-earnings-chip-sector-whipsaws-2026-06-24"
+    },
+    {
+      "title": "NASA急救Swift卫星",
+      "summary": "美联社报道，NASA正设法提升Swift太空望远镜轨道，以避免其过早坠回地球。Swift长期承担伽马暴等高能天体观测任务，这次抢救不只是延寿一台老设备，也是在为天文学争取继续监测极端宇宙事件的窗口。",
+      "source": "AP News",
+      "url": "https://apnews.com/article/nasa-swift-satellite-rescue-mission-f715e10a93c1015e280a7ccd1028a9c4"
+    }
+  ],
+  "trending": [
+    {
+      "term": "单飞不解散",
+      "desc": "团体成员各忙各的，关系还在。"
+    },
+    {
+      "term": "还没原谅现偶",
+      "desc": "吐槽土甜现代偶像剧的玩笑话。"
+    },
+    {
+      "term": "你去浪姐干嘛去了",
+      "desc": "综艺口误衍生的损友式调侃。"
+    },
+    {
+      "term": "AI合伙人",
+      "desc": "拿AI创业话术反串打工焦虑。"
+    },
+    {
+      "term": "SBTI",
+      "desc": "把人格测试玩成抽象整活标签。"
+    }
+  ],
+  "research": [
+    {
+      "title": "量子验指纹更保密",
+      "summary": "《Scientific Reports》28日刊发研究称，团队利用量子密钥分发辅助的量子遗忘传输，实现了多方生物识别验证，并演示了更隐私友好的指纹匹配场景。它的意义在于，边境核验等高敏应用未来有望兼顾安全性与最小化数据暴露。",
+      "source": "Nature / Scientific Reports",
+      "url": "https://www.nature.com/articles/s41598-026-58005-z"
+    },
+    {
+      "title": "术后炎症有了基线",
+      "summary": "《Scientific Reports》28日发表的结直肠癌术后研究显示，恢复顺利患者的多项炎症指标会在术后30天内显著下降，并给出阶段性参考区间。它能帮助医生更早识别偏离正常恢复轨迹的病例，减少并发症被延迟发现的风险。",
+      "source": "Nature / Scientific Reports",
+      "url": "https://www.nature.com/articles/s41598-026-59229-9"
+    }
+  ],
+  "finance": [
+    {
+      "title": "全球股市跟着芯片走",
+      "summary": "路透市场综述称，受芯片股反弹带动，全球股市回升，美元则仍徘徊在近一年高位。资金显然还愿意继续追逐AI主线，但也在同步提高对盈利兑现的要求，意味着后续波动不会小，市场对“贵但还敢买”的容忍度正在变窄。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/global-markets-wrapup-1-2026-06-25"
+    },
+    {
+      "title": "芯片股押注完美预期",
+      "summary": "路透指出，美光估值虽因盈利预期抬升而有所消化，但市场已把它当作类似英伟达的高增长资产来交易。问题在于，只要管理层口风稍偏谨慎，资金就可能迅速撤离，说明AI牛市的核心风险已从故事真假转向兑现节奏。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/nervous-investors-await-micron-earnings-chip-sector-whipsaws-2026-06-24"
+    },
+    {
+      "title": "工企利润增速放缓",
+      "summary": "路透援引数据称，中国5月工业利润增速从4月的24.7%降至21.1%，仍维持韧性，但行业分化明显。AI相关电子制造和有色资源贡献较大，汽车与家具利润承压，这意味着资本和政策资源很可能继续向高景气链条集中。",
+      "source": "Reuters / 101 WIXX",
+      "url": "https://wixx.com/2026/06/26/china-industrial-profits-stay-resilient-as-economy-leans-on-factories-exports"
+    }
+  ],
+  "sources_checked": [
+    "Tavily Search",
+    "AP News",
+    "Reuters",
+    "Xinhua",
+    "Automotive News / Bloomberg",
+    "The Robot Report",
+    "Nature / Scientific Reports",
+    "新浪新闻",
+    "快科技"
+  ]
+}
