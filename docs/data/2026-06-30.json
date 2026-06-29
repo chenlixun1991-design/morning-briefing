@@ -1,0 +1,131 @@
+{
+  "date": "2026-06-30",
+  "created_by": "Tomato 🍅",
+  "international": [
+    {
+      "title": "俄袭乌多地致死伤",
+      "summary": "美联社6月29日报道，俄军以无人机和导弹袭击乌克兰多地，已致至少12人死亡、40人受伤，泽连斯基谴责这是“恐怖打击”。袭击持续说明俄方仍在加压乌方民生与后方补给，短期内停火窗口反而更窄。",
+      "source": "AP News",
+      "url": "https://apnews.com/article/russia-ukraine-war-drone-missile-attacks-putin-70ba832d0e760e08e5d50c5f467d953f"
+    },
+    {
+      "title": "美伊重回停火谈判",
+      "summary": "CNBC 6月29日报道，美国与伊朗在周末互袭后同意再次停止军事行动，并恢复技术性谈判与霍尔木兹海峡通航。市场虽短暂松口气，但油价仍回到70美元上方，说明投资者并不相信局势已经真正稳住。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/29/cnbc-daily-open-iran-ecb-meta-google-sk-hynix-samsung.html"
+    },
+    {
+      "title": "巴军空袭阿富汗",
+      "summary": "美联社6月29日报道，巴基斯坦空袭阿富汗东部后，塔利班官员称至少36名平民死亡、160人受伤，多为妇孺。事件把边境反恐摩擦升级为更高烈度冲突，也让本就脆弱的阿巴关系与地区安全继续承压。",
+      "source": "AP News",
+      "url": "https://apnews.com/article/afghanistan-pakistan-airstrikes-militants-eaf84d1a19cd5e5df750511c310ae906"
+    }
+  ],
+  "domestic": [
+    {
+      "title": "轻舟飞船再发成果",
+      "summary": "新华社6月29日报道，中科院公布轻舟试验飞船第二批在轨试验成果，涉及空间生命科学与新技术验证。它说明我国低成本、快速迭代的空间试验平台正在成形，后续可为载荷研制、应用转化和商业航天提供更密集验证窗口。",
+      "source": "新华社",
+      "url": "https://www.news.cn/20260629/54d6f18b1cf541fc840d9d9bd1f27607/c.html"
+    },
+    {
+      "title": "最高检整治碰瓷维权",
+      "summary": "新华社6月29日报道，最高检发布5件惩治知识产权恶意诉讼典型案例，明确“碰瓷式维权”的审查判断条件。监管层此时加码，既是保护真创新和企业上市节奏，也是在压缩借诉讼牟利、扰乱竞争秩序的灰色空间。",
+      "source": "新华社",
+      "url": "https://www.news.cn/legal/20260629/82495d04b9f14b649176d5c13ab103c0/c.html"
+    },
+    {
+      "title": "多地冲刺半年收官",
+      "summary": "新华社6月29日报道，6月全国多地围绕夏收夏播、项目建设和消费场景持续发力，半年收官阶段经济社会运行总体延续稳中求进。信号在于下半年稳增长不会只靠单点刺激，而是继续靠基建、产业和消费协同接力。",
+      "source": "新华社",
+      "url": "https://www.news.cn/20260629/cff6f02547e34f1f80bffd55cff3c1d3/c.html"
+    }
+  ],
+  "tech": [
+    {
+      "title": "韩国豪赌AI芯片城",
+      "summary": "美联社6月29日报道，韩国宣布联手三星和SK海力士打造价值5180亿美元的芯片制造枢纽，直指AI算力需求。此举既是抢占高带宽存储与先进制造优势，也会把东北亚半导体竞赛继续推向资本、土地和人才的全面比拼。",
+      "source": "AP News",
+      "url": "https://apnews.com/article/korea-samsung-ai-hynix-chips-22352d95c7a821c5f4548b2d1a4ebde8"
+    },
+    {
+      "title": "英伟达在华承压",
+      "summary": "美联社6月29日报道，英伟达在中国的AI芯片销售明显放缓，华为等本土厂商正加速补位。变化意味着出口限制并未终结中国AI算力需求，反而加快了本土替代和生态自建，全球芯片格局也因此更趋分裂。",
+      "source": "AP News",
+      "url": "https://apnews.com/article/ai-chips-nvidia-huawei-china-1ae6228c4928ddbb43f984e9b38f49dd"
+    },
+    {
+      "title": "长鑫拿下腾讯大单",
+      "summary": "路透6月29日报道，长鑫存储据称拿下腾讯约30亿美元内存供应合同，折射中国互联网大厂正为AI与云业务锁定本土供给。若后续履约顺利，国产存储链条的规模化验证会明显提速，但先进制程良率仍是关键考题。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/chinas-cxmt-wins-3-billion-memory-supply-deal-with-tencent-sources-say-2026-06-29/"
+    }
+  ],
+  "trending": [
+    {
+      "term": "负鼠表情包",
+      "desc": "用呆站负鼠图自嘲窝囊打工状态。"
+    },
+    {
+      "term": "念头通达",
+      "desc": "出自《凡人》，劝自己想开点。"
+    },
+    {
+      "term": "遁出红尘",
+      "desc": "表示想暂时下线躲清净。"
+    },
+    {
+      "term": "前额叶没坏",
+      "desc": "调侃脑子没坏，只是累到想辞职。"
+    },
+    {
+      "term": "匹夫速更",
+      "desc": "动画圈催更口头禅，半催半玩笑。"
+    }
+  ],
+  "research": [
+    {
+      "title": "可吸收电绷带加速愈合",
+      "summary": "Nature 6月29日研究亮点介绍，一种基于MXene电极、可被人体吸收的葡萄糖供能电子绷带，可恢复糖尿病伤口边缘电场并促进修复。它把“边治疗边供能”做成了一体化方案，为慢性创面护理和可穿戴治疗器件打开新想象。",
+      "source": "Nature Reviews Materials",
+      "url": "https://www.nature.com/articles/s41578-026-00941-3"
+    },
+    {
+      "title": "行星健康饮食利肠炎",
+      "summary": "npj Science of Food 6月29日发表研究称，在东西方队列中，更遵循“行星健康饮食”的炎症性肠病患者通常预后更好。它把个人饮食、慢病管理与可持续议题连接起来，提示未来营养干预可能同时追求健康收益和环境收益。",
+      "source": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-00959-5"
+    }
+  ],
+  "finance": [
+    {
+      "title": "美国核心PCE或被下修",
+      "summary": "路透6月29日报道，美国商务部统计方法调整后，5月核心PCE通胀读数可能低于原先经济学家预期。若数据真的更温和，美联储的降息讨论空间会被重新打开，但市场也会更警惕“技术性降温”是否掩盖真实价格压力。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/methodology-changes-could-lower-us-may-core-pce-inflation-economists-say-2026-06-29"
+    },
+    {
+      "title": "中国工厂景气微弱转正",
+      "summary": "路透6月29日报道，受出口支撑，中国6月制造业活动大概率重回微弱增长，但房地产疲软与内需不足仍拖累修复。数据若坐实，说明经济短期还能靠制造和外贸托底，但结构性压力并没有真正消失。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/chinas-factory-activity-likely-returned-meagre-growth-june-2026-06-29"
+    },
+    {
+      "title": "市场盯紧中东与估值",
+      "summary": "路透6月29日报道，全球市场在中东局势反复、科技股估值偏高和高利率预期之间来回摇摆，油价与股市同步敏感。资金面现阶段不是单纯追涨AI，而是在重新计算地缘风险、融资成本与盈利兑现能否一起站得住。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/global-markets-view-europe-2026-06-29/"
+    }
+  ],
+  "sources_checked": [
+    "Tavily Search",
+    "AP News",
+    "CNBC",
+    "Reuters",
+    "新华社",
+    "Nature Reviews Materials",
+    "npj Science of Food",
+    "澎湃新闻",
+    "腾讯新闻"
+  ]
+}
