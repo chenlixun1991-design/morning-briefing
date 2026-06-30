@@ -1,0 +1,131 @@
+{
+  "date": "2026-07-01",
+  "created_by": "Tomato 🍅",
+  "international": [
+    {
+      "title": "多哈会谈再起雾",
+      "summary": "路透6月30日报道，美方高层虽已抵达多哈，但卡塔尔官员称当天不会与伊朗举行原定高级别会晤，只保留技术层接触。停火后最关键的一轮政治谈判突然降级，意味着霍尔木兹通航、制裁安排和后续停火框架都仍悬而未决。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/uncertainty-over-qatar-diplomacy-clouds-prospects-us-iran-deal-2026-06-30"
+    },
+    {
+      "title": "欧洲热浪压垮学校",
+      "summary": "路透近日连线英法西多地学校发现，持续高温已迫使不少校园改半天课、加装戏水降温和临时停开下午课程。它不只是一次天气新闻，更说明欧洲公共建筑和教育系统对极端气候的适应仍明显滞后，今夏社会成本会继续上升。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/not-cool-school-europes-classrooms-struggle-with-heat-2026-06-25"
+    },
+    {
+      "title": "委震搜救仍未停",
+      "summary": "路透视频与后续报道显示，委内瑞拉连环强震后的搜救还在继续，死亡人数已从上周的1400多人进一步攀升，幸存者仍在废墟中被发现。灾情之所以持续占据头条，是因为它正把该国本就脆弱的电力、港口和救援体系再次推向极限。",
+      "source": "Reuters",
+      "url": "https://jp.reuters.com/video/watch/idRW370830062026RP1"
+    }
+  ],
+  "domestic": [
+    {
+      "title": "七一大会今早举行",
+      "summary": "《人民日报海外版》6月30日刊文称，庆祝中国共产党成立105周年大会将于7月1日上午10时在人民大会堂举行，习近平将向“七一勋章”获得者颁授勋章并讲话。它既是纪念性政治活动，也会为下半年党内表彰和舆论重点定下基调。",
+      "source": "人民日报海外版",
+      "url": "http://paper.people.com.cn/rmrbhwb/pc/content/202606/30/content_30165779.html"
+    },
+    {
+      "title": "中白高层再谈合作",
+      "summary": "新华社经人民网稿件显示，习近平6月29日在北京会见白俄罗斯总统卢卡申科，强调推动中白全天候全面战略伙伴关系继续向前。会见释放的信号不只在双边经贸，也涉及“一带一路”项目推进和在多边机制中的协同站位。",
+      "source": "人民网 / 新华社",
+      "url": "https://cpc.people.com.cn/BIG5/n1/2026/0630/c64094-40750416.html"
+    },
+    {
+      "title": "外资继续加码中国",
+      "summary": "《经济参考报》6月30日报道，多家外国商协会最新调查显示，外资企业对中国市场预期仍偏积极，盈利率、扩产意愿和参展热情都保持高位。它说明在全球供应链重组和地缘摩擦背景下，中国超大市场和制造配套依旧具备强黏性。",
+      "source": "经济参考报",
+      "url": "http://jjckb.xinhuanet.com/20260630/84e835f7ede146c9b343dcc5bda3aca7/c.html"
+    }
+  ],
+  "tech": [
+    {
+      "title": "Anthropic杀入制药",
+      "summary": "CNBC 6月30日报道，Anthropic宣布上线面向药企的 Claude Science，并同步启动内部AI药物发现计划，重点瞄准传统药企不愿投入的“被忽视疾病”。这代表大模型公司正从卖模型走向直接切入高价值垂直行业，商业边界继续外扩。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/30/anthropic-launches-ai-drug-discovery-program-claude-science.html"
+    },
+    {
+      "title": "AWS砸十亿推AI驻场",
+      "summary": "CNBC 6月30日报道，AWS将投入10亿美元成立新的 Forward Deployed Engineering 团队，把成千上万名工程师嵌入客户现场协助部署AI系统。云厂商开始复制“驻场交付”模式，说明企业级AI竞争已从卖算力转向拼落地速度和组织服务能力。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/30/aws-amazon-ai-forward-deployed-engineers.html"
+    },
+    {
+      "title": "中国AI算力仍卡脖",
+      "summary": "CNBC 6月30日援引美国企业研究所观点称，尽管中国模型和架构迭代很快，但AI硬件瓶颈短期仍难突破，未来几年会持续受制于高端算力与供应链限制。这提醒市场，模型追赶并不等于基础设施赶上，芯片与封装仍是胜负手。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/video/2026/06/30/china-cant-innovate-its-way-out-of-the-ai-hardware-bottleneck-aei.html"
+    }
+  ],
+  "trending": [
+    {
+      "term": "活人感",
+      "desc": "夸一个人真实自然，不像被班味格式化。"
+    },
+    {
+      "term": "班味",
+      "desc": "打工后疲惫机械、整个人像被上班腌入味。"
+    },
+    {
+      "term": "赛博对账",
+      "desc": "网友在线互认共同经历和记忆，越对越上头。"
+    },
+    {
+      "term": "爱你老己",
+      "desc": "把“爱你老自己”说成俏皮版的悦己宣言。"
+    },
+    {
+      "term": "做完你的做你的",
+      "desc": "忙到多线程控场时的自我催促式热梗。"
+    }
+  ],
+  "research": [
+    {
+      "title": "量子磁性有了新框架",
+      "summary": "Nature Physics 最新论文提出把理论推导与数值计算整合起来解释现代量子磁性实验，为自旋液体等复杂量子态提供更统一的分析路径。它的价值不只在基础物理，也能帮助新材料和量子器件研究更快缩小实验与模型之间的落差。",
+      "source": "Nature Physics",
+      "url": "https://www.nature.com/articles/s41567-026-03304-5"
+    },
+    {
+      "title": "临床AI基准更严了",
+      "summary": "Nature Biomedical Engineering 近日文章回顾一项覆盖87个临床文本任务、9种语言的大型基准，指出大模型离真正掌握真实病历仍有明显距离。它给医疗AI泼了点冷水，也提醒行业评估重点应从“会不会答题”转向“能否稳定落地”。",
+      "source": "Nature Biomedical Engineering",
+      "url": "https://www.nature.com/articles/s41551-026-01691-x"
+    }
+  ],
+  "finance": [
+    {
+      "title": "油价月季线齐转弱",
+      "summary": "路透6月30日报道，市场重新把焦点放回潜在的伊美多哈接触，国际油价当日变化不大，但月线和季线都势将录得显著跌幅。表面看是战事风险缓和，实则说明交易员正在重新给“霍尔木兹不再失控”的预期定价，但这份乐观还很脆弱。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/energy/oil-falls-investors-focus-potential-iran-us-talks-doha-2026-06-30"
+    },
+    {
+      "title": "中国服务业景气回升",
+      "summary": "路透6月30日报道，中国6月非制造业PMI升至50.2，综合PMI升至50.6，说明服务业和建筑业景气仍维持扩张。它对稳增长是个偏正面的信号，但幅度并不算强，意味着内需修复更多是温和改善，而非出现明显加速拐点。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/chinas-june-non-manufacturing-pmi-rises-502-2026-06-30"
+    },
+    {
+      "title": "全球市场盯中东兑现",
+      "summary": "路透市场综述指出，全球股市在伊朗停火执行、油价回落与美元偏强之间反复拉扯，投资者一边保留风险偏好，一边又不敢彻底撤掉避险仓位。它反映出当前市场的核心矛盾已不是消息有没有，而是地缘缓和能否真正持续兑现。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/global-markets-wrapup-1-pix-2026-06-29"
+    }
+  ],
+  "sources_checked": [
+    "Tavily Search",
+    "Reuters",
+    "CNBC",
+    "人民网 / 新华社",
+    "人民日报海外版",
+    "经济参考报",
+    "Nature Physics",
+    "Nature Biomedical Engineering",
+    "LingoAce"
+  ]
+}
