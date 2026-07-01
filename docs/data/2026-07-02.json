@@ -1,0 +1,132 @@
+{
+  "date": "2026-07-02",
+  "created_by": "Tomato 🍅",
+  "international": [
+    {
+      "title": "美伊转入技术谈判",
+      "summary": "路透7月1日报道，美伊在多哈启动技术层谈判，重点围绕霍尔木兹海峡通航安排、停火延续和约60亿美元伊朗冻结资产释放。若谈成，中东航运和油价波动都可能暂时降温，但双方互信仍弱，市场还不敢当成彻底和解。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/us-iran-enter-technical-talks-secure-peace-deal-restart-shipping-2026-07-01/"
+    },
+    {
+      "title": "巴补习中心坍塌",
+      "summary": "美联社7月1日报道，巴基斯坦拉合尔郊外一处在建补习中心屋顶坍塌，造成至少14名儿童死亡，多地民众参加葬礼。事故再次暴露当地建筑监管和施工安全漏洞，也让暑期教育场所的公共安全问题被推到舆论前台。",
+      "source": "AP News",
+      "url": "https://apnews.com/article/pakistan-tutoring-center-collapse-children-funerals-lahore-374e2c644b346d20781b2f61c834f158"
+    },
+    {
+      "title": "加纳洪灾持续扩大",
+      "summary": "路透视频7月1日报道，加纳强降雨引发的洪灾已影响超过3.88万人，七千多户家庭流离失所，并出现死伤与失联。灾情说明西非城市在极端降雨面前的排水和应急体系依旧脆弱，后续安置与重建压力会持续抬升。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/video/watch/idRCV00GQXL/"
+    }
+  ],
+  "domestic": [
+    {
+      "title": "中共纪念建党105年",
+      "summary": "路透7月1日报道，习近平在中共成立105周年活动上表示，执政党必须适应变化、守住既有成果，并统筹国内外风险挑战。讲话释放的信号是下半年宏观与社会治理仍会强调稳定、纪律和系统性应对，而非单点式修补。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/chinas-xi-urges-ruling-communist-party-be-adaptable-safeguard-advances-2026-07-01/"
+    },
+    {
+      "title": "再抓防汛抗旱调度",
+      "summary": "中国日报7月1日报道，习近平主持会议部署防汛抗旱工作，要求统筹洪涝、干旱和农业生产风险。时间点临近主汛期，这意味着灾害治理已从地方应对转向更高层级统筹，后续水利、粮食与应急系统都会进入更紧状态。",
+      "source": "China Daily",
+      "url": "https://www.chinadaily.com.cn/a/202607/01/WS6a447777a310986e2b462e3f.html"
+    },
+    {
+      "title": "智慧农业降本提速",
+      "summary": "中国日报7月1日报道，极飞等企业在大湾区政策和供应链带动下推进智慧农业，业内预期相关设备成本将随规模化持续下探。信号在于农业科技正从示范应用走向更现实的投入产出计算，县域生产效率有望被进一步拉升。",
+      "source": "China Daily",
+      "url": "https://www.chinadaily.com.cn/a/202607/01/WS6a447777a310986e2b462e3f.html"
+    }
+  ],
+  "tech": [
+    {
+      "title": "NASA量子实验升级",
+      "summary": "NASA 7月1日披露，国际空间站上的冷原子实验室完成新一轮升级，可支持更低温、更长时长的量子实验。太空微重力环境让相关观测更稳定，这会推动基础物理与高精度传感研究，也可能为未来深空导航技术打底。",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/centers-and-facilities/jpl/caltech-welcomes-astrophysicist-ray-jayawardhana-as-new-president/"
+    },
+    {
+      "title": "BYD出口带动车销",
+      "summary": "路透7月1日报道，比亚迪6月全球销量连续第二个月回升，主要由出口走强对冲国内需求偏弱。它说明中国新能源车出海仍是增长主轴，也让车企竞争从国内价格战逐步转向海外渠道、产能布局和品牌接受度之争。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/autos-transportation/byds-sales-rise-second-month-buoyed-by-exports-2026-07-01/"
+    },
+    {
+      "title": "边缘AI硬件升温",
+      "summary": "Business Insider转载企业消息称，Initta在新加坡NRF APAC 2026集中展示零售边缘AI硬件和异常行为识别方案。虽然仍属行业落地早期，但趋势很明确，AI竞争正从云端大模型继续向门店、终端和垂直场景外溢。",
+      "source": "Business Insider",
+      "url": "https://markets.businessinsider.com/news/stocks/initta-technology-showcases-edge-ai-hardware-at-nrf-apac-2026-in-singapore-1036288540"
+    }
+  ],
+  "trending": [
+    {
+      "term": "31个问号",
+      "desc": "王俊凯发31个问号预热新专辑。"
+    },
+    {
+      "term": "satisfaction",
+      "desc": "方言切标准英语的反差发音挑战。"
+    },
+    {
+      "term": "8G冲浪",
+      "desc": "夸人接梗太快，永远在线。"
+    },
+    {
+      "term": "大漏勺",
+      "desc": "直播不小心剧透太多时的自嘲。"
+    },
+    {
+      "term": "悟空晚安",
+      "desc": "任素汐演唱会后被刷屏的温柔留言。"
+    }
+  ],
+  "research": [
+    {
+      "title": "首次直测黑洞视界",
+      "summary": "SpaceDaily转述6月24日发表于Nature的成果称，研究团队从超强引力波信号中首次直接测得新生黑洞事件视界的旋转频率和表面引力。它把黑洞研究从间接推断推进到更贴近边界本身的测量，对检验广义相对论很关键。",
+      "source": "Nature / SpaceDaily",
+      "url": "https://spacedaily.com/sd-in-january-2025-the-loudest-gravitational-wave-ever-recorded-hid-a-second-signal-nobody-knew-how-to-read-and-a-decade-after-the-first-detection-it-has-just-given-physicists-the-spin-rat/"
+    },
+    {
+      "title": "全球变暖下仍在变绿",
+      "summary": "Nature Climate Change 6月26日文章回顾指出，全球陆地植被增绿趋势在气候变化背景下仍在延续，并会反过来影响未来气候系统。好消息是生态恢复有韧性，坏消息是这种反馈并不等于风险消失，管理难度反而更高。",
+      "source": "Nature Climate Change",
+      "url": "https://www.nature.com/articles/s41558-026-02681-2"
+    }
+  ],
+  "finance": [
+    {
+      "title": "日元跌至40年低位",
+      "summary": "路透与美联社7月1日报道，强势美元把日元再度压到40年低位，市场开始重新押注日本当局可能干预汇市。汇率贬值短期利好出口企业，但也会推高输入型通胀，令日本家庭、央行和政府同时承受更复杂的政策压力。",
+      "source": "Reuters / AP News",
+      "url": "https://apnews.com/article/boj-japan-yen-tankan-economy-inflation-5a909b80fca85adb3d53a8c899aa8c92"
+    },
+    {
+      "title": "日企景气五季连升",
+      "summary": "美联社7月1日报道，日本央行短观调查显示，大型制造企业景气判断指数升至22，已连续第五个季度改善。数据给市场一点信心，说明外需和企业盈利仍有支撑，但高油价与生活成本压力还会拖住居民端复苏速度。",
+      "source": "AP News",
+      "url": "https://apnews.com/article/boj-japan-yen-tankan-economy-inflation-5a909b80fca85adb3d53a8c899aa8c92"
+    },
+    {
+      "title": "辛特拉盯紧新联储",
+      "summary": "路透7月1日报道，新任美联储主席沃什在辛特拉论坛首次与拉加德等同台亮相，市场密切观察其通胀和前瞻指引表态。关键信号不是一句鹰鸽，而是全球央行是否会在高利率、地缘风险与增长放缓之间重新排优先级。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/live-fed-chair-warsh-joins-ecb-forum-he-makes-debut-global-stage-2026-07-01"
+    }
+  ],
+  "sources_checked": [
+    "Tavily Search",
+    "Reuters",
+    "AP News",
+    "China Daily",
+    "NASA",
+    "Business Insider",
+    "Nature",
+    "Nature Climate Change",
+    "SpaceDaily",
+    "新浪新闻"
+  ]
+}
