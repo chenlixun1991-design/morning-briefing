@@ -1,0 +1,132 @@
+{
+  "date": "2026-07-03",
+  "created_by": "Tomato 🍅",
+  "international": [
+    {
+      "title": "俄军夜袭基辅",
+      "summary": "美联社7月2日报道，俄罗斯连夜以导弹和无人机大规模袭击基辅，攻击波及全市10个行政区，造成住宅受损、至少1人死亡、11人受伤。俄乌战线未见缓和迹象，说明莫斯科仍在用高压打击后方城市，短期停火预期继续走弱。",
+      "source": "AP News",
+      "url": "https://apnews.com/article/russia-ukraine-war-kyiv-missile-drone-attack-384d5b6bcdfc6e7d8c18f25130332ef7"
+    },
+    {
+      "title": "大马士革爆炸致6死",
+      "summary": "美联社7月2日报道，叙利亚大马士革法院附近一间咖啡馆发生爆炸，至少6人死亡，多人受伤。叙利亚新政府虽持续清剿极端组织，但首都核心区再现袭击，说明安全修复远未完成，社会稳定和重建信心都将再受冲击。",
+      "source": "AP News",
+      "url": "https://apnews.com/article/syria-damascus-explosion-cafe-76f2fb50e181c968cbb578554cbc125d"
+    },
+    {
+      "title": "美伊多哈会谈未破局",
+      "summary": "路透7月2日报道，美伊在多哈结束新一轮间接会谈，重点仍围绕霍尔木兹海峡航运与伊朗资金安排，未就长期和平取得明显突破。局势从热战边缘退回技术磋商虽属缓和，但中东航运和油价仍会长期受谈判进展牵动。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/video/watch/idRW433402072026RP1?chan=us-news&location=channel-item"
+    }
+  ],
+  "domestic": [
+    {
+      "title": "金融系统再强调防风险",
+      "summary": "中国进出口银行转发7月2日消息，金融系统党的建设工作会议在京召开，何立峰要求抓好下半年重点金融工作，持续推进金融风险防范化解并加强监管。这个时间点再次定调，说明稳增长之外，金融安全和纪律治理仍是下半年主线。",
+      "source": "中国进出口银行",
+      "url": "http://www.eximbank.gov.cn/info/szyw/202607/t20260702_75939.html"
+    },
+    {
+      "title": "外交部再谈亚太稳定",
+      "summary": "外交部7月2日例行记者会表示，亚太需要的是稳定与合作，而非制造分裂和对抗，并称一些所谓“自由开放印太”主张背离地区共同愿望。表态显示中国仍把周边秩序和区域合作方向视为当前外交沟通的关键议题。",
+      "source": "中华人民共和国外交部",
+      "url": "https://www.mfa.gov.cn/fyrbt_673021/202607/t20260702_11956618.shtml"
+    },
+    {
+      "title": "中关村征集国际科创组织",
+      "summary": "北京市科委与中关村管委会7月2日发布通知，自7月3日起征集吸引国际科技组织在京落地项目，支持国际创新资源集聚北京。政策释放的信号很直接，北京正继续把全球科创机构、规则与合作网络视作新一轮增长抓手。",
+      "source": "北京市科委、中关村管委会",
+      "url": "https://kw.beijing.gov.cn/zwgk/zcwj/202607/t20260702_4744425.html"
+    }
+  ],
+  "tech": [
+    {
+      "title": "微软砸25亿美元推AI落地",
+      "summary": "路透7月2日报道，微软成立Frontier Company，投入25亿美元并调配约6000名员工，帮助企业把不同模型与自有数据整合起来。它说明大厂竞争已从“谁模型最强”转向“谁更能把AI真正装进企业流程”这一更难的战场。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/retail-consumer/microsoft-launches-firm-help-companies-adopt-ai-with-25-billion-2026-07-02/"
+    },
+    {
+      "title": "扎克伯格承认AI代理放缓",
+      "summary": "路透7月2日报道，扎克伯格在内部会议上承认，Meta过去四个月的AI代理研发没有按预期加速，公司重组效果也未完全兑现。对一家今年计划大举投入AI基础设施的巨头来说，这提醒市场商业化兑现仍比口号和资本开支更难。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/"
+    },
+    {
+      "title": "中国廉价模型逼近美头部",
+      "summary": "路透7月2日报道，中国初创公司Z.ai推出的GLM-5.2因编码和代理能力接近美国产品、但成本更低，被称作“迷你版DeepSeek时刻”。若更多开发者转向这类高性价比模型，全球AI价格战和企业选型逻辑都可能被重写。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/a-new-inexpensive-chinese-ai-model-is-catching-up-with-anthropic-openai-their-2026-07-02/"
+    }
+  ],
+  "trending": [
+    {
+      "term": "活人感",
+      "desc": "夸人真实有生命力，常用于照片和状态。"
+    },
+    {
+      "term": "爱你老己",
+      "desc": "“好好爱自己”的口语版，多用于自我安慰。"
+    },
+    {
+      "term": "预制XX",
+      "desc": "吐槽生活像模板复制，常说预制人生预制朋友圈。"
+    },
+    {
+      "term": "做完你的做你的",
+      "desc": "忙乱中硬控场的名场面，常用于打工人自嘲。"
+    },
+    {
+      "term": "我要验牌",
+      "desc": "质疑对方装懂或立人设时用的对线句。"
+    }
+  ],
+  "research": [
+    {
+      "title": "磁振子寿命暴增百倍",
+      "summary": "ScienceDaily 7月2日转述维也纳大学成果称，研究团队把磁振子寿命提升近100倍，最长达到18微秒，让这种微型磁波首次逼近实用量子信息载体门槛。它意味着未来超小型量子计算设备未必要靠更大机器，也可能靠更精细材料制备实现。",
+      "source": "ScienceDaily",
+      "url": "http://www.sciencedaily.com/releases/2026/06/260626030431.htm"
+    },
+    {
+      "title": "黑洞并合目录刷新到390次",
+      "summary": "ScienceDaily 7月1日转述格拉斯哥大学成果称，天文学家发布迄今最大引力波目录，新增161次黑洞碰撞记录，总探测数升至390次。更密集的样本不仅让最清晰信号和最精准定位成为可能，也会明显加快黑洞形成机制的验证速度。",
+      "source": "ScienceDaily",
+      "url": "http://www.sciencedaily.com/releases/2026/06/260625060203.htm"
+    }
+  ],
+  "finance": [
+    {
+      "title": "美国6月就业显著降温",
+      "summary": "路透7月2日报道，美国6月非农仅新增5.7万个岗位，远低于市场预期的11万个，前两月数据也被下修。数据让市场重新押注美联储年内更可能降息而非加息，但也提醒投资者，美国经济动能正在从“放缓”向“需验证”过渡。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/view-job-growth-falls-short-expectations-june-2026-07-02"
+    },
+    {
+      "title": "芯片股拖累纳指回落",
+      "summary": "路透7月2日报道，就业数据走弱后一度提振风险偏好，但芯片板块抛售迅速压制科技股，纳指收跌而道指创收盘新高。市场结构分化说明资金开始重新定价AI高估值与真实盈利兑现节奏，科技交易正从单边追涨切回挑选阶段。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/global-markets-wrapup-1-2026-07-02"
+    },
+    {
+      "title": "金价大涨押注宽松预期",
+      "summary": "路透7月2日报道，受美国就业不及预期和美元走弱推动，现货黄金单日上涨逾2%。对市场来说，这不仅是避险情绪回潮，更是在提前下注联储后续政策路径会更温和；若中东局势反复，贵金属仍可能继续获得资金偏爱。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/india/gold-extends-gains-weak-jobs-data-lower-oil-prices-2026-07-02"
+    }
+  ],
+  "sources_checked": [
+    "Tavily Search",
+    "Reuters",
+    "AP News",
+    "中华人民共和国外交部",
+    "中国进出口银行",
+    "北京市科委、中关村管委会",
+    "ScienceDaily",
+    "新浪网热梗盘点",
+    "LingoAce热梗整理",
+    "小红书2026热词洞察"
+  ]
+}
