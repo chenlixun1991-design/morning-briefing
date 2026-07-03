@@ -1,0 +1,131 @@
+{
+  "date": "2026-07-04",
+  "created_by": "Tomato 🍅",
+  "international": [
+    {
+      "title": "俄军再袭基辅",
+      "summary": "路透7月3日报道，俄罗斯此前一夜对基辅发动导弹与无人机混合打击，至少30人死亡后，居民当天重返受损楼宇抢救财物、救援清障继续。袭击再次直指后方城市生活区，说明俄乌战事仍在升级消耗，短期停火窗口继续收窄。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/video/watch/idRW485503072026RP1/?chan=world-news"
+    },
+    {
+      "title": "伊朗悼念哈梅内伊",
+      "summary": "路透7月3日报道，伊朗总统佩泽希齐扬、议长卡利巴夫和外长阿拉格齐等高层出席已故最高领袖哈梅内伊告别仪式。此举既是权力过渡中的政治动员，也向外界释放国内体系仍在维持统一的信号，中东谈判与航运局势仍会受其牵动。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/video/watch/idRCV00GR76/"
+    },
+    {
+      "title": "美欧贸易额创新高",
+      "summary": "路透7月3日报道，最新研究显示，尽管美欧之间关税摩擦持续升温，双方贸易额仍刷新历史纪录。数据说明跨大西洋供应链短期内难以被政治表态迅速切断，但也意味着一旦后续谈判失衡，欧美企业将更直接承受成本和政策不确定性。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/eu-trade-with-us-hits-record-despite-tariff-tensions-study-shows-2026-07-03/"
+    }
+  ],
+  "domestic": [
+    {
+      "title": "稳岗扩岗政策延续",
+      "summary": "新华社7月3日报道，人社部、教育部、财政部和税务总局联合发文，延续实施失业保险稳岗扩岗政策，继续支持企业稳定岗位并吸纳就业。政策延续释放出稳就业仍是下半年宏观重点，尤其针对青年就业和企业用工信心具有托底作用。",
+      "source": "新华网",
+      "url": "http://jjckb.xinhuanet.com/20260703/fed5de681b9c4830a58c5edfc8068c3d/c.html"
+    },
+    {
+      "title": "循环经济十五五定调",
+      "summary": "新华社7月3日报道，国家发展改革委印发《循环经济发展“十五五”规划》，提出到2030年完善覆盖生产、消费、回收、利用全链条的循环经济体系。新目标把绿色设计、再生资源和二手流通同时推上台前，意味着产业升级将更强调资源效率。",
+      "source": "新华网",
+      "url": "https://www.xinhuanet.com/20260703/51612c97dde74433be8b424de7ce86d7/c.html"
+    },
+    {
+      "title": "体育强国规划获批",
+      "summary": "国务院6月29日批复、7月3日公开《体育强国建设“十五五”规划》，明确完善全民健身服务、推进“三大球”振兴、扩大体育产业规模等方向。文件把体育放进消费、青少年发展和城市活力的综合议题里，后续地方配套值得持续关注。",
+      "source": "国务院批复转载",
+      "url": "https://gaj.wuhan.gov.cn/jmzx/gwyxx/202607/t20260703_2816343.html"
+    }
+  ],
+  "tech": [
+    {
+      "title": "阿里禁用Claude Code",
+      "summary": "路透7月3日报道，阿里巴巴已禁止员工在工作场景使用Anthropic的Claude Code，原因是其部分功能会协助识别中国关联用户。事件反映中美AI竞争正从模型能力延伸到工具合规与数据主权层面，企业选型将更受地缘政治影响。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/"
+    },
+    {
+      "title": "印度AI招聘逆势增",
+      "summary": "路透7月3日报道，最新报告显示印度AI与机器学习岗位招聘同比增长25%，明显跑赢整体IT招聘走势。信号很明确，企业在常规岗位收缩时仍愿把预算投向AI转型，这会继续加快亚洲技术人才结构分化与薪资重估。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/india/ai-hiring-outpaces-overall-it-recruitment-india-report-shows-2026-07-03/"
+    },
+    {
+      "title": "Anthropic盯上制药",
+      "summary": "The Verge 7月3日报道，Anthropic正谋划直接进入药物研发，而不只是向药企卖模型或开发平台。若这一方向落地，AI公司将首次更深地切入生命科学价值链，也会让监管、知识产权和责任边界问题提前成为产业焦点。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development"
+    }
+  ],
+  "trending": [
+    {
+      "term": "我要验牌",
+      "desc": "翻红台词，表示质疑或要对方拿证据。"
+    },
+    {
+      "term": "活人感",
+      "desc": "夸人真实有生命力，不像精修模板。"
+    },
+    {
+      "term": "AI人格",
+      "desc": "把AI当搭子，强调陪伴感和情绪价值。"
+    },
+    {
+      "term": "抽象力",
+      "desc": "靠荒诞表达玩梗，自嘲现实压力。"
+    },
+    {
+      "term": "留友看",
+      "desc": "留给朋友看，常见于转发好内容。"
+    }
+  ],
+  "research": [
+    {
+      "title": "量子热化算法提速",
+      "summary": "《Nature Physics》7月3日刊文指出，新算法可更高效地制备一类关键热平衡态，补上量子模拟里长期难解的一环。它的重要性不只在理论推进，更在于未来量子计算若想处理真实材料与化学体系，热态准备效率会成为核心门槛。",
+      "source": "Nature Physics",
+      "url": "https://www.nature.com/articles/s41567-026-03357-6"
+    },
+    {
+      "title": "Q调制生物传感突破",
+      "summary": "《Nature Photonics》本周报道，一种基于Q因子调制的新型纳米光子传感方案，可在15分钟内检测到仅数十个肿瘤细胞外囊泡。它把微弱折射率变化放大成强信号，意味着更快、更灵敏且可规模化的早筛工具正向临床靠近。",
+      "source": "Nature Photonics",
+      "url": "https://www.nature.com/articles/s41566-026-01942-y"
+    }
+  ],
+  "finance": [
+    {
+      "title": "美国非农意外走弱",
+      "summary": "路透7月2日报道，美国6月非农新增仅5.7万人，明显低于市场预期，前两月数据也被下修。弱于预期的就业表现迅速改变市场对联储路径的押注，投资者开始把注意力从“高利率更久”切向“经济减速是否正在坐实”。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/view-job-growth-falls-short-expectations-june-2026-07-02"
+    },
+    {
+      "title": "金价重返4100上方",
+      "summary": "路透7月2日报道，受美国就业数据偏弱和美元回落推动，现货黄金单日上涨逾2%，重新站上4100美元上方。市场这轮买盘不只是避险反射，更是在提前交易联储紧缩预期降温；若地缘局势反复，贵金属仍可能继续受追捧。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/india/gold-extends-gains-weak-jobs-data-lower-oil-prices-2026-07-02"
+    },
+    {
+      "title": "芯片股拖累纳指",
+      "summary": "路透7月2日报道，美国就业数据公布后道指续创新高，但芯片板块遭遇集中抛售，拖累纳指转跌。市场分化说明资金开始重新衡量AI链条里哪些公司已透支预期，科技交易正从普涨叙事切换到更看盈利兑现和估值承受力的阶段。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/global-markets-wrapup-1-2026-07-02"
+    }
+  ],
+  "sources_checked": [
+    "Tavily Search",
+    "Reuters",
+    "新华网",
+    "国务院批复转载",
+    "Nature Physics",
+    "Nature Photonics",
+    "光明网",
+    "千瓜数据",
+    "哔哩哔哩搜索"
+  ]
+}
