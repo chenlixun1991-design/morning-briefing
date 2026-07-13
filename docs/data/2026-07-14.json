@@ -1,0 +1,135 @@
+{
+  "date": "2026-07-14",
+  "created_by": "Tomato 🍅",
+  "international": [
+    {
+      "title": "美再打击伊朗",
+      "summary": "纽约时报7月13日直播称，美国对伊朗启动新一轮打击，特朗普同时要求恢复对伊朗港口封锁，并谈及霍尔木兹航运收费。事件让海湾安全和国际法争议同步升温，油价与航运成本预期明显承压。",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/live/2026/07/13/world/iran-war-us-trump-hormuz"
+    },
+    {
+      "title": "欧盟十亿援加沙",
+      "summary": "以色列时报7月13日报道，欧盟启动10亿美元加沙援助计划，意在缓解人道危机并推动救援通道运转。援助能否落地仍取决于停火、物资分发和各方安全承诺，也会影响欧洲在中东议题上的斡旋空间。",
+      "source": "The Times of Israel",
+      "url": "https://www.timesofisrael.com/liveblog_entry/eu-launches-1-billion-aid-initiative-for-gaza/"
+    },
+    {
+      "title": "约旦河西岸袭记者",
+      "summary": "CNN7月13日报道，以色列定居者在约旦河西岸袭击记者，事件发生在一宗致命殴打周年节点。报道凸显当地媒体安全、定居点暴力和执法压力仍在恶化，也可能进一步放大以巴冲突的人权争议。",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/07/13/world/video/israeli-settlers-attack-journalists-west-bank-lead-jake-tapper"
+    }
+  ],
+  "domestic": [
+    {
+      "title": "北方雨季提前",
+      "summary": "新华社7月13日报道，中国气象局专家解读近期天气称，入汛后我国天气偏暖偏湿，北方雨季提前且雨势偏猛。台风、强降雨和高温叠加，将考验城市排涝、农业生产和暑期出行安全。",
+      "source": "新华社",
+      "url": "https://www.news.cn/politics/20260713/9cb32771ac55459897eca201977b9736/c.html"
+    },
+    {
+      "title": "中国治沙再受关注",
+      "summary": "美联社7月13日报道，中国“绿色长城”工程在内蒙古等地抑制荒漠扩张取得进展，但科学家提醒抗沙仍未结束。成果证明长期生态投入有效，同时也提示水资源、单一树种和气候变暖会带来新约束。",
+      "source": "AP News",
+      "url": "https://apnews.com/article/china-desert-sandstorm-desertification-straw-checkerboard-2114ca22f87c31cffcf5e3c48c070aa1"
+    },
+    {
+      "title": "南海裁决再起争论",
+      "summary": "新华社7月13日发表评论，批评部分国家重提所谓南海仲裁案“裁决”，称其本质是政治操作。南海议题再度升温，短期会牵动外交表态和舆论攻防，长期仍取决于区域国家管控分歧的能力。",
+      "source": "新华社",
+      "url": "https://www.news.cn/politics/20260713/ab18eee2f1a741ef80b393948b18113a/c.html"
+    }
+  ],
+  "tech": [
+    {
+      "title": "三星拿下AI5",
+      "summary": "The Elec 7月14日报道，三星已完成特斯拉下一代AI5自动驾驶芯片流片，计划在得州Taylor工厂用2纳米工艺量产。若按期推进，三星晶圆代工将获得关键客户背书，自动驾驶芯片竞争也会更白热化。",
+      "source": "The Elec",
+      "url": "https://www.thelec.net/news/articleView.html?idxno=12216"
+    },
+    {
+      "title": "AMD获30MW算力",
+      "summary": "Manila Times 7月13日援引公告称，AMD与Rackspace签署30MW AI算力分阶段部署协议，2026年底起进入全球数据中心。合作说明AI基建竞争正从单芯片扩展到电力、机房和整套托管能力。",
+      "source": "The Manila Times",
+      "url": "https://www.manilatimes.net/2026/07/13/tmt-newswire/globenewswire/ai-infrastructure-boom-drives-taiwan-suppliers-toward-us-manufacturing-expansion/2383352"
+    },
+    {
+      "title": "NASA宇航员发射",
+      "summary": "NASA 7月13日称，宇航员Anil Menon将于7月14日搭乘联盟MS-29前往国际空间站，参与Expedition 74科研任务。任务将继续验证人体、技术和空间站实验能力，为后续深空探索积累数据。",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/image-article/nasa-astronaut-anil-menon/"
+    }
+  ],
+  "trending": [
+    {
+      "term": "正式被确诊为那英",
+      "desc": "确诊文学新梗，自嘲直来直去不内耗。"
+    },
+    {
+      "term": "办公室佛得角",
+      "desc": "谐音“佛得熬”，指上班稳熬不抢功。"
+    },
+    {
+      "term": "确诊文学",
+      "desc": "用角色标签给情绪命名，方便自嘲共鸣。"
+    },
+    {
+      "term": "受着呗",
+      "desc": "短视频黑话，冷处理尴尬或无奈场景。"
+    },
+    {
+      "term": "恋爱脑旁边猪脑",
+      "desc": "火锅店玩梗，把恋爱脑具象成菜名。"
+    }
+  ],
+  "research": [
+    {
+      "title": "火星土壤可生物改良",
+      "summary": "Astrobiology Web 7月13日整理NASA Spaceline论文称，研究提出用植物积累有机质、再由微生物去除高氯酸盐，逐步改良火星风化层模拟物。该思路为未来火星原位农业和生命保障系统提供了新路径。",
+      "source": "Astrobiology Web",
+      "url": "https://astrobiology.com/2026/07/13/nasa-spaceline-current-awareness-list-1207-10-july-2026-space-life-science-research-results/"
+    },
+    {
+      "title": "急流影响欧洲热浪",
+      "summary": "New Scientist 7月13日报道，最新研究认为急流位置与形态变化是欧洲长时间热浪的重要推手。若能提前识别这种大气信号，电网、农业和公共卫生部门可更早准备，降低持续高温造成的健康与经济损失。",
+      "source": "New Scientist",
+      "url": "https://www.newscientist.com/article/2533887-shifts-in-the-jet-stream-are-behind-europes-long-heatwaves/"
+    }
+  ],
+  "finance": [
+    {
+      "title": "油价单日飙升",
+      "summary": "Yahoo Finance香港7月13日报道，美方拟恢复对伊朗沿岸封锁后，WTI原油收涨9.42%至78.14美元，布伦特收涨9.59%至83.30美元。能源供给忧虑快速传导至通胀和资产定价，市场避险情绪升温。",
+      "source": "Yahoo Finance HK",
+      "url": "https://hk.finance.yahoo.com/news/%E8%83%BD%E6%BA%90%E7%9B%A4%E5%BE%8C-%E7%BE%8E%E5%8F%88%E5%B0%81%E9%8E%96%E4%BC%8A%E6%9C%97%E6%B2%BF%E5%B2%B8-%E5%BC%95%E7%88%86%E4%BE%9B%E6%87%89%E6%86%82%E6%85%AE-%E6%B2%B9%E5%83%B9%E7%8B%82%E9%A3%86%E9%80%BE9-%E7%99%BB-202836340.html"
+    },
+    {
+      "title": "美股芯片承压",
+      "summary": "Yahoo Finance香港7月13日报道，美伊冲突推高油价，叠加芯片股卖压，美股主要指数早盘低开，费城半导体相关压力更明显。投资者同时等待美国6月核心CPI，通胀和利率路径重新成为交易主线。",
+      "source": "Yahoo Finance HK",
+      "url": "https://hk.finance.yahoo.com/news/%E7%BE%8E%E8%82%A1%E6%97%A9%E7%9B%A4-%E6%99%B6%E7%89%87%E8%82%A1%E8%B3%A3%E5%A3%93%E6%B2%89%E9%87%8D-%E7%BE%8E%E4%BC%8A%E8%A1%9D%E7%AA%81%E6%8E%A8%E9%AB%98%E6%B2%B9%E5%83%B9-%E4%B8%BB%E8%A6%81%E6%8C%87%E6%95%B8%E9%96%8B%E4%BD%8E-133929050.html"
+    },
+    {
+      "title": "摩根大通打头阵",
+      "summary": "Yahoo Finance香港7月14日前瞻称，摩根大通将率先开启美国银行业绩季，市场更关注全年净利息收入指引而非单季利润。若NII预期偏弱，银行股“稳定孤岛”叙事会受考验，也会影响财报季情绪。",
+      "source": "Yahoo Finance HK",
+      "url": "https://hk.finance.yahoo.com/news/%E6%88%B4%E8%92%99%E9%A0%98%E8%BB%8D%E7%9A%84jpmorgan%E5%B0%87%E6%96%BC7%E6%9C%8814%E6%97%A5%E6%89%93%E9%9F%BF%E9%8A%80%E8%A1%8C%E6%A5%AD%E7%B8%BE%E5%AD%A3%E7%AC%AC-%E7%82%AE-%E6%9C%89-%E5%80%8B%E6%95%B8%E5%AD%97%E6%AF%94%E7%9B%88%E5%88%A9%E6%9B%B4%E5%80%BC%E5%BE%97%E7%95%99%E6%84%8F-134500434.html"
+    }
+  ],
+  "sources_checked": [
+    "Tavily Search",
+    "The New York Times",
+    "The Times of Israel",
+    "CNN",
+    "新华社",
+    "AP News",
+    "The Elec",
+    "The Manila Times",
+    "NASA",
+    "新浪新闻",
+    "Astrobiology Web",
+    "New Scientist",
+    "Yahoo Finance HK"
+  ]
+}
