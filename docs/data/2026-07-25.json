@@ -1,0 +1,136 @@
+{
+  "date": "2026-07-25",
+  "created_by": "Tomato 🍅",
+  "international": [
+    {
+      "title": "德政府改组",
+      "summary": "中国新闻网7月25日报道，德国总理默茨宣布调整内阁与执政党要职，卫生部长、总理府部长和联盟党议会党团主席等岗位连动更换。此举意在修复争议后的执政节奏，也将影响德国改革议程推进。",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/gj/2026/07-25/10666137.shtml"
+    },
+    {
+      "title": "南海谈判提速",
+      "summary": "美国之音7月24日报道，东盟与中国正加快南海行为准则谈判，美国驻东盟大使同时重申美国在南海的利益和对菲律宾的安全承诺。谈判进展有助于管控风险，但准则范围、法律性质仍是关键分歧。",
+      "source": "VOA Chinese",
+      "url": "https://www.voachinese.com/a/u-s-reaffirms-its-interest-and-security-commitments-in-the-south-china-sea-20260724/8175770.html"
+    },
+    {
+      "title": "美伊战火再燃",
+      "summary": "RFI7月24日报道，美军导弹袭击伊朗多处目标，胡塞武装在红海袭击沙特油轮后油价急升；同时巴基斯坦在中方推动下探索重启美伊谈判。冲突若继续外溢，将压迫航运、能源和通胀预期。",
+      "source": "RFI",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260724-%E7%BE%8E%E5%9B%BD%E5%AF%BC%E5%BC%B9%E4%BB%8E%E5%8D%97%E5%88%B0%E5%8C%97%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97%EF%BC%8C%E4%B8%AD%E5%9B%BD%E6%8E%A8%E5%8A%A8%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E9%87%8D%E5%90%AF%E7%BE%8E%E4%BC%8A%E8%B0%88%E5%88%A4"
+    }
+  ],
+  "domestic": [
+    {
+      "title": "反制欧盟实体",
+      "summary": "商务部7月24日公告，将14家欧盟实体列入出口管制管控名单，禁止向其出口或转移中国原产两用物项。措施回应欧方将中国企业列入对俄制裁名单，显示中欧经贸摩擦继续向合规和供应链环节扩散。",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-07-24/doc-iniiwzsf4858615.shtml"
+    },
+    {
+      "title": "年金可线上转",
+      "summary": "新华财经7月24日消息，《企业年金个人账户转移接续规程》发布，2027年1月1日起职工可通过全国社保平台、电子社保卡等渠道线上办理转移接续。换工作时账户迁移更顺畅，有助于提升企业年金可携带性。",
+      "source": "东方财富网",
+      "url": "https://wap.eastmoney.com/a/202607243820570287.html"
+    },
+    {
+      "title": "红霞影响广东",
+      "summary": "每日经济新闻7月25日早参称，台风“红霞”预计25日晚至26日晨在广东中东部沿海登陆，广东省内列车将陆续停运并在26日全面停运。暑期出行、城市防风防涝和铁路调度进入高压状态。",
+      "source": "每日经济新闻",
+      "url": "https://www.nbd.com.cn/articles/2026-07-24/4511647.html"
+    }
+  ],
+  "tech": [
+    {
+      "title": "Opus5发布",
+      "summary": "Axios7月24日报道，Anthropic发布Claude Opus 5，定位为接近Fable 5能力、价格约减半的日常高性能模型。AI厂商竞争正从单次旗舰发布转向更快的成本、速度与安全迭代，企业采购门槛有望下降。",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/07/24/anthropic-releases-new-model-opus-5"
+    },
+    {
+      "title": "巨头挺开源",
+      "summary": "IT之家7月24日消息，微软、英伟达、Meta、IBM等25家科技企业联署公开信，呼吁支持开放权重AI模型。行业希望以开放生态扩大应用、压低成本并增强安全审查，同时推动监管区分合法蒸馏与盗用。",
+      "source": "搜狐科技",
+      "url": "https://www.sohu.com/a/1054436108_114760?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334"
+    },
+    {
+      "title": "月车上英伟达",
+      "summary": "Payload Space7月24日报道，Lunar Outpost计划在月球车任务中搭载NVIDIA Jetson和Space-1芯片，用于传感器处理、实时建图和自主行驶。AI算力正在从地面数据中心延伸到深空机器人。",
+      "source": "Payload Space",
+      "url": "https://payloadspace.com/lunar-outpost-plans-to-fly-nvidia-chips-to-the-moon/"
+    }
+  ],
+  "trending": [
+    {
+      "term": "我的刀盾",
+      "desc": "源自空耳和AI萌宠，表达想冲又怕受伤。"
+    },
+    {
+      "term": "爱上雷神",
+      "desc": "崩铁歌曲空耳梗，用于角色发力名场面。"
+    },
+    {
+      "term": "兵分五路",
+      "desc": "游戏圈调侃式重罚，形容一人扛五路。"
+    },
+    {
+      "term": "天然香氛",
+      "desc": "年轻人把佛手茉莉挂包和工位，清新整活。"
+    },
+    {
+      "term": "无痕撤回",
+      "desc": "微信灰测删撤回提示，引发社交痕迹玩梗。"
+    }
+  ],
+  "research": [
+    {
+      "title": "疑似系外月球",
+      "summary": "中国科学报7月23日报道，国际团队在《自然》发表观测证据，首次捕捉到罕见恒星、褐矮星、巨型卫星三级系统信号。虽仍需后续确认，但为寻找系外卫星提供了新路径，拓展行星系统演化研究。",
+      "source": "科学网",
+      "url": "https://news.sciencenet.cn/htmlnews/2026/7/568722.shtm"
+    },
+    {
+      "title": "落花分子开关",
+      "summary": "中国农业大学7月22日消息，高俊平团队在Science Advances揭示月季花瓣脱落的“磷酸化-自噬”分子开关。发现解释了植物如何精准触发器官脱落，也可能帮助改良观赏花卉瓶插寿命和病害管理。",
+      "source": "中国农业大学新闻网",
+      "url": "https://news.cau.edu.cn/kxyj/b09b79a77103416da4756cca1e22e669.htm"
+    }
+  ],
+  "finance": [
+    {
+      "title": "油价破百扰市",
+      "summary": "Yahoo Finance香港7月25日援引市场报道，胡塞武装袭击沙特油轮后，布伦特原油一度重返100美元上方，美国新关税也同步扰动风险偏好。能源通胀压力回升，令债券收益率和股市估值承压。",
+      "source": "Yahoo Finance HK",
+      "url": "https://hk.finance.yahoo.com/news/%E5%B8%83%E6%B2%B9%E9%87%8D%E8%BF%94100%E7%BE%8E%E5%85%83%E5%89%B5%E8%BF%91%E5%85%A9%E6%9C%88%E9%AB%98-%E7%89%B9%E6%9C%97%E6%99%AE%E9%87%8D%E5%95%9F%E9%97%9C%E7%A8%85-%E8%8B%B1%E7%89%B9%E7%88%BE-intc-us-012828059.html"
+    },
+    {
+      "title": "芯片股承压",
+      "summary": "每日经济新闻7月25日早参称，美股三大指数涨跌不一，费城半导体指数跌4.25%，特斯拉本周累跌近18%。中东风险、AI资本开支担忧和芯片股获利了结叠加，科技交易明显降温。",
+      "source": "每日经济新闻",
+      "url": "https://www.nbd.com.cn/articles/2026-07-24/4511647.html"
+    },
+    {
+      "title": "宁德大额回购",
+      "summary": "华尔街见闻7月25日早餐称，宁德时代上半年净利润同比预增约42%，并拟以200亿至400亿元回购股份。大额回购有助于稳定市场预期，也显示头部新能源企业仍在用现金流回应估值波动。",
+      "source": "华尔街见闻",
+      "url": "https://wallstreetcn.com/articles/3777908"
+    }
+  ],
+  "sources_checked": [
+    "Tavily Search",
+    "中国新闻网",
+    "VOA Chinese",
+    "RFI",
+    "新浪财经",
+    "东方财富网",
+    "每日经济新闻",
+    "Axios",
+    "搜狐科技",
+    "Payload Space",
+    "科学网",
+    "中国农业大学新闻网",
+    "Yahoo Finance HK",
+    "华尔街见闻"
+  ]
+}
