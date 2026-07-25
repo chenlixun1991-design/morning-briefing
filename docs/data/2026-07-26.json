@@ -1,0 +1,135 @@
+{
+  "date": "2026-07-26",
+  "created_by": "Tomato 🍅",
+  "international": [
+    {
+      "title": "美暂停空袭伊朗",
+      "summary": "每日经济新闻援引央视消息称，特朗普下令美军7月25日不再对伊朗发动新的空袭，结束近两周连续打击。此举可能只是临时暂停，也可能为谈判窗口降温，能源与航运风险仍需观察。",
+      "source": "每日经济新闻",
+      "url": "https://www.mrjjxw.com/articles/2026-07-25/4512058.html"
+    },
+    {
+      "title": "欧洲山火撤离",
+      "summary": "ABC News与Fox News报道，欧洲多地野火持续蔓延，西班牙、法国等地累计疏散逾20万人。极端高温与干旱让消防压力上升，暑期旅游、交通和公共卫生系统都受到连带冲击。",
+      "source": "ABC News",
+      "url": "https://www.modernghana.com/amp/videonews/688183"
+    },
+    {
+      "title": "美威胁新关税",
+      "summary": "Sky News Australia报道，特朗普再次威胁对加拿大和墨西哥加征报复性关税。若措施落地，北美供应链成本和通胀预期可能抬升，也会扰动汽车、农产品与制造业跨境贸易。",
+      "source": "Sky News Australia",
+      "url": "https://www.skynews.com.au/australia-news/todays-news-headlines-donald-trump-vows-retaliatory-tariffs/video/0fbcb2bb819e9d76bc20202434b28afd?amp"
+    }
+  ],
+  "domestic": [
+    {
+      "title": "中央部门晒账",
+      "summary": "人民日报报道，96个中央部门集中公开2025年度决算，内容包括决算表、说明和绩效信息。连续十六年公开有助于强化预算监督，推动财政资金从“花了多少”转向“绩效如何”。",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/gn/2026/07-26/10666598.shtml"
+    },
+    {
+      "title": "红霞登陆惠州",
+      "summary": "中央气象台消息，第12号台风“红霞”26日凌晨在广东惠州惠东登陆，中心附近最大风力14级。国家防总、水利部等启动或提升响应，华南交通、防洪和地质灾害防御进入关键时段。",
+      "source": "每日经济新闻",
+      "url": "https://www.mrjjxw.com/articles/2026-07-25/4512058.html"
+    },
+    {
+      "title": "景德镇申遗成功",
+      "summary": "央视新闻客户端报道，“景德镇手工瓷业遗存”列入《世界遗产名录》，成为我国第61项世界遗产。项目填补世界遗产中“瓷”主题空白，也提升传统产业遗产的国际识别度。",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/gn/2026/07-26/10666594.shtml"
+    }
+  ],
+  "tech": [
+    {
+      "title": "三星博通结盟",
+      "summary": "CNBC报道，三星电子与博通达成约2000亿美元AI芯片合作备忘录，未来五年围绕定制ASIC、2纳米以下制程和HBM展开协作。三星借此强化代工业务，挑战台积电领先地位。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/25/samsung-electronics-wins-200-billion-broadcom-ai-chip-partnership.html"
+    },
+    {
+      "title": "Waymo评估脱钩",
+      "summary": "CNBC节目摘要显示，Waymo据称正权衡结束与Uber的合作关系。若自动驾驶平台转向自营或新渠道，网约车生态的车辆调度、流量入口和商业分成模式可能重新洗牌。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/video/2026/07/25/the-look-ahead-july-24-2026.html"
+    },
+    {
+      "title": "DeepSeek泄露风波",
+      "summary": "Gizmodo报道，疑似DeepSeek投资人电话会泄露后，外界关注其与华为协作、芯片产能瓶颈和CUDA生态替代等细节。事件显示中国大模型公司在融资、供应链与保密上压力同步上升。",
+      "source": "Gizmodo",
+      "url": "https://gizmodo.com/deepseeks-normally-boring-ceo-is-reportedly-spiraling-after-supposed-leak-2000790888"
+    }
+  ],
+  "trending": [
+    {
+      "term": "我的刀盾",
+      "desc": "空耳梗，表达想冲又怕受伤的纠结。"
+    },
+    {
+      "term": "抽象力",
+      "desc": "万物皆可梗，用离谱幽默消解压力。"
+    },
+    {
+      "term": "活人感",
+      "desc": "反悬浮精致，追求真实鲜活状态。"
+    },
+    {
+      "term": "反精致",
+      "desc": "拥抱粗糙真实，反标准化审美。"
+    },
+    {
+      "term": "AI人格",
+      "desc": "把AI当脑洞搭子或第二自我。"
+    }
+  ],
+  "research": [
+    {
+      "title": "AI预判心病",
+      "summary": "ScienceDaily报道，港大团队在Nature Communications发表研究，利用AI多组学血液分析提前预测个体心血管风险，时间跨度可达15年。成果有望推动更早筛查，但仍需临床验证。",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260716023603.htm"
+    },
+    {
+      "title": "AI重设酶进化",
+      "summary": "News-Medical报道，Nature研究显示，AI可重设计蛋白酶进化的起点与目标，使酶突破自然突变路径限制。该方法可能帮助开发更精准的疾病相关蛋白靶向工具。",
+      "source": "News-Medical",
+      "url": "https://www.news-medical.net/news/20260724/AI-redesign-helps-enzymes-evolve-beyond-natural-limits.aspx"
+    }
+  ],
+  "finance": [
+    {
+      "title": "美股芯片回调",
+      "summary": "新浪财经报道，美股三大指数周五涨跌不一，费城半导体指数跌4.25%，闪迪、美光、ARM等承压。AI资本开支担忧、涨价传闻与获利了结叠加，科技交易短线降温。",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/wm/2026-07-25/doc-iniizrff1248761.shtml"
+    },
+    {
+      "title": "宁德拟大回购",
+      "summary": "新浪财经报道，宁德时代拟以200亿至400亿元回购A股股份并用于注销，回购价格上限573元/股。大额回购释放稳预期信号，也为新能源龙头估值波动提供现金流背书。",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/wm/2026-07-25/doc-iniizrff1248761.shtml"
+    },
+    {
+      "title": "楼市贴息加码",
+      "summary": "每日经济新闻报道，大连推出二套房公积金贷款阶段性贴息，最长3年、补贴实际利息15%。年内近90城已出台购房补贴或贷款减负政策，地方稳楼市工具继续细化。",
+      "source": "每日经济新闻",
+      "url": "https://www.mrjjxw.com/articles/2026-07-25/4512058.html"
+    }
+  ],
+  "sources_checked": [
+    "Tavily Search",
+    "中国新闻网",
+    "人民日报",
+    "央视新闻客户端",
+    "每日经济新闻",
+    "ABC News",
+    "Fox News",
+    "Sky News Australia",
+    "CNBC",
+    "Gizmodo",
+    "ScienceDaily",
+    "News-Medical",
+    "新浪财经"
+  ]
+}
