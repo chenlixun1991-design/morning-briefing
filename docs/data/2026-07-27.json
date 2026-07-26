@@ -1,0 +1,136 @@
+{
+  "date": "2026-07-27",
+  "created_by": "Tomato 🍅",
+  "international": [
+    {
+      "title": "柏林骄傲袭击",
+      "summary": "AP报道，柏林骄傲节附近发生货车冲撞人群事件，造成1人死亡、16人受伤，警方发布嫌疑人通缉信息并搜索蒂尔加滕公园。事件迫使活动取消，也让欧洲大型公共集会安保再次承压。",
+      "source": "AP News",
+      "url": "https://apnews.com/article/germany-berlin-lgbtq-pride-parade-van-ramming-3ba5e3f1becffd0da5f47b29aa08da9d"
+    },
+    {
+      "title": "乌俄互报伤亡",
+      "summary": "Reuters报道，基辅26日遭俄军弹道导弹袭击，乌方称多地轰炸至少造成4名平民死亡；俄方也称乌军无人机在其控制的顿涅茨克地区造成4人死亡。双方后方打击延续，停火空间继续收窄。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/video/watch/idRW095426072026RP1/"
+    },
+    {
+      "title": "法西山火蔓延",
+      "summary": "Reuters报道，法国和西班牙山火逼近波尔多等地，逾25万人被迫撤离，法国西南部已有上百栋房屋受损。欧盟启动民防机制调派飞机和人员，高温干旱让旅游、农业和公共安全同受冲击。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/environment/wildfires-threaten-bordeaux-france-spain-battle-blazes-2026-07-26/"
+    }
+  ],
+  "domestic": [
+    {
+      "title": "筑牢防汛堤坝",
+      "summary": "央视新闻报道，面对防汛防台风压力，各地各部门加强巡查、转移避险和应急值守，强调人民至上、生命至上。台风和强降雨过后，次生灾害防范成为重点，基层治理和应急协同仍是关键。",
+      "source": "央视新闻",
+      "url": "https://news.cctv.com/2026/07/26/ARTIq0cAN14GtnqcROb6eahI260726.shtml"
+    },
+    {
+      "title": "字典第13版",
+      "summary": "中新网报道，《新华字典》第13版出版座谈会在北京举行。作为新中国第一部现代汉语规范字典，新版继续更新语言用法与时代词汇，对基础教育、规范用字和出版工具书都有示范意义。",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/sh/2026/07-26/10666860.shtml"
+    },
+    {
+      "title": "景德镇申遗",
+      "summary": "中新网报道，景德镇手工瓷业遗存列入《世界遗产名录》，我国世界遗产总数增至61项。该项目补上世界遗产中“瓷”主题空白，也为传统工艺、文旅融合和城市品牌带来长期增量。",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/gn/2026/07-26/10666917.shtml"
+    }
+  ],
+  "tech": [
+    {
+      "title": "英伟达锁HBM",
+      "summary": "Reuters报道，英伟达与韩国SK集团推出逾5000亿美元AI数据中心与内存合作，SK海力士将参与下一代HBM供应，SK电信计划建设2GW Vera Rubin AI数据中心。AI算力竞争正从芯片扩展到电力和存储供应链。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/media-telecom/nvidia-sk-group-unveil-500-billion-plus-ai-data-centers-initiative-memory-2026-07-24/"
+    },
+    {
+      "title": "中国AI出海",
+      "summary": "AP报道，Moonshot的Kimi K3、DeepSeek等中国AI模型因便宜、开放、效率高在美国用户中升温，Kimi发布后一周下载量大涨并一度暂停新订阅。全球大模型竞争正在进入性价比与代理能力并重阶段。",
+      "source": "AP News",
+      "url": "https://apnews.com/article/china-ai-model-us-kimi-deepseek-a00bf637866fcd4d81f4fde28c9862ce"
+    },
+    {
+      "title": "新三样升级",
+      "summary": "Global Times称，中国“下一个新三样”正从新能源车、光伏、锂电延伸到AI、机器人和创新药，四足机器人、机场机械臂、教育AI等场景加速出海。产业升级开始从制造输出转向系统能力输出。",
+      "source": "Global Times",
+      "url": "https://www.manilatimes.net/2026/07/26/tmt-newswire/pr-newswire/global-times-here-come-chinas-next-new-three-ai-robotics-and-innovative-drugs-spearhead-a-new-round-of-industrial-upgrading/2391665"
+    }
+  ],
+  "trending": [
+    {
+      "term": "OMG你吓到我了",
+      "desc": "Papi酱AI歌切片，配离谱日常。"
+    },
+    {
+      "term": "八字弱",
+      "desc": "形容听完说教后精神被掏空。"
+    },
+    {
+      "term": "台风囤货",
+      "desc": "借防灾买零食，焦虑变干饭梗。"
+    },
+    {
+      "term": "Let's GOOOOO",
+      "desc": "瓦圈助威口号，表达开冲兴奋。"
+    },
+    {
+      "term": "六亲不认步伐",
+      "desc": "拽萌走姿被明星复刻后刷屏。"
+    }
+  ],
+  "research": [
+    {
+      "title": "闭环可穿戴",
+      "summary": "Nature Sensors刊发综述，梳理AI驱动闭环可穿戴生物电子设备，可把连续监测、实时分析和个性化干预连成一体。方向指向自主健康管理，但临床验证、数据安全和监管仍是落地门槛。",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/s44460-026-00105-4"
+    },
+    {
+      "title": "皮肤AI边界",
+      "summary": "Dermatology Times援引JAMA Dermatology研究称，在真实病例组合中，10年以上经验皮肤科医生诊断皮肤癌准确率高于3套AI系统。结果提醒医疗AI应做临床辅助，而不是替代专家判断。",
+      "source": "Dermatology Times",
+      "url": "https://www.dermatologytimes.com/view/real-world-study-finds-experienced-dermatologists-outperform-ai-in-skin-cancer-diagnosis"
+    }
+  ],
+  "finance": [
+    {
+      "title": "长鑫今上市",
+      "summary": "证券时报报道，国产DRAM龙头长鑫科技将于7月27日在科创板上市，发行价8.66元/股，发行市值逾5790亿元。作为科创板大体量IPO，上市表现将影响存储板块情绪和科创资金分流。",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/4041689.html"
+    },
+    {
+      "title": "A股杠杆降温",
+      "summary": "证券时报报道，近一周A股融资余额持续下降，最新为26888.61亿元，融资资金合计净偿还1447.8亿元；行业中仅煤炭获得净买入。科技成长交易短线降温，资金更偏向防御和兑现收益。",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/4041730.html"
+    },
+    {
+      "title": "美赤字走高",
+      "summary": "CRFB援引美国财政部数据称，2026财年前九个月美国借款已达1.4万亿美元，高于2025年同期，并可能全年突破2万亿美元。财政压力会影响美债供给、利率预期和全球风险资产定价。",
+      "source": "CRFB",
+      "url": "https://www.crfb.org/press-releases/treasury-confirms-14-trillion-fy-2026-deficit-so-far-higher-2025"
+    }
+  ],
+  "sources_checked": [
+    "Tavily Search",
+    "AP News",
+    "Reuters",
+    "央视新闻",
+    "中国新闻网",
+    "证券时报",
+    "Nature",
+    "Dermatology Times",
+    "CNBC",
+    "Global Times",
+    "CRFB",
+    "虎嗅",
+    "新浪新闻",
+    "东方财富"
+  ]
+}
