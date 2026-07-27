@@ -1,0 +1,136 @@
+{
+  "date": "2026-07-28",
+  "created_by": "Tomato 🍅",
+  "international": [
+    {
+      "title": "多伦多领馆枪声",
+      "summary": "Reuters报道，美国驻多伦多领馆外今年第二次发生枪击事件，警方介入调查，领馆周边安保再次收紧。事件虽未扩散为重大外交冲突，但凸显北美城市公共机构安全压力上升。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/video/watch/idRW120927072026RP1/"
+    },
+    {
+      "title": "马略卡反旅游",
+      "summary": "Reuters报道，西班牙马略卡居民抗议大规模旅游，称住房、物价与公共空间被挤压到临界点。暑期客流高峰下，欧洲热门目的地正面临旅游收入与本地生活质量的再平衡。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/video/watch/idRW109027072026RP1/"
+    },
+    {
+      "title": "印度部长辞职",
+      "summary": "Reuters报道，印度考试丑闻引发学生抗议后，教育部长辞职，示威者称行动取得胜利。事件把教育公平、考试监管和年轻人就业焦虑重新推到印度政治议程中心。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/video/watch/idRW120927072026RP1/"
+    }
+  ],
+  "domestic": [
+    {
+      "title": "九寨沟撤游客",
+      "summary": "CCTV消息称，受台风“诺尔”后续强降雨影响，四川九寨沟因泥石流关闭部分景点并转移滞留游客。多地进入主汛期高压窗口，景区、交通和基层应急需要继续前置。",
+      "source": "CCTV / Reuters",
+      "url": "https://nypost.com/2026/07/27/world-news/china-evacuates-stranded-tourists-from-famed-world-heritage-site-after-mudslides/"
+    },
+    {
+      "title": "工业利润放缓",
+      "summary": "CNBC报道，中国6月规模以上工业企业利润同比增长15.1%，但增速连续第二个月放缓。出口和AI相关设备投资支撑生产，内需偏弱仍让政策加码预期升温。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/27/china-industrial-profit-growth-exports-oil-drops.html"
+    },
+    {
+      "title": "AI摩擦升温",
+      "summary": "Reuters报道，中国批评美国潜在AI调查是“AI霸权主义”，并称将视情况采取反制。若相关中国模型企业被列入限制清单，芯片、云服务和出海业务都可能承压。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/china-accuses-us-ai-hegemonism-threatens-countermeasures-over-potential-probes-2026-07-27/"
+    }
+  ],
+  "tech": [
+    {
+      "title": "特斯拉密购AI",
+      "summary": "Automotive World称，特斯拉在季度文件中披露已完成约19.5亿美元AI硬件收购，但未公布标的名称。市场关注其AI芯片、算力和制造投入，也担心股权稀释与现金流压力。",
+      "source": "Automotive World",
+      "url": "https://www.automotiveworld.com/news/tesla-quietly-closes-mystery-ai-acquisition-still-no-details/"
+    },
+    {
+      "title": "中国回收助推器",
+      "summary": "Astronomy报道，长征十号B首飞后，一级助推器由海上网索装置回收，成为中国轨道级火箭复用的重要节点。若后续验证稳定，将压低发射成本并加速商业航天竞争。",
+      "source": "Astronomy",
+      "url": "https://www.astronomy.com/space-exploration/china-catches-its-first-reusable-booster/"
+    },
+    {
+      "title": "车企AI座舱",
+      "summary": "GlobeNewswire消息称，OMODA与JAECOO将在东南亚发布量产AI座舱，把车机从命令式交互推向个性化服务。智能座舱正成为中国品牌出海的新卖点之一。",
+      "source": "GlobeNewswire",
+      "url": "https://markets.businessinsider.com/news/stocks/from-super-hybrid-to-super-intelligence-dual-super-strategy-advances-as-omoda-jaecoo-mass-production-ai-cockpit-set-for-southeast-asia-debut-1036364857"
+    }
+  ],
+  "trending": [
+    {
+      "term": "Gap day",
+      "desc": "打工人给自己放一天短假，自嘲式续命。"
+    },
+    {
+      "term": "苦行僧式省钱",
+      "desc": "极限压缩消费，调侃省到生活失真。"
+    },
+    {
+      "term": "67",
+      "desc": "Gen Alpha口头禅，表示一般或填空。"
+    },
+    {
+      "term": "抽象力",
+      "desc": "用离谱幽默拆解压力，评论区常见。"
+    },
+    {
+      "term": "古德摸你",
+      "desc": "Good Morning谐音梗，早安场景玩梗。"
+    }
+  ],
+  "research": [
+    {
+      "title": "人类仍在进化",
+      "summary": "Neuroscience News援引AJHG研究称，研究者用不同年龄组等位基因频率轨迹观察现代人的自然选择痕迹，发现疾病易感、DNA修复与红细胞适应等方向仍受进化压力影响。",
+      "source": "Neuroscience News / AJHG",
+      "url": "https://neurosciencenews.com/ongoing-natural-selection-humans-genetics-31123/"
+    },
+    {
+      "title": "禽流感回流路径",
+      "summary": "News-Medical报道，Nature Communications研究基于长期野鸟监测，揭示H5Nx禽流感在中国反复出现与迁徙路线、病毒重配和全球飞行通道有关，有助于优化预警和防控。",
+      "source": "News-Medical / Nature Communications",
+      "url": "https://www.news-medical.net/news/20260726/Wild-bird-surveillance-reveals-how-H5Nx-flu-keeps-returning-to-China.aspx"
+    }
+  ],
+  "finance": [
+    {
+      "title": "美伊暂停提振",
+      "summary": "Reuters报道，美国与伊朗军事冲突暂缓后，油价大跌逾5%，美股和加拿大股指期货走高。市场短线风险偏好回升，但本周美联储决议和大型科技财报仍将决定方向。",
+      "source": "Reuters / Yahoo Finance",
+      "url": "https://hk.finance.yahoo.com/news/%E7%BE%8E%E4%BC%8A%E5%81%9C%E7%81%AB%E6%8F%90%E6%8C%AF%E5%B8%82%E5%A0%B4%E6%83%85%E7%B7%92-%E5%8A%A0%E6%8B%BF%E5%A4%A7tsx%E8%82%A1%E6%8C%87%E6%9C%9F%E8%B2%A8%E8%B5%B0%E9%AB%98-132809104.html"
+    },
+    {
+      "title": "美设备订单强",
+      "summary": "Reuters报道，美国6月核心资本品订单明显增长，出货也创阶段性强势，显示企业设备投资仍有韧性。数据会影响市场对二季度GDP和美联储政策节奏的判断。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/us-core-capital-goods-orders-increase-strongly-june-2026-07-27"
+    },
+    {
+      "title": "快钱扭曲市场",
+      "summary": "Reuters评论称，散户参与率和美国家庭股票配置升至高位，短线资金正放大黄金、防务股等资产的剧烈波动。基本面解释力下降时，交易拥挤可能成为新的系统风险。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/commentary/reuters-open-interest/global-markets-roicolumn-pix-graphics-2026-07-27"
+    }
+  ],
+  "sources_checked": [
+    "Tavily Search",
+    "Reuters",
+    "CCTV",
+    "CNBC",
+    "Automotive World",
+    "Astronomy",
+    "GlobeNewswire",
+    "Neuroscience News",
+    "AJHG",
+    "News-Medical",
+    "Nature Communications",
+    "Yahoo Finance",
+    "梗百科",
+    "Accio"
+  ]
+}
