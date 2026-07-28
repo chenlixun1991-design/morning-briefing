@@ -1,0 +1,143 @@
+{
+  "date": "2026-07-29",
+  "created_by": "Tomato 🍅",
+  "international": [
+    {
+      "title": "日本强震",
+      "summary": "日本熊本县附近发生强震，气象厅一度发布海啸提示，随后解除。地方政府报告建筑损毁、停电与伤员，首相要求震区居民未来数日警惕余震和山体滑坡。",
+      "source": "AP / NBC News",
+      "url": "https://spectrumlocalnews.com/me/maine/international/2026/07/28/japan-earthquake"
+    },
+    {
+      "title": "霍尔木兹方案",
+      "summary": "Reuters称，阿曼向伊朗提出霍尔木兹海峡联合区域管理机制，并配套自愿收费安排，目标是避免伊朗单独控制航道。该海峡牵动能源运输，方案若推进可缓和海湾风险溢价。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/oman-presented-regional-mechanism-hormuz-iran-source-says-2026-07-28"
+    },
+    {
+      "title": "美以伊朗分歧",
+      "summary": "新华援引外媒称，特朗普表示美国与以色列在伊朗问题上有分歧但立场接近，并给谈判再留窗口。内塔尼亚胡访美期间，伊朗战事、地区关系正常化和三方框架将是重点。",
+      "source": "新华社",
+      "url": "http://kr.news.cn/20260728/da6f04483d0e4d6589f03e3be6861aa9/c.html"
+    }
+  ],
+  "domestic": [
+    {
+      "title": "工业利润增长",
+      "summary": "国家统计局数据显示，上半年全国规上工业企业利润同比增长18.7%，较一季度加快。电子、集成电路、算力相关行业贡献突出，但汽车、部分原材料行业仍承压。",
+      "source": "国家统计局 / 新华网",
+      "url": "https://www.news.cn/fortune/20260727/ee28a4c587a7453ebbef3574a49e5c79/c.html"
+    },
+    {
+      "title": "景德镇入遗",
+      "summary": "第48届世界遗产委员会会议完成审议，景德镇手工制瓷相关遗产列入世界遗产名录，中国世界遗产总数增至61项。瓷都文化资产的保护、旅游和城市更新将迎来新窗口。",
+      "source": "新华社",
+      "url": "http://kr.news.cn/20260728/4ae2cf7412794b768499bf6121698aea/c.html"
+    },
+    {
+      "title": "高新资格清理",
+      "summary": "每日经济新闻统计称，今年以来超3500家企业被取消高新技术企业资格，涉及18家上市公司或下属公司。税率、补缴税费和信息披露义务，成为资本市场关注点。",
+      "source": "每日经济新闻 / 新浪财经",
+      "url": "https://finance.sina.com.cn/roll/2026-07-29/doc-inikksyf2984676.shtml"
+    }
+  ],
+  "tech": [
+    {
+      "title": "芯片股承压",
+      "summary": "券商中国报道，美韩存储芯片股接连下挫，美光、闪迪、SK海力士等重挫。投资者开始重新评估AI资本开支、数据中心回报和供应链估值，AI硬件交易进入压力测试期。",
+      "source": "券商中国 / 凤凰网",
+      "url": "https://finance.ifeng.com/c/8v8xDktf6Pt"
+    },
+    {
+      "title": "英伟达走私案",
+      "summary": "VOA中文称，台湾检方拘押一名英伟达员工，指其涉嫌协助将受美国管制芯片走私至中国大陆。英伟达回应称走私芯片不可行，案件凸显AI芯片出口管制的执法压力。",
+      "source": "VOA Chinese",
+      "url": "https://www.voachinese.com/a/taiwan-prosecutors-detained-a-nvidia-employee-20260728/8178985.html"
+    },
+    {
+      "title": "AI员工请愿",
+      "summary": "新浪财经隔夜要闻称，OpenAI与Anthropic员工传阅请愿书，拟呼吁华府放慢前沿AI发展步伐。大模型安全、监管节奏和产业竞争的拉扯，正从外部政策延伸到公司内部。",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-29/doc-inikmivx2746049.shtml?finpagefr=p_108"
+    }
+  ],
+  "trending": [
+    {
+      "term": "67",
+      "desc": "欧美迷因数字梗，喊six-seven配摊手。"
+    },
+    {
+      "term": "我的刀盾",
+      "desc": "What the dog doing空耳，疑惑吐槽通用。"
+    },
+    {
+      "term": "算钰珑没用",
+      "desc": "套“算长大吗”反转，用来玩角色谐音。"
+    },
+    {
+      "term": "原班人马",
+      "desc": "综艺粉催阵容回归，表达不想换人。"
+    },
+    {
+      "term": "抽卡到凌晨",
+      "desc": "形容反复生成AI内容，碰运气等好结果。"
+    }
+  ],
+  "research": [
+    {
+      "title": "AI蛋白组学",
+      "summary": "Nature Methods发表综述，梳理AI蛋白组学从蛋白识别走向虚拟细胞建模的路径。该方向可提升药物发现、疾病分型与精准医疗效率，但也依赖高质量数据和可解释验证。",
+      "source": "Nature Methods",
+      "url": "https://www.nature.com/articles/s41592-026-03085-y"
+    },
+    {
+      "title": "抗癌疫苗新路",
+      "summary": "Nature Communications研究提出PROTEXI树突细胞疫苗平台，尝试借用新冠感染和接种形成的抗病毒免疫记忆来增强抗肿瘤反应。当前仍属小鼠研究，需临床验证。",
+      "source": "Nature Communications / University Hospitals",
+      "url": "https://news.uhhospitals.org/news-releases/articles/2026/07/scientists-turn-covid-19-immune-memory-into-a-powerful-new-ally-against-cancer"
+    }
+  ],
+  "finance": [
+    {
+      "title": "美联储悬念",
+      "summary": "Yahoo Finance引述城堡证券观点称，本周美联储意外加息25个基点的概率被市场低估，利率掉期显示约四成机会。若鹰派转向兑现，股债和美元定价都可能重估。",
+      "source": "Aastocks / Yahoo Finance",
+      "url": "https://hk.finance.yahoo.com/news/%E5%9F%8E%E5%A0%A1%E8%AD%89%E5%88%B8%E6%96%99%E8%81%AF%E5%84%B2%E5%B1%80%E6%9C%AC%E5%91%A8%E5%87%BA%E4%B9%8E%E6%84%8F%E6%96%99%E5%8A%A0%E6%81%AF%E5%9B%9B%E5%88%86-%E5%8E%98-010413231.html"
+    },
+    {
+      "title": "美股分化",
+      "summary": "新浪财经称，美股收盘涨跌不一，道指收高逾500点，芯片股承压，苹果市值首次触及5万亿美元。财报季和AI硬件抛售并行，市场风格短线快速轮动。",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-29/doc-inikmivx2746049.shtml?finpagefr=p_108"
+    },
+    {
+      "title": "猪价反弹观察",
+      "summary": "新华网报道，7月以来猪价阶段性反弹，但涨价动能减弱，终端消费承接有限。能繁母猪去化接近调控红线，下半年价格或温和回升，但行业供给宽松仍压制弹性。",
+      "source": "中国经济网 / 新华网",
+      "url": "http://www.news.cn/food/20260728/5c9d3ed0d79747e8ac863c5c28ab975c/c.html"
+    }
+  ],
+  "sources_checked": [
+    "Tavily Search",
+    "Reuters",
+    "AP",
+    "NBC News",
+    "新华社",
+    "国家统计局",
+    "新华网",
+    "每日经济新闻",
+    "新浪财经",
+    "凤凰网",
+    "VOA Chinese",
+    "Nature Methods",
+    "Nature Communications",
+    "University Hospitals",
+    "Yahoo Finance",
+    "Aastocks",
+    "中国经济网",
+    "ScienceDaily",
+    "ELLE Taiwan",
+    "TikTok Discover",
+    "新浪新闻"
+  ]
+}
