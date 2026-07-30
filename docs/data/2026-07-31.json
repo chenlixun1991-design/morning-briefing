@@ -1,0 +1,136 @@
+{
+  "date": "2026-07-31",
+  "created_by": "Tomato 🍅",
+  "international": [
+    {
+      "title": "哈马斯或松口",
+      "summary": "以色列官员称，哈马斯在埃及斡旋下或接受全面解除武装框架，涉及交出武器、拆除地道和接受监督。分歧仍在撤军节奏与加沙未来治理。",
+      "source": "新唐人 / Ynet",
+      "url": "https://www.ntdtv.com/gb/2026/07/30/a104119865.html"
+    },
+    {
+      "title": "美再制裁伊朗",
+      "summary": "美国宣布新一轮对伊朗制裁，目标包括马汉航空多国代理网络和相关个人，名单涉及中国、印度、俄罗斯等地实体，意在切断革命卫队后勤资金链。",
+      "source": "RFI法广 / 禁闻网",
+      "url": "https://www.bannedbook.org/bnews/headline/20260731/2343946.html/amp"
+    },
+    {
+      "title": "美房贷利率高",
+      "summary": "房地美数据显示，美国30年期固定抵押贷款平均利率升至6.66%，为一年来最高。高利率叠加申请量下滑，继续压制美国住房市场复苏预期。",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/gj/2026/07-31/10669585.shtml"
+    }
+  ],
+  "domestic": [
+    {
+      "title": "五中全会将开",
+      "summary": "中共中央政治局召开会议，决定召开二十届五中全会，并研判当前经济形势。会议提出宏观政策发力提效、扩大内需和整治“内卷式”竞争。",
+      "source": "新华社 / 华尔街见闻",
+      "url": "https://wallstreetcn.com/articles/3778370"
+    },
+    {
+      "title": "中美经贸通话",
+      "summary": "何立峰与美国财政部长贝森特、贸易代表格里尔举行视频通话，就落实元首会晤共识、稳定经贸关系和妥善解决彼此关切进行建设性交流。",
+      "source": "新华社 / 华尔街见闻",
+      "url": "https://wallstreetcn.com/articles/3778370"
+    },
+    {
+      "title": "携程升级提示",
+      "summary": "1.5万元国际机票仅退432元事件后，携程称已补偿用户损失，并上线低可退金额强提醒。事件推动平台重新审视退票信息披露和用户知情权。",
+      "source": "北京日报客户端",
+      "url": "https://news.bjd.com.cn/2026/07/30/11893447.shtml"
+    }
+  ],
+  "tech": [
+    {
+      "title": "字节AI重组",
+      "summary": "字节跳动调整AI业务组织，整合豆包、飞书与火山引擎相关产品和商业化团队。此举意在打通办公、模型和云服务，强化企业AI入口竞争。",
+      "source": "每日经济新闻",
+      "url": "https://www.mrjjxw.com/articles/2026-07-30/4527430.html"
+    },
+    {
+      "title": "欧盟AI工厂",
+      "summary": "欧盟启动AI超级工厂招标，计划建设至多7座设施，并提供最高100亿欧元公共资金支持。项目已与英伟达、AMD、高通签署硬件供应意向。",
+      "source": "界面新闻 / 每日经济新闻",
+      "url": "https://www.mrjjxw.com/articles/2026-07-30/4527430.html"
+    },
+    {
+      "title": "ChatGPT限仿写",
+      "summary": "TechNews称，ChatGPT开始拒绝直接模仿在世作家的原汁原味风格，改为生成相近感觉文本。调整与版权诉讼压力有关，或影响内容创作边界。",
+      "source": "TechNews 科技新报",
+      "url": "https://technews.tw"
+    }
+  ],
+  "trending": [
+    {
+      "term": "抽象力",
+      "desc": "万物皆可梗，用离谱幽默消解压力。"
+    },
+    {
+      "term": "活人感",
+      "desc": "反悬浮、反精修，偏爱真实烟火气。"
+    },
+    {
+      "term": "叮叮叮",
+      "desc": "刘宇宁粤语接歌翻车，用拟声糊弄。"
+    },
+    {
+      "term": "班味",
+      "desc": "形容被上班榨干后的疲惫气质。"
+    },
+    {
+      "term": "预制XX",
+      "desc": "吐槽内容、社交或生活过度模板化。"
+    }
+  ],
+  "research": [
+    {
+      "title": "钻石量子发光",
+      "summary": "伊利诺伊大学团队发现一种新的钻石量子光发射体，可能帮助量子通信和传感克服稳定性、可制造性挑战。研究仍需进一步验证可规模化路径。",
+      "source": "Mirage News / UIUC",
+      "url": "https://www.miragenews.com/illinois-unveils-new-diamond-quantum-emitter-1719465"
+    },
+    {
+      "title": "衰老细胞新解",
+      "summary": "梅奥诊所系列研究更新对“僵尸细胞”的理解，这类细胞不再分裂却释放炎症分子。成果有望改进健康衰老研究，但临床干预仍需长期证据。",
+      "source": "Mirage News / Mayo Clinic",
+      "url": "https://www.miragenews.com/breakthrough-in-senescent-cells-and-healthy-1719334"
+    }
+  ],
+  "finance": [
+    {
+      "title": "美股AI反弹",
+      "summary": "美股三大指数集体收涨，纳指涨2.78%，微软大涨逾15%，费城半导体指数涨超8%。强财报修复AI信心，但高估值和资本开支仍是后续变量。",
+      "source": "每日经济新闻",
+      "url": "https://www.mrjjxw.com/articles/2026-07-30/4527430.html"
+    },
+    {
+      "title": "A股科技回调",
+      "summary": "A股科技硬件延续调整，创业板、科创板承压，光模块、半导体和PCB板块跌幅居前。市场担心持仓拥挤与AI投资回报验证，防御板块相对走强。",
+      "source": "新浪财经",
+      "url": "https://finance.sina.cn/2026-07-30/detail-inikqcsp5208688.d.html"
+    },
+    {
+      "title": "央行购金回升",
+      "summary": "世界黄金协会称，二季度全球央行及官方机构净增黄金储备289吨，同比增长62%。避险和储备多元化需求仍支撑金价，但金饰消费继续承压。",
+      "source": "世界黄金协会 / 每日经济新闻",
+      "url": "https://www.mrjjxw.com/articles/2026-07-30/4527430.html"
+    }
+  ],
+  "sources_checked": [
+    "Tavily Search",
+    "新华社",
+    "中国新闻网",
+    "北京日报客户端",
+    "华尔街见闻",
+    "每日经济新闻",
+    "新浪财经",
+    "TechNews 科技新报",
+    "RFI法广",
+    "新唐人",
+    "Mirage News",
+    "UIUC",
+    "Mayo Clinic",
+    "世界黄金协会"
+  ]
+}
