@@ -1,0 +1,138 @@
+{
+  "date": "2026-07-30",
+  "created_by": "Tomato 🍅",
+  "international": [
+    {
+      "title": "美军打击伊朗",
+      "summary": "美军中央司令部称，美东时间29日晚对伊朗发动打击，回应伊朗此前试图袭击中东美军基地。事件推高中东军事升级风险，油价和全球市场波动随之放大。",
+      "source": "中国新闻网 / 美军中央司令部",
+      "url": "https://www.chinanews.com.cn/gj/2026/07-30/10668976.shtml"
+    },
+    {
+      "title": "美沙空袭伊拉克",
+      "summary": "伊朗官员称，美国和沙特在伊拉克迪亚拉省联合空袭，造成4名伊朗革命卫队成员死亡。若消息继续发酵，伊朗及其地区盟友的反制可能扩大冲突半径。",
+      "source": "中国新闻网 / CNN",
+      "url": "https://www.chinanews.com.cn/gj/2026/07-30/10668945.shtml"
+    },
+    {
+      "title": "日本熊本强震",
+      "summary": "VOA今日焦点称，日本熊本发生7.1级强震，百年神社倒塌，搜救行动展开。灾情若进一步扩大，将考验日本地方救灾、建筑抗震和交通恢复能力。",
+      "source": "VOA Chinese",
+      "url": "https://www.voachinese.com/a/voatoday-20260729/8180516.html"
+    }
+  ],
+  "domestic": [
+    {
+      "title": "反网暴法征询",
+      "summary": "国家网信办会同有关部门起草《反网络暴力法（征求意见稿）》，29日起公开征求意见。草案压实平台治理责任，并强化司法保护与法律责任边界。",
+      "source": "新华社 / 天津日报",
+      "url": "https://epaper.tianjinwe.com/tjrb/html/2026-07/30/content_143082_3687438.htm"
+    },
+    {
+      "title": "C919高原首飞",
+      "summary": "C919高原型首架机29日在上海浦东机场完成首次飞行试验，预定科目顺利完成。该机型面向高原机场运行需求，标志国产大飞机系列化发展继续推进。",
+      "source": "新华社 / 天津日报",
+      "url": "https://epaper.tianjinwe.com/tjrb/html/2026-07/30/content_143082_3687434.htm"
+    },
+    {
+      "title": "气候规划发布",
+      "summary": "《国家应对气候变化“十五五”规划》发布，提出到2030年单位GDP二氧化碳排放较2025年降低17%。目标将牵引产业减排、碳市场和能源结构调整。",
+      "source": "新华社 / 天津日报",
+      "url": "https://epaper.tianjinwe.com/tjrb/html/2026-07/30/content_143082_3687433.htm"
+    }
+  ],
+  "tech": [
+    {
+      "title": "Azure破千亿",
+      "summary": "微软财报显示，Azure全年收入首次突破1000亿美元，第四财季云业务同比增长43%。AI需求已转化为云收入，但数据中心租赁和资本开支仍是市场关注点。",
+      "source": "每日经济新闻",
+      "url": "https://www.mrjjxw.com/articles/2026-07-30/4526188.html"
+    },
+    {
+      "title": "Meta加码AI",
+      "summary": "Meta二季度营收同比增长28%，但净利润下降14%，并把全年资本支出下限上调至1300亿美元。市场担心AI基建投入吞噬现金流，盘后股价承压。",
+      "source": "每日经济新闻",
+      "url": "https://www.mrjjxw.com/articles/2026-07-30/4526188.html"
+    },
+    {
+      "title": "高通宣布涨价",
+      "summary": "高通第三财季营收略高预期，但净利润同比下降25%，手机芯片业务下滑20%。公司称供应链成本上升，将自9月1日起上调产品价格以修复毛利率。",
+      "source": "新浪财经 / 财联社",
+      "url": "https://finance.sina.com.cn/roll/2026-07-30/doc-inikptav2061075.shtml"
+    }
+  ],
+  "trending": [
+    {
+      "term": "严肃学习",
+      "desc": "看到攻略或好图，装作认真研究收藏。"
+    },
+    {
+      "term": "哈兰葱",
+      "desc": "哈兰德撞脸蒜苗二创，球迷玩反差。"
+    },
+    {
+      "term": "包的包的",
+      "desc": "表示稳了、放心交给我，也常被反讽。"
+    },
+    {
+      "term": "受着呗",
+      "desc": "摆烂式接招，用来吐槽无奈处境。"
+    },
+    {
+      "term": "叠甲",
+      "desc": "发言前先补免责声明，防被误解攻击。"
+    }
+  ],
+  "research": [
+    {
+      "title": "基因编辑争议",
+      "summary": "Science调查披露，一名6岁女童接受脑靶向碱基编辑治疗后死亡，事件此前未公开。争议集中在安全信号、知情同意、伦理审查与论文披露责任。",
+      "source": "Science / BBC Chinese",
+      "url": "https://www.bbc.com/zhongwen/articles/cjrv7vp8p53o/simp"
+    },
+    {
+      "title": "抗癌编辑酶",
+      "summary": "Nature相关论文显示，研究团队利用Cas12a2识别癌细胞突变mRNA后切碎其DNA，在细胞和小鼠实验中可选择性破坏肿瘤。递送和完全清除仍待突破。",
+      "source": "Nature News / 环球科学",
+      "url": "https://news.qq.com/rain/a/20260728A05F6900"
+    }
+  ],
+  "finance": [
+    {
+      "title": "美股大幅下跌",
+      "summary": "美联储按兵不动叠加伊朗战事升温，美股三大指数收跌，道指跌2.19%、标普500跌1.52%、纳指跌1.74%。能源和利率预期成为市场主线。",
+      "source": "华尔街日报中文网",
+      "url": "https://cn.wsj.com/articles/%E7%BE%8E%E8%82%A1%E5%A4%A7%E5%B9%85%E4%B8%8B%E8%B7%8C-%E7%BE%8E%E8%81%AF%E6%BA%96%E6%9C%83%E6%8C%89%E5%85%B5%E4%B8%8D%E5%8B%95%E4%B8%94%E4%BC%8A%E6%9C%97%E6%88%B0%E4%BA%8B%E5%8D%87%E6%BA%AB-3256867c"
+    },
+    {
+      "title": "联储内部分歧",
+      "summary": "美联储维持3.50%至3.75%利率区间不变，但12名委员中3人主张加息25个基点。分歧显示通胀压力仍高，9月政策路径不确定性上升。",
+      "source": "中国新闻网 / CNN",
+      "url": "https://www.chinanews.com.cn/gj/2026/07-30/10668941.shtml"
+    },
+    {
+      "title": "香港出口大增",
+      "summary": "香港6月出口同比增长53.4%，创42年来最大增幅，进口也创34年来新高。AI电子产品需求和转口贸易支撑外贸，但关税与能源价格仍是后续风险。",
+      "source": "环球时报 / 新浪财经",
+      "url": "https://finance.sina.com.cn/roll/2026-07-30/doc-inikptar1219012.shtml"
+    }
+  ],
+  "sources_checked": [
+    "Tavily Search",
+    "中国新闻网",
+    "新华社",
+    "天津日报",
+    "VOA Chinese",
+    "华尔街日报中文网",
+    "每日经济新闻",
+    "新浪财经",
+    "财联社",
+    "BBC Chinese",
+    "Science",
+    "Nature News",
+    "环球科学",
+    "网路温度计 DailyView",
+    "腾讯新闻",
+    "澎湃新闻"
+  ]
+}
