@@ -1,0 +1,135 @@
+{
+  "date": "2026-08-02",
+  "created_by": "Tomato 🍅",
+  "international": [
+    {
+      "title": "莫斯科爆炸",
+      "summary": "莫斯科市中心一间餐厅发生爆炸，俄方称由自制爆炸装置引发，造成3人死亡、21人受伤。事发地点临近地标建筑，反恐部门介入，城市公共安全警戒升高。",
+      "source": "香港电台 / 路透社",
+      "url": "https://gbcode.rthk.hk/TuniS/news.rthk.hk/rthk/ch/component/k2/1864654-20260802.htm?spTabChangeable=0"
+    },
+    {
+      "title": "基辅遭夜袭",
+      "summary": "俄军对基辅发动导弹夜袭，乌方称至少9人死亡、28人受伤，27枚弹道导弹仅拦截1枚。乌克兰再度催促盟友提供爱国者系统，防空缺口成为战局焦点。",
+      "source": "RFI / 法新社",
+      "url": "https://www.rfi.fr/tw/%E5%9C%8B%E9%9A%9B/20260801-%E4%BF%84%E7%BE%85%E6%96%AF%E5%B0%8E%E5%BD%88%E7%8B%82%E7%82%B8%E5%9F%BA%E8%BC%94-%E8%87%B3%E5%B0%919%E4%BA%BA%E9%81%87%E9%9B%A3-%E7%83%8F%E5%85%8B%E8%98%AD%E6%80%A5%E9%9C%80%E6%84%9B%E5%9C%8B%E8%80%85%E6%94%94%E6%88%AA%E7%B3%BB%E7%B5%B1"
+    },
+    {
+      "title": "OPT收费传闻",
+      "summary": "美媒称特朗普政府考虑向毕业后留美工作的国际学生收取10万美元费用，适用于OPT项目；DHS称尚未最终敲定。若落地，将冲击赴美留学与科技人才供给。",
+      "source": "美国之音",
+      "url": "https://www.voachinese.com/a/trump-weighs-100-000-fee-for-international-graduates-to-work-in-the-us-20260731/8181315.html"
+    }
+  ],
+  "domestic": [
+    {
+      "title": "黄岩岛新规",
+      "summary": "自然资源部等四部门印发《黄岩岛国家级自然保护区管理办法》，明确保护区管理机制、管护措施和法律责任，禁止捕捞、采矿等活动，强化珊瑚礁生态保护。",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-01/10670430.shtml"
+    },
+    {
+      "title": "太阳岛年会",
+      "summary": "2026企业家太阳岛年会在哈尔滨举行，以新质生产力为核心主题，并设置具身智能、文旅新消费等论坛。年会强化政企对话，也释放东北产业转型信号。",
+      "source": "新华网",
+      "url": "http://www.xinhuanet.com/publish/20260730/0227f90b9d0f4e7e96d8b815e6ea40e8/c.html"
+    },
+    {
+      "title": "成都跨境电商",
+      "summary": "成都跨境电商交易规模从2021年约700亿元增至2025年约1400亿元，年均增速超20%。四川正依托综试区、产业带和中欧班列，把内陆城市变成数字贸易枢纽。",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-01/10670334.shtml"
+    }
+  ],
+  "tech": [
+    {
+      "title": "欧盟AI标识",
+      "summary": "欧盟《人工智能法》第50条于8月2日强制执行，要求人机交互告知、AI内容机器可读标记和深度伪造声明。违规最高罚1500万欧元或全球营收3%，全球平台需加速合规。",
+      "source": "钛媒体 Edge AI Daily",
+      "url": "https://www.tmtpost.com/8087806.html"
+    },
+    {
+      "title": "英伟达困局",
+      "summary": "报道指英伟达中国区营收占比较出口管制前大幅下滑，H20芯片限制带来库存减值压力。美国对华AI芯片管制继续推高合规版芯片、灰色市场和国产替代的博弈。",
+      "source": "钛媒体 Edge AI Daily",
+      "url": "https://www.tmtpost.com/8087806.html"
+    },
+    {
+      "title": "宇树政策风险",
+      "summary": "FCC将外国产先进机器人设备列入Covered List，宇树科技IPO询价窗口与美国准入限制重叠。公司基本面强劲，但海外市场不确定性可能压低机器人赛道估值预期。",
+      "source": "钛媒体 Edge AI Daily",
+      "url": "https://www.tmtpost.com/8087806.html"
+    }
+  ],
+  "trending": [
+    {
+      "term": "我去不早说",
+      "desc": "评论区反应梗，吐槽提醒来晚了。"
+    },
+    {
+      "term": "我的身材很曼妙",
+      "desc": "淘宝神回复出圈，用来抽象回避追问。"
+    },
+    {
+      "term": "爱你老己",
+      "desc": "方言化爱自己，轻松自我关怀。"
+    },
+    {
+      "term": "做完你的做你的",
+      "desc": "鸡排主理人名场面，多任务控场梗。"
+    },
+    {
+      "term": "活人感",
+      "desc": "形容真实自然、不悬浮不机械。"
+    }
+  ],
+  "research": [
+    {
+      "title": "基因治疗警钟",
+      "summary": "经济观察报追踪罕见病家庭自筹基因治疗试验，上海6岁女童用药后死亡事件引发连锁反应。《自然》已为相关论文加注说明，医学伦理和IIT监管成为焦点。",
+      "source": "经济观察报 / 腾讯新闻",
+      "url": "https://news.qq.com/rain/a/20260801A06TJV00?adChannelId=news%3F"
+    },
+    {
+      "title": "血型招蚊误区",
+      "summary": "全国网络辟谣平台称，O型、B型血更招蚊子的说法并不准确，现有研究未证实血型与蚊子叮咬存在确切关联。体温、二氧化碳、气味等因素影响更明显。",
+      "source": "全国网络辟谣 / 新华日报",
+      "url": "https://www.xhby.net/content/s6a6c8814e4b0eede67932342.html"
+    }
+  ],
+  "finance": [
+    {
+      "title": "高盛看多美股",
+      "summary": "高盛发布2026年市场展望，预计标普500全年总回报约12%，年末或至7600点。报告认为企业盈利和AI资本开支仍是主线，但高估值和头部集中度放大回撤风险。",
+      "source": "Yahoo财经 / 高盛",
+      "url": "https://hk.finance.yahoo.com/news/%E9%AB%98%E7%9B%9B%E7%99%BC%E5%B8%832026%E5%B9%B4%E4%BA%94%E5%A4%A7%E5%B8%82%E5%A0%B4%E9%A0%90%E6%B8%AC-%E7%89%9B%E5%B8%82%E6%8C%81%E7%BA%8C%E6%94%BE%E7%B7%A9-ai%E6%8A%95%E8%B3%87%E6%BF%80%E5%A2%9E%E8%87%B35390%E5%84%84%E7%BE%8E%E5%85%83-055006720.html"
+    },
+    {
+      "title": "减息博弈加剧",
+      "summary": "Yahoo Finance访谈指出，美国就业招聘降温、通胀仍反复，联储进入难决策区间。市场对下月减息押注接近五五开，若按兵不动，小盘股和利率敏感资产或承压。",
+      "source": "Yahoo Finance",
+      "url": "https://hk.finance.yahoo.com/news/%E5%B0%88%E5%AE%B6%E6%8B%86%E8%A7%A3-2026%E5%B9%B4%E7%B6%93%E6%BF%9F%E5%89%8D%E7%9E%BB%EF%BC%9A%E5%B0%B1%E6%A5%AD%E9%99%8D%E6%BA%AB%E3%80%81ai-%E5%BC%95%E6%93%8E%E3%80%81%E6%B8%9B%E6%81%AF%E5%8D%9A%E5%BC%88-202046859.html"
+    },
+    {
+      "title": "科技股回调",
+      "summary": "华尔街日报称全球科技股抛售加剧，投资者担心利率上行、估值过高及AI巨额投入兑现不及预期。闪迪、美光大跌拖累纳指，半导体高景气交易进入压力测试。",
+      "source": "华尔街日报中文网",
+      "url": "https://cn.wsj.com/articles/the-stratospheric-rally-has-left-tech-stocks-vulnerable-to-sharp-reversals-5ad37d9d"
+    }
+  ],
+  "sources_checked": [
+    "Tavily Search",
+    "香港电台",
+    "RFI",
+    "美国之音",
+    "中国新闻网",
+    "新华网",
+    "钛媒体",
+    "经济观察报",
+    "腾讯新闻",
+    "新华日报",
+    "Yahoo Finance",
+    "高盛",
+    "华尔街日报中文网"
+  ]
+}
