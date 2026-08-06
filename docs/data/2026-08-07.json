@@ -1,0 +1,138 @@
+{
+  "date": "2026-08-07",
+  "created_by": "Tomato 🍅",
+  "international": [
+    {
+      "title": "多晶硅关税",
+      "summary": "美国总统特朗普签署公告，依据232条款对进口多晶硅、硅片、太阳能电池和组件设最低进口价，并对部分衍生品加征15%关税。措施12月生效，将继续牵动全球光伏供应链和中美贸易摩擦。",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-07/10673312.shtml"
+    },
+    {
+      "title": "生育旅游禁令",
+      "summary": "特朗普再签两项行政令，收紧出生公民权适用范围并禁止赴美“生育旅游”。这是其重返白宫后第二次推动相关限制，预计仍将遭遇司法挑战，美国移民与宪法争议再度升温。",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-07/10673307.shtml"
+    },
+    {
+      "title": "霍海航线谈判",
+      "summary": "美国官员称，霍尔木兹海峡任何临时航线都不应设置审批、通行费或其他费用。伊朗与阿曼仍在讨论临时通航安排，美国强调海峡为国际水道，能源运输安全和地区博弈继续牵动市场。",
+      "source": "美国之音",
+      "url": "https://www.voachinese.com/a/us-official-temporary-hormuz-routes-will-require-no-approval-tolls-or-charges-20260806/8183532.html"
+    }
+  ],
+  "domestic": [
+    {
+      "title": "派拓安全审查",
+      "summary": "网络安全审查办公室对派拓公司在华销售产品启动网络安全审查，理由是保障关键信息基础设施安全稳定运行、防范网络安全风险。外资安全产品在中国市场的合规门槛和供应链风险管理更受关注。",
+      "source": "天津日报",
+      "url": "https://epaper.tianjinwe.com/tjrb/html/2026-08/07/content_143088_3716061.htm"
+    },
+    {
+      "title": "广博会定档",
+      "summary": "第34届广州博览会将于8月21日至23日举行，设置智能制造、银发经济、医疗健康、品质消费等板块，并推出智能机器人夜场展演与数字平台。广州希望借展会放大产业招商与消费带动效应。",
+      "source": "广州日报",
+      "url": "https://gzdaily.dayoo.com/pc/html/2026-08/07/content_866_913032.htm"
+    },
+    {
+      "title": "现代产业体系",
+      "summary": "人民日报文章聚焦建设现代化产业体系，强调制造业规模、实体经济根基和因地制宜发展新质生产力。地方产业分工、盐湖资源、机器人产业圈等案例被用来说明“十五五”开局年的产业升级方向。",
+      "source": "人民日报 / 齐鲁网",
+      "url": "https://news.iqilu.com/china/gedi/2026/0806/5934149.shtml"
+    }
+  ],
+  "tech": [
+    {
+      "title": "MiniMax入通",
+      "summary": "MiniMax自8月6日起被纳入港股通，并与无问芯穹宣布围绕推理效能、Token服务和AI基础设施深化合作。其新一代多模态生成模型H3已完成多家芯片和开发社区适配，国产模型生态继续扩圈。",
+      "source": "财新",
+      "url": "https://companies.caixin.com/m/2026-08-06/102471641.html"
+    },
+    {
+      "title": "Anthropic造芯",
+      "summary": "Anthropic确认组建内部半导体团队，为Claude设计定制AI芯片，以提升模型运行效率并降低对单一算力供应商依赖。公司称仍会采用AWS、谷歌、英伟达、AMD等多芯片策略。",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/stock/y/2026-08-06/doc-inimiqxp4713403.shtml"
+    },
+    {
+      "title": "宇树IPO路演",
+      "summary": "宇树科技首次公开发行定价150.80元/股，发行后总市值约610亿元，DeepSeek、腾讯等参与战略配售。公司8月7日举行网上路演，具身智能龙头估值与商业化能力成为资本市场焦点。",
+      "source": "每日经济新闻",
+      "url": "https://www.mrjjxw.com/articles/2026-08-07/4534641.html"
+    }
+  ],
+  "trending": [
+    {
+      "term": "刀马",
+      "desc": "手瓦联动《镖人》带火，魔性BGM和二创刷屏。"
+    },
+    {
+      "term": "爱你老己",
+      "desc": "把自己叫“老己”，表达照顾自己、奖励自己。"
+    },
+    {
+      "term": "僵尸肉",
+      "desc": "调侃冰箱长期囤货，也讽刺内容炒冷饭。"
+    },
+    {
+      "term": "健身猪妖",
+      "desc": "自嘲办卡很积极、训练摸鱼还奖励奶茶。"
+    },
+    {
+      "term": "不讲不讲",
+      "desc": "撒娇式结束争论，表示懒得继续解释。"
+    }
+  ],
+  "research": [
+    {
+      "title": "新冠唤醒病毒",
+      "summary": "Nature报道，研究发现新冠感染可能唤醒人体内潜伏的多种病毒，且住院期间使用免疫抑制药并非主要解释。结果提示，感染本身造成的免疫压力可能足以触发病毒再激活，长新冠机制研究有了新线索。",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-02443-2"
+    },
+    {
+      "title": "亚马孙昆虫库",
+      "summary": "Nature介绍一项亚马孙昆虫多样性项目：研究人员用分层陷阱采样，估计一小片森林可能容纳约4万种昆虫，其中许多或为科学新物种。该项目凸显热带生物多样性仍被严重低估。",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-02350-6"
+    }
+  ],
+  "finance": [
+    {
+      "title": "联储独立性",
+      "summary": "媒体披露特朗普多次与美联储主席沃什进行未公开通话，白宫未否认但称总统支持联储独立。当前FOMC对加息分歧扩大，市场紧盯非农和CPI，央行透明度与政策预期成为债市核心变量。",
+      "source": "Yahoo Finance 香港 / Investing.com",
+      "url": "https://hk.finance.yahoo.com/news/%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%9A%E6%AC%A1%E8%88%87%E8%81%AF%E5%84%B2%E5%B1%80%E4%B8%BB%E5%B8%AD%E6%B2%83%E4%BB%80%E9%80%B2%E8%A1%8C%E6%9C%AA%E5%85%AC%E9%96%8B%E9%80%9A%E8%A9%B1-144159257.html"
+    },
+    {
+      "title": "黄金破4300",
+      "summary": "现货黄金一度突破每盎司4300美元，受霍尔木兹海峡通航谈判进展、美元走弱和避险需求支撑。分析师提醒，能源市场仍紧张，若通胀重燃并推高利率，金价短线波动仍会放大。",
+      "source": "Yahoo Finance 香港 / Bloomberg",
+      "url": "https://hk.finance.yahoo.com/news/%E9%87%91%E5%83%B9-%E5%BA%A6%E7%AA%81%E7%A0%B44300%E7%BE%8E%E5%85%83%E9%97%9C%E5%8F%A3-%E5%8F%97%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E9%87%8D%E9%96%8B%E9%80%B2%E5%B1%95%E6%89%80%E6%8F%90%E6%8C%AF-023542410.html"
+    },
+    {
+      "title": "星展盈利新高",
+      "summary": "星展集团第二财季盈利同比增长9%至30.8亿新元，创历史新高；总收入升至60.9亿新元。财富管理资产规模首次突破5000亿新元，显示亚洲高净值与机构业务仍在支撑银行收入韧性。",
+      "source": "Yahoo Finance 香港 / 汇港通讯",
+      "url": "https://hk.finance.yahoo.com/news/%E6%98%9F%E5%B1%95%E9%9B%86%E5%9C%98%E7%AC%AC%E4%BA%8C%E8%B2%A1%E5%AD%A3%E7%9B%88%E5%88%A9%E6%8C%89%E5%B9%B4%E5%8D%879-%E8%87%B3%E5%89%B5%E7%B4%80%E9%8C%8430-8%E5%84%84%E5%9D%A1%E5%85%83-022629975.html"
+    }
+  ],
+  "sources_checked": [
+    "Tavily Search",
+    "中国新闻网",
+    "美国之音",
+    "天津日报",
+    "广州日报",
+    "人民日报",
+    "齐鲁网",
+    "财新",
+    "新浪财经",
+    "每日经济新闻",
+    "Nature",
+    "Yahoo Finance 香港",
+    "Investing.com",
+    "Bloomberg",
+    "中青看点",
+    "腾讯新闻"
+  ]
+}
