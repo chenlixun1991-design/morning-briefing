@@ -1,0 +1,133 @@
+{
+  "date": "2026-08-08",
+  "created_by": "Tomato 🍅",
+  "international": [
+    {
+      "title": "霍海框架",
+      "summary": "伊朗官员称，已与阿曼就霍尔木兹海峡航运谅解备忘录明确总体框架，最终文本将近期公布。该水道关系全球能源运输，若规则涉及通行限制或费用，仍可能牵动油价与地区安全预期。",
+      "source": "每日经济新闻 / 央视新闻",
+      "url": "https://www.mrjjxw.com/articles/2026-08-07/4535765.html"
+    },
+    {
+      "title": "出生权再收紧",
+      "summary": "特朗普签署新行政命令，试图重新限制美国出生公民权，并禁止所谓“生育旅游”。该议题触及宪法解释与移民政策边界，预计会遭遇司法挑战，也将继续撕裂美国国内政治讨论。",
+      "source": "VOA",
+      "url": "https://www.voachinese.com/a/8183936.html"
+    },
+    {
+      "title": "乌油企遭袭",
+      "summary": "乌克兰石油天然气公司称，其旗下乌克兰石油公司遭遇近几个月来最大规模袭击。能源基础设施再次成为俄乌冲突焦点，乌方能源供应、维修压力与欧洲市场风险溢价都可能随之上升。",
+      "source": "21财经 / 央视新闻",
+      "url": "https://m.21jingji.com/article/20260808/herald/23a776fbd10a489e6a198ee9c799e0b7.html"
+    }
+  ],
+  "domestic": [
+    {
+      "title": "外贸破30万亿",
+      "summary": "海关总署数据显示，今年前7个月我国货物贸易进出口总值30.13万亿元，同比增长17.3%，历史同期首次突破30万亿元。出口与进口同步增长，说明外需韧性和国内补链需求仍在支撑贸易盘面。",
+      "source": "21财经 / 海关总署",
+      "url": "https://m.21jingji.com/article/20260808/herald/23a776fbd10a489e6a198ee9c799e0b7.html"
+    },
+    {
+      "title": "北京楼市新政",
+      "summary": "北京发布房地产政策优化通知，非京籍家庭购买五环内商品住房的社保或个税缴纳年限由2年调减为1年。政策意在降低部分刚需和改善型购房门槛，稳定核心城市楼市成交预期。",
+      "source": "21财经",
+      "url": "https://m.21jingji.com/article/20260808/herald/23a776fbd10a489e6a198ee9c799e0b7.html"
+    },
+    {
+      "title": "东航退改新规",
+      "summary": "东航新版国内客票退改细则生效，8月6日后销售并旅行的国内客票，提前14天自愿退票或改签均免费。航司用更清晰的阶梯费率回应消费者痛点，可能带动行业退改规则继续优化。",
+      "source": "21财经",
+      "url": "https://m.21jingji.com/article/20260808/herald/23a776fbd10a489e6a198ee9c799e0b7.html"
+    }
+  ],
+  "tech": [
+    {
+      "title": "图灵量子IPO",
+      "summary": "上海光量子芯片与光量子计算服务商图灵量子在上海证监局办理上市辅导备案，启动A股IPO进程。公司已完成多轮融资并建设光子芯片中试线，量子计算商业化正在进入资本验证阶段。",
+      "source": "智东西",
+      "url": "https://zhidx.com/p/583088.html"
+    },
+    {
+      "title": "宇树牵手DeepSeek",
+      "summary": "宇树科技董事长王兴兴在科创板上市网上交流会上回应称，将与DeepSeek围绕通用人工智能、高性能通用机器人和AI大模型开展深度合作。具身智能正在从硬件竞赛转向模型与场景协同。",
+      "source": "21财经",
+      "url": "https://m.21jingji.com/article/20260808/herald/23a776fbd10a489e6a198ee9c799e0b7.html"
+    },
+    {
+      "title": "Cloudflare浏览器",
+      "summary": "Cloudflare推出Kitesurf云端浏览器，目标是帮助AI代理完成网页任务。随着智能体开始真正操作网页，浏览器、权限隔离和自动化审计会成为AI基础设施的新战场。",
+      "source": "Mezha",
+      "url": "https://mezha.net/ch/bukvy/9d2cf696_techcrunch_disrupt_2026"
+    }
+  ],
+  "trending": [
+    {
+      "term": "双厨狂喜",
+      "desc": "两个爱好撞车，粉丝兴奋刷屏。"
+    },
+    {
+      "term": "秋一杯",
+      "desc": "秋天第一杯奶茶，仪式感消费。"
+    },
+    {
+      "term": "灵根觉醒",
+      "desc": "修仙测试梗，形容天赋被点亮。"
+    },
+    {
+      "term": "天选之人",
+      "desc": "抽奖或上分成功，自称被命运选中。"
+    },
+    {
+      "term": "是真碳水",
+      "desc": "炭烧鱼汤谐音梗，吐槽离谱食物。"
+    }
+  ],
+  "research": [
+    {
+      "title": "猝死ECG标志",
+      "summary": "Nature论文显示，研究者用深度学习分析瑞典心电图与死亡证明数据，发现新的猝死风险波形标志。模型识别的高危群体多数未被传统LVEF指标覆盖，或能提升除颤器植入决策精度。",
+      "source": "智源社区 / Nature",
+      "url": "https://hub.baai.ac.cn/view/56883"
+    },
+    {
+      "title": "虚拟细胞跑通",
+      "summary": "Cell论文报道，研究团队在电脑中以4D方式模拟基因组最小细胞JCVI-syn3A，从生长、DNA复制到分裂约105分钟。模型与实验倍增时间接近，为全细胞动力学模拟提供了新基准。",
+      "source": "智源社区 / Cell",
+      "url": "https://hub.baai.ac.cn/view/56910"
+    }
+  ],
+  "finance": [
+    {
+      "title": "美股周涨",
+      "summary": "美股三大指数集体收涨，并创4月中旬以来最大单周涨幅，标普500再创收盘新高。就业数据偏弱降低市场对加息的担忧，科技和光通信板块表现强势，风险偏好阶段性修复。",
+      "source": "每日经济新闻",
+      "url": "https://www.mrjjxw.com/articles/2026-08-07/4535765.html"
+    },
+    {
+      "title": "贵金属大涨",
+      "summary": "COMEX黄金期货涨2.37%至4401.3美元/盎司，本周累计涨超7%；白银期货涨3.56%，本周涨超10%。避险需求、美元波动和能源地缘风险共同推高贵金属行情。",
+      "source": "21财经",
+      "url": "https://m.21jingji.com/article/20260808/herald/23a776fbd10a489e6a198ee9c799e0b7.html"
+    },
+    {
+      "title": "拿森港股上市",
+      "summary": "中国线控底盘企业拿森科技登陆港交所，发行价10.42港元，开盘价16.9港元，市值约100.6亿港元。智能驾驶关键零部件企业获资本市场定价，也反映汽车运动控制国产化升温。",
+      "source": "Yahoo Finance 香港 / 美通社",
+      "url": "https://hk.finance.yahoo.com/news/%E4%B8%AD%E5%9C%8B%E7%B7%9A%E6%8E%A7%E5%BA%95%E7%9B%A4%E9%A0%98%E5%B0%8E%E8%80%85%E6%8B%BF%E6%A3%AE%E7%A7%91%E6%8A%80%E6%88%90%E5%8A%9F%E7%99%BB%E9%99%B8%E9%A6%99%E6%B8%AF%E4%BA%A4%E6%98%93%E6%89%80-142000630.html"
+    }
+  ],
+  "sources_checked": [
+    "Tavily Search",
+    "每日经济新闻",
+    "21财经",
+    "VOA",
+    "智东西",
+    "Mezha",
+    "智源社区",
+    "Nature",
+    "Cell",
+    "Yahoo Finance 香港",
+    "美通社"
+  ]
+}
