@@ -1,0 +1,131 @@
+{
+  "date": "2026-08-11",
+  "created_by": "Tomato 🍅",
+  "international": [
+    {
+      "title": "加沙路线图遇阻",
+      "summary": "以色列总理内塔尼亚胡拒绝美国支持的15点加沙路线图，称哈马斯解除全部武装前以军不会撤离。计划原本被视为停火窗口，强硬表态使斡旋回到安全条件拉锯。",
+      "source": "美国之音",
+      "url": "https://www.voachinese.com/a/netanyahu-rejects-trump-s-15-point-gaza-plan-says-no-withdrawal-until-hamas-disarms-20260810/8184729.html"
+    },
+    {
+      "title": "俄袭哈尔科夫",
+      "summary": "乌克兰方面称，俄军对哈尔科夫州居民区发动大规模炮击，造成至少5人死亡，赫尔松也传出无人机袭击伤亡。俄乌远程打击持续升级，平民区与能源物流设施仍是高风险点。",
+      "source": "RFI",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260810-%E4%BF%84%E5%86%9B%E7%A9%BA%E8%A2%AD%E4%B9%8C%E5%85%8B%E5%85%B0%E5%93%88%E5%B0%94%E7%A7%91%E5%A4%AB%E5%9C%B0%E5%8C%BA%E9%80%A0%E6%88%905%E4%BA%BA%E6%AD%BB%E4%BA%A1"
+    },
+    {
+      "title": "霍海谈判卡关",
+      "summary": "伊朗称与阿曼就霍尔木兹海峡新航道接近协议，但要求美国先赔偿、解冻资产并解除制裁；特朗普则反向要求伊朗赔偿。能源航道不确定性延续，油价风险溢价仍难消散。",
+      "source": "民视新闻 / LINE TODAY",
+      "url": "https://today.line.me/tw/v3/article/PG5nqOM"
+    }
+  ],
+  "domestic": [
+    {
+      "title": "文博免预约扩围",
+      "summary": "国家文物局要求暑期博物馆实事求是开展预约管理，具备承载和分流条件的场馆原则上取消预约限制。多地试点刷证即入，缓解一票难求和黄牛倒票，公共文化服务更便利。",
+      "source": "新华网",
+      "url": "https://www.news.cn/20260810/b375b92796db489dbeb445472577de8e/c.html"
+    },
+    {
+      "title": "煤炭十五五发布",
+      "summary": "国家发改委、国家能源局印发煤炭工业发展十五五规划，提出到2030年基本建成现代煤炭产业体系，大型现代化煤矿产能占比提升至87%，智能化煤矿产能占比提升至75%。",
+      "source": "上海证券报",
+      "url": "https://paper.cnstock.com/html/2026-08/11/node_5.htm"
+    },
+    {
+      "title": "广州水务新规",
+      "summary": "广州市水务发展十五五规划公开征求意见，提出2030年全面建成水美羊城，并以韧性、品质、效能、活力、更新为路径。城市治水将更重防涝韧性与滨水公共空间体验。",
+      "source": "广州日报",
+      "url": "https://gzdaily.dayoo.com/pc/html/2026-08/11/node_867.htm"
+    }
+  ],
+  "tech": [
+    {
+      "title": "AI链获上调",
+      "summary": "多家券商近期密集上调A股科技公司评级，覆盖PCB、覆铜板、光通信、光芯片和端侧AI终端等环节。机构认为半年报验证和算力需求兑现，让AI交易从叙事转向业绩证据。",
+      "source": "上海证券报",
+      "url": "https://paper.cnstock.com/html/2026-08/11/content_2253975.htm"
+    },
+    {
+      "title": "阿里AIDC提速",
+      "summary": "阿里云称基于全模块化设计，大型AIDC数据中心交付工期缩短至100天，建设成本降低10%以上，并计划把全球模块化产能提升两倍以上。AI算力基础设施竞争进入工程效率赛段。",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/roll/2026-08-11/doc-inimwuht0829815.shtml"
+    },
+    {
+      "title": "微软Maia增产",
+      "summary": "市场消息称微软计划明年大幅提升自研AI芯片产量，并可能今年秋季公开Maia 300。云厂商希望以自研芯片争取Anthropic等大客户，缓解对外部GPU供应的依赖。",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/roll/2026-08-11/doc-inimwuht0829815.shtml"
+    }
+  ],
+  "trending": [
+    {
+      "term": "吴老狗变干尸",
+      "desc": "用影视角色反差吐槽周一上班被抽干。"
+    },
+    {
+      "term": "看海宗师形态",
+      "desc": "形容游戏或综艺里突然进入高光压迫感。"
+    },
+    {
+      "term": "秋天第一杯奶茶",
+      "desc": "立秋换季仪式感，借奶茶表达惦记。"
+    },
+    {
+      "term": "甜包暖光",
+      "desc": "和平精英角色装扮破圈，常夸软萌还原。"
+    }
+  ],
+  "research": [
+    {
+      "title": "甘蔗育种谜底",
+      "summary": "福建农林大学团队在《自然》发文，解析甘蔗母本多贡献染色体的第二次分裂恢复机制，改写传统遗传模型。发现有望推广到马铃薯、甘薯、蓝莓等多倍体作物育种。",
+      "source": "科学网 / Nature",
+      "url": "https://news.sciencenet.cn/htmlnews/2026/8/569536.shtm"
+    },
+    {
+      "title": "滑板车伤更重",
+      "summary": "《科学报告》研究英格兰和威尔士创伤登记数据发现，成年电动滑板车骑行者脑损伤、内脏损伤风险高于摩托车和自行车骑行者。作者建议强制头盔、限速并改进制动设计。",
+      "source": "科学网 / Scientific Reports",
+      "url": "https://news.sciencenet.cn/htmlnews/2026/8/569490.shtm"
+    }
+  ],
+  "finance": [
+    {
+      "title": "央行规划落地",
+      "summary": "中国人民银行印发十五五改革发展规划及9份行动方案，强调健全现代货币政策框架、宏观审慎管理和市场化利率传导。政策重心转向总量稳健与结构工具协同发力。",
+      "source": "新浪财经 / 东方财富",
+      "url": "https://finance.sina.com.cn/roll/2026-08-11/doc-inimwuht0829815.shtml"
+    },
+    {
+      "title": "宇树申购火热",
+      "summary": "宇树科技科创板发行价150.80元/股，回拨后网上最终中签率仅0.01809759%。人形机器人标的稀缺性带动打新热度，也会继续牵动机器人产业链估值和资金关注。",
+      "source": "新浪财经 / 东方财富",
+      "url": "https://finance.sina.com.cn/roll/2026-08-11/doc-inimwuht0829815.shtml"
+    },
+    {
+      "title": "美股回购支撑",
+      "summary": "高盛预计2026年美国股份回购规模将超过股票供应量，虽AI投资带动跟进发行升温，但1.4万亿美元回购足以抵消一级发行和解禁压力。供需格局仍对美股估值形成托底。",
+      "source": "Yahoo Finance / Goldman Sachs",
+      "url": "https://hk.finance.yahoo.com/news/%E9%AB%98%E7%9B%9B%E9%A0%90%E8%A8%882026%E5%B9%B4%E8%82%A1%E4%BB%BD%E8%B3%BC%E5%9B%9E%E8%A6%8F%E6%A8%A1%E5%B0%87%E8%B6%85%E8%B6%8A%E8%82%A1%E7%A5%A8%E4%BE%9B%E6%87%89%E9%87%8F-092202879.html"
+    }
+  ],
+  "sources_checked": [
+    "Tavily Search",
+    "美国之音",
+    "RFI",
+    "民视新闻",
+    "新华网",
+    "上海证券报",
+    "广州日报",
+    "新浪财经",
+    "科学网",
+    "Nature",
+    "Scientific Reports",
+    "Yahoo Finance",
+    "Goldman Sachs"
+  ]
+}
