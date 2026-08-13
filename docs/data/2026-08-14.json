@@ -1,0 +1,135 @@
+{
+  "date": "2026-08-14",
+  "created_by": "Tomato 🍅",
+  "international": [
+    {
+      "title": "无人机关税",
+      "summary": "特朗普签署公告，对特定进口无人机及零部件征收10%至100%从价关税，称为应对国家安全威胁。措施将在数周内生效，可能推高供应链成本，也会倒逼美国本土无人机制造和零部件替代。",
+      "source": "华尔街见闻",
+      "url": "https://wallstreetcn.com/articles/3779412"
+    },
+    {
+      "title": "霍尔木兹紧张",
+      "summary": "伊朗军方称未经许可船只无法安全通过霍尔木兹海峡，美军则组建多国无人机特遣部队并维持海上部署。能源通道安全再成市场焦点，油价、航运保险和中东误判风险同步升温。",
+      "source": "美国之音",
+      "url": "https://www.voachinese.com/a/8186084.html"
+    },
+    {
+      "title": "日本加息声",
+      "summary": "市场消息称日本政府支持日本央行更快加息，时间窗口或在9月或10月。日元因此短线拉升，背后是日元疲软推升进口通胀与汇率干预效果巩固的双重压力。",
+      "source": "华尔街见闻",
+      "url": "https://wallstreetcn.com/articles/3779412"
+    }
+  ],
+  "domestic": [
+    {
+      "title": "万亿逆回购",
+      "summary": "央行公告8月14日开展10000亿元6个月期买断式逆回购操作，以创新金融工具维护市场平稳。大额中长期流动性投放有助缓和资金面波动，也为债市和信贷投放提供更稳定预期。",
+      "source": "财闻",
+      "url": "https://www.caiwennews.com/article/1551519.shtml"
+    },
+    {
+      "title": "千万吨油管",
+      "summary": "金十数据称“十五五”首条千万吨级原油管道投产，能源基础设施继续向大运量、长周期保障能力升级。项目有助提高区域原油输送效率，也强化国内能源安全和供应链韧性。",
+      "source": "金十数据 / 富途牛牛",
+      "url": "https://news.futunn.com/post/77651281/jinshi-data-global-financial-breakfast-august-14-2026"
+    },
+    {
+      "title": "天津算力园",
+      "summary": "中国移动京津冀武清云智算科创产业园一期工程开工，规划IT设计功耗180兆瓦，可部署8100架高功率机柜。项目将承接北京AI产业算力需求外溢，增强京津冀智能算力供给。",
+      "source": "天津日报",
+      "url": "https://epaper.tianjinwe.com/tjrb/html/2026-08/14/content_143080_3737809.htm"
+    }
+  ],
+  "tech": [
+    {
+      "title": "长存进前三",
+      "summary": "Counterpoint数据显示，二季度NAND按出货量统计，长江存储以14%份额首次进入全球前三，仅次于三星和SK海力士。但按营收仍列第五，说明其消费级产品占比高、企业级高单价市场仍需突破。",
+      "source": "财闻",
+      "url": "https://www.caiwennews.com/article/1550223.shtml"
+    },
+    {
+      "title": "DeepSeek升级",
+      "summary": "DeepSeek官网API文档显示，模型版本切换至DeepSeek-V4-Pro-0813，新模型支持1M上下文和最高384K输出。大模型产品继续向长上下文、智能体任务和分层计费演进。",
+      "source": "财闻",
+      "url": "https://www.caiwennews.com/article/1550223.shtml"
+    },
+    {
+      "title": "荣耀机器手机",
+      "summary": "荣耀发布Robot Phone，售价9999元起，首发YOYO Pro模式，预订量据称超过40万台。机械结构与AI助手结合，显示手机厂商正在从影像、折叠屏转向具身化交互试探新形态。",
+      "source": "财闻",
+      "url": "https://www.caiwennews.com/article/1550223.shtml"
+    }
+  ],
+  "trending": [
+    {
+      "term": "邪修",
+      "desc": "从修仙梗来，指走捷径破局。"
+    },
+    {
+      "term": "外耗",
+      "desc": "反内耗，把压力甩出去自保。"
+    },
+    {
+      "term": "爱你老己",
+      "desc": "谐音自爱，用于调侃式鼓励。"
+    },
+    {
+      "term": "丝瓜汤文学",
+      "desc": "代际回避沟通梗，常吐槽父母。"
+    },
+    {
+      "term": "活人感",
+      "desc": "反精修滤镜，夸真实不端着。"
+    }
+  ],
+  "research": [
+    {
+      "title": "光算矩阵乘",
+      "summary": "Nature Photonics相关论文展示POMMM光学矩阵乘法，可用相干光在单次传播中完成矩阵运算，多波长扩展理论并行度达O(N⁴)。它为AI硬件提供新路径，但工程化仍受集成、能效和非线性激活限制。",
+      "source": "智源社区 / Nature Photonics",
+      "url": "https://hub.baai.ac.cn/view/57074"
+    },
+    {
+      "title": "怕痒共通性",
+      "summary": "《自然-人类行为》论文调查中国、荷兰和希腊448名年轻成年人，发现颈部、腋下、腹部和脚底等怕痒部位跨文化相似。研究认为怕痒不是普通触觉，而由感觉、生理和心理因素交织形成。",
+      "source": "中国新闻网 / Nature Human Behaviour",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-11/10675578.shtml"
+    }
+  ],
+  "finance": [
+    {
+      "title": "美债需求弱",
+      "summary": "美国30年期国债标售得标利率创2001年来新高，且出现需求略弱信号。长端美债承受供给扩大与融资成本上升双重压力，市场对财政可持续性和期限溢价的关注继续升温。",
+      "source": "华尔街见闻",
+      "url": "https://wallstreetcn.com/articles/3779412"
+    },
+    {
+      "title": "联储分歧",
+      "summary": "里士满联储巴尔金称美国经济韧性、AI投资和通胀粘性并存，拒绝预判9月利率方向；哈马克则坚持加息立场。市场对9月政策路径更分裂，零售销售和PCE数据将成关键变量。",
+      "source": "Yahoo Finance / Investing.com",
+      "url": "https://hk.finance.yahoo.com/news/%E5%B7%B4%E7%88%BE%E9%87%91%E7%A4%BA%E8%AD%A6%E9%80%9A%E8%86%A8%E9%BB%8F%E6%80%A7-pce%E9%81%943-7-%E4%BD%86%E6%8B%92%E7%B5%95%E9%80%8F%E9%9C%B29%E6%9C%88%E5%8D%87%E6%81%AF%E6%96%B9%E5%90%91-135725993.html"
+    },
+    {
+      "title": "港A震荡",
+      "summary": "A股高开低走，沪指跌0.5%、深成指跌0.87%，两市成交超2.5万亿元；港股恒指跌0.17%，科技股分化。AI算力、半导体冲高回落，显示资金仍活跃但追高意愿开始谨慎。",
+      "source": "金十数据 / 富途牛牛",
+      "url": "https://news.futunn.com/post/77651281/jinshi-data-global-financial-breakfast-august-14-2026"
+    }
+  ],
+  "sources_checked": [
+    "Tavily Search",
+    "华尔街见闻",
+    "美国之音",
+    "财闻",
+    "金十数据",
+    "富途牛牛",
+    "天津日报",
+    "智源社区",
+    "Nature Photonics",
+    "中国新闻网",
+    "Nature Human Behaviour",
+    "Yahoo Finance",
+    "Investing.com"
+  ]
+}
