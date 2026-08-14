@@ -1,0 +1,139 @@
+{
+  "date": "2026-08-15",
+  "created_by": "Tomato 🍅",
+  "international": [
+    {
+      "title": "无人机关税",
+      "summary": "特朗普签署公告，对特定进口无人机及零部件征收10%至100%关税，台湾、欧盟、日本、韩国在满足来源条件时适用15%。措施意在强化美国供应链，也会重排全球无人机代工和零部件采购。",
+      "source": "美国之音",
+      "url": "https://www.voachinese.com/a/trump-imposes-tariffs-on-foreign-drones-and-components-taiwan-in-lower-tier-20260814/8186457.html"
+    },
+    {
+      "title": "美整顿造船",
+      "summary": "特朗普同步签署海军造船业备忘录，要求改革航母、潜艇维修和造船体系，并借鉴“芬兰模式”吸引外资船厂投资美国。白宫将其定位为应对中国造船竞争的国家安全工程。",
+      "source": "美国之音",
+      "url": "https://www.voachinese.com/a/trump-signs-shipbuilding-memorandum-drone-tariff-proclamation-aimed-at-countering-china-20260814/8186469.html"
+    },
+    {
+      "title": "霍海升温",
+      "summary": "伊朗称未经许可船只无法安全通过霍尔木兹海峡，美军则推进多国无人机特遣队并安排“华盛顿”号航母赴中东换防。能源通道紧张延续，油价、航运保险与误判风险仍被市场盯紧。",
+      "source": "金十数据",
+      "url": "https://xnews.jin10.com/details/227338"
+    }
+  ],
+  "domestic": [
+    {
+      "title": "生态法典施行",
+      "summary": "8月15日第四个全国生态日，《中华人民共和国生态环境法典》正式施行。法典共5编1242条，整合污染防治、生态保护、绿色低碳等制度，标志中国生态环境法治进入系统化阶段。",
+      "source": "新华社 / 中国新闻网",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-14/10677650.shtml"
+    },
+    {
+      "title": "海洋司法案例",
+      "summary": "最高法在生态环境法典施行前发布六件海洋生态环境司法保护典型案例，覆盖船舶污染、陆源污染、保护区开发管控等场景。案例为海洋公益诉讼、替代修复和蓝碳赔付提供样本。",
+      "source": "央视新闻 / 中国新闻网",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-14/10677441.shtml"
+    },
+    {
+      "title": "斯诺克四强",
+      "summary": "2026斯诺克中国公开赛在太原产生四强，塞尔比横扫罗伯逊，宾汉姆淘汰张安达，中国选手周跃龙将对阵泰国黑马桑卡姆。名将频频出局，赛事悬念和本土关注度继续升高。",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-15/10678014.shtml"
+    }
+  ],
+  "tech": [
+    {
+      "title": "Cursor易主",
+      "summary": "财联社称SpaceX完成对AI编程公司Cursor的收购，交易估值约600亿美元。Cursor将接入更大GPU集群以训练编程模型，马斯克阵营也借此切入Vibe Coding和企业AI工具市场。",
+      "source": "财联社 / 新浪财经",
+      "url": "https://finance.sina.com.cn/stock/t/2026-08-15/doc-ininiqmc9055958.shtml"
+    },
+    {
+      "title": "DeepSeek涨价",
+      "summary": "DeepSeek将于8月17日起调整V4系列API价格，引入峰谷分时计费，部分缓存输入和输出价格涨幅显著。涨价显示低价抢量阶段开始变化，也会影响开发者对模型路由和成本的重新评估。",
+      "source": "SMM / Quartz",
+      "url": "https://news.metal.com/en/newscontent/104060352-smm-computing-power-flash-deepseek-v4-api-price-hike-pro-cached-input-up-more-than-10x"
+    },
+    {
+      "title": "AI算力争夺",
+      "summary": "美国AI数据中心建设遭遇耗电、耗水和噪音争议，特朗普指责北京煽动反AI浪潮；另有机构统计显示，美国大型AI数据中心数量仍明显领先。AI竞争正从模型能力扩展到能源和基础设施。",
+      "source": "新唐人电视台",
+      "url": "https://www.ntdtv.com/gb/mkt_ipad/2026/08/10/a104122782.html"
+    }
+  ],
+  "trending": [
+    {
+      "term": "邪修",
+      "desc": "修仙语境转义，指不走常规但高效破局。"
+    },
+    {
+      "term": "外耗",
+      "desc": "反内耗表达，把压力丢出去自保。"
+    },
+    {
+      "term": "爱你老己",
+      "desc": "“爱你老几”谐音梗，用来调侃式自爱。"
+    },
+    {
+      "term": "丝瓜汤文学",
+      "desc": "吐槽长辈借关心绕到控制的沟通套路。"
+    },
+    {
+      "term": "活人感",
+      "desc": "夸真实、有瑕疵、不像算法模板。"
+    }
+  ],
+  "research": [
+    {
+      "title": "医疗AI隐私",
+      "summary": "Nature论文显示，医疗诊断AI会面临患者层面的成员推断攻击，少数疾病、种族、保险或成像方案群体风险更高。研究提醒，仅看总体隐私指标会低估个体风险，医疗AI需更细粒度审计。",
+      "source": "Nature / 科学网",
+      "url": "https://news.sciencenet.cn/htmlnews/2026/8/569530.shtm"
+    },
+    {
+      "title": "AI造噬菌体",
+      "summary": "斯坦福与Arc Institute团队在Science发表研究，利用Evo模型设计完整噬菌体基因组，约300个合成候选中有16个可感染大肠杆菌。成果指向抗菌治疗新路径，也加重生物安全监管议题。",
+      "source": "Science / The Decoder",
+      "url": "https://the-decoder.com/stanford-and-arc-institute-scientists-used-ai-to-design-new-viruses-that-killed-bacteria-in-the-lab"
+    }
+  ],
+  "finance": [
+    {
+      "title": "美股AI分化",
+      "summary": "美股道指、标普和纳指小幅收涨，闪迪因长期增长目标大涨，应用材料财报虽优于预期但盘后下挫。AI链条仍是资金焦点，但投资人对高估值公司的业绩兑现要求明显提高。",
+      "source": "Yahoo Finance",
+      "url": "https://hk.finance.yahoo.com/news/%E7%BE%8E%E8%82%A1%E9%87%8D%E9%BB%9E%E6%96%B0%E8%81%9E%E6%91%98%E8%A6%812026%E5%B9%B48%E6%9C%8814%E6%97%A5-001023923.html"
+    },
+    {
+      "title": "港A震荡",
+      "summary": "A股高开低走，沪指跌0.5%、深成指跌0.87%，两市成交额超过2.5万亿元；港股恒指小跌、科指微涨。算力基建和半导体冲高回落，说明资金活跃但追高意愿趋谨慎。",
+      "source": "金十数据",
+      "url": "https://xnews.jin10.com/details/227338"
+    },
+    {
+      "title": "央行投流动性",
+      "summary": "央行8月14日开展10000亿元6个月期买断式逆回购操作，继续通过创新工具稳定中长期资金面。大额投放有助平滑税期和市场波动，也为债市、信贷和权益风险偏好提供支撑。",
+      "source": "金十数据 / Bloomberg",
+      "url": "https://hk.finance.yahoo.com/news/%E5%91%A8%E5%B8%82%E5%A0%B4%E5%9B%9E%E9%A1%A7-%E9%80%9A%E8%86%A8%E6%BA%AB%E5%92%8C%E5%89%8A%E5%BC%B1%E8%81%AF%E5%84%B2%E5%8A%A0%E6%81%AF%E9%A0%90%E6%9C%9F-%E7%BE%8E%E4%BC%8A%E8%AB%87%E5%88%A4%E5%83%B5%E5%B1%80-%E7%84%A1%E4%BA%BA%E6%A9%9F%E9%97%9C%E7%A8%85-052952193.html"
+    }
+  ],
+  "sources_checked": [
+    "Tavily Search",
+    "美国之音",
+    "新华社",
+    "中国新闻网",
+    "央视新闻",
+    "金十数据",
+    "Yahoo Finance",
+    "Bloomberg",
+    "财联社",
+    "新浪财经",
+    "SMM",
+    "Quartz",
+    "新唐人电视台",
+    "Nature",
+    "Science",
+    "科学网",
+    "The Decoder"
+  ]
+}
