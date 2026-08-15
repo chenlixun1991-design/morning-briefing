@@ -1,0 +1,138 @@
+{
+  "date": "2026-08-16",
+  "created_by": "Tomato 🍅",
+  "international": [
+    {
+      "title": "休达移民潮",
+      "summary": "路透称西班牙政府此前忽视休达边境工会预警，近期大量移民试图越境，引发马德里与拉巴特围绕边境管理、人道接收和劳动力政策的新争议，欧洲移民议题再升温。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/europe/spain-disregarded-ceuta-warnings-before-migrant-rush-say-border-workers-unions-2026-08-15"
+    },
+    {
+      "title": "津巴船难",
+      "summary": "津巴布韦警方称卡里巴湖翻船事故又寻获22具遗体，死亡人数升至68人。初步调查指船只超载并遭遇大风，事故暴露内陆水运安全监管与极端天气应急的薄弱环节。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/africa/zimbabwean-boat-accident-death-toll-rises-68-more-bodies-recovered-2026-08-15"
+    },
+    {
+      "title": "莱茵枯水",
+      "summary": "欧洲热浪持续，德国航运机构数据显示莱茵河水位再创新低，大量货运被迫转向公路和铁路。能源、化工与大宗商品运输成本承压，也凸显气候异常对欧洲供应链的扰动。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/environment/rhine-water-sinks-another-record-low-transport-shifts-land-2026-08-15"
+    }
+  ],
+  "domestic": [
+    {
+      "title": "防灾减灾",
+      "summary": "8月16日出版的《求是》将发表习近平重要文章《提高防灾减灾救灾能力》，强调推动灾害治理向事前预防转型。汛期与台风影响未散，基层韧性和基础设施补短板成为重点。",
+      "source": "人民日报 / 新华社",
+      "url": "http://paper.people.com.cn/rmrb/pc/attachement/202608/16/47f3fb0e-4b94-4636-a9d2-9d962fd9d960.pdf"
+    },
+    {
+      "title": "厄总统访华",
+      "summary": "厄瓜多尔总统诺沃亚8月16日清晨抵达北京，开启为期8天的国事访问。此访适逢中厄全面战略伙伴关系十周年，双方预计推动政治互信、经贸合作与拉美外交互动。",
+      "source": "央视网 / 新华社",
+      "url": "https://news.cctv.com/2026/08/16/ARTIsqyXNzAd2TInaP5tkf80260816.shtml"
+    },
+    {
+      "title": "生态法典",
+      "summary": "第四个全国生态日前后，生态环境法典正式施行，人民网刊文称中国生态保护进入法典化时代。法典整合污染防治、生态修复和绿色低碳规则，将影响执法、司法与企业合规。",
+      "source": "人民网 / 新华社",
+      "url": "http://politics.people.com.cn/n1/2026/0815/c461001-40780186.html"
+    }
+  ],
+  "tech": [
+    {
+      "title": "大众智驾",
+      "summary": "大众中国推出自研全场景驾驶辅助HS8，预计三季度起搭载三家合资企业7款新车，并规划2027年交付首批L3能力。合资车企正加速补齐中国市场智能驾驶短板。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/990/199.htm"
+    },
+    {
+      "title": "Atlas收缩",
+      "summary": "36氪称OpenAI在上线297天后回收Atlas浏览器，经验将并入ChatGPT、Codex和企业业务。AI浏览器独立形态受挫，行业重心转向面向智能体的入口和工作流。",
+      "source": "36氪",
+      "url": "https://m.36kr.com/p/3939044203019655"
+    },
+    {
+      "title": "澎湃OS4",
+      "summary": "小米宣布澎湃OS 4首批Beta开启招募，重点打磨基础体验并接入MiMo大模型升级超级小爱2.0。手机系统竞争继续从流畅度转向跨应用、跨设备的AI任务执行。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/989/039.htm"
+    }
+  ],
+  "trending": [
+    {
+      "term": "邪修",
+      "desc": "指不走常规但高效破局的野路子。"
+    },
+    {
+      "term": "活人感",
+      "desc": "夸内容真实、有瑕疵、不像模板。"
+    },
+    {
+      "term": "外耗",
+      "desc": "反内耗，把压力向外释放自保。"
+    },
+    {
+      "term": "爱你老己",
+      "desc": "谐音梗，用调侃方式表达自爱。"
+    },
+    {
+      "term": "整大活",
+      "desc": "形容搞出夸张、有讨论度的操作。"
+    }
+  ],
+  "research": [
+    {
+      "title": "影像AI预警",
+      "summary": "中国科学报报道，西电团队让MRI等医学影像转化为数字生物标志物，可提前评估关节、腰椎等健康风险。成果推动影像AI从辅助读片迈向长期健康监测。",
+      "source": "中国科学报 / 科学网",
+      "url": "https://news.sciencenet.cn/htmlnews/2026/8/569758.shtm"
+    },
+    {
+      "title": "AI基因剪刀",
+      "summary": "腾讯新闻梳理称，Science近期报道研究人员用AI设计自然界未发现的RNA引导核酸酶，可在细菌、植物和人类细胞中编辑DNA，显示蛋白设计正进入可用工具阶段。",
+      "source": "腾讯新闻 / Science",
+      "url": "https://news.qq.com/rain/a/20260813A0CV2800"
+    }
+  ],
+  "finance": [
+    {
+      "title": "美股看点",
+      "summary": "财联社称本周美股三大指数涨跌不一，道指周跌0.56%、标普500涨0.36%、纳指涨0.14%。下周市场将关注美联储会议纪要及阿里、百度等中概股财报。",
+      "source": "财联社 / 新浪财经",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-16/doc-ininmxry1396527.shtml"
+    },
+    {
+      "title": "短端调控",
+      "summary": "央行二季度货币政策报告后，隔夜逆回购操作频率提高，市场人士认为短端利率调控更精细。10年期国债收益率再破1.7%，债市多空博弈随税期和供给压力加大。",
+      "source": "财联社",
+      "url": "https://www.cls.cn/detail/2452958"
+    },
+    {
+      "title": "Token贷",
+      "summary": "财联社早报称，广州海珠发布词元经济专项金融产品“Token贷”，中行试单授信已达2800万元；同日油价下调、茅台半年净利小幅下滑，AI与消费资产分化更明显。",
+      "source": "财联社",
+      "url": "https://m.cls.cn/detail/2455045"
+    }
+  ],
+  "sources_checked": [
+    "Tavily Search",
+    "Reuters",
+    "新华社",
+    "人民日报",
+    "人民网",
+    "央视网",
+    "IT之家",
+    "36氪",
+    "科学网",
+    "中国科学报",
+    "腾讯新闻",
+    "Science",
+    "财联社",
+    "新浪财经",
+    "Accio",
+    "ZAKER"
+  ]
+}
