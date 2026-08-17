@@ -1,0 +1,138 @@
+{
+  "date": "2026-08-18",
+  "created_by": "Tomato 🍅",
+  "international": [
+    {
+      "title": "特朗普支持率低",
+      "summary": "路透社与益普索调查显示，特朗普支持率由35%跌至33%，创第二任期新低；64%受访者不认可其白宫表现，约八成美国人预计美伊战事会长期持续。",
+      "source": "中国新闻网 / 路透社",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-18/10679357.shtml"
+    },
+    {
+      "title": "美朝对话信号",
+      "summary": "特朗普称金正恩已回应其“对话”请求，但未透露内容；此前他要求大幅缩减美韩联合军演，被解读为向朝方释放缓和信号，半岛局势关注升温。",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-18/10679356.shtml"
+    },
+    {
+      "title": "美台海巡培训",
+      "summary": "美国海岸警卫队机动训练小组在台开展两周培训，内容涵盖小艇操作、风险管理与搜救；台湾海巡称将培育种子教官，北京方面批评其加剧地区紧张。",
+      "source": "美国之音",
+      "url": "https://www.voachinese.com/a/us-coast-guard-mobile-team-in-taiwan-for-two-week-training-on-maritime-law-enforcement-20260817/8187389.html"
+    }
+  ],
+  "domestic": [
+    {
+      "title": "新动能占半",
+      "summary": "国家统计局称前7个月新动能对规模以上工业增长贡献率达50.9%，较上半年提高3个百分点；装备制造和高技术制造增速加快，显示经济结构继续转向高端。",
+      "source": "国家统计局",
+      "url": "https://www.stats.gov.cn/sj/sjjd/202608/t20260817_1965064.html"
+    },
+    {
+      "title": "智利外长访华",
+      "summary": "外交部宣布，智利外长佩雷斯将于8月18日至22日对中国进行正式访问；中智经贸、绿色能源、农业和多边合作议题预计成为会谈重点。",
+      "source": "中国新闻网 / 外交部",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-17/10679061.shtml"
+    },
+    {
+      "title": "三江源护生态",
+      "summary": "青海发布12起生态环境典型案例，覆盖危废转移、非法采砂、超标排放等问题；生态环境法典施行后，行政执法、公益诉讼和环境审判协同治理将更受关注。",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-17/10679309.shtml"
+    }
+  ],
+  "tech": [
+    {
+      "title": "AI算力资产化",
+      "summary": "报道称黄仁勋与华尔街资管巨头推动将AI算力打造为独立资产类别；英伟达也调整OpenAI数据中心担保规模，显示AI基建融资从技术竞赛延伸到资本结构设计。",
+      "source": "金融界 / 央视财经",
+      "url": "https://stock.jrj.com.cn/2026/08/17081858133740.shtml"
+    },
+    {
+      "title": "端侧AI加速",
+      "summary": "芯原股份半年报披露，端侧AI和AI ASIC需求快速提升，NPU IP已在91家客户140余款芯片中采用；AI眼镜、AI玩具和车载场景推动定制芯片空间扩大。",
+      "source": "中财网 / 芯原股份公告",
+      "url": "https://www.cfi.net.cn/p20260817003518.html"
+    },
+    {
+      "title": "美拟AI选边",
+      "summary": "美国据报道准备要求伙伴国在美中AI和科技供应链倡议之间作出选择；若落地，半导体、关键矿产与AI治理合作会更明显阵营化，企业全球合规成本上升。",
+      "source": "美国之音 / 路透社",
+      "url": "https://www.voachinese.com/a/us-reportedly-preparing-to-press-allies-to-choose-between-washington-beijing-led-ai-coalitions-20260817/8187346.html"
+    }
+  ],
+  "trending": [
+    {
+      "term": "知识很痛入脑",
+      "desc": "踩坑受挫后才懂道理，用来自嘲成长代价。"
+    },
+    {
+      "term": "加密差评",
+      "desc": "五星好评里藏谐音暗号，给同胞避雷。"
+    },
+    {
+      "term": "竹知了",
+      "desc": "传统发声玩具被二创玩梗，借声音撞车出圈。"
+    },
+    {
+      "term": "Chinamaxxing",
+      "desc": "海外年轻人模仿中式生活方式的潮流标签。"
+    },
+    {
+      "term": "Newspaper eat",
+      "desc": "“报吃”的机翻梗，表示不好吃但外人看不懂。"
+    }
+  ],
+  "research": [
+    {
+      "title": "未来科学奖揭晓",
+      "summary": "2026未来科学大奖公布，张宏因多细胞生物自噬机制研究获生命科学奖，赵东元因介孔材料贡献获物质科学奖，袁新意因算术几何成果获数学与计算机科学奖。",
+      "source": "第一财经",
+      "url": "https://www.yicai.com/video/103317570.html"
+    },
+    {
+      "title": "JAMA更新AI规",
+      "summary": "JAMA更新AI投稿规范，要求披露工具名称、版本、公司、使用日期和用途；AI用于方法、文献搜索、翻译或文稿准备需标注，单纯拼写语法检查可不披露。",
+      "source": "Threads / JAMA Editorial",
+      "url": "https://www.threads.com/@vet.cytology.tw/post/Db9fYmhjRWZ/%E9%86%AB%E5%AD%B8%E6%9C%9F%E5%88%8Ajama-%E6%9B%B4%E6%96%B0-ai-%E6%8A%95%E7%A8%BF%E8%A6%8F%E7%AF%84%E7%8D%B8%E9%86%AB%E6%96%B0%E7%9F%A5-%E7%94%9F%E6%88%90%E5%BC%8Fai-%E5%AD%B8%E8%A1%93%E5%AF%AB%E4%BD%9C%E5%A6%82%E6%9E%9C%E4%BD%A0%E5%B9%B3%E5%B8%B8%E6%9C%83%E7%94%A8-chatgptclaude-%E6%88%96%E5%85%B6%E4%BB%96-ai-%E5%B9%AB%E5%BF%99%E6%89%BE%E6%96%87%E7%8D%BB%E6%94%B9%E8%8B%B1%E6%96%87%E7%B7%A8%E8%BC%AFpaperja"
+    }
+  ],
+  "finance": [
+    {
+      "title": "港科技指扩容",
+      "summary": "恒生科技指数拟由30只扩至50只，并提升AI、先进硬件和前沿科技权重；若方案生效，被动资金再平衡或达数百亿港元，港股科技代表性将重塑。",
+      "source": "Yahoo Finance / Investing.com",
+      "url": "https://hk.finance.yahoo.com/news/%E6%81%92%E7%A7%91%E6%8C%87%E5%8D%87%E8%B6%852-%E9%A0%98%E5%8D%87%E5%B8%82%E5%A0%B4-%E6%8C%87%E6%95%B8%E6%93%AC%E6%93%B4%E5%AE%B9%E8%87%B3-50-%E5%8F%AA-042654984.html"
+    },
+    {
+      "title": "标普预期上修",
+      "summary": "FactSet数据显示，华尔街对标普500未来12个月目标中位数暗示约17%上涨空间，主要来自企业盈利预期上修；但9月弱季节性和期中选举波动仍是风险。",
+      "source": "Yahoo Finance",
+      "url": "https://hk.finance.yahoo.com/news/%E8%8F%AF%E7%88%BE%E8%A1%97%E9%A0%90%E6%B8%AC%E6%A8%99%E6%99%AE500%E6%9C%AA%E4%BE%861%E5%B9%B4%E6%BC%B2%E5%B9%85%E9%81%9417-%E9%81%A0%E8%B6%85%E6%AD%B7%E5%8F%B2%E5%B9%B3%E5%9D%87-121005984.html"
+    },
+    {
+      "title": "跨境支付合作",
+      "summary": "Thunes与Fiserv宣布合作，为电商平台和商户提供覆盖140多个国家、90种货币的即时全球付款服务；跨境结算基础设施竞争继续向速度、透明度和合规延伸。",
+      "source": "Yahoo Finance / PR Newswire",
+      "url": "https://hk.finance.yahoo.com/news/thunes-%E5%B0%87%E6%94%AF%E6%8F%B4-fiserv-%E7%82%BA%E5%B9%B3%E5%8F%B0%E6%8F%90%E4%BE%9B%E5%8D%B3%E6%99%82%E5%85%A8%E7%90%83%E4%BB%98%E6%AC%BE%E6%9C%8D%E5%8B%99-180900081.html"
+    }
+  ],
+  "sources_checked": [
+    "Tavily Search",
+    "中国新闻网",
+    "国家统计局",
+    "外交部",
+    "美国之音",
+    "路透社",
+    "金融界",
+    "央视财经",
+    "中财网",
+    "芯原股份公告",
+    "第一财经",
+    "Threads",
+    "JAMA",
+    "Yahoo Finance",
+    "Investing.com",
+    "PR Newswire"
+  ]
+}
