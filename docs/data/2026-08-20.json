@@ -1,0 +1,138 @@
+{
+  "date": "2026-08-20",
+  "created_by": "Tomato 🍅",
+  "international": [
+    {
+      "title": "苏丹战洪叠加",
+      "summary": "联合国机构称，苏丹冲突升级与季节性洪灾叠加，科尔多凡、达尔富尔等地新增大批流离失所者；红海与霍尔木兹运输延误也拖慢援助进入，庇护和卫生物资缺口扩大。",
+      "source": "联合国新闻",
+      "url": "https://news.un.org/zh/story/2026/08/1142659"
+    },
+    {
+      "title": "美提名FDA局长",
+      "summary": "特朗普提名白宫公共卫生事务助理海蒂·奥弗顿出任美国FDA局长，后续需参议院表决。民主党批评其立场过于保守，FDA在药品、电子烟与堕胎药监管上的争议或延续。",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-20/10680721.shtml"
+    },
+    {
+      "title": "美制裁ICC院长",
+      "summary": "美国宣布制裁国际刑事法院院长赤根智子等人，称其参与调查未接受ICC管辖国家官员；ICC回应称制裁是对独立司法的攻击，将继续按《罗马规约》履职。",
+      "source": "美国之音",
+      "url": "https://www.voachinese.com/a/us-sanctions-international-criminal-court-president-court-vows-to-continue-its-work-20260819/8188115.html"
+    }
+  ],
+  "domestic": [
+    {
+      "title": "火箭陆地回收",
+      "summary": "朱雀三号遥二运载火箭在东风商业航天创新试验区发射升空，一子级按预定程序完成陆地回收。这是我国首次成功实施着陆腿方式陆地可控回收，重复使用火箭取得关键突破。",
+      "source": "新华社",
+      "url": "https://www.news.cn/politics/20260819/83d30fd3fdbd4533bb28960da6bfae60/c.html"
+    },
+    {
+      "title": "嫦娥七号转运",
+      "summary": "嫦娥七号探测器与长征五号遥十四运载火箭组合体已在文昌完成垂直转运，发射场设备状态良好，后续将开展功能检查、联合测试和推进剂加注，计划近日择机发射。",
+      "source": "川观新闻 / 新华社",
+      "url": "https://cbgc.scol.com.cn/news/7863282"
+    },
+    {
+      "title": "欧盟调查被反制",
+      "summary": "司法部公告认定，欧盟利用《外国补贴条例》在对京东调查中采取的相关跨境调查做法，构成不当域外管辖措施。公告要求任何组织、个人不得执行或协助执行相关措施。",
+      "source": "每日经济新闻 / 央视新闻",
+      "url": "https://www.mrjjxw.com/articles/2026-08-20/4547272.html"
+    }
+  ],
+  "tech": [
+    {
+      "title": "宇树登陆科创",
+      "summary": "宇树科技登陆科创板，IPO发行价150.80元，募集资金将投向研发、产能扩张和市场推广。公司上半年营收同比增长48.54%，具身智能商业化预期进入资本市场检验期。",
+      "source": "AIbase",
+      "url": "https://www.aibase.com/zh/news/30451"
+    },
+    {
+      "title": "百度AI过半",
+      "summary": "百度二季度披露，AI业务收入占一般性业务收入的50%，连续两个季度过半；AI云基础设施收入同比增长50%，GPU云收入同比增长283%，搜索广告之外的增长支柱更清晰。",
+      "source": "新浪科技",
+      "url": "https://finance.sina.cn/stock/jdts/2026-08-19/detail-ininuzmc9593210.d.html"
+    },
+    {
+      "title": "英伟达建算力",
+      "summary": "英伟达计划支持美国俄亥俄州大型AI数据中心建设，OpenAI将成为主要租户。芯片供应商从卖硬件延伸到基础设施融资与建设，AI算力竞争转向土地、电力和资本协同。",
+      "source": "新浪科技 / 纽约时报",
+      "url": "https://finance.sina.cn/stock/jdts/2026-08-19/detail-ininuzmc9593210.d.html"
+    }
+  ],
+  "trending": [
+    {
+      "term": "牛来",
+      "desc": "抽象短片刷屏，网友用来指离谱但上头。"
+    },
+    {
+      "term": "mj狗",
+      "desc": "抖音蜘蛛侠彩蛋二创，成抽象同好暗号。"
+    },
+    {
+      "term": "中国人能飞",
+      "desc": "海外说唱片段被填词，夸张赞叹离谱强。"
+    },
+    {
+      "term": "完全电竞男主",
+      "desc": "朱志鑫赛事造型出圈，形容颜值操作双在线。"
+    },
+    {
+      "term": "草台班子",
+      "desc": "高管自嘲App崩溃，泛指组织看着不靠谱。"
+    }
+  ],
+  "research": [
+    {
+      "title": "mRNA癌苗进展",
+      "summary": "Moderna与默沙东称，个体化mRNA黑色素瘤疫苗联合Keytruda在III期试验中达到无复发生存和无远处转移生存终点；完整数据待披露，监管申报仍需推进。",
+      "source": "新浪科技 / IT之家",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-08-19/doc-ininwpna8196155.shtml"
+    },
+    {
+      "title": "光子芯片可编程",
+      "summary": "首尔大学等团队提出可编程光子集成电路架构，可动态控制光脉冲延迟、带宽和频率响应。研究仍处建模与仿真阶段，但有望服务高速通信和光子AI处理器。",
+      "source": "cnBeta / Advanced Science",
+      "url": "https://www.cnbeta.com.tw/articles/science/1574002.htm"
+    }
+  ],
+  "finance": [
+    {
+      "title": "美债突破40万亿",
+      "summary": "美国财政部数据显示联邦政府债务总额突破40万亿美元；同日美股小幅收涨、黄金白银大涨，长端美债与美元波动加剧，市场继续消化财政供给和通胀压力。",
+      "source": "每日经济新闻",
+      "url": "https://www.mrjjxw.com/articles/2026-08-20/4547272.html"
+    },
+    {
+      "title": "财政部回购长债",
+      "summary": "美国财政部将10年至30年期国债回购规模上限至少翻倍至每次40亿美元，德银称其效果近似“扭曲操作”。消息推动美元走弱，也引发对收益率曲线管理的讨论。",
+      "source": "Yahoo Finance / Investing.com",
+      "url": "https://hk.finance.yahoo.com/news/%E5%BE%B7%E6%84%8F%E5%BF%97%E9%8A%80%E8%A1%8C-%E7%BE%8E%E5%9C%8B%E8%B2%A1%E6%94%BF%E9%83%A8%E5%8A%A0%E5%80%8D%E5%9B%9E%E8%B3%BC%E9%95%B7%E5%82%B5-%E9%A1%9E%E4%BC%BC-%E6%89%AD%E6%9B%B2%E6%93%8D%E4%BD%9C-152658980.html"
+    },
+    {
+      "title": "芯片股拖累亚洲",
+      "summary": "亚洲股市周三普遍下跌，韩国KOSPI一度重挫并触发程序交易暂停，SK海力士、三星等芯片股领跌。高估值AI交易遇到美债收益率和变现证据不足的双重压力。",
+      "source": "Yahoo Finance / Investing.com",
+      "url": "https://hk.finance.yahoo.com/news/%E4%BA%9E%E6%B4%B2%E8%82%A1%E5%B8%82%E5%A4%A7%E8%B7%8C-%E8%8A%AF%E7%89%87%E8%82%A1%E6%8B%8B%E5%94%AE%E5%8A%A0%E5%8A%87-%E9%9F%93%E5%9C%8B%E7%B6%9C%E5%90%88%E6%8C%87%E6%95%B8%E6%9A%B4%E8%B7%8C5-050411898.html"
+    }
+  ],
+  "sources_checked": [
+    "Tavily Search",
+    "联合国新闻",
+    "中国新闻网",
+    "美国之音",
+    "新华社",
+    "央视新闻",
+    "每日经济新闻",
+    "川观新闻",
+    "AIbase",
+    "新浪科技",
+    "纽约时报",
+    "IT之家",
+    "cnBeta",
+    "Advanced Science",
+    "Yahoo Finance",
+    "Investing.com"
+  ]
+}
