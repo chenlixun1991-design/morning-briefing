@@ -1,0 +1,140 @@
+{
+  "date": "2026-08-22",
+  "created_by": "Tomato 🍅",
+  "international": [
+    {
+      "title": "美伊经济战",
+      "summary": "伊朗外长称美国对伊经济施压“注定失败”，特朗普则表示转向经济战不代表军事选项受限。新一轮制裁预期让海湾能源、航运和地区阵营选择再度承压。",
+      "source": "中国新闻网 / 央视新闻",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-22/10682143.shtml"
+    },
+    {
+      "title": "乌商场遭袭",
+      "summary": "乌方称克里维里赫一座购物中心遭俄罗斯多架无人机打击，已造成15人死亡、130人受伤，泽连斯基谴责袭击。俄方暂未回应，平民目标风险继续抬升。",
+      "source": "澎湃新闻",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33828593"
+    },
+    {
+      "title": "土促红通内塔",
+      "summary": "土耳其司法部长称，已寻求国际刑警组织对以色列总理内塔尼亚胡等人发布红色通缉令，理由是以方武装干预援加沙船队。以土关系和加沙外交战继续升级。",
+      "source": "新华社 / 凤凰网",
+      "url": "https://news.ifeng.com/c/8vmO4NLESw2"
+    }
+  ],
+  "domestic": [
+    {
+      "title": "国常会稳网清欠",
+      "summary": "国务院常务会议听取新一代通信网建设汇报，并部署清理拖欠企业账款。会议要求推进基础、空间、国际、融合网络建设，同时整治大企业拖欠中小企业账款。",
+      "source": "中国新闻网 / 新华社",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-21/10681981.shtml"
+    },
+    {
+      "title": "19号台风生成",
+      "summary": "北部湾热带低压加强为今年第19号台风，中央气象台发布台风蓝色预警。广西、海南、广东沿海将有持续风雨，局地特大暴雨，航运和滨海作业需防范。",
+      "source": "新华社 / 新快报",
+      "url": "https://www.xkb.com.cn/articleDetail/518431"
+    },
+    {
+      "title": "恒大清算受理",
+      "summary": "广州中院裁定受理恒大地产集团破产清算申请，申请人为广州农商行华夏支行。境内核心平台进入统一清算程序，债权申报、资产追收和保交楼处置将受关注。",
+      "source": "新浪财经 / 广州中院",
+      "url": "https://finance.sina.com.cn/roll/2026-08-21/doc-ininzyer6468249.shtml"
+    }
+  ],
+  "tech": [
+    {
+      "title": "AI供电突破",
+      "summary": "浪潮信息称已开发面向AI超节点整机柜800V供电的瞬稳CBU，通过超级电容储能实现毫秒级功率补偿。高密度算力部署对供电、散热和机柜级工程提出更高要求。",
+      "source": "财闻",
+      "url": "https://www.caiwennews.com/article/1562027.shtml"
+    },
+    {
+      "title": "英伟达押Poolside",
+      "summary": "消息称英伟达将支付60亿美元获得Poolside AI模型授权，并向百余名员工发出聘用邀请，另以120亿美元投前估值投资10亿美元。AI模型与人才争夺继续资本化。",
+      "source": "新浪财经 / Bloomberg",
+      "url": "https://finance.sina.com.cn/world/2026-08-22/doc-inipcnhc7844714.shtml"
+    },
+    {
+      "title": "苹果收缩团队",
+      "summary": "Bloomberg称苹果在Siri、Vision Pro沉浸视频和游戏团队裁员，并把资源转向新设备与AI。Vision Pro商业化压力和AI追赶节奏，正促使苹果重排硬件软件投入。",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-21/apple-cuts-jobs-in-siri-vision-pro-immersive-video-and-gaming-teams"
+    }
+  ],
+  "trending": [
+    {
+      "term": "互联网新四大名著",
+      "desc": "老剧名场面翻红，刷到就停下考古玩梗。"
+    },
+    {
+      "term": "下雨接我",
+      "desc": "《我的前半生》台词复兴，用来玩接人暗号。"
+    },
+    {
+      "term": "这和亲生的有什么区别",
+      "desc": "养宠物像带娃，表达情感陪伴和低成本亲情。"
+    },
+    {
+      "term": "中国人能飞",
+      "desc": "说唱片段二创出圈，常配夸张动作剪辑。"
+    },
+    {
+      "term": "动态扭腰",
+      "desc": "土味神曲翻拍复兴，短视频里整活跳舞用。"
+    }
+  ],
+  "research": [
+    {
+      "title": "最细金属线",
+      "summary": "北京高压科学研究中心联合南开、北大等团队，首次将单原子直径金属线合成长度推进到微米级，成果发表于《科学》。该材料有望服务纳米电路和柔性电子。",
+      "source": "新华社 / 天津日报",
+      "url": "https://epaper.tianjinwe.com/tjrb/html/2026-08/22/content_143082_3763365.htm"
+    },
+    {
+      "title": "猴脑抗衰图谱",
+      "summary": "中外科研团队解析食蟹猴8个脑区近295万个脑细胞，绘制全生命周期多模态脑图谱，并在超高龄个体中发现长寿相关调控元件，为脑衰老干预提供潜在靶点。",
+      "source": "科学网 / 中国科学报",
+      "url": "https://news.sciencenet.cn/htmlnews/2026/8/570103.shtm"
+    }
+  ],
+  "finance": [
+    {
+      "title": "A股缩量分化",
+      "summary": "A股三大指数收盘分化，沪指微涨0.04%，创业板指涨1.43%，两市成交额跌破2万亿元。黄金、算力硬件、锂矿活跃，超2800只个股下跌，结构行情延续。",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/tob/2026-08-21/doc-inipaenp6482829.shtml"
+    },
+    {
+      "title": "20号胶跨境交割",
+      "summary": "上海国际能源交易中心20号胶期货首次跨境交割完成，首批600吨境外标准仓单从泰国交割库进入流程。中国期货市场跨境交割机制首次跑通全链条。",
+      "source": "新浪财经 / 上期能源",
+      "url": "https://finance.sina.com.cn/money/future/fmnews/2026-08-21/doc-inipaenp6392018.shtml"
+    },
+    {
+      "title": "美股油价反弹",
+      "summary": "隔夜美股三大指数集体收涨，道指涨0.98%，纳指和标普500均涨0.43%；国际油价小幅上行，布伦特10月合约收于每桶94.39美元，地缘与通胀预期仍牵动市场。",
+      "source": "每日经济新闻",
+      "url": "https://www.mrjjxw.com/articles/2026-08-21/4550916.html"
+    }
+  ],
+  "sources_checked": [
+    "Tavily Search",
+    "中国新闻网",
+    "央视新闻",
+    "新华社",
+    "澎湃新闻",
+    "凤凰网",
+    "新快报",
+    "广州中院",
+    "财闻",
+    "新浪财经",
+    "Bloomberg",
+    "TechCrunch",
+    "科学网",
+    "中国科学报",
+    "天津日报",
+    "每日经济新闻",
+    "抖音搜索",
+    "新华网"
+  ]
+}
