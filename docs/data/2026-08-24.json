@@ -1,0 +1,143 @@
+{
+  "date": "2026-08-24",
+  "created_by": "Tomato 🍅",
+  "international": [
+    {
+      "title": "红海航运承压",
+      "summary": "胡塞武装袭击沙特红海沿岸油气设施后，曼德海峡船流放缓，部分商船改走非洲南端更长航线。能源运输成本和中东海上安全风险继续上升。",
+      "source": "SOF News / The Hill",
+      "url": "https://sof.news/update/20260824"
+    },
+    {
+      "title": "伊朗发现气田",
+      "summary": "伊朗石油部长称，南部法尔斯省一处气田发现超过7.5万亿立方英尺天然气。若储量确认并顺利开发，将增强伊朗能源筹码，也可能加剧制裁博弈。",
+      "source": "The Standard / Reuters",
+      "url": "https://www.thestandard.com.hk/news/article/340735/Morning-Recap-August-24-2026"
+    },
+    {
+      "title": "日本余震持续",
+      "summary": "日本熊本县天草、芦北地区24日凌晨发生3.9级地震，未触发海啸。当地7月底强震后仍有2794人避难，房屋修复和灾后安置压力仍未解除。",
+      "source": "中国新闻网 / NHK",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-24/10682881.shtml"
+    }
+  ],
+  "domestic": [
+    {
+      "title": "通信网再部署",
+      "summary": "国常会提出顺应新一轮科技革命和产业变革，牢牢把握新一代通信网建设机遇，巩固提升我国信息通信业竞争优势。算力、网络和终端产业链有望受益。",
+      "source": "金十数据 / 富途新闻",
+      "url": "https://news.futunn.com/post/78097142/jinshi-data-global-financial-morning-brief-august-24-2026"
+    },
+    {
+      "title": "促消费见效",
+      "summary": "财政部披露，今年以来已下达消费品以旧换新资金1875亿元，带动相关商品销售约1.32万亿元、惠及1.78亿人次。政策继续托底家电、汽车等消费链条。",
+      "source": "金十数据 / 财政部",
+      "url": "https://news.futunn.com/post/78097142/jinshi-data-global-financial-morning-brief-august-24-2026"
+    },
+    {
+      "title": "嫦娥七号延后",
+      "summary": "中国载人航天工程办公室称，经综合研判，嫦娥七号任务不满足发射条件，不能在今年预定窗口实施。后续任务将以稳妥可靠为原则重新安排窗口。",
+      "source": "青岛日报 / 观海新闻",
+      "url": "https://www.dailyqd.com/guanhai/469323_1.html"
+    }
+  ],
+  "tech": [
+    {
+      "title": "机器人进工厂",
+      "summary": "三菱汽车将与东京大学创业公司Highlanders合作，引入AI人形机器人参与工厂作业。机器人会学习熟练员工动作，显示车企正把具身智能推向生产线。",
+      "source": "朝日新闻",
+      "url": "https://www.asahi.com/ajw/articles/16728160"
+    },
+    {
+      "title": "模型路由爆红",
+      "summary": "Stripe计划收购OpenRouter的交易估值约75亿至80亿美元。后者以统一接口聚合400多个模型，说明AI应用生态正从单模型竞争转向路由、计费与信任层。",
+      "source": "36氪 / The Information",
+      "url": "https://m.36kr.com/p/3950020635180169"
+    },
+    {
+      "title": "L3座舱上车",
+      "summary": "启境GX7发布西湖烟紫官图，首搭华为鸿蒙座舱6并预埋L3级高阶架构，计划年内上市。智能车竞争继续从续航、屏幕转向座舱系统与高阶智驾。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/993/173.htm"
+    }
+  ],
+  "trending": [
+    {
+      "term": "爱你老己",
+      "desc": "“爱你自己”口语化，自我关怀文案。"
+    },
+    {
+      "term": "邪修",
+      "desc": "走捷径式高效破局，带自嘲和反规训。"
+    },
+    {
+      "term": "活人感",
+      "desc": "反精修反模板，夸真实松弛有瑕疵。"
+    },
+    {
+      "term": "外耗",
+      "desc": "不再内耗自己，转向消耗外部压力源。"
+    },
+    {
+      "term": "你已急哭",
+      "desc": "游戏圈嘲讽梗，调侃对方心态崩了。"
+    }
+  ],
+  "research": [
+    {
+      "title": "线虫免疫破防",
+      "summary": "中国农科院团队在《新植物学家》发表论文，揭示根结线虫效应蛋白通过糖基化修饰靶向降解植物几丁质酶，从而压制免疫信号，为抗线虫育种提供靶点。",
+      "source": "科学网 / New Phytologist",
+      "url": "https://news.sciencenet.cn/htmlnews/2026/8/570172.shtm"
+    },
+    {
+      "title": "害虫抗性天平",
+      "summary": "张友军团队在PNAS发表研究，发现E3泛素连接酶TRIM37调控CREB稳定性，同时影响烟粉虱杀虫剂抗性与繁殖代价，为可持续害虫治理提供新机制。",
+      "source": "科学网 / PNAS",
+      "url": "https://news.sciencenet.cn/htmlnews/2026/8/570171.shtm"
+    }
+  ],
+  "finance": [
+    {
+      "title": "港股午后走高",
+      "summary": "港股早盘震荡后午后拉升，恒指收涨1.21%，恒生科技指数涨1.4%。大模型、黄金、电池和保险板块走强，资金继续围绕AI与资源品寻找弹性。",
+      "source": "金十数据 / 富途新闻",
+      "url": "https://news.futunn.com/post/78097142/jinshi-data-global-financial-morning-brief-august-24-2026"
+    },
+    {
+      "title": "阿里募资投AI",
+      "summary": "市场消息称阿里巴巴拟配售800亿港元新股，募资将全部投向AI。若落地，将进一步抬高国内大厂AI资本开支预期，也会影响港股科技板块定价。",
+      "source": "金十数据 / 富途新闻",
+      "url": "https://news.futunn.com/post/78097142/jinshi-data-global-financial-morning-brief-august-24-2026"
+    },
+    {
+      "title": "美债风险升温",
+      "summary": "30年期美债收益率一度触及2007年来高位后回落又反弹，策略师警告期限溢价和通胀补偿难被财政操作压住。长端利率仍是全球股债估值的核心压力源。",
+      "source": "Yahoo财经 / 钜亨网",
+      "url": "https://hk.finance.yahoo.com/news/%E5%A3%93%E5%BE%97%E4%BD%8F%E5%AF%A6%E8%B3%AA%E5%88%A9%E7%8E%87%E5%A3%93%E4%B8%8D%E4%BD%8F%E6%9C%9F%E9%99%90%E6%BA%A2%E5%83%B9-%E7%AD%96%E7%95%A5%E5%B8%AB-%E8%B2%9D%E6%A3%AE%E7%89%B9%E7%B6%93%E6%BF%9F%E5%AD%B8-%E9%9B%A3%E4%BB%A5%E9%81%BF%E5%85%8D%E8%82%A1%E5%82%B5%E7%A2%B0%E6%92%9E-053904804.html"
+    }
+  ],
+  "sources_checked": [
+    "Tavily Search",
+    "SOF News",
+    "The Hill",
+    "The Standard",
+    "Reuters",
+    "中国新闻网",
+    "NHK",
+    "金十数据",
+    "富途新闻",
+    "财政部",
+    "青岛日报",
+    "观海新闻",
+    "朝日新闻",
+    "36氪",
+    "The Information",
+    "IT之家",
+    "科学网",
+    "New Phytologist",
+    "PNAS",
+    "Yahoo财经",
+    "钜亨网"
+  ]
+}
