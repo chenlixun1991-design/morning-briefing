@@ -1,0 +1,140 @@
+{
+  "date": "2026-08-25",
+  "created_by": "Tomato 🍅",
+  "international": [
+    {
+      "title": "伊朗制裁扩大",
+      "summary": "美国财长贝森特宣布扩大对伊朗经济制裁，目标覆盖核能、导弹、网络、石油及影子船队服务网络。措施可能触发二级制裁，令中东能源与全球美元结算风险升温。",
+      "source": "RFI 法广",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260824-%E7%BE%8E%E5%9B%BD%E8%B4%A2%E9%95%BF%E5%91%A8%E4%B8%80%E5%AE%A3%E5%B8%83%E6%89%A9%E5%A4%A7%E5%AF%B9%E4%BC%8A%E6%9C%97%E7%BB%8F%E6%B5%8E%E5%88%B6%E8%A3%81%E7%9A%84%E6%8E%AA%E6%96%BD"
+    },
+    {
+      "title": "美加关税升级",
+      "summary": "特朗普称明年起将对加拿大汽车、零部件和钢铁征收50%关税，加方此前已宣布报复性关税。北美贸易摩擦继续扩大，车企供应链与通胀预期再受冲击。",
+      "source": "星洲日报",
+      "url": "https://www.sinchew.com.my?p=7787384"
+    },
+    {
+      "title": "印尼烟霾恶化",
+      "summary": "印尼苏门答腊与加里曼丹林火导致跨境烟霾恶化，警方已逮捕72名涉纵火嫌犯。普拉博沃警告将撤销涉案企业执照，马来西亚、新加坡空气质量承压。",
+      "source": "联合早报 / 星洲日报",
+      "url": "https://www.zaobao.com.sg/news/sea/story20260824-9568781"
+    }
+  ],
+  "domestic": [
+    {
+      "title": "中约元首会谈",
+      "summary": "习近平在北京同约旦国王阿卜杜拉二世会谈，双方讨论双边关系和中东局势。中方强调推动全面停火止战，约旦在地区调停与人道议题上的角色继续受到关注。",
+      "source": "华人头条 / 新华社",
+      "url": "https://www.52hrtt.com/ny/n/w/info/G1786947071011"
+    },
+    {
+      "title": "语言保护开馆",
+      "summary": "中国语言资源保护工程成果展示馆在长沙开放，标志着语言资源保护从数据库走向活态展示。该馆将服务方言、少数民族语言保存，也为文化科技融合提供实体载体。",
+      "source": "天津日报 / 新华社",
+      "url": "https://epaper.tianjinwe.com/tjrb/html/2026-08/25/content_143082_3770233.htm"
+    },
+    {
+      "title": "出行近398亿",
+      "summary": "公开报道显示，今年前7个月交通出行人次达397.9亿。暑运、旅游与通勤需求共同支撑交通活跃度，铁路、民航、公路后续仍需兼顾运力调度和极端天气应对。",
+      "source": "天津日报",
+      "url": "https://epaper.tianjinwe.com/tjrb/html/2026-08/25/content_143082_3770233.htm"
+    }
+  ],
+  "tech": [
+    {
+      "title": "小米三芯齐发",
+      "summary": "小米发布玄戒O3、O100、D100三款芯片，覆盖旗舰SoC、AI加速和3nm智驾算力。O3已量产，另两款计划明年商用，显示手机、AI与智能汽车算力自研加速。",
+      "source": "每日经济新闻",
+      "url": "https://www.mrjjxw.com/articles/2026-08-25/4554449.html"
+    },
+    {
+      "title": "小鹏机器人融资",
+      "summary": "小鹏人形机器人业务首轮融资超9亿美元，投后估值超63亿美元，投资方包括IDG、高榕、腾讯和阿里。资金将支持IRON量产、门店园区应用和全球上市计划。",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/stock/t/2026-08-25/doc-inipmxch1886548.shtml"
+    },
+    {
+      "title": "阿里加码AI",
+      "summary": "阿里巴巴拟配售约800亿港元新股，资金将全部投向全栈AI能力和基础设施。大厂融资从软件流量逻辑转向算力、芯片、数据中心等实体资本投入。",
+      "source": "潮起网",
+      "url": "https://www.ichaoqi.com/guandian/2026/0824/85870.html"
+    }
+  ],
+  "trending": [
+    {
+      "term": "0倾",
+      "desc": "港式10后潮语，指完全零交流。"
+    },
+    {
+      "term": "Sldpk",
+      "desc": "Alpha世代缩写梗，常作神秘黑话。"
+    },
+    {
+      "term": "牛来",
+      "desc": "反AI烂片梗，越粗糙越好笑。"
+    },
+    {
+      "term": "功能出走",
+      "desc": "日用品变情绪小物，重玩感。"
+    },
+    {
+      "term": "挥手meme",
+      "desc": "猫爪挥手等软萌动图社交开场。"
+    }
+  ],
+  "research": [
+    {
+      "title": "mRNA活性提升",
+      "summary": "名古屋大学与富士胶片开发新型脂质纳米颗粒，可将带帽环状RNA高效递送入动物体内，活性提升约10倍且炎症较低，为下一代长效mRNA疗法提供新路径。",
+      "source": "财闻 / Cell Biomaterials",
+      "url": "https://www.caiwennews.com/article/1563327.shtml"
+    },
+    {
+      "title": "磁共振脑机",
+      "summary": "联影医疗与天津大学发布磁共振脑机接口全栈方案，打通成像、仿真、调控、评估和算法迭代闭环。磁共振有望从影像工具升级为脑机交互核心中枢。",
+      "source": "财闻",
+      "url": "https://www.caiwennews.com/article/1563327.shtml"
+    }
+  ],
+  "finance": [
+    {
+      "title": "美半导体下挫",
+      "summary": "美股三大指数涨跌不一，存储与光通信板块明显回落，英伟达连续多日走弱。市场等待英伟达财报与美联储主席讲话，AI交易短线波动加大。",
+      "source": "每日经济新闻",
+      "url": "https://www.mrjjxw.com/articles/2026-08-25/4554449.html"
+    },
+    {
+      "title": "建滔AI受益",
+      "summary": "建滔集团上半年营收同比增长35%，覆铜面板部门受AI服务器和高频高速材料需求拉动，7月单月利润创新高。AI硬件景气正传导至上游材料链。",
+      "source": "Yahoo 财经 / 阿思达克",
+      "url": "https://hk.finance.yahoo.com/news/%E6%A5%AD%E7%B8%BE-%E5%BB%BA%E6%BB%94%E9%9B%86%E5%9C%98-00148-hk-%E5%8D%8A%E5%B9%B4%E7%B4%94%E5%88%A9%E5%8D%875-042558775.html"
+    },
+    {
+      "title": "代币股票升温",
+      "summary": "Robinhood CEO呼吁美国监管为代币化股票建立框架，称金融系统进入代币化周期早期。若规则推进，证券结算效率或提升，但股东权利和托管监管仍待厘清。",
+      "source": "Yahoo 财经 / The Fool",
+      "url": "https://hk.finance.yahoo.com/news/vlad-tenev%E8%A6%81%E6%B1%82%E7%9B%A3%E7%AE%A1%E6%A9%9F%E6%A7%8B%E7%82%BA%E4%BB%A3%E5%B9%A3%E5%8C%96%E8%82%A1%E7%A5%A8%E9%96%8B%E7%B6%A0%E7%87%88-robinhood%E5%89%9B%E5%A2%9E%E5%8A%A0%E7%B4%84120%E5%84%84%E7%BE%8E%E5%85%83%E5%B8%82%E5%80%BC-070500198.html"
+    }
+  ],
+  "sources_checked": [
+    "Tavily Search",
+    "RFI 法广",
+    "星洲日报",
+    "联合早报",
+    "华人头条",
+    "新华社",
+    "天津日报",
+    "每日经济新闻",
+    "新浪财经",
+    "潮起网",
+    "Cosmopolitan HK / Threads",
+    "The Interview Asia",
+    "网易订阅",
+    "财闻",
+    "Cell Biomaterials",
+    "Yahoo 财经",
+    "阿思达克",
+    "The Fool"
+  ]
+}
