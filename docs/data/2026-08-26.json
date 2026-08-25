@@ -1,0 +1,137 @@
+{
+  "date": "2026-08-26",
+  "created_by": "Tomato 🍅",
+  "international": [
+    {
+      "title": "加美关税反击",
+      "summary": "加拿大宣布对美国商品加征反制关税，清单覆盖家具、钢铝等数百类商品，税率从15%到50%不等。北美贸易摩擦继续升温，企业供应链和消费者价格都可能承压。",
+      "source": "新唐人电视台",
+      "url": "https://www.ntdtv.com/gb/2026/08/25/a104127144.html/amp"
+    },
+    {
+      "title": "伊朗制裁加码",
+      "summary": "美国公布对伊朗新一轮“经济D日”制裁名单，多家中港企业被点名。华盛顿试图切断伊朗金融、能源和运输渠道，地区能源与跨境结算风险随之上升。",
+      "source": "美国之音",
+      "url": "https://www.voachinese.com/a/voatoday-20260825/8190333.html"
+    },
+    {
+      "title": "CIA访莫斯科",
+      "summary": "外媒称美国中情局局长John Ratcliffe突然造访莫斯科，引发外界对俄乌、中东及美俄沟通的猜测。若属实，可能意味着华盛顿正尝试为多条危机线保留秘密沟通管道。",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-26/doc-inipqsya5407560.shtml"
+    }
+  ],
+  "domestic": [
+    {
+      "title": "电力装机增长",
+      "summary": "国家能源局数据显示，截至7月底全国累计发电装机容量40.8亿千瓦，同比增长11.0%。太阳能和风电增速继续领先，但设备利用小时下降，提示新能源消纳压力仍在累积。",
+      "source": "每日经济新闻",
+      "url": "https://www.mrjjxw.com/articles/2026-08-25/4555897.html"
+    },
+    {
+      "title": "一箭七星入轨",
+      "summary": "长征六号丙遥一运载火箭在太原发射成功，将中科卫星、木铎卫星及泰国立方星等7星送入预定轨道。任务包含面向东南亚的整星交付，商业航天出海再推进。",
+      "source": "搜狐网",
+      "url": "https://m.sohu.com/a/1067493730_466840"
+    },
+    {
+      "title": "反腐法初审",
+      "summary": "反跨境腐败法草案首次提请审议，重点解决海外腐败案件发现难、取证难、追赃难和定罪难等问题。同日，道路交通安全法修订草案也纳入自动驾驶等新场景。",
+      "source": "明报",
+      "url": "https://news.mingpao.com/pns/%E4%B8%AD%E5%9C%8B/article/20260826/s00013/1787673957546/%E6%B5%B7%E5%A4%96%E6%89%93%E8%B2%AA-%E5%8F%8D%E8%B7%A8%E5%A2%83%E8%85%90%E6%95%97%E6%B3%95%E8%8D%89%E6%A1%88%E9%A6%96%E6%8F%90%E8%AB%8B%E5%AF%A9%E8%AD%B0"
+    }
+  ],
+  "tech": [
+    {
+      "title": "OpenAI造芯",
+      "summary": "报道称OpenAI自研Jalapeno处理器在公开基准测试中能效和响应速度领先英伟达GB300。若后续量产顺利，大模型公司或进一步降低推理成本并减少对单一GPU供应商依赖。",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-26/doc-inipqsya5407560.shtml"
+    },
+    {
+      "title": "自研芯片潮",
+      "summary": "谷歌TPU核心人物Amir Salek加入Anthropic芯片团队，显示AI巨头正从“买算力”转向“造算力”。推理成本、供应链安全和软硬一体化，成为自研ASIC的主要驱动力。",
+      "source": "国际电子商情",
+      "url": "https://www.esmchina.com/marketnews/59347.html"
+    },
+    {
+      "title": "AI创业生态",
+      "summary": "HICOOL全球创业者峰会将在北京顺义启幕，产业园围绕智能制造、新一代信息技术、医疗器械和人工智能形成生态。赛事获奖项目正加速从赛场进入园区和厂房。",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-26/doc-inipqaak5577266.shtml"
+    }
+  ],
+  "trending": [
+    {
+      "term": "崩老头",
+      "desc": "伪装撒娇骗红包，反诈语境走红。"
+    },
+    {
+      "term": "牛来",
+      "desc": "烂片吐槽梗，越离谱越被二创。"
+    },
+    {
+      "term": "优雅太优雅了",
+      "desc": "夸张反讽，常配迷惑操作。"
+    },
+    {
+      "term": "老叟戏青铜",
+      "desc": "游戏虐菜梗，形容降维打击。"
+    },
+    {
+      "term": "V我五十",
+      "desc": "直播榜一玩笑，催礼物式整活。"
+    }
+  ],
+  "research": [
+    {
+      "title": "光伏影响鸟类",
+      "summary": "《Science》发表研究称，中国光伏扩张政策强度每提高一个标准差，当地鸟类香农多样性指数平均下降2.10%。研究提醒新能源布局需同步纳入栖息地保护和生态缓冲。",
+      "source": "腾讯新闻 / Science",
+      "url": "https://news.qq.com/rain/a/20260821A08M0P00"
+    },
+    {
+      "title": "脑类器官计时",
+      "summary": "《Nature》研究报道，哈佛团队将人脑类器官长期培养超过5年，发现基因表达和DNA甲基化随时间持续变化。成果有助理解发育计时，但也提醒长期类器官与真实脑组织仍有差异。",
+      "source": "AASJ / Nature",
+      "url": "https://aasj.jp/date/2026/08"
+    }
+  ],
+  "finance": [
+    {
+      "title": "黄金冲高",
+      "summary": "Comex黄金期货盘中突破4700美元，受美国债务忧虑、美元走弱和长债回购预期推动。市场接下来关注美国核心PCE与杰克逊霍尔讲话，金价波动或继续放大。",
+      "source": "Yahoo财经 / Investing.com",
+      "url": "https://hk.finance.yahoo.com/news/%E9%BB%83%E9%87%91%E5%8F%8D%E5%BD%88%E8%B6%8515-%E5%8A%8D%E6%8C%874700%E7%BE%8E%E5%85%83-%E5%BE%8C%E5%B8%82%E8%81%9A%E7%84%A6pce%E8%88%87%E5%82%91%E5%85%8B%E9%81%9C%E9%9C%8D%E7%88%BE%E8%AC%9B%E8%A9%B1-042106504.html"
+    },
+    {
+      "title": "英伟达财报关口",
+      "summary": "英伟达将在美东周三盘后发布第二财季业绩，市场关注第三财季指引、75%左右毛利率和Rubin量产节奏。由于预期已被抬高，单纯超预期可能不足以支撑股价。",
+      "source": "Yahoo财经 / Investing.com",
+      "url": "https://hk.finance.yahoo.com/news/%E8%8B%B1%E5%81%89%E9%81%94q2%E6%A5%AD%E7%B8%BE%E5%89%8D%E7%9E%BB-%E8%B6%85%E9%A0%90%E6%9C%9F%E5%B7%B2%E6%98%AF%E5%9F%BA%E6%9C%AC%E7%9B%A4-%E7%88%86%E7%82%B8%E6%80%A7%E5%A2%9E%E9%95%B7%E6%89%8D%E6%98%AF%E7%9C%9F%E8%80%83%E9%A9%97-124403934.html"
+    },
+    {
+      "title": "美消费转弱",
+      "summary": "美国8月消费者信心指数降至89.4，创7个月低点；新屋销售月减10.5%。高物价、能源成本和房贷利率继续压制家庭预期，市场对美国增长动能更趋谨慎。",
+      "source": "Yahoo财经",
+      "url": "https://hk.finance.yahoo.com/news/%E7%BE%8E%E5%9C%8B8%E6%9C%88%E6%B6%88%E8%B2%BB%E8%80%85%E4%BF%A1%E5%BF%83%E9%99%8D%E8%87%B37%E5%80%8B%E6%9C%88%E4%BD%8E%E9%BB%9E-%E6%96%B0%E5%B1%8B%E9%8A%B7%E5%94%AE%E5%A4%A7%E6%B8%9B10-5-163005911.html"
+    }
+  ],
+  "sources_checked": [
+    "Tavily Search",
+    "新唐人电视台",
+    "美国之音",
+    "新浪财经",
+    "每日经济新闻",
+    "搜狐网",
+    "明报",
+    "国际电子商情",
+    "土豆AI聚合热榜",
+    "腾讯新闻",
+    "Science",
+    "AASJ",
+    "Nature",
+    "Yahoo财经",
+    "Investing.com"
+  ]
+}
