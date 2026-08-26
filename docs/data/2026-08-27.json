@@ -1,0 +1,137 @@
+{
+  "date": "2026-08-27",
+  "created_by": "Tomato 🍅",
+  "international": [
+    {
+      "title": "内塔拒谈伊朗",
+      "summary": "以色列总理内塔尼亚胡称不相信能与伊朗现领导层达成协议，并支持特朗普以经济压力逼迫德黑兰让步。美伊冲突转向制裁与能源博弈，霍尔木兹航运和油价风险仍难消退。",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/news/world/total-world-latest-news-on-august-27-2026-live-updates-11787779369667.html"
+    },
+    {
+      "title": "叙利亚脱恐名",
+      "summary": "美国将叙利亚移出“支持恐怖主义国家”名单，称已获得新政府不支持国际恐怖主义的正式保证。叙利亚获得重建和融资空间，但剩余制裁、国内整合与地区信任仍是难题。",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/26/syria-removed-which-countries-are-still-on-the-us-terror-list-and-why"
+    },
+    {
+      "title": "中情局访莫",
+      "summary": "美媒称中情局局长John Ratcliffe秘密赴莫斯科，与俄方情报官员会谈；克宫称无公开会晤安排。俄乌战局僵持下，密集沟通可能为停火、换俘或危机降级保留渠道。",
+      "source": "Just Security",
+      "url": "https://www.justsecurity.org/155288/early-edition-august-26-2026"
+    }
+  ],
+  "domestic": [
+    {
+      "title": "质检三年行动",
+      "summary": "我国启动国家质检中心提质优化三年行动，提出11项预期成果，目标是提升检验检测能力和产业服务水平。标准、认证与质量基础设施升级，将直接影响先进制造和消费品供给。",
+      "source": "央视新闻",
+      "url": "https://news.cctv.com/2026/08/27/ARTINU3vZcLn5OjeGVdreWag260827.shtml"
+    },
+    {
+      "title": "信通业升级",
+      "summary": "央视报道称，“十五五”时期将推动信息通信业全面升级，围绕强供给、促应用、育生态推进新一代信息技术落地。产业政策继续向算力、网络和场景应用倾斜。",
+      "source": "央视网",
+      "url": "https://news.cctv.com/2026/08/27/ARTI8DU8npbdOVpPSzN4OQqM260827.shtml"
+    },
+    {
+      "title": "消费工业增4.5%",
+      "summary": "工信部数据显示，1至7月规模以上消费品工业增加值同比增长4.5%。在外需和价格压力仍在的背景下，消费制造保持扩张，对稳就业、稳供应链和内需修复有支撑作用。",
+      "source": "央视网",
+      "url": "https://news.cctv.com/2026/08/27/ARTIGXZc8BH3deR9Ptu3LXmo260827.shtml"
+    }
+  ],
+  "tech": [
+    {
+      "title": "小鹏机器人融资",
+      "summary": "小鹏人形机器人业务完成超9亿美元首轮融资，投后估值约430亿元，IDG领投，腾讯、阿里参投。车企把AI芯片、模型和供应链能力迁移到机器人，具身智能量产竞赛升温。",
+      "source": "36氪 / 极客公园",
+      "url": "http://www.36kr.com/p/3954906522434949"
+    },
+    {
+      "title": "GLM新模开源",
+      "summary": "智谱上线并开源GLM-5.3-Flash，称其为GLM-5系列首个原生多模态模型，320B总参数、18B激活参数。匿名公测“Ox-Alpha”走红，也把国产芯片承载大模型流量推到台前。",
+      "source": "东方财富Choice数据",
+      "url": "https://finance.eastmoney.com/a/202608263855185547.html"
+    },
+    {
+      "title": "苹果折叠首秀",
+      "summary": "科技媒体称苹果或在9月发布iPhone 18 Pro系列和首款折叠iPhone，并以A20 Pro、M6芯片和Apple Intelligence强化端侧AI。高端机发布时间分层，显示产品线策略调整。",
+      "source": "36氪",
+      "url": "http://www.36kr.com/p/3955605256584324"
+    }
+  ],
+  "trending": [
+    {
+      "term": "粥饼伦",
+      "desc": "撞脸周杰伦摊主，闭店引发房租讨论。"
+    },
+    {
+      "term": "牛来",
+      "desc": "智谱Ox-Alpha别称，模型圈调侃热词。"
+    },
+    {
+      "term": "AI互动内容",
+      "desc": "用AI生成小游戏小工具，平台集体加码。"
+    },
+    {
+      "term": "大狗叫Tap",
+      "desc": "B站Toy爆款互动梗图，主打玩声音梗。"
+    },
+    {
+      "term": "德芙文案翻车",
+      "desc": "暧昧文案惹争议，品牌道歉成热议。"
+    }
+  ],
+  "research": [
+    {
+      "title": "暗物质深探",
+      "summary": "斯坦福报道，SuperCDMS SNOLAB在地下深处进入初步探测阶段，目标寻找极难捕捉的暗物质信号。即使在完全优化前，灵敏探测器也可能先产出早期科学结果。",
+      "source": "Stanford News",
+      "url": "https://news.stanford.edu/stories/2026/08/dark-matter-search-experiment-snolab-supercdms"
+    },
+    {
+      "title": "癌症AI诊断",
+      "summary": "港理工团队在《Nature Biomedical Engineering》发表不确定性感知AI框架，用于提升非小细胞肺癌病理诊断可靠性。该方法强调可验证信任机制，有助高风险医疗场景落地。",
+      "source": "News-Medical / Nature Biomedical Engineering",
+      "url": "https://www.news-medical.net/news/20260820/New-AI-framework-improves-reliability-of-cancer-pathology-diagnosis.aspx"
+    }
+  ],
+  "finance": [
+    {
+      "title": "英伟达营收翻倍",
+      "summary": "英伟达第二财季营收962亿美元，同比增长106%，调整后每股收益同比增120%，数据中心收入达890亿美元。业绩继续验证AI算力需求，但市场也会紧盯后续毛利率和资本开支节奏。",
+      "source": "东方财富Choice数据",
+      "url": "https://finance.eastmoney.com/a/202608263855185547.html"
+    },
+    {
+      "title": "金银价格回落",
+      "summary": "东方财富财经早餐显示，现货黄金下跌64.19美元，跌幅1.38%，报4594.68美元/盎司；白银也小幅走低。避险资产高位回调，投资者重新评估通胀、美元与利率预期。",
+      "source": "东方财富Choice数据",
+      "url": "https://finance.eastmoney.com/a/202608263855185547.html"
+    },
+    {
+      "title": "亚洲债受青睐",
+      "summary": "贝莱德称全球债券市场相关性正在分化，亚洲固定收益资产从辅助配置升为分散风险来源。AI数据中心融资潮推高债券供给，机构更偏好项目融资和亚洲非相关资产。",
+      "source": "Yahoo财经 / 钜亨网",
+      "url": "https://hk.finance.yahoo.com/news/%E8%A9%B2%E7%95%B6ai%E8%82%A1%E6%9D%B1%E6%88%96%E5%82%B5%E4%B8%BB-%E8%B2%9D%E8%90%8A%E5%BE%B7%E7%9C%8B%E5%A5%BDaidc-%E5%9F%BA%E5%BB%BA%E7%B6%A0%E8%83%BD%E5%B0%88%E6%A1%88%E8%9E%8D%E8%B3%87-%E9%BB%9E%E5%90%8D%E4%BA%9E%E6%B4%B2-%E9%80%99%E7%A8%AE-114832615.html"
+    }
+  ],
+  "sources_checked": [
+    "Tavily Search",
+    "Livemint",
+    "Just Security",
+    "Al Jazeera",
+    "央视新闻",
+    "央视网",
+    "36氪",
+    "极客公园",
+    "东方财富Choice数据",
+    "Yahoo财经",
+    "钜亨网",
+    "全网热榜",
+    "Stanford News",
+    "News-Medical",
+    "Nature Biomedical Engineering"
+  ]
+}
