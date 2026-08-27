@@ -1,0 +1,132 @@
+{
+  "date": "2026-08-28",
+  "created_by": "Tomato 🍅",
+  "international": [
+    {
+      "title": "尼泊尔洪灾",
+      "summary": "尼泊尔努瓦科特等地突发洪水和冰川崩塌后果持续显现，搜救人员清理道路、寻找失联者。灾害波及边境交通与旅游救援，也再次凸显喜马拉雅地区极端天气和冰川风险。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/video/watch/idRW829727082026RP1/?chan=home"
+    },
+    {
+      "title": "印尼反腐抗议",
+      "summary": "雅加达国会周边爆发要求强化反腐政策的示威，现场出现冲突和纵火画面。抗议把民众对治理透明度、腐败问责和经济压力的不满推到台前，政府后续回应将影响社会情绪。",
+      "source": "AP",
+      "url": "https://www.bozemandailychronicle.com/wire/news/the-top-photos-of-the-day-by-aps-photojournalists/article_8708994f-172c-5405-adec-acc6994d3282.html"
+    },
+    {
+      "title": "姆拉迪奇去世",
+      "summary": "CNN报道称，前波黑塞族军事领导人拉特科·姆拉迪奇去世，终年84岁。他曾因斯雷布雷尼察大屠杀等战争罪行获刑，消息让巴尔干战争记忆、国际刑事司法和历史和解再受关注。",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/08/27/world/video/mladic-dead-obit-robertson-pkg-082709aseg2-cnni-world-fast"
+    }
+  ],
+  "domestic": [
+    {
+      "title": "吉隆救援加速",
+      "summary": "西藏吉隆口岸遭泥石流灾害后，交通部门集结331名抢险人员、246台套设备，并储备358辆客货车待命。G216线约3公里受损，抢通道路是救援、转运和物资进入的关键。",
+      "source": "新华网",
+      "url": "https://www.news.cn/politics/20260827/ed04623e2d494fcfaad43dd3a61fae25/c.html"
+    },
+    {
+      "title": "企业驰援灾区",
+      "summary": "阿里巴巴启动西藏吉隆口岸泥石流应急响应，首批2900箱食品饮用水运抵救灾指挥中心，第二批5000箱方便食品将继续送往当地。民间和企业救援补位，有助缓解一线保障压力。",
+      "source": "新华网",
+      "url": "http://www.news.cn/tech/20260827/2785ac34a2704d2e8f3b8c9f381158c1/c.html"
+    },
+    {
+      "title": "工业利润降温",
+      "summary": "国家统计局数据显示，7月工业企业利润同比增速由6月15.1%降至11.2%，前7个月累计增速也放缓。AI相关出口行业较强，内需型行业承压，政策可能继续向财政支持倾斜。",
+      "source": "Reuters",
+      "url": "https://www.933thedrive.com/2026/08/26/chinas-industrial-profit-growth-cools-as-ai-linked-sectors-outpace/"
+    }
+  ],
+  "tech": [
+    {
+      "title": "英伟达提振AI",
+      "summary": "英伟达强劲业绩和高于预期的三季度收入指引缓解AI增长担忧，推动芯片股和纳指走高。公司同时提示内存部件短缺可能限制扩张速度，算力需求与供应链约束仍会并存。",
+      "source": "Reuters / Kitco",
+      "url": "https://www.kitco.com/news/off-the-wire/2026-08-27/nasdaq-leads-wall-st-higher-nvidia-eases-ai-growth-concerns"
+    },
+    {
+      "title": "AI两周造芯",
+      "summary": "Architect Labs称用AI在两周内完成Redwood芯片设计，挑战传统多年研发周期。专家认为速度亮眼，但仍需经制造、验证和量产考验；若成立，将压缩AI硬件迭代周期。",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/architect-labs-ai-redwood-chip-design-2026-8"
+    },
+    {
+      "title": "智谱国产芯片",
+      "summary": "Z.ai发布GLM-5.3-Flash，称模型完全运行在国产芯片上，港股股价随之上涨。事件折射中国AI公司在美国芯片限制下加快软硬适配，本土算力生态的商业验证正在加强。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/27/zai-shares-surge-new-ai-model-using-chinese-chips.html"
+    }
+  ],
+  "trending": [
+    {
+      "term": "阿姨你找谁啊",
+      "desc": "《我的前半生》台词翻红，适合突然质问。"
+    },
+    {
+      "term": "爱上雷神",
+      "desc": "崩铁二创空耳出圈，用来玩角色梗。"
+    },
+    {
+      "term": "D字开头造句",
+      "desc": "综艺造句游戏爆梗，适合贴脸开大。"
+    },
+    {
+      "term": "秋天第一杯奶茶",
+      "desc": "老梗消费节点化，奶茶品牌集中借势。"
+    }
+  ],
+  "research": [
+    {
+      "title": "喜马拉雅穿山甲",
+      "summary": "ScienceDaily报道，科学家用近190年博物馆标本DNA确认尼泊尔和印度北部存在独立的喜马拉雅穿山甲物种。发现可帮助追踪非法鳞片贸易来源，提升濒危动物保护精度。",
+      "source": "ScienceDaily",
+      "url": "http://www.sciencedaily.com/releases/2026/08/260826055500.htm"
+    },
+    {
+      "title": "癌症细胞状态",
+      "summary": "DarwinHealth和哥伦比亚大学提出“量子癌症生物学”框架，结合单细胞转录组、调控网络和AI解析肿瘤多种细胞状态。思路从寻找单一神药转向动态识别耐药弱点。",
+      "source": "AAP",
+      "url": "https://www.aap.com.au/aapreleases/cision20260826ae34138/"
+    }
+  ],
+  "finance": [
+    {
+      "title": "纳指强劲收高",
+      "summary": "美股科技股在英伟达财报带动下走强，纳指、标普500和道指分别上涨1.6%、0.7%和0.2%。AI算力龙头继续支撑风险偏好，但市场仍关注估值、利润率和资本开支持续性。",
+      "source": "Investopedia",
+      "url": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-08272026-12069234"
+    },
+    {
+      "title": "亚洲股市三连涨",
+      "summary": "Reuters称亚太股市受英伟达销售预期提振连续第三日上涨，MSCI亚太除日本指数升0.3%。但美国PCE通胀仍偏黏、韩国央行加息和地缘不确定性压制了更广泛的风险交易。",
+      "source": "Reuters / Yahoo Finance",
+      "url": "https://uk.finance.yahoo.com/news/asian-stocks-rise-third-day-020028496.html"
+    },
+    {
+      "title": "油价连续回落",
+      "summary": "Reuters市场报道显示，布伦特原油跌至约86.8美元，势将连续第四日下跌。卡塔尔推动美伊重启和平谈判的预期压低地缘溢价，能源价格回落有助缓和部分通胀压力。",
+      "source": "Reuters / Yahoo Finance",
+      "url": "https://uk.finance.yahoo.com/news/asian-stocks-rise-third-day-020028496.html"
+    }
+  ],
+  "sources_checked": [
+    "Tavily Search",
+    "Reuters",
+    "AP",
+    "CNN",
+    "新华网",
+    "Business Insider",
+    "CNBC",
+    "Investopedia",
+    "Yahoo Finance",
+    "ScienceDaily",
+    "AAP",
+    "新浪娱乐",
+    "萌娘百科",
+    "站长之家"
+  ]
+}
