@@ -1,0 +1,134 @@
+{
+  "date": "2026-08-29",
+  "created_by": "Tomato 🍅",
+  "international": [
+    {
+      "title": "伊朗战事僵持",
+      "summary": "美以对伊朗军事行动已满半年，RFI称战事从空袭转向制裁与谈判施压。霍尔木兹海峡仍未完全恢复通航，能源运输、美国军费和期中选举压力继续牵动局势。",
+      "source": "RFI",
+      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260828-%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%8B%E6%BB%A1%E5%8D%8A%E5%B9%B4-%E7%BE%8E%E5%9B%BD%E9%99%B7%E5%85%A5%E6%96%B0%E6%B3%A5%E6%B7%96"
+    },
+    {
+      "title": "尼泊尔洪灾",
+      "summary": "尼泊尔与西藏边境山洪泥石流伤亡继续上升，报道称遇难者超过500人、失联者逾千。多国游客卷入灾害，救援受道路中断和二次洪灾风险影响，国际援助已启动。",
+      "source": "Reuters / BackChina",
+      "url": "https://www.backchina.com/news/2026/08/29/1044954.html"
+    },
+    {
+      "title": "金砖峰会将至",
+      "summary": "VOA称金砖国家领导人下月初将在新德里举行峰会，预计普京和习近平出席。峰会将在美伊冲突、能源航运和全球南方协调背景下举行，外界关注成员国立场。",
+      "source": "VOA",
+      "url": "https://www.voachinese.com/amp/8186652.html"
+    }
+  ],
+  "domestic": [
+    {
+      "title": "吉隆救援推进",
+      "summary": "西藏吉隆口岸泥石流灾害已致5人遇难、558人失联，核心区搜救突击队抵达中尼边界国门位置。救援队伍以水陆空方式推进，重点防范堰塞湖和次生灾害。",
+      "source": "新华网",
+      "url": "https://www.news.cn/local/20260828/fd8790710c3646fe8c32727cd3c2272c/c.html"
+    },
+    {
+      "title": "台风沙德尔",
+      "summary": "第18号台风“沙德尔”在浙江玉环、温州龙湾先后登陆，强降雨将波及浙江、福建、江西、湖南等9省区。气象部门提示未来三天仍需防范山洪、积涝和地质灾害。",
+      "source": "新华网",
+      "url": "https://www.news.cn/politics/20260828/fa3b8abb0f3243a1a777f1fe57ff84d3/c.html"
+    },
+    {
+      "title": "地方附加税",
+      "summary": "财政部、税务总局就地方附加税法征求意见，拟以现行城建税、教育费附加等为基础，实行11%至13%幅度税率。统一立法有助稳定地方财力和市场预期。",
+      "source": "中新社 / 新浪财经",
+      "url": "https://finance.sina.cn/2026-08-28/detail-inipwnxr5728148.d.html?vt=4"
+    }
+  ],
+  "tech": [
+    {
+      "title": "安卓控内存",
+      "summary": "TechNews称Google准备为Android应用和游戏设置更严格的资源使用门槛，以应对AI功能上机带来的内存占用膨胀。端侧AI普及后，平台资源治理会更硬。",
+      "source": "TechNews",
+      "url": "https://technews.tw"
+    },
+    {
+      "title": "国产算力爆单",
+      "summary": "界面新闻科技早报称，中国大模型词元调用量快速增长，带动国产算力芯片从验证迈向批量交付。广州黄埔等地加速建设智算综合体，部分国产芯片排期已拉长。",
+      "source": "界面新闻 / 搜狐",
+      "url": "https://m.sohu.com/a/1068630024_313745?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334"
+    },
+    {
+      "title": "何庭波入榜",
+      "summary": "《时代》AI百大人物将华为何庭波称为“芯片女王”，关注其带领海思、昇腾、鲲鹏等体系发展，以及以系统级效率提升替代单纯制程微缩的半导体路线。",
+      "source": "快科技 / 17173",
+      "url": "http://news.17173.com/content/08282026/161726503.shtml"
+    }
+  ],
+  "trending": [
+    {
+      "term": "胆子肥嘟嘟",
+      "desc": "轻怼又撒娇，形容人或宠物很敢。"
+    },
+    {
+      "term": "粥饼伦关店",
+      "desc": "网红店涨租闭店，引发实体店共鸣。"
+    },
+    {
+      "term": "催我返校",
+      "desc": "开学前集体哀嚎，调侃假期结束。"
+    },
+    {
+      "term": "带感手势舞",
+      "desc": "短视频跟拍热词，夸动作洗脑好学。"
+    }
+  ],
+  "research": [
+    {
+      "title": "肝癌AI模型",
+      "summary": "达摩院联合医院研发DAMO LiON肝癌诊断AI，可通过CT识别微小肝脏恶性病灶。真实世界试验两个月发现15例被遗漏肿瘤，提示医疗影像AI正在进入临床补漏阶段。",
+      "source": "科技日报",
+      "url": "https://www.stdaily.com/web/gdxw/2026-08/24/content_568833.html"
+    },
+    {
+      "title": "气候放大厄尔尼诺",
+      "summary": "EurekAlert最新科学信息提到，气候变暖正在放大东太平洋厄尔尼诺变率。该方向有助解释更强极端天气和跨区域灾害链风险，也会影响农业、水资源和城市韧性规划。",
+      "source": "EurekAlert!",
+      "url": "https://www.eurekalert.org/language/chinese/home"
+    }
+  ],
+  "finance": [
+    {
+      "title": "美股集体回落",
+      "summary": "每经早参称美股三大指数小幅收跌，英伟达跌4.57%、费城半导体指数跌3.47%。美联储主席沃什释放鹰派信号，市场重新评估高通胀下的利率路径。",
+      "source": "每日经济新闻",
+      "url": "https://www.mrjjxw.com/articles/2026-08-28/4565344.html"
+    },
+    {
+      "title": "六大行分红",
+      "summary": "工行、农行、中行、建行、交行和邮储银行披露中期分红计划，现金分红比例统一提升至31%，合计拟派息超2200亿元。银行板块稳定回报属性进一步强化。",
+      "source": "每日经济新闻",
+      "url": "https://www.mrjjxw.com/articles/2026-08-28/4565344.html"
+    },
+    {
+      "title": "立讯半年增长",
+      "summary": "立讯精密公布上半年业绩，营收同比增长40.2%至1745亿元，通信与数据中心、汽车电子增速较快。AI基础设施和智能汽车业务改善收入结构，但汇率波动仍压利润。",
+      "source": "美通社 / Yahoo Finance",
+      "url": "https://hk.finance.yahoo.com/news/%E7%AB%8B%E8%A8%8A%E7%B2%BE%E5%AF%862026%E5%B9%B4%E4%B8%8A%E5%8D%8A%E5%B9%B4%E7%87%9F%E6%94%B6%E5%90%8C%E6%AF%94%E5%A2%9E%E9%95%B740-2-%E6%A5%AD%E5%8B%99%E7%B5%90%E6%A7%8B%E5%84%AA%E5%8C%96%E5%B8%B6%E5%8B%95%E6%AF%9B%E5%88%A9%E7%8E%87%E6%8F%90%E5%8D%87-000000186.html"
+    }
+  ],
+  "sources_checked": [
+    "Tavily Search",
+    "RFI",
+    "VOA",
+    "Reuters",
+    "新华网",
+    "中新社",
+    "新浪财经",
+    "TechNews",
+    "界面新闻",
+    "快科技",
+    "科技日报",
+    "EurekAlert!",
+    "每日经济新闻",
+    "Yahoo Finance",
+    "今日热榜",
+    "TopHub"
+  ]
+}
