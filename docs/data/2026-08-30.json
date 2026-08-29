@@ -1,0 +1,137 @@
+{
+  "date": "2026-08-30",
+  "created_by": "Tomato 🍅",
+  "international": [
+    {
+      "title": "伊朗贸易受压",
+      "summary": "Reuters报道，美国继续加码对伊朗制裁和封锁后，伊朗总统称外贸已下降35%，最高领袖要求政府处理民生压力。霍尔木兹海峡仍是能源与军事博弈焦点，全球油运风险溢价难消。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/war-weighs-irans-economy-us-intensifies-sanctions-2026-08-29/"
+    },
+    {
+      "title": "冰岛公投",
+      "summary": "Reuters称冰岛选民就是否重启加入欧盟谈判投票，竞选焦点集中在生活成本、安全、主权和渔业水域控制。若赞成票胜出，只代表开启谈判，最终入盟仍需第二次公投确认。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/video/watch/idRW878429082026RP1/?chan=world-news"
+    },
+    {
+      "title": "核电站断电",
+      "summary": "国际原子能机构称，扎波罗热核电站外部供电已中断超过一周，目前依赖应急柴油发电机维持核安全，备用能源约够10天。若线路不能恢复，俄乌战区核风险将继续升温。",
+      "source": "央视新闻",
+      "url": "https://news.cctv.com/2026/08/29/ARTITRyEFrhB1xxxcxFXwJZW260829.shtml"
+    }
+  ],
+  "domestic": [
+    {
+      "title": "吉隆堰塞体排空",
+      "summary": "央视新闻早间汇总称，西藏吉隆口岸上游堰塞体已基本排空，救援力量继续挺进泥石流灾害核心区。道路、通信和边境转运仍是难点，后续重点转向搜救失联人员和防范次生灾害。",
+      "source": "央视新闻",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-30/doc-inipzxsc8547217.shtml"
+    },
+    {
+      "title": "商品房新规",
+      "summary": "住建部等三部门印发通知，商品住房预售须单体建筑主体结构封顶，新出让土地项目优先现房销售，并强化预售资金监管和“交房即交证”。政策指向降低烂尾与延期交付风险。",
+      "source": "新京报",
+      "url": "https://www.bjnews.com.cn/detail/1787908672129800.html"
+    },
+    {
+      "title": "服贸会将开",
+      "summary": "2026年服贸会将于9月9日在北京首钢园开幕，约90个国家和国际组织设展办会，1800多家企业线下参展。本届重点展示信息通信、金融科技、数智医疗等服务贸易新成果。",
+      "source": "央视网",
+      "url": "https://jingji.cctv.com/2026/08/29/ARTIEaA2vAk1QSvNw00bUCHd260829.shtml"
+    }
+  ],
+  "tech": [
+    {
+      "title": "长鑫量产LPDDR6",
+      "summary": "长鑫存储宣布LPDDR6内存正式量产，小米18 Fold将首发搭载，峰值速率达12800Mbps、最高容量16GB。事件被视为国产高端移动内存切入全球新标准商用的关键节点。",
+      "source": "财联社",
+      "url": "https://www.cls.cn/detail/2468507"
+    },
+    {
+      "title": "数博会聚焦词元",
+      "summary": "2026中国国际大数据产业博览会在贵阳举行，主题为“词元——数据要素价值释放新路径”，展区覆盖算力基座、模型驱动、数据供给与安全护航，显示AI应用正深入产业场景。",
+      "source": "贵州日报 / 新浪财经",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-30/doc-inipzpaf5239000.shtml"
+    },
+    {
+      "title": "地月激光通信",
+      "summary": "国内媒体报道，我国首次实现地月双向高速激光通信，标志空间激光通信从近地轨道迈入地月空间。该能力可提升深空探测数据回传效率，为月球科研站和航天任务打基础。",
+      "source": "央视新闻 / 新浪财经",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-30/doc-inipzxsc8547217.shtml"
+    }
+  ],
+  "trending": [
+    {
+      "term": "爱你老己",
+      "desc": "把“自己”说成老己，调侃式自爱表达。"
+    },
+    {
+      "term": "邪修",
+      "desc": "指不按常规但高效的野路子做法。"
+    },
+    {
+      "term": "活人感",
+      "desc": "夸内容真实松弛，不像模板和算法产物。"
+    },
+    {
+      "term": "外耗",
+      "desc": "与其内耗自己，不如把压力向外释放。"
+    },
+    {
+      "term": "请我吃饭可以插队",
+      "desc": "排队梗反转，用来撒娇式讨饭局。"
+    }
+  ],
+  "research": [
+    {
+      "title": "隐秘穿山甲",
+      "summary": "ScienceDaily报道，科学家用近190年博物馆标本DNA确认尼泊尔和印度北部存在独立的喜马拉雅穿山甲物种。发现可帮助追踪非法鳞片贸易来源，提高濒危动物保护精度。",
+      "source": "ScienceDaily",
+      "url": "http://www.sciencedaily.com/releases/2026/08/260826055500.htm"
+    },
+    {
+      "title": "癌症细胞状态",
+      "summary": "DarwinHealth与哥伦比亚大学团队在Nature Genetics相关研究中提出细胞状态系统生物学框架，结合单细胞转录组、调控网络和AI，解析肿瘤耐药并寻找组合治疗靶点。",
+      "source": "AAP / Nature Genetics",
+      "url": "https://www.aap.com.au/aapreleases/cision20260826ae34138/"
+    }
+  ],
+  "finance": [
+    {
+      "title": "美股承压回落",
+      "summary": "新浪财经汇总显示，8月29日美股三大指数走弱，英伟达跌超4%拖累科技股。美联储沃什释放偏鹰信号后，9月政策预期转向“五五开”，黄金与成长股估值同步受压。",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/money/future/wemedia/2026-08-30/doc-inipzhum8837144.shtml"
+    },
+    {
+      "title": "兴业息差收窄",
+      "summary": "兴业银行半年报显示，上半年资产总额达11.46万亿元，归母净利润411.31亿元，同比下降4.66%；净息差1.60%，虽处低位但降幅收窄，产业金融和绿色金融贷款继续增长。",
+      "source": "中国基金报",
+      "url": "https://www.chnfund.com/article/AR038f2df1-6dea-e3e1-a670-3a2355d6a621"
+    },
+    {
+      "title": "房企销售转向",
+      "summary": "三部门完善商品住房销售制度后，现房销售、主办银行制和资金监管将重塑开发商现金流节奏。短期或压低高周转模式，长期有助降低交付风险、稳定购房者预期和金融风险。",
+      "source": "每日经济新闻",
+      "url": "https://www.nbd.com.cn/articles/2026-08-28/4564155.html"
+    }
+  ],
+  "sources_checked": [
+    "Tavily Search",
+    "Reuters",
+    "央视新闻",
+    "央视网",
+    "新京报",
+    "每日经济新闻",
+    "财联社",
+    "贵州日报",
+    "新浪财经",
+    "中国基金报",
+    "ScienceDaily",
+    "AAP",
+    "Nature Genetics",
+    "Accio",
+    "新浪"
+  ]
+}
