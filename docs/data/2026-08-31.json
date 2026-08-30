@@ -1,0 +1,138 @@
+{
+  "date": "2026-08-31",
+  "created_by": "Tomato 🍅",
+  "international": [
+    {
+      "title": "霍海油价急升",
+      "summary": "Reuters报道，美军在霍尔木兹海峡拉腊克岛打击伊朗火箭发射装置后，布伦特油价一度重回90美元上方。伊朗革命卫队称有人员伤亡并誓言回应，能源航运风险再次抬头。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/energy/oil-jumps-more-than-2-after-us-attack-irans-larak-island-2026-08-30"
+    },
+    {
+      "title": "太岛论坛开幕",
+      "summary": "AFP称太平洋岛国论坛在帕劳开幕，区域领袖将讨论跨国毒品犯罪、气候变化和粮食安全。台湾参与及中美竞争可能抢走部分焦点，帕劳呼吁外部伙伴别把太平洋变成角力场。",
+      "source": "AFP / Manila Times",
+      "url": "https://www.manilatimes.net/2026/08/31/world/asia-oceania/palau-to-host-pacific-islands-forum/2414679/amp"
+    },
+    {
+      "title": "美两市枪击",
+      "summary": "美国新泽西特伦顿和芝加哥海德公园附近相继发生大规模枪击，合计造成3死18伤。警方称芝加哥案可能有多名枪手，特伦顿案仍在调查，公共安全和枪支治理再成争议焦点。",
+      "source": "大纪元 / ABC News",
+      "url": "https://www.epochtimes.com/gb/26/8/30/n14839599.htm"
+    }
+  ],
+  "domestic": [
+    {
+      "title": "吉隆搜救继续",
+      "summary": "西藏吉隆泥石流灾害已确认16人遇难、546人失联，救援队伍继续挺进核心区。专家判断灾害由尼泊尔境内冰川失稳触发，后续重点是搜救、道路抢通和次生灾害监测。",
+      "source": "央视新闻 / 中国新闻网",
+      "url": "https://www.chinanews.com.cn/scroll-news/2026/0830/news.shtml"
+    },
+    {
+      "title": "黄岩岛巡查",
+      "summary": "中国海警8月30日在黄岩岛领海及周边区域开展执法巡查，并称8月以来持续加强相关海域管控、依法处置非法侵权船只。南海执法强度保持高位，区域博弈仍会牵动外部反应。",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/scroll-news/2026/0830/news.shtml"
+    },
+    {
+      "title": "数博会闭幕",
+      "summary": "2026中国国际大数据产业博览会在贵阳闭幕，展出1100余项新产品新技术、发布87项创新成果。大会围绕词元、算力、数据标注和具身智能展开，显示AI产业化继续加速。",
+      "source": "央视新闻 / 每日经济新闻",
+      "url": "https://www.mrjjxw.com/articles/2026-08-30/4566642.html"
+    }
+  ],
+  "tech": [
+    {
+      "title": "长鑫LPDDR6",
+      "summary": "长鑫存储宣布LPDDR6内存正式量产，小米18 Fold新折叠旗舰将首发搭载。若后续良率和供货稳定，国产高端移动内存将在手机、AI终端和本土供应链中获得更强存在感。",
+      "source": "财联社",
+      "url": "https://www.cls.cn/detail/2468733"
+    },
+    {
+      "title": "地月激光链路",
+      "summary": "中科院空间应用工程与技术中心称，我国首次在超过40万公里地月距离上建立双向高速激光通信链路。该突破可提高深空数据回传能力，为载人登月和月球科研站建设铺路。",
+      "source": "财联社",
+      "url": "https://www.cls.cn/detail/2468733"
+    },
+    {
+      "title": "AI铜箔紧俏",
+      "summary": "财联社汇总称，AI服务器带动高端铜箔需求快速放大，市场测算2026年相关需求约2.4万吨、同比增约260%。算力扩张正从GPU外溢到电力、PCB、散热和材料供应链。",
+      "source": "财联社",
+      "url": "https://www.cls.cn/detail/2468733"
+    }
+  ],
+  "trending": [
+    {
+      "term": "用嘴炒菜",
+      "desc": "剧宣吃播夸张动作出圈，形容嘴上功夫太忙。"
+    },
+    {
+      "term": "颖学",
+      "desc": "围观曾颖长文风格，用来调侃黑色幽默复盘。"
+    },
+    {
+      "term": "吃晕碳",
+      "desc": "饭后困到宕机，吐槽碳水幸福感太强。"
+    },
+    {
+      "term": "要你管",
+      "desc": "综艺台词出圈，适合拽酷式轻怼。"
+    },
+    {
+      "term": "看垃圾的眼神",
+      "desc": "剧中冷脸名场面，形容无声嫌弃拉满。"
+    }
+  ],
+  "research": [
+    {
+      "title": "古人类足迹",
+      "summary": "ScienceDaily报道，马克斯·普朗克团队发现肯尼亚湖岸1.4百万年前足迹，显示一群体型出乎意料庞大的古人类亲属曾集体移动。发现为早期人类社会行为和体型演化提供新证据。",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260829035221.htm"
+    },
+    {
+      "title": "末日冰川地震",
+      "summary": "ScienceDaily引述The Conversation称，研究者在南极思韦茨冰川附近识别出数百个此前被忽略的地震事件，其中245个靠近海缘。冰山翻覆碰撞或与冰川加速入海相互关联。",
+      "source": "ScienceDaily / The Conversation",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260829035328.htm"
+    }
+  ],
+  "finance": [
+    {
+      "title": "房贷可延40年",
+      "summary": "央行、金融监管总局等推动房地产信贷和销售制度重构，个人住房贷款最长期限延至40年，预售放款节点后移至竣工备案。政策减轻月供但拉长总利息，也倒逼房企资金模式转型。",
+      "source": "财新网",
+      "url": "https://finance.caixin.com/2026-08-31/102479924.html"
+    },
+    {
+      "title": "现房门槛抬高",
+      "summary": "每日经济新闻专访指出，现房销售将显著提高房企准入门槛，央国企和头部稳健民企更易适应，中小房企承压更大。行业将从高周转扩张转向产品力、现金流和存量运营竞争。",
+      "source": "每日经济新闻",
+      "url": "https://www.nbd.com.cn/articles/2026-08-30/4566415.html"
+    },
+    {
+      "title": "非农牵动美股",
+      "summary": "财联社下周看点称，美国8月非农、ISM制造业和服务业PMI将集中公布，美联储理事库克去留也牵动市场。9月季节性偏弱叠加科技股高位，全球风险资产或进入数据驱动期。",
+      "source": "财联社",
+      "url": "https://www.cls.cn/detail/2131406"
+    }
+  ],
+  "sources_checked": [
+    "Tavily Search",
+    "Reuters",
+    "AFP",
+    "Manila Times",
+    "DW",
+    "The Hindu",
+    "BBC",
+    "央视新闻",
+    "中国新闻网",
+    "财新网",
+    "每日经济新闻",
+    "财联社",
+    "上海证券报",
+    "ScienceDaily",
+    "The Conversation",
+    "新浪"
+  ]
+}
