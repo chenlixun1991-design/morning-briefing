@@ -1,0 +1,139 @@
+{
+  "date": "2026-09-01",
+  "created_by": "Tomato 🍅",
+  "international": [
+    {
+      "title": "美台芯片育才",
+      "summary": "美国在台协会宣布两项支持美国学生赴台学习半导体的计划，并见证SEMI与台湾高教机构签署人才合作意向书。美方称台湾投资正助推美国再工业化，芯片人才合作会继续绑定双方供应链。",
+      "source": "VOA / Devdiscourse",
+      "url": "https://www.voachinese.com/a/us-taiwan-take-initiatives-to-strengthen-semiconductor-workforce-partnerships-20260831/8192519.html"
+    },
+    {
+      "title": "伊朗经济承压",
+      "summary": "外媒称伊朗领导层警告战争和美国制裁的经济代价上升，伊朗总统称外贸因制裁和港口封锁下降约35%。若美国继续推动次级制裁，能源贸易、通胀和区域金融风险都会被放大。",
+      "source": "India's News.Net",
+      "url": "https://www.indiasnews.net/news/279273581/war-us-sanctions-hit-iran-s-economy-as-trade-falls-inflation-rises"
+    },
+    {
+      "title": "尼泊尔洪灾搜救",
+      "summary": "尼泊尔山洪和泥石流灾后搜救仍在推进，受灾地区道路、桥梁和电力设施受损，救援一度受高水位和地形限制。灾情牵动中尼边境口岸恢复，也再次凸显喜马拉雅地区气候风险。",
+      "source": "Taipei Times / Reuters / AFP",
+      "url": "https://www.taipeitimes.com/News/world/archives/2026/09/01/2003863493"
+    }
+  ],
+  "domestic": [
+    {
+      "title": "吉隆继续搜救",
+      "summary": "国务院常务会议研究西藏吉隆泥石流灾害后续处置，要求继续全力搜救失联人员，并做好抢通保通、群众安置和次生灾害防范。央企和解放军、武警力量也持续增援灾区。",
+      "source": "新华社 / 天津日报",
+      "url": "https://epaper.tianjinwe.com/tjrb/html/2026-09/01/content_143088_3793517.htm"
+    },
+    {
+      "title": "消费扩容升级",
+      "summary": "商务部、发改委、工信部等7部门发布推动商品消费扩容升级实施意见，提出促进新品供给、绿色智能消费和服务配套。政策目标指向扩大内需，并为制造、零售和平台企业创造新空间。",
+      "source": "新华社 / 天津日报",
+      "url": "https://epaper.tianjinwe.com/tjrb/html/2026-09/01/content_143088_3793521.htm"
+    },
+    {
+      "title": "PMI回升",
+      "summary": "8月份制造业PMI较上月上升0.6个百分点，官方媒体称我国经济景气水平有所改善。数据释放需求和生产边际修复信号，但后续仍需观察订单、价格和就业分项能否延续回暖。",
+      "source": "天津日报",
+      "url": "https://epaper.tianjinwe.com/tjrb/html/2026-09/01/content_143088_3793520.htm"
+    }
+  ],
+  "tech": [
+    {
+      "title": "AI标准实施",
+      "summary": "9月1日起，一批涉及人工智能、算力、机器人和量子计算的国家及行业标准实施，覆盖智能体基础能力、算力基础设施和机器人控制系统等。标准落地会推动AI产品走向可评测、可交付。",
+      "source": "新浪科技",
+      "url": "https://k.sina.com.cn/article_9171525735_222aa606700103fd6g.html?from=tech&subch=otech"
+    },
+    {
+      "title": "百度双重上市",
+      "summary": "百度9月1日起在港交所由第二上市转为主要上市，形成香港和纳斯达克双重主要上市架构。本次不发行新股也不融资，但有助于提升港股流动性，并便利内地投资者配置。",
+      "source": "新浪科技",
+      "url": "https://k.sina.com.cn/article_9171525735_222aa606700103fd6g.html?from=tech&subch=otech"
+    },
+    {
+      "title": "AI服务商行动",
+      "summary": "工信部办公厅发布人工智能应用服务商培育专项行动通知，鼓励围绕高频刚需业务封装“小快轻准”产品包，并探索首购首用、风险补偿等采购机制，推动行业用模用智。",
+      "source": "中国金融在线",
+      "url": "http://mp.cnfol.com/32038/article/1788181262-142686044.html"
+    }
+  ],
+  "trending": [
+    {
+      "term": "三室一厅",
+      "desc": "开学季宿舍梗，把床位和过道戏称豪宅。"
+    },
+    {
+      "term": "包的",
+      "desc": "表示稳了、一定成，常用于自信接梗。"
+    },
+    {
+      "term": "活人感",
+      "desc": "夸内容真实松弛，不像模板化运营。"
+    },
+    {
+      "term": "外耗",
+      "desc": "把压力向外释放，反向调侃内耗。"
+    },
+    {
+      "term": "邪修",
+      "desc": "不按常规但有效的野路子方法。"
+    }
+  ],
+  "research": [
+    {
+      "title": "火星热异常",
+      "summary": "国家地理中文网报道，火星南半球地下发现热异常，研究认为当地地幔温度可能高于北半球。该发现有助于解释火星内部热演化差异，也会影响未来寻找地质活动证据的区域选择。",
+      "source": "国家地理中文网",
+      "url": "https://www.natgeomedia.com"
+    },
+    {
+      "title": "彗星素颜照",
+      "summary": "国家地理中文网整理最新天文发现称，研究者首次捕捉到彗星更接近原始状态的“素颜”影像。新观测可帮助分辨尘埃、冰和挥发物的真实分布，改进对太阳系早期物质的理解。",
+      "source": "国家地理中文网",
+      "url": "https://www.natgeomedia.com"
+    }
+  ],
+  "finance": [
+    {
+      "title": "油价跳涨",
+      "summary": "美伊冲突再度升温带动布伦特原油一度突破90美元，台湾塑化股集体走强。市场担心霍尔木兹海峡航运和能源供应风险上升，油价若维持高位，将推升通胀和企业成本压力。",
+      "source": "鉅亨网 / Yahoo Finance",
+      "url": "https://hk.finance.yahoo.com/news/%E7%84%A6%E9%BB%9E%E8%82%A1-%E7%BE%8E%E4%BC%8A%E6%88%B0%E7%81%AB%E9%87%8D%E7%87%83-%E6%B2%B9%E5%83%B9%E8%B7%B3%E6%BC%B2-%E5%8D%97%E4%BA%9E-%E5%8F%B0%E5%8C%96%E6%BC%B2%E5%81%9C%E9%A0%98%E5%A1%91%E5%8C%96%E8%82%A1%E5%A4%9A%E6%AA%94%E5%BC%B7%E6%BC%B2-052345259.html"
+    },
+    {
+      "title": "港股小幅收跌",
+      "summary": "港股恒指收跌17点，智谱、MiniMax等AI股走强，内房股则受商品房销售新政冲击承压。市场正在重新定价地产周转模式和AI成长股，板块分化明显加剧。",
+      "source": "AASTOCKS / Yahoo Finance",
+      "url": "https://hk.finance.yahoo.com/news/%E6%B8%AF%E8%82%A1-%E6%81%92%E6%8C%87%E5%85%A8%E6%97%A5%E8%B7%8C17%E9%BB%9E-%E6%99%BA%E8%AD%9C%E5%8D%87%E8%BF%91-%E6%88%90-%E5%8F%97%E6%96%B0%E6%94%BF%E8%A1%9D%E6%93%8A%E5%85%A7%E6%88%BF%E8%82%A1%E5%8F%97%E5%A3%93-085108128.html"
+    },
+    {
+      "title": "燧原定价",
+      "summary": "燧原科技科创板IPO发行价定为142.18元，预计募资61.19亿元，网上网下申购日为9月2日。作为国产AI芯片公司，其商业化进展、亏损收窄和估值可持续性将受市场关注。",
+      "source": "每日经济新闻",
+      "url": "https://www.mrjjxw.com/articles/2026-08-31/4567975.html"
+    }
+  ],
+  "sources_checked": [
+    "Tavily Search",
+    "VOA",
+    "Devdiscourse",
+    "India's News.Net",
+    "Taipei Times",
+    "Reuters",
+    "AFP",
+    "新华社",
+    "天津日报",
+    "新浪科技",
+    "中国金融在线",
+    "悟空中文",
+    "新浪财经头条",
+    "国家地理中文网",
+    "Yahoo Finance",
+    "AASTOCKS",
+    "每日经济新闻"
+  ]
+}
