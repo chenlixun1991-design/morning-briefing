@@ -1,0 +1,139 @@
+{
+  "date": "2026-09-02",
+  "created_by": "Tomato 🍅",
+  "international": [
+    {
+      "title": "美再打击伊朗",
+      "summary": "美国之音称，两艘油轮在霍尔木兹海峡遇袭后，美军对伊朗发动新一轮打击，特朗普警告德黑兰勿报复。能源航道风险再升温，油价、航运和中东安全局势都面临更高波动。",
+      "source": "VOA",
+      "url": "https://www.voachinese.com/amp/voatoday-20260901/8193002.html"
+    },
+    {
+      "title": "美新抗衡中国",
+      "summary": "VOA今日焦点报道，美国与新西兰联手升级库克群岛港口，以强化南太平洋基础设施存在。项目指向印太影响力竞争，后续可能带动更多岛国港口、通信和援助项目重新排队。",
+      "source": "VOA",
+      "url": "https://www.voachinese.com/amp/voatoday-20260901/8193002.html"
+    },
+    {
+      "title": "G20贸易交锋",
+      "summary": "美国财长贝森特在G20财长会议期间敦促成员国应对中国进口冲击，称贸易失衡正在挤压全球增长。中方回应反对单边关税，公报措辞和关键矿产议题预计仍会拉扯。",
+      "source": "VOA",
+      "url": "https://www.voachinese.com/a/us-urges-g20-to-address-trade-imbalances-with-focus-on-china-20260901/8192998.html"
+    }
+  ],
+  "domestic": [
+    {
+      "title": "中埃国访开启",
+      "summary": "新华社消息，习近平抵达开罗，对埃及进行国事访问，并发表书面讲话。访问适逢中埃建交70周年，双方将讨论双边合作和国际地区议题，凸显中国与全球南方伙伴关系。",
+      "source": "新华社 / 中新网",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-02/10688354.shtml"
+    },
+    {
+      "title": "9月气候发布",
+      "summary": "中国气象局定于9月2日召开新闻发布会，将发布主汛期天气气候特征、9月气候趋势和汛期服务情况。入秋前后极端天气仍受关注，农业、出行和防灾安排会据此调整。",
+      "source": "21财经",
+      "url": "http://m.21jingji.com/live/show/5611.html"
+    },
+    {
+      "title": "光伏超煤电",
+      "summary": "国家能源局披露，截至7月底我国光伏发电装机达12.86亿千瓦，首次超过煤电成为装机规模最大的电源。新能源地位继续上升，但消纳、电网调峰和电价机制也更关键。",
+      "source": "青岛日报 / 观海新闻",
+      "url": "https://www.guanhai.com.cn/p/471020.html"
+    }
+  ],
+  "tech": [
+    {
+      "title": "半导体展登场",
+      "summary": "DIGITIMES报道，SEMICON Taiwan 2026于9月2日至4日登场，预计聚集逾1300家企业、4300个摊位。AI需求推高半导体全价值链热度，硅光子和先进封装成为重点。",
+      "source": "DIGITIMES",
+      "url": "https://gb-www.digitimes.com.tw/tech/dt/n/shwnws.asp?CnlID=1&cat=40&id=0000767062_1OULNW3V7UVWLN1JO4QPC&wpidx=3"
+    },
+    {
+      "title": "无锡芯会开幕",
+      "summary": "2026集成电路无锡创新发展大会持续至9月2日，华虹、SK海力士、中科曙光等参会，端侧AI芯片新品和重点实验室集中亮相。长三角芯片生态正强化产业和资本对接。",
+      "source": "扬子晚报 / 紫牛新闻",
+      "url": "https://www.yzwb.net/news/jiangsu/wuxi/202609/t20260901_388143.html"
+    },
+    {
+      "title": "美审中国机器人",
+      "summary": "美国众议院小组委员会通过GUARD法案，要求审查中国等外国对手制造的人形和四足机器人，并禁止构成国家安全风险的产品进口。机器人正成为中美科技竞争的新焦点。",
+      "source": "VOA",
+      "url": "https://www.voachinese.com/a/house-energy-commerce-subcommittee-passes-bipartisan-bill-banning-dangerous-ccp-robots-20260901/8192986.html"
+    }
+  ],
+  "trending": [
+    {
+      "term": "孙割告母",
+      "desc": "孙宇晨小作文事件衍生梗，吐槽抓马反转。"
+    },
+    {
+      "term": "贺涵来接我",
+      "desc": "雨天通勤借老剧台词求救式玩梗。"
+    },
+    {
+      "term": "不舒服文学",
+      "desc": "《小欢喜》旧片段翻红，形容窒息追问。"
+    },
+    {
+      "term": "杀糕局",
+      "desc": "AA买蛋糕分食，低成本仪式感社交。"
+    },
+    {
+      "term": "养砖头",
+      "desc": "把废砖做桌面摆件，废墟美学解压。"
+    }
+  ],
+  "research": [
+    {
+      "title": "AI造噬菌体",
+      "summary": "斯坦福、Arc Institute等团队在Science发表研究，用基因组语言模型Evo生成完整噬菌体基因组，并获得16个可复制感染细菌的设计体。生成式生物设计从蛋白推进到完整基因组。",
+      "source": "Science / BAAI",
+      "url": "https://hub.baai.ac.cn/view/57621"
+    },
+    {
+      "title": "光量子商用机",
+      "summary": "客观日本报道，产综研与东京大学初创OptQC完成光量子计算机MoQuren搭建，并在研究基地运行。该路线可常温运行、利于小型化，未来将面向制药、金融和AI开发开放云服务。",
+      "source": "JST客观日本",
+      "url": "https://www.keguanjp.com/kgjp_keji/kgjp_kj_ict/pt20260901000014.html"
+    }
+  ],
+  "finance": [
+    {
+      "title": "希音上市破发",
+      "summary": "希音9月1日在香港挂牌，发行价48.56港元，开盘后最大跌约10%，收盘仍低于发行价。市场担心快时尚增长、合规和估值压力，破发也为香港大型新股定价降温。",
+      "source": "VOA",
+      "url": "https://www.voachinese.com/a/shein-shares-fall-after-hong-kong-trading-debut-20260901/8192989.html"
+    },
+    {
+      "title": "油价压风险",
+      "summary": "彭博亚洲交易节目称，油价走高冲击风险偏好，背景是美伊局势和霍尔木兹航运担忧再起。能源成本若继续抬升，将牵动通胀预期、航空航运利润和亚洲市场估值。",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-01/the-asia-trade-9-1-2026-video"
+    },
+    {
+      "title": "日股信心升温",
+      "summary": "高盛副主席卡普兰在彭博采访中称，日本经济出现多项积极变化，包括储蓄向风险资产迁移。若通胀和工资循环延续，日本市场可能继续吸引全球资金，但利率路径仍是变量。",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/jp/news/videos/2026-09-01/TKOFUJRKV2U300"
+    }
+  ],
+  "sources_checked": [
+    "Tavily Search",
+    "VOA",
+    "新华社",
+    "中新网",
+    "21财经",
+    "青岛日报",
+    "观海新闻",
+    "DIGITIMES",
+    "扬子晚报",
+    "紫牛新闻",
+    "Science",
+    "BAAI",
+    "JST客观日本",
+    "Bloomberg",
+    "网易",
+    "ChinaZ",
+    "新浪"
+  ]
+}
