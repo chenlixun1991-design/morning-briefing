@@ -1,0 +1,138 @@
+{
+  "date": "2026-09-03",
+  "created_by": "Tomato 🍅",
+  "international": [
+    {
+      "title": "美伊紧张升级",
+      "summary": "中新网援引路透社等报道，特朗普称美国“随时”准备再次打击伊朗，并表示美方控制霍尔木兹航道。伊朗方面称袭击造成平民伤亡，中东能源运输和地区安全风险继续升温。",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-03/10689171.shtml"
+    },
+    {
+      "title": "G20声明难产",
+      "summary": "共同社称，G20财长和央行行长会议因中国反对关键矿产、贸易失衡等措辞，未能通过联合声明。美国改发主席声明，显示主要经济体在供应链、关税和非市场政策上分歧扩大。",
+      "source": "共同社",
+      "url": "https://china.kyodonews.net/articles/-/15066"
+    },
+    {
+      "title": "俄德外交交锋",
+      "summary": "法广报道，俄罗斯外交部召见德国驻俄临时代办，抗议德国因莱比锡机场无人机事件采取反俄措施。欧盟同时讨论强化对俄制裁和援乌安排，俄欧关系继续处于高压状态。",
+      "source": "RFI",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260902-%E4%BF%84%E5%A4%96%E4%BA%A4%E9%83%A8%E5%8F%AC%E8%A7%81%E5%BE%B7%E5%9B%BD%E4%B8%B4%E6%97%B6%E4%BB%A3%E5%8A%9E%EF%BC%8C%E6%AC%A7%E7%9B%9F%E5%B0%86%E5%BC%BA%E5%8C%96%E5%AF%B9%E4%BF%84%E5%88%B6%E8%A3%81%E7%9A%84%E6%89%A7%E8%A1%8C%E5%92%8C%E6%8F%B4%E4%B9%8C%E5%8A%9B%E5%BA%A6"
+    }
+  ],
+  "domestic": [
+    {
+      "title": "中埃文明互鉴",
+      "summary": "央视新闻报道，习近平和彭丽媛同埃及总统塞西夫妇参观大埃及博物馆。双方强调文明互鉴与人文交流，中埃建交70周年节点上的外交互动继续突出全球南方合作。",
+      "source": "央视新闻",
+      "url": "https://news.cctv.com/2026/09/03/ARTIjflS976PYg27mCWCnL4l260903.shtml"
+    },
+    {
+      "title": "服贸会将启",
+      "summary": "新华社消息，2026年服贸会将于9月9日在北京开幕，首次在主题展核心区设“中国服务”展区，征集140余个案例。服务贸易突破万亿美元后，开放、出海与AI服务成为看点。",
+      "source": "新华社",
+      "url": "https://www.news.cn/20260902/3b579ad505e74e36b7c2559f7535e6a8/c.html"
+    },
+    {
+      "title": "网安周将办",
+      "summary": "新华网报道，2026年国家网络安全宣传周定于9月14日至20日举行，主题聚焦智能时代网安护航。济南将办开幕式和高峰论坛，AI安全治理、个人信息保护等议题受关注。",
+      "source": "新华网",
+      "url": "https://www.news.cn/politics/20260902/04e437cd8a5e44779b405625aa0ef354/c.html"
+    }
+  ],
+  "tech": [
+    {
+      "title": "Meta推新模型",
+      "summary": "新浪财经报道，Meta发布Muse Spark 1.3，称模型性能实现迄今最大跃升，编程和智能体能力明显增强。开发者可付费调用，后续将接入Instagram、Facebook与Meta AI。",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-03/doc-iniqntuk7235690.shtml?finpagefr=p_108"
+    },
+    {
+      "title": "豆包工作升级",
+      "summary": "PChome消息，豆包工作上线多Agents并行和Mac端“操作电脑”能力，可拆分任务给子Agent同步处理，也能在授权后看屏幕、点击和输入。AI办公入口正向真实执行延伸。",
+      "source": "PChome",
+      "url": "https://article.pchome.net/info/15900.html"
+    },
+    {
+      "title": "燧原申购火爆",
+      "summary": "每经早参称，国产云端AI芯片企业燧原科技科创板网上发行中签率仅0.02455315%。公司亏损仍受资金追捧，反映国产GPU和AI算力链条在资本市场的热度仍高。",
+      "source": "每日经济新闻",
+      "url": "https://www.nbd.com.cn/articles/2026-09-02/4570832.html"
+    }
+  ],
+  "trending": [
+    {
+      "term": "大绷住时代",
+      "desc": "暑期表情包带火，形容想笑又绷住。"
+    },
+    {
+      "term": "成绩司机",
+      "desc": "短视频人物梗，调侃成绩反差。"
+    },
+    {
+      "term": "中国人能飞",
+      "desc": "说唱片段二创，夸张形容很能打。"
+    },
+    {
+      "term": "动态扭腰",
+      "desc": "土味神曲翻拍，适合跳舞整活。"
+    },
+    {
+      "term": "精神芬兰人",
+      "desc": "自嘲低能量社交，只想安静生活。"
+    }
+  ],
+  "research": [
+    {
+      "title": "FAST解宇宙谜",
+      "summary": "CGTN报道，中国FAST望远镜相关研究发表于Nature Astronomy，发现宇宙中性氢储备并未随恒星形成减少而同步枯竭。结果指向分子气体转化效率下降，改写星系演化解释。",
+      "source": "CGTN / Nature Astronomy",
+      "url": "https://news.cgtn.com/news/2026-09-01/China-s-FAST-telescope-sheds-new-light-on-cosmic-evolution-1Q5GTzbnM4M/p.html"
+    },
+    {
+      "title": "二氧化碳制醇",
+      "summary": "Nature Synthesis介绍一项铜基纳米反应器研究，内部空腔可富集二氧化碳，在优化条件下乙醇法拉第效率达70.3%。若继续工程化，电催化碳转化可能更接近规模应用。",
+      "source": "Nature Synthesis",
+      "url": "https://www.nature.com/articles/s44160-026-01156-8"
+    }
+  ],
+  "finance": [
+    {
+      "title": "美股金价收涨",
+      "summary": "每日经济新闻称，隔夜美股三大指数集体收涨，道指涨0.56%、纳指涨0.45%、标普500涨0.46%；现货黄金涨1.35%至4387美元上方。避险和科技反弹共同影响市场情绪。",
+      "source": "每日经济新闻",
+      "url": "https://www.nbd.com.cn/articles/2026-09-02/4570832.html"
+    },
+    {
+      "title": "博通AI订单强",
+      "summary": "中国证券报报道，博通三季度营收同比增长86%，AI半导体收入同比增221%，并称未来两年将向客户交付约3500亿美元AI半导体产品。算力周期仍支撑美股科技主线。",
+      "source": "中国证券报 / 凤凰网",
+      "url": "https://finance.ifeng.com/c/8w6t9LXBxXT"
+    },
+    {
+      "title": "深圳挂牌回暖",
+      "summary": "每经早参援引深圳贝壳研究院称，近期部分深圳业主上调二手房挂牌价，看房咨询和新增客量环比回升。新房供应减少预期改善业主心态，但成交能否跟上仍需观察。",
+      "source": "每日经济新闻",
+      "url": "https://www.nbd.com.cn/articles/2026-09-02/4570832.html"
+    }
+  ],
+  "sources_checked": [
+    "Tavily Search",
+    "中国新闻网",
+    "共同社",
+    "RFI",
+    "央视新闻",
+    "新华社",
+    "新华网",
+    "新浪财经",
+    "PChome",
+    "每日经济新闻",
+    "CGTN",
+    "Nature Synthesis",
+    "中国证券报",
+    "凤凰网",
+    "人人都是产品经理",
+    "抖音搜索"
+  ]
+}
