@@ -1,0 +1,140 @@
+{
+  "date": "2026-09-04",
+  "created_by": "Tomato 🍅",
+  "international": [
+    {
+      "title": "黄金迁出美国",
+      "summary": "央视新闻经中新网转述称，荷兰央行今年3月至8月把约86吨黄金储备从纽约、渥太华转向伦敦及本土，以分散托管风险。专家认为，金融制裁和美元信用担忧正推动全球储备更重视资产主权安全。",
+      "source": "中国新闻网 / 央视新闻",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-04/10689982.shtml"
+    },
+    {
+      "title": "超强厄尔尼诺",
+      "summary": "BBC报道，世界气象组织警告厄尔尼诺正演变为超强事件，可能持续至2027年2月，并重塑全球降雨与温度格局。各国正加强预警和医疗援助，弱势地区面临更高洪水、干旱与高温风险。",
+      "source": "BBC中文 / WMO",
+      "url": "https://www.bbc.com/zhongwen/articles/cm27n2emn1zo/simp"
+    },
+    {
+      "title": "伊朗婚礼遭袭",
+      "summary": "中新网综合外媒称，美国副总统万斯回应伊朗婚礼遭袭事件时表示美方正在调查，并称美军不会以平民为目标。伊朗媒体称袭击已造成多人死伤，事件加剧霍尔木兹局势和美伊谈判不确定性。",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-04/10689984.shtml"
+    }
+  ],
+  "domestic": [
+    {
+      "title": "中小企业规划",
+      "summary": "工信部等十部门印发《促进中小企业发展“十五五”规划》，提出到2030年专精特新“小巨人”企业达2.2万家，并设立国家中小企业发展基金二期。政策将继续引导资本投早、投小、投硬科技。",
+      "source": "中国新闻网 / 工信部",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-03/10689663.shtml"
+    },
+    {
+      "title": "体育产业目标",
+      "summary": "国新办发布会上，国家体育总局提出“十五五”时期继续加大场地设施建设，到2030年体育产业总规模力争超过7万亿元。小型体育公园、户外运动目的地和草根赛事将成为消费扩容抓手。",
+      "source": "新华社 / 每日经济新闻",
+      "url": "https://www.mrjjxw.com/articles/2026-09-03/4572133.html"
+    },
+    {
+      "title": "医保发布会",
+      "summary": "国务院新闻办公室定于9月4日上午举行“开局起步‘十五五’”系列发布会，介绍推进医保高质量发展情况。国家医保局多位负责人将答记者问，市场关注医保支付、药品目录与创新药协同。",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/live/detail/1468.html"
+    }
+  ],
+  "tech": [
+    {
+      "title": "英伟达买HF",
+      "summary": "多家财经科技媒体称，英伟达已达成协议收购Hugging Face，金额约119亿至129亿美元，并承诺保持平台开放。交易把芯片巨头进一步推向AI开发者生态核心，也引发开源中立性讨论。",
+      "source": "每日经济新闻 / 新浪科技",
+      "url": "https://www.mrjjxw.com/articles/2026-09-03/4572133.html"
+    },
+    {
+      "title": "小米欧洲提速",
+      "summary": "每经早参称，小米在IFA 2026前披露Xiaomi 18 Fold将以万元级起售，并计划2027年让小米汽车进入德国等欧洲市场。折叠屏高端化与电动车出海同步推进，将检验渠道和品牌能力。",
+      "source": "每日经济新闻",
+      "url": "https://www.mrjjxw.com/articles/2026-09-03/4572133.html"
+    },
+    {
+      "title": "AI服务中断",
+      "summary": "Downdetector和公司状态页显示，OpenAI、Anthropic及Grok等服务一度出现异常，用户报告数量迅速上升。头部AI产品同步故障让开发者再次关注模型服务SLA、降级方案和多供应商容灾。",
+      "source": "每日经济新闻 / Downdetector",
+      "url": "https://www.mrjjxw.com/articles/2026-09-03/4572133.html"
+    }
+  ],
+  "trending": [
+    {
+      "term": "请我吃饭可以插队",
+      "desc": "饭局换优先权的玩笑，常用于邀约调侃。"
+    },
+    {
+      "term": "爱你老己",
+      "desc": "“爱自己”的谐音萌化版，用来自我安慰。"
+    },
+    {
+      "term": "赛博对账",
+      "desc": "在评论区核对同款经历，找共鸣。"
+    },
+    {
+      "term": "你已急哭",
+      "desc": "游戏表情包梗，嘲讽对方心态崩了。"
+    },
+    {
+      "term": "班味",
+      "desc": "形容被上班消耗后的疲惫气质。"
+    }
+  ],
+  "research": [
+    {
+      "title": "疫苗或护心",
+      "summary": "科普中国转述《自然-医学》研究称，涉及7万多人的分析显示，当前带状疱疹疫苗与较低心脏病和心力衰竭风险相关。结果提示疫苗收益可能超出感染预防，但因果机制仍需进一步验证。",
+      "source": "科普中国 / Nature Medicine",
+      "url": "https://m.sohu.com/a/1071500694_122014422?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334"
+    },
+    {
+      "title": "AI考古识种",
+      "summary": "岭南大学刊物介绍，其与山东大学联合开发面向中国古代植物种子的AI考古系统，分类准确率超过九成。该成果有助于把专家逐粒鉴定转为规模化分析，推动考古植物学与文化遗产数字化。",
+      "source": "岭南大学 / Heritage Science",
+      "url": "https://www.ln.edu.hk/f/lingnanmagazine/121883/LingnanTouch-197.pdf"
+    }
+  ],
+  "finance": [
+    {
+      "title": "美股等非农",
+      "summary": "Investing.com与Benzinga报道，亚洲股市在科技波动中震荡，投资者等待美国就业数据；此前道指上涨约300点，但恐惧与贪婪指数仍在“恐惧”区间。油价和中东风险继续牵动市场。",
+      "source": "Investing.com / Benzinga",
+      "url": "https://www.investing.com/news/stock-market-news/asia-stocks-rise-as-bond-yields-retreat-oil-steadies-us-jobs-data-awaited-4886962"
+    },
+    {
+      "title": "字节贷款扩大",
+      "summary": "每日经济新闻援引第一财经称，字节跳动拟获得约296亿美元银团贷款，规模高于最初200亿美元计划，主要用于一般企业用途。若完成，将成为今年亚洲第二大美元计价银团贷款。",
+      "source": "每日经济新闻 / 第一财经",
+      "url": "https://www.mrjjxw.com/articles/2026-09-03/4572133.html"
+    },
+    {
+      "title": "算力ETF开募",
+      "summary": "界面新闻称，9月4日起8只创业板算力基础设施ETF集体启动募集，覆盖服务器、网络、数据中心和运维等AI基础设施链条。算力主题从个股行情扩展到指数工具，资金配置入口继续增多。",
+      "source": "界面新闻",
+      "url": "https://www.jiemian.com/article/15050829.html"
+    }
+  ],
+  "sources_checked": [
+    "Tavily Search",
+    "中国新闻网",
+    "央视新闻",
+    "BBC中文",
+    "WMO",
+    "工信部",
+    "新华社",
+    "证券时报",
+    "每日经济新闻",
+    "新浪科技",
+    "Downdetector",
+    "科普中国",
+    "Nature Medicine",
+    "岭南大学",
+    "Heritage Science",
+    "Investing.com",
+    "Benzinga",
+    "界面新闻"
+  ]
+}
