@@ -1,0 +1,136 @@
+{
+  "date": "2026-09-08",
+  "created_by": "Tomato 🍅",
+  "international": [
+    {
+      "title": "伊核核查受阻",
+      "summary": "VOA今日焦点称，国际原子能机构表示无法核实伊朗核能状况，美军也驳斥伊朗袭击美国船只说法。美伊围绕海湾安全和核问题继续互相施压，霍尔木兹航运与能源市场不确定性上升。",
+      "source": "VOA中文",
+      "url": "https://www.voachinese.com/a/voatoday-20260907/8195198.html"
+    },
+    {
+      "title": "俄乌重启斡旋",
+      "summary": "RFI报道，泽连斯基在会见美国特使维特科夫、库什纳后称正筹备后续会谈。美国试图恢复俄乌外交进程，但领土、安全保障和冬季战事仍是难点，停火前景仍偏谨慎。",
+      "source": "RFI法广",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260907-%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E4%B8%8E%E7%BE%8E%E5%9B%BD%E7%89%B9%E4%BD%BF%E4%BC%9A%E8%B0%88%E5%90%8E%E8%A1%A8%E7%A4%BA%E6%AD%A3%E7%AD%B9%E5%A4%87%E5%90%8E%E7%BB%AD%E8%B0%88%E5%88%A4"
+    },
+    {
+      "title": "德国右翼大胜",
+      "summary": "RFI称，德国选择党在萨克森-安哈尔特州选举中得票接近44%，逼近州级执政门槛。结果冲击德国主流政党，也让法国等欧洲国家警惕极右翼政治在经济焦虑中继续扩张。",
+      "source": "RFI法广",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20260907-%E5%BE%B7%E5%9B%BD%E9%80%89%E6%8B%A9%E5%85%9A%E5%8E%86%E5%8F%B2%E6%80%A7%E5%A4%A7%E8%83%9C%E9%80%BC%E8%BF%91%E5%B7%9E%E7%BA%A7%E6%89%A7%E6%94%BF%EF%BC%8C%E6%B3%95%E5%9B%BD%E6%94%BF%E7%95%8C%E6%8B%89%E5%93%8D%E8%AD%A6%E6%8A%A5"
+    }
+  ],
+  "domestic": [
+    {
+      "title": "平陆运河通航",
+      "summary": "新华社消息，平陆运河将于9月16日建成通航。该工程总投资约727亿元、全长134.2公里，可通航5000吨级船舶，将强化西南地区通江达海通道，影响广西及周边物流格局。",
+      "source": "新华社",
+      "url": "https://www.news.cn/politics/20260907/a0d38cc5fd8349f48d66cde06539015a/c.html"
+    },
+    {
+      "title": "投洽会开幕",
+      "summary": "新华网报道，第二十六届中国国际投资贸易洽谈会9月8日至11日在厦门举办，129个国家和地区客商参会。展会聚焦双向投资与产业合作，成为观察外资信心和地方招商的重要窗口。",
+      "source": "新华网",
+      "url": "http://www.fj.news.cn/20260907/ee071826ff274c95a0d2d49481267869/c.html"
+    },
+    {
+      "title": "硅材料反倾销",
+      "summary": "中新网称，商务部决定自9月8日起对原产于日本的进口二氯二氢硅实施临时反倾销措施。该材料用于芯片薄膜沉积，措施将影响半导体前驱体进口成本和国内供应链议价。",
+      "source": "中新网",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-07/10692078.shtml"
+    }
+  ],
+  "tech": [
+    {
+      "title": "外滩大会预热",
+      "summary": "新浪科技周看点称，2026外滩大会将于9月9日至12日在上海召开，宇树、智元等40余家具身智能企业集中亮相。机器人从演示走向药房、制造、物流等真实场景，产业落地继续加速。",
+      "source": "新浪科技",
+      "url": "https://k.sina.com.cn/article_9171525735_222aa606700103fxq0.html?from=tech&subch=otech"
+    },
+    {
+      "title": "苹果折叠时刻",
+      "summary": "新浪科技梳理称，苹果秋季发布会将于北京时间9月10日凌晨举行，折叠屏iPhone是否亮相成为最大看点。若产品线确认转向折叠形态，供应链、应用适配和高端机竞争会被重新定价。",
+      "source": "新浪科技",
+      "url": "https://k.sina.com.cn/article_9171525735_222aa606700103fxq0.html?from=tech&subch=otech"
+    },
+    {
+      "title": "算力租价上调",
+      "summary": "界面新闻称，英伟达GPU租赁价格多数上涨，国内AI算力需求一季度同比增417%，有效供给增速仅128%。训练芯片、HBM和先进封装瓶颈仍在，推理应用爆发正继续推高算力成本。",
+      "source": "界面新闻 / 新浪财经",
+      "url": "https://cj.sina.cn/articles/view/5182171545/134e1a99902002jc5m"
+    }
+  ],
+  "trending": [
+    {
+      "term": "爱你老己",
+      "desc": "谐音爱你自己，劝人悦己少内耗。"
+    },
+    {
+      "term": "活人感",
+      "desc": "夸人真实不端着，反AI式完美。"
+    },
+    {
+      "term": "偷感很重",
+      "desc": "形容小心翼翼、总怕打扰别人。"
+    },
+    {
+      "term": "预制XX",
+      "desc": "吐槽批量生产、没灵魂的内容或人设。"
+    },
+    {
+      "term": "奥德赛时期",
+      "desc": "借史诗漂泊，形容人生过渡迷茫期。"
+    }
+  ],
+  "research": [
+    {
+      "title": "无激光显微",
+      "summary": "科学网《自然》论文导读称，研究者提出RIED发光反应超分辨成像框架，实现约100纳米分辨率，并完成41小时线粒体转移动力学连续成像。该方法可减少外部光激发限制，拓展活细胞观测。",
+      "source": "科学网 / Nature",
+      "url": "https://news.sciencenet.cn/htmlnews/2026/9/570951.shtm"
+    },
+    {
+      "title": "AI科研闭环",
+      "summary": "澎湃新闻介绍世界模型驱动AI for Science范式，强调模型预测、实验设计、自动执行、结果观测和模型更新形成闭环。若数据飞轮跑通，科学研发将从一次性建模转向持续反馈系统。",
+      "source": "澎湃新闻",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34009836"
+    }
+  ],
+  "finance": [
+    {
+      "title": "美联储升息预期",
+      "summary": "Fortune称，华尔街把9月美联储加息预期前移，因美国就业数据强于预期、通胀仍高于2%目标。下一份CPI将影响9月16日会议决定，美元利率路径再度牵动全球资产定价。",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/09/07/wall-street-hike-expectations-kevin-warsh-fed-trump/"
+    },
+    {
+      "title": "隔夜油价上涨",
+      "summary": "新浪财经隔夜要闻称，美国劳动节休市，美股期货清淡下跌，油价上涨令投资者谨慎。海湾局势、伊朗通道风险和贸易摩擦交织，能源价格对通胀和央行政策的扰动继续放大。",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/world/2026-09-08/doc-iniracmk5012197.shtml"
+    },
+    {
+      "title": "芯片股带动亚股",
+      "summary": "AP报道，全球股市周一表现分化，东京和首尔基准指数受芯片制造商买盘推动领涨。AI算力链仍是亚洲市场主线，但欧洲股市受油价和个股拖累，全球风险偏好并不均衡。",
+      "source": "AP / The Sun Chronicle",
+      "url": "https://www.thesunchronicle.com/business/global-shares-are-mixed-as-chipmaker-shares-rally-in-tokyo-and-seoul/article_ec054cff-dc96-5e93-a514-69fe7278f320.html"
+    }
+  ],
+  "sources_checked": [
+    "Tavily Search",
+    "VOA中文",
+    "RFI法广",
+    "新华社",
+    "新华网",
+    "中新网",
+    "新浪科技",
+    "界面新闻",
+    "科学网",
+    "Nature",
+    "澎湃新闻",
+    "Fortune",
+    "新浪财经",
+    "AP"
+  ]
+}
