@@ -1,0 +1,140 @@
+{
+  "date": "2026-09-09",
+  "created_by": "Tomato 🍅",
+  "international": [
+    {
+      "title": "巴黎空间峰会",
+      "summary": "RFI报道，法国和德国9月9日至10日在巴黎举办国际空间峰会，120国代表及千余家航天企业参会。美国多家航天巨头抵制、德意领导人缺席，凸显欧美在太空自主、安全卫星和频率规则上的分歧。",
+      "source": "RFI法广",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260908-%E9%A9%AC%E5%85%8B%E9%BE%99%E5%9C%A8%E5%B7%B4%E9%BB%8E%E5%8A%9E%E5%9B%BD%E9%99%85%E7%A9%BA%E9%97%B4%E5%B3%B0%E4%BC%9A%EF%BC%8C%E7%BE%8E%E7%A7%91%E6%8A%80%E5%B7%A8%E5%A4%B4%E6%8A%B5%E5%88%B6-%E5%BE%B7%E6%84%8F%E6%80%BB%E7%90%86%E7%BC%BA%E5%B8%AD"
+    },
+    {
+      "title": "定居点制裁",
+      "summary": "英法加宣布拟叫停与约旦河西岸以色列定居点的商贸往来，约10国表示跟进。以色列反制关闭英国驻东耶路撒冷领馆并限制英方政要入境，巴以两国方案和欧美中东政策裂痕继续扩大。",
+      "source": "RFI法广",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20260908-%E8%8B%B1%E6%B3%95%E5%8A%A0%E5%88%B6%E8%A3%81%E4%BB%A5%E8%89%B2%E5%88%97%E5%AE%9A%E5%B1%85%E7%82%B9%E5%95%86%E8%B4%B8%EF%BC%8C10%E5%9B%BD%E8%B7%9F%E8%BF%9B%EF%BC%8C%E4%BB%A5%E5%85%B3%E9%97%AD%E8%8B%B1%E9%A2%86%E9%A6%86-%E7%A6%81%E8%8B%B1%E6%94%BF%E8%A6%81%E5%85%A5%E5%A2%83"
+    },
+    {
+      "title": "基辅再遭空袭",
+      "summary": "美国特使结束访问后，俄军恢复对基辅的大规模空袭，造成死伤并损毁民宅、学校和物流设施。乌方称莫斯科以导弹回应外交，英方则宣布追加防空援助，俄乌谈判窗口再度承压。",
+      "source": "RFI法广",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E8%A7%A3%E8%AF%B4/20260908-%E4%BF%84%E5%86%9B%E6%81%A2%E5%A4%8D%E7%A9%BA%E8%A2%AD%E5%9F%BA%E8%BE%85-%E5%92%8C%E5%B9%B3%E8%B0%88%E5%88%A4%E5%89%8D%E6%99%AF%E5%86%8D%E6%B7%BB%E5%8F%98%E6%95%B0"
+    }
+  ],
+  "domestic": [
+    {
+      "title": "服贸会开幕",
+      "summary": "2026年服贸会今日在北京首钢园开幕，约90个国家、地区和国际组织设展办会，1800余家企业线下参展。大会首设“中国服务”案例展区，集中呈现AI、医疗、出海服务等新供给。",
+      "source": "中华工商时报 / 新浪财经",
+      "url": "https://finance.sina.com.cn/jjxw/2026-09-09/doc-inireaan4284767.shtml"
+    },
+    {
+      "title": "出口再提速",
+      "summary": "海关数据显示，中国8月出口同比增长25%，进口增长28.2%，贸易顺差达1191亿美元。汽车、高科技和AI相关产品拉动外需，但外媒称内需偏弱背景下，贸易伙伴摩擦压力也会增加。",
+      "source": "AP / Reuters",
+      "url": "https://apnews.com/article/china-trade-exports-digital-trump-jinping-77c208d1f62270bba66b8241b1b14a4c"
+    },
+    {
+      "title": "中日芯材摩擦",
+      "summary": "日本抗议中国对日本产二氯二氢硅征收80.8%至99.2%临时反倾销保证金。该材料用于半导体薄膜沉积，直接贸易规模有限，但在台海表态、出口管制背景下象征意义更强。",
+      "source": "VOA中文",
+      "url": "https://www.voachinese.com/a/china-slaps-new-measures-against-its-exports-of-a-key-chipmaking-material-from-japan-20260908/8195565.html"
+    }
+  ],
+  "tech": [
+    {
+      "title": "算力仍紧缺",
+      "summary": "财联社报道，AI云厂商IREN称全球算力供给曲线很难追上需求。高盛预计美国数据中心容量到2030年将超过2024年的三倍，英伟达、新云和电力基础设施的绑定还会继续加深。",
+      "source": "财联社 / 新浪财经",
+      "url": "https://finance.sina.com.cn/stock/t/2026-09-09/doc-inirehkk4166000.shtml"
+    },
+    {
+      "title": "光互联首发",
+      "summary": "CIOE 2026今日在深圳开幕，华工科技将展示3.2T CPO、6.4T NPO和12.8T XPO液冷光模块。AI智算中心正推高带宽、功耗和散热要求，光互联路线进入密集验证期。",
+      "source": "华工科技 / 新浪看点",
+      "url": "https://k.sina.com.cn/article_5953189932_162d6782c06704xk3a.html?from=tech"
+    },
+    {
+      "title": "芯片出口翻倍",
+      "summary": "海关总署数据显示，今年1至8月中国集成电路出口额达2567.51亿美元，同比增长103.9%。全球AI数据中心扩张和存储价格上行成为核心驱动，芯片已成外贸结构里的强势品类。",
+      "source": "TV BRICS / 环球时报",
+      "url": "https://tvbrics.com/cn/news/china-s-integrated-circuit-exports-increased-by-103-9-in-eight-months"
+    }
+  ],
+  "trending": [
+    {
+      "term": "活人感",
+      "desc": "夸人真实不端着，反预制、反AI味。"
+    },
+    {
+      "term": "夯爆了",
+      "desc": "闽南语味夸张表达，形容超火超炸。"
+    },
+    {
+      "term": "背手负鼠",
+      "desc": "形容局促旁观、像负鼠背手发呆。"
+    },
+    {
+      "term": "大脑降噪",
+      "desc": "指少刷少想，让脑子从信息噪声里安静。"
+    },
+    {
+      "term": "花学考古",
+      "desc": "重看《花少2》名场面，复盘人际细节。"
+    }
+  ],
+  "research": [
+    {
+      "title": "八字母DNA",
+      "summary": "UC San Diego团队在Nature Communications等研究中显示，大肠杆菌RNA聚合酶可准确读取八字母扩展遗传字母表。该发现为合成生物学、诊断和工程化细胞系统提供分子基础。",
+      "source": "UC San Diego / Nature Communications",
+      "url": "https://today.ucsd.edu/story/breakthrough-helps-expand-genetic-alphabet"
+    },
+    {
+      "title": "AI预防偏见",
+      "summary": "American University PERIL实验显示，短视频式“预防性辟谣”能提升用户识别反犹内容操纵手法的能力。6000多名受试者测试中，效果可持续四周以上，或可迁移到更多仇恨叙事治理。",
+      "source": "American University / Newswise",
+      "url": "https://www.newswise.com/articles/groundbreaking-american-university-research-uses-ai-for-breakthrough-in-addressing-online-antisemitism"
+    }
+  ],
+  "finance": [
+    {
+      "title": "油价压美股",
+      "summary": "中东紧张升级推高油价，布伦特一度逼近100美元，华尔街股指承压。投资者担心能源涨价推升通胀并影响美联储利率决定，短债收益率上行，风险资产情绪明显降温。",
+      "source": "Bloomberg / MarketWatch",
+      "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-oil-prices-war-in-iran-escalates-steady-start"
+    },
+    {
+      "title": "A股小幅走高",
+      "summary": "路透报道，中国股市周二小幅上涨，农业、能源和黄金板块抵消科技股疲弱。中央农村振兴资金安排提振农业股，油价上涨推高能源股，但港股受中东局势影响偏弱。",
+      "source": "Reuters / Economic Times",
+      "url": "https://m.economictimes.com/markets/us-stocks/news/global-market-china-stocks-edge-higher-as-agriculture-energy-and-gold-shares-offset-tech-weakness/articleshow/133910045.cms"
+    },
+    {
+      "title": "韩国GDP稳增",
+      "summary": "韩国央行确认二季度实际GDP环比增长0.6%，出口、知识产权投资和消费共同支撑。若下半年环比维持0.2%至0.3%，全年增速有望达3.3%，人均GNI可能突破4万美元。",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-09/10692979.shtml"
+    }
+  ],
+  "sources_checked": [
+    "Tavily Search",
+    "RFI法广",
+    "VOA中文",
+    "AP",
+    "Reuters",
+    "中华工商时报",
+    "新浪财经",
+    "财联社",
+    "华工科技",
+    "TV BRICS",
+    "环球时报",
+    "UC San Diego",
+    "Nature Communications",
+    "American University",
+    "Newswise",
+    "Bloomberg",
+    "MarketWatch",
+    "中国新闻网"
+  ]
+}
