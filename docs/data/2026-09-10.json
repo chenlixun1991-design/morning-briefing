@@ -1,0 +1,135 @@
+{
+  "date": "2026-09-10",
+  "created_by": "Tomato 🍅",
+  "international": [
+    {
+      "title": "美伊战事表态",
+      "summary": "美国总统特朗普称，美伊战事可能在11月中期选举后立即结束；与此同时，霍尔木兹附近袭船与油轮打击推高布伦特油价至100美元上方，能源通胀和美国选情压力同步升温。",
+      "source": "RFI法广",
+      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260909-%E7%89%B9%E6%9C%97%E6%99%AE-%E7%BE%8E%E4%BC%8A%E6%88%98%E4%BA%89%E5%B0%86%E5%9C%A8%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E5%90%8E-%E7%AB%8B%E5%8D%B3%E7%BB%93%E6%9D%9F-%EF%BC%8C%E6%B2%B9%E4%BB%B7%E4%B9%9F%E4%BC%9A%E5%A4%A7%E5%B9%85%E4%B8%8B%E8%B7%8C"
+    },
+    {
+      "title": "台海风险警告",
+      "summary": "美国在台协会处长在台北安全对话表示，台海冲突对全球经济冲击或超过二战，并称即将到来的美中领导人会晤是避免误判的契机。台湾防务投入、海上安全与区域威慑再成焦点。",
+      "source": "VOA中文",
+      "url": "https://www.voachinese.com/a/trump-xi-summit-an-opportunity-to-avoid-miscalculations-in-taiwan-strait-top-us-diplomat-in-taiwan-20260909/8196160.html"
+    },
+    {
+      "title": "以斯使馆开馆",
+      "summary": "以色列在斯洛文尼亚开设首个常驻大使馆，并签署多项合作备忘录。此举发生在英法加等国加压以色列定居点政策之际，显示欧洲内部对中东政策的分化继续扩大。",
+      "source": "RFI法广",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260909-%E5%A4%96%E4%BA%A4%E5%8E%8B%E5%8A%9B%E6%B8%90%E5%A2%9E%EF%BC%8C%E4%BB%A5%E8%89%B2%E5%88%97%E5%8E%86%E5%8F%B2%E6%80%A7%E5%9C%A8%E6%96%AF%E6%B4%9B%E6%96%87%E5%B0%BC%E4%BA%9A%E5%BC%80%E9%A6%96%E4%B8%AA%E5%B8%B8%E9%A9%BB%E5%A4%A7%E4%BD%BF%E9%A6%86"
+    }
+  ],
+  "domestic": [
+    {
+      "title": "服贸会开幕",
+      "summary": "2026年服贸会在北京首钢园开幕，90个国家和国际组织设展办会，1800余家企业线下参展。大会突出数字、绿色和智慧服务，中国服务从本土验证走向海外落地的信号更清晰。",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/4178883.html"
+    },
+    {
+      "title": "新职业发布",
+      "summary": "人社部等部门发布11个新职业和23个新工种，涵盖数字孪生、具身智能机器人、氢燃料电池、低空物流等方向。官方职业目录更新将影响职业教育、培训补贴和新产业用工标准。",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-09/10693222.shtml"
+    },
+    {
+      "title": "上海生育减负",
+      "summary": "上海10月1日起提升生育医疗费用保障，产检服务包先用4500元补贴，政策内分娩住院费用由生育保险支付，居民医保人群和未就业配偶同步覆盖，生育友好政策继续加码。",
+      "source": "上观新闻 / 上海医保",
+      "url": "https://chyyyygl.com/yiyuanfabu/10154.html"
+    }
+  ],
+  "tech": [
+    {
+      "title": "OpenAI三星造芯",
+      "summary": "OpenAI韩国负责人称，公司与三星电子在下一代AI芯片研发和联合生产上取得重大进展。继与博通定制芯片后，OpenAI继续向底层算力延伸，AI供应链竞争进入更深层。",
+      "source": "每日经济新闻",
+      "url": "https://www.mrjjxw.com/articles/2026-09-09/4577054.html"
+    },
+    {
+      "title": "苹果折叠亮相",
+      "summary": "苹果发布首款折叠屏iPhone Duo，国行起售价15999元，10月23日正式发售，同时推出iPhone 18 Pro系列和新Siri AI。折叠屏高端化、AI落地速度将影响手机产业链预期。",
+      "source": "每日经济新闻",
+      "url": "https://www.nbd.com.cn/articles/2026-09-10/4577432.html"
+    },
+    {
+      "title": "智元感控模型",
+      "summary": "智元发布AGILE2.0感控一体模型，尝试让人形机器人从分段控制走向边看边想边动。端到端运动控制若能通过真实场景验证，将加速具身智能从演示走向产线和服务现场。",
+      "source": "每日经济新闻",
+      "url": "https://www.mrjjxw.com/articles/2026-09-09/4577054.html"
+    }
+  ],
+  "trending": [
+    {
+      "term": "人咪读不懂牌子",
+      "desc": "猫看警示牌配文，装傻式吐槽规则无力感。"
+    },
+    {
+      "term": "爱你老己",
+      "desc": "自己谐音梗，表示先宠自己、拒绝内耗。"
+    },
+    {
+      "term": "电子回血",
+      "desc": "靠刷短视频、听歌快速恢复精神电量。"
+    },
+    {
+      "term": "牛市来",
+      "desc": "股民祈福式玩梗，用来求行情别再拉胯。"
+    },
+    {
+      "term": "1%低电量人生",
+      "desc": "形容长期疲惫，只剩最低限度运行。"
+    }
+  ],
+  "research": [
+    {
+      "title": "量子模拟CFT",
+      "summary": "《自然》论文导读显示，研究者在量子模拟器上直接观测量子相变中涌现的共形场论能级谱，并恢复通用能级比。该技术可帮助实验诊断未知普适类，连接凝聚态与高能理论。",
+      "source": "科学网 / Nature",
+      "url": "https://news.sciencenet.cn/htmlnews/2026/9/570951.shtm"
+    },
+    {
+      "title": "光酶新反应",
+      "summary": "《自然》论文导读提到，研究发现PLP光激发中间体可驱动非天然光酶的不对称自由基交叉偶联。该结果拓展了酶催化可形成的化学键类型，为绿色合成和手性分子制造提供新路径。",
+      "source": "科学网 / Nature",
+      "url": "https://news.sciencenet.cn/htmlnews/2026/9/570951.shtm"
+    }
+  ],
+  "finance": [
+    {
+      "title": "美股油价承压",
+      "summary": "美股三大指数集体收跌，道指跌0.77%、纳指跌0.64%、标普500跌0.48%；伊朗战事推高布伦特油价至100美元上方，能源通胀、利率预期和科技权重股波动共同压制风险偏好。",
+      "source": "MarketWatch / 每日经济新闻",
+      "url": "https://www.marketwatch.com/livecoverage/stock-market-today-s-p-500-dow-nasdaq-brent-crude-100-barrel-apple-launch-event"
+    },
+    {
+      "title": "中国通胀回升",
+      "summary": "国家统计局数据显示，8月CPI同比涨0.8%、PPI同比涨3.8%，环比均由降转涨。能源、有色金属和芯片价格推高读数，但核心消费需求仍偏温和，后续通胀传导仍需观察。",
+      "source": "财新网 / 每日经济新闻",
+      "url": "https://economy.caixin.com/2026-09-09/102483042.html"
+    },
+    {
+      "title": "矿企跑输币价",
+      "summary": "The Block称，本轮加密行情中比特币矿企整体跑输BTC，交易所和稳定币相关公司表现更强。电力、设备折旧和算力竞争挤压矿企弹性，市场资金更偏好轻资产交易与结算环节。",
+      "source": "The Block",
+      "url": "https://www.theblock.co/news/markets/2026-09-09-bitcoin-miners-are-missing-the-crypto-rally-as-exchanges-stablecoins-surge-413848"
+    }
+  ],
+  "sources_checked": [
+    "Tavily Search",
+    "RFI法广",
+    "VOA中文",
+    "中国新闻网",
+    "证券时报",
+    "上观新闻",
+    "上海医保",
+    "每日经济新闻",
+    "科学网",
+    "Nature",
+    "财新网",
+    "MarketWatch",
+    "The Block"
+  ]
+}
