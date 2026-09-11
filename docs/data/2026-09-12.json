@@ -1,0 +1,131 @@
+{
+  "date": "2026-09-12",
+  "created_by": "Tomato 🍅",
+  "international": [
+    {
+      "title": "武契奇或辞职",
+      "summary": "塞尔维亚总统武契奇11日称，可能在9月25日或26日宣布辞去总统职务。若成行，塞尔维亚将进入权力交接窗口，巴尔干政治稳定和欧盟、俄方关系走向都会受到关注。",
+      "source": "澎湃新闻",
+      "url": "https://m.thepaper.cn/newsDetail_forward_34054765"
+    },
+    {
+      "title": "尹锡悦获无罪",
+      "summary": "韩国首尔中央地方法院11日就尹锡悦涉嫌使犯罪嫌疑人逃避司法追究案作出一审判决，判处无罪。判决可能继续牵动韩国政坛攻防，也让后续司法程序和舆论分化升温。",
+      "source": "澎湃新闻",
+      "url": "https://m.thepaper.cn/newsDetail_forward_34054765"
+    },
+    {
+      "title": "缅机场遭袭",
+      "summary": "缅甸曼德勒国际机场及周边区域10日遭6架第一视角无人机袭击，官方称防空系统拦截且无人伤亡，部分航班暂时停飞。事件显示缅甸冲突对航空安全和区域通行的外溢风险仍在。",
+      "source": "澎湃新闻",
+      "url": "https://m.thepaper.cn/newsDetail_forward_34054765"
+    }
+  ],
+  "domestic": [
+    {
+      "title": "商务部回应CIA",
+      "summary": "美国中情局副局长公开称美方正对中国及中国企业开展更广泛间谍活动，商务部11日回应，要求美方停止损害中国主权、安全和发展利益。事件把企业安全与反间谍合规再次推到前台。",
+      "source": "澎湃新闻",
+      "url": "https://m.thepaper.cn/newsDetail_forward_34054765"
+    },
+    {
+      "title": "日签证费上调",
+      "summary": "中国驻日本大使馆发布消息称，根据签证费对等安排，自9月14日起调整日本公民赴华签证规费。该调整影响赴华商务、旅游与探亲成本，也释放对等外交管理信号。",
+      "source": "澎湃新闻",
+      "url": "https://m.thepaper.cn/newsDetail_forward_34054765"
+    },
+    {
+      "title": "两虎被双开",
+      "summary": "中央纪委国家监委11日消息，新疆生产建设兵团原党委常委、副司令员李旭，甘肃省委原常委、省政府原副省长雷思维被“双开”。高压反腐延续，地方权力生态整肃继续推进。",
+      "source": "澎湃新闻",
+      "url": "https://m.thepaper.cn/newsDetail_forward_34054765"
+    }
+  ],
+  "tech": [
+    {
+      "title": "医疗AI落地难",
+      "summary": "科技日报报道，多位专家指出，医疗AI从实验室到医院效果下滑，主因是疾病机理认知不足、标注数据稀缺、医院数据孤岛和流程不适配。监管、可解释性与临床责任边界仍是落地关键。",
+      "source": "科技日报",
+      "url": "https://www.stdaily.com/web/gdxw/2026-09/11/content_579212.html"
+    },
+    {
+      "title": "英伟达被查",
+      "summary": "36氪援引外媒称，美国司法部正在调查英伟达是否通过与AI芯片初创公司Groq的交易规避反垄断审查。算力供应链并购、授权和人才吸纳模式，正面临更强监管审视。",
+      "source": "36氪",
+      "url": "https://www.36kr.com/p/3978247601601280"
+    },
+    {
+      "title": "台积电提速",
+      "summary": "36氪消息称，台积电中科扩建二期1.4纳米建厂加速，第一座厂预计明年4月试机、下半年有望量产。若进度提前，先进制程竞赛与AI芯片产能预期将继续被上修。",
+      "source": "36氪",
+      "url": "https://www.36kr.com/p/3978247601601280"
+    }
+  ],
+  "trending": [
+    {
+      "term": "嘉豪",
+      "desc": "老梗翻红，指魔性人设被反复二创。"
+    },
+    {
+      "term": "崩铁摇一摇",
+      "desc": "联动小曲出圈，用来配节奏卡点。"
+    },
+    {
+      "term": "拿钱挡灾",
+      "desc": "催债玩梗，调侃借钱后要讲义气。"
+    },
+    {
+      "term": "成为中国人",
+      "desc": "外网羡慕式梗，夸中国生活便利。"
+    },
+    {
+      "term": "后天努力",
+      "desc": "摆烂文学，今天明天先休息。"
+    }
+  ],
+  "research": [
+    {
+      "title": "PCSK9基因疗法",
+      "summary": "ScienceDaily报道，巴塞罗那大学团队设计DNA疗法靶向PCSK9，在人肝细胞中使PCSK9蛋白下降87%，单次注射令小鼠胆固醇下降47%。若后续安全有效，或为降脂药提供新路线。",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260909225602.htm"
+    },
+    {
+      "title": "OpenAI证题",
+      "summary": "Scientific American报道，OpenAI称其内部模型证明Navier-Stokes方程会在罕见情况下“爆破”，并用Lean完成形式化认证。数学界仍在审查证明来源与影响，AI科研治理争议升温。",
+      "source": "Scientific American",
+      "url": "https://www.scientificamerican.com/article/openai-claims-blockbuster-math-breakthrough-amid-swirl-of-controversy"
+    }
+  ],
+  "finance": [
+    {
+      "title": "美CPI推升加息",
+      "summary": "MarketWatch直播称，美国8月CPI公布后，2年期美债收益率跳升，市场对美联储下周加息概率一度升至84%。通胀粘性叠加能源价格波动，使股债市场继续围绕利率重新定价。",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/livecoverage/stock-market-today-s-p-500-dow-nasdaq-consumer-inflation-data-cpi-report-august-oil-prices"
+    },
+    {
+      "title": "封测利润分化",
+      "summary": "新浪财经转引《中国经营报》称，长电科技、通富微电和盛合晶微上半年受益AI算力与存储景气，但利润增速与毛利率分化。先进封装正从后道配套变为延续芯片性能的关键环节。",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/jjxw/2026-09-12/doc-inirnxpu7105700.shtml"
+    },
+    {
+      "title": "A股分红新高",
+      "summary": "36氪援引中国上市公司协会数据称，2025财务年度A股上市公司现金分红总额达2.4万亿元，同比增长3.3%，创历史新高。分红常态化有助于提升长期资金配置意愿。",
+      "source": "36氪",
+      "url": "https://www.36kr.com/p/3978247601601280"
+    }
+  ],
+  "sources_checked": [
+    "Tavily Search",
+    "澎湃新闻",
+    "中国新闻网",
+    "科技日报",
+    "36氪",
+    "ScienceDaily",
+    "Scientific American",
+    "MarketWatch",
+    "新浪财经"
+  ]
+}
