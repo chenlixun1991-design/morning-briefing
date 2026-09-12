@@ -1,0 +1,133 @@
+{
+  "date": "2026-09-13",
+  "created_by": "Tomato 🍅",
+  "international": [
+    {
+      "title": "曼德海峡告急",
+      "summary": "也门胡塞武装夺取曼德海峡附近据点，并称打击沙特军事设施；霍尔木兹通航磋商将启，油价从百美元上方回落但中东航运风险仍高。",
+      "source": "中国新闻网 / 央视新闻",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-13/10695508.shtml"
+    },
+    {
+      "title": "沙特管道遇袭",
+      "summary": "沙特关闭绕开霍尔木兹的东西向输油管道后，伊拉克紧急调查疑似源自境内的无人机袭击；海湾国家谴责事件，市场担心原油供给再受冲击。",
+      "source": "VOA中文",
+      "url": "https://www.voachinese.com/a/iraq-investigates-the-attack-on-saudi-key-oil-pipeline-20260912/8197373.html"
+    },
+    {
+      "title": "中印峰会修复",
+      "summary": "莫迪与习近平在新德里金砖峰会期间会晤，双方重申边境和平和扩大经贸往来；关系虽逐步恢复，但贸易不平衡、供应链与边界争端仍是核心难题。",
+      "source": "VOA中文",
+      "url": "https://www.voachinese.com/a/modi-and-xi-jinping-met-on-sidelines-of-bricks-summit-20260912/8197386.html"
+    }
+  ],
+  "domestic": [
+    {
+      "title": "央行连续补水",
+      "summary": "央行将于9月14日至17日连续开展隔夜逆回购，每日不超6000亿元，以应对国债发行、缴税走款等扰动；短端流动性调控更趋精细化。",
+      "source": "每日经济新闻",
+      "url": "https://www.mrjjxw.com/articles/2026-09-12/4579932.html"
+    },
+    {
+      "title": "农险体系提速",
+      "summary": "财政部等四部门印发农业保险高质量发展方案，提出到2030年基本建成多层次农业保险体系；政策将覆盖更多农业风险，强化农户和产业保障。",
+      "source": "每日经济新闻",
+      "url": "https://www.mrjjxw.com/articles/2026-09-12/4579932.html"
+    },
+    {
+      "title": "算力大会开幕",
+      "summary": "2026中国算力大会在河北廊坊开幕，全国一体化算力统筹监测成果集中发布；院士预计中国算力占全球比重有望在2030年提升至30%。",
+      "source": "每日经济新闻 / 新华社",
+      "url": "https://www.mrjjxw.com/articles/2026-09-12/4579932.html"
+    }
+  ],
+  "tech": [
+    {
+      "title": "苹果18预售",
+      "summary": "iPhone 18 Pro系列开启预售，海外起售价1199美元，9月18日发货；部分机型交付时间拉长，运营商高额以旧换新继续推高高端机竞争。",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/09/12/iphone-18-pro-available-to-pre-order/"
+    },
+    {
+      "title": "AI创业降门槛",
+      "summary": "工信部人工智能中小企业创业支持计划受到关注，行业评论称模型、工具链和算力服务正在降低创业门槛；但同质化、数据合规和商业化仍是分水岭。",
+      "source": "新浪科技",
+      "url": "https://tags.sina.com.cn/film_aiartificialintelligence"
+    },
+    {
+      "title": "光子产业加速",
+      "summary": "中关村科学城光子产业生态大会发布多材料体系光量子芯片中试平台与产业加速赛事，显示光子芯片从实验室向工程化、产业链协同迈进。",
+      "source": "新浪科技",
+      "url": "https://tags.sina.com.cn/film_aiartificialintelligence"
+    }
+  ],
+  "trending": [
+    {
+      "term": "夯爆了",
+      "desc": "台湾感叹词变热梗，形容很火很厉害。"
+    },
+    {
+      "term": "背手负鼠",
+      "desc": "用动物姿态代指淡定围观、装老成。"
+    },
+    {
+      "term": "大脑降噪",
+      "desc": "指屏蔽信息噪声，让脑子清静一下。"
+    },
+    {
+      "term": "包的",
+      "desc": "来自口语承诺，表示这事稳了没问题。"
+    },
+    {
+      "term": "人麻了",
+      "desc": "高频情绪词，表示累到无语或震住。"
+    }
+  ],
+  "research": [
+    {
+      "title": "科学信任线索",
+      "summary": "Nature报道英国研究发现，公众更信任被认为“站在自己一边”的科学家；这提示气候、医疗和AI沟通不能只靠权威，还要让受众感到被理解。",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-02883-w"
+    },
+    {
+      "title": "纤毛结构新图",
+      "summary": "Science最新论文用原位冷冻电镜解析纤毛过渡区结构和蛋白组成，帮助解释运动纤毛病的分子基础；该方向或推动遗传病诊断和靶向治疗研究。",
+      "source": "Science",
+      "url": "https://www.science.org/toc/science/0/0"
+    }
+  ],
+  "finance": [
+    {
+      "title": "美联储升温",
+      "summary": "美国最新CPI和PPI读数令9月加息预期升至高位，美债收益率一度上行；投资者重新评估科技股估值、能源通胀和年内第二次加息概率。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/12/stocks-stumble-on-inflation-fears-but-2-names-give-us-reasons-to-stay-bullish.html"
+    },
+    {
+      "title": "油价牵动市场",
+      "summary": "沙特东西向输油管道因袭击预防性关闭，叠加霍尔木兹紧张局势，油价上周大幅波动；若能源成本继续上行，将加大通胀和利率决策压力。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/video/2026/09/12/the-look-ahead-september-11-2026.html"
+    },
+    {
+      "title": "短端流动性稳",
+      "summary": "央行连续安排隔夜逆回购被解读为税期和国债发行前的精准补水，对银行负债成本和资金面预期有稳定作用；普通存贷利率短期不一定直接变化。",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-12/10695315.shtml"
+    }
+  ],
+  "sources_checked": [
+    "Tavily Search",
+    "中国新闻网",
+    "央视新闻",
+    "VOA中文",
+    "每日经济新闻",
+    "新华社",
+    "MacRumors",
+    "新浪科技",
+    "Nature",
+    "Science",
+    "CNBC"
+  ]
+}
