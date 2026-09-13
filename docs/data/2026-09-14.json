@@ -1,0 +1,135 @@
+{
+  "date": "2026-09-14",
+  "created_by": "Tomato 🍅",
+  "international": [
+    {
+      "title": "霍海货轮遇袭",
+      "summary": "一艘伊朗货轮在霍尔木兹海峡格什姆岛附近遇袭，伊朗媒体称造成1死4伤；叠加胡塞武装扩大红海行动，全球能源运输和油价风险再度升温。",
+      "source": "VOA中文",
+      "url": "https://www.voachinese.com/a/strike-on-iranian-cargo-ship-in-strait-of-hormuz-kills-1-say-iranian-media-20260913/8197581.html"
+    },
+    {
+      "title": "油路会议推迟",
+      "summary": "阿曼方面称原定14日举行的地区会议延期，市场同时关注沙特管道关闭和霍尔木兹临时航道安排；中东航运不确定性推高原油和通胀预期。",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-14/doc-inirtwih7291183.shtml?finpagefr=p_108"
+    },
+    {
+      "title": "金砖中国年",
+      "summary": "中国将于明年接任金砖主席国并主办领导人会晤，多国人士表达期待；金砖扩员后议题更广，中国主场将影响全球南方合作和经贸议程。",
+      "source": "新华社 / 秦皇岛新闻网",
+      "url": "https://www.qhdnews.com/content/202609/13/c72613.html"
+    }
+  ],
+  "domestic": [
+    {
+      "title": "明珠星座启动",
+      "summary": "上海启动“明珠星座计划”，目标建设吉瓦级天基计算星座，推动智能算力向近地轨道延伸；若进展顺利，将带动卫星、能源和算力网络产业链。",
+      "source": "每日经济新闻",
+      "url": "https://www.mrjjxw.com/articles/2026-09-13/4580135.html"
+    },
+    {
+      "title": "健康中国发布会",
+      "summary": "国新办定于14日上午举行“十五五”系列主题发布会，介绍推动健康中国建设取得决定性进展情况；市场关注医疗、疾控和中医药政策方向。",
+      "source": "第一财经",
+      "url": "https://www.yicai.com/live/103362036.html"
+    },
+    {
+      "title": "算力金融加码",
+      "summary": "中国银行联合多家生态伙伴启动“一网三融”算力金融行动，计划为算力产业链提供不少于3000亿元支持；智算中心融资与跨区域协同将提速。",
+      "source": "每日经济新闻",
+      "url": "https://www.mrjjxw.com/articles/2026-09-13/4580135.html"
+    }
+  ],
+  "tech": [
+    {
+      "title": "三星落子横滨",
+      "summary": "三星在日本横滨设立AI半导体先进封装研发设施，计划与50多家日本企业合作；日韩科技合作升温，也反映先进封装成为AI芯片竞争关键。",
+      "source": "联合早报 / 亚视新闻",
+      "url": "https://atvnewsonline.com/world/%E4%B8%89%E6%98%9F%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%85%A5%E9%A9%BB%E6%A8%AA%E6%BB%A8-%E6%97%A5%E9%9F%A9%E6%B7%B1%E5%8C%96%E7%A7%91%E6%8A%80%E5%90%88%E4%BD%9C"
+    },
+    {
+      "title": "国产AI芯片放量",
+      "summary": "多家国产AI芯片公司上半年营收高增，部分企业半年收入已超过去年全年；需求从训练扩展到推理，芯片厂商正从卖卡转向系统化交付。",
+      "source": "澎湃新闻",
+      "url": "https://m.thepaper.cn/newsDetail_forward_34060388"
+    },
+    {
+      "title": "AMD升至第三",
+      "summary": "TrendForce数据显示，AMD二季度超越高通，成为全球第三大无晶圆厂半导体公司；AI服务器和高性能计算需求继续重塑芯片设计格局。",
+      "source": "快科技",
+      "url": "https://news.mydrivers.com/1/1150/1150819.htm"
+    }
+  ],
+  "trending": [
+    {
+      "term": "我token没了",
+      "desc": "把AI额度借喻精力耗尽，常用于喊累。"
+    },
+    {
+      "term": "CPU冒烟",
+      "desc": "形容信息量太大，脑子快过载。"
+    },
+    {
+      "term": "文字失语症",
+      "desc": "指热梗用多后，正式表达变困难。"
+    },
+    {
+      "term": "夯爆了",
+      "desc": "来自台湾口语，表示非常火很厉害。"
+    },
+    {
+      "term": "背手负鼠",
+      "desc": "用动物姿态代指淡定围观、装老成。"
+    }
+  ],
+  "research": [
+    {
+      "title": "AI药物抗衰",
+      "summary": "英矽智能与多所高校团队在《自然·生物技术》发表研究，称Rentosertib IIa期数据在6种蛋白质组衰老时钟上显示年龄逆转信号。",
+      "source": "Nature Biotechnology / 美通社",
+      "url": "https://www.aol.com/articles/%E8%87%AA%E7%84%B6-%E7%94%9F%E7%89%A9%E6%8A%80%E6%9C%AF-%E8%8B%B1%E7%9F%BD%E6%99%BA%E8%83%BDai%E5%88%9B%E6%96%B0%E8%8D%AFrentosertib%E5%B1%95%E7%8E%B0%E6%8A%97%E8%A1%B0%E6%BD%9C%E5%8A%9B-6%E5%A4%A7%E8%A1%B0%E8%80%81%E6%97%B6%E9%92%9F-%E8%87%B4%E8%AF%81%E5%AE%9E%E4%B8%B4%E5%BA%8A%E7%94%9F%E7%89%A9%E5%AD%A6%E5%B9%B4%E9%BE%84%E9%80%86%E8%BD%AC-003000000.html"
+    },
+    {
+      "title": "研究者用AI",
+      "summary": "Springer Nature面向研究人员更新AI使用方针和培训，强调数据分析、代码验证、敏感信息保护和记录透明；科研AI应用正从尝鲜进入规范期。",
+      "source": "Springer Nature",
+      "url": "https://www.springernature.com/jp/news/20260911-pr-ai-policy-update-jp/53703298"
+    }
+  ],
+  "finance": [
+    {
+      "title": "美联储周临近",
+      "summary": "美国股市本周焦点转向美联储议息，市场押注加息概率接近九成；若声明偏鸽，长端利率压力或缓和，但能源和通胀仍牵动风险资产。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/13/here-are-the-2-big-things-were-watching-in-this-weeks-stock-market.html"
+    },
+    {
+      "title": "德企加码中国",
+      "summary": "路透援引德国经济研究所研究称，德国企业上半年对华投资增加三分之一、对美投资下降；产业链和市场预期变化，可能影响跨国资本布局。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/german-firms-lift-china-investment-us-outlays-fall-iw-study-shows-2026-09-13/"
+    },
+    {
+      "title": "地产并购调整",
+      "summary": "建发物业终止收购建发城服股权，改为托管，并以3.04亿元收购联发物业；物管行业通过轻资产托管和内部整合寻求规模与现金流平衡。",
+      "source": "每日经济新闻",
+      "url": "https://www.mrjjxw.com/articles/2026-09-13/4580182.html"
+    }
+  ],
+  "sources_checked": [
+    "Tavily Search",
+    "VOA中文",
+    "新浪财经",
+    "新华社",
+    "每日经济新闻",
+    "第一财经",
+    "联合早报",
+    "澎湃新闻",
+    "快科技",
+    "Nature Biotechnology",
+    "Springer Nature",
+    "CNBC",
+    "Reuters"
+  ]
+}
