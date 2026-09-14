@@ -1,0 +1,132 @@
+{
+  "date": "2026-09-15",
+  "created_by": "Tomato 🍅",
+  "international": [
+    {
+      "title": "俄乌能源倡议",
+      "summary": "泽连斯基称若俄方停止袭击乌克兰电力、能源和食品运输等关键基础设施，乌方将对等停止打击俄境内同类目标；特朗普称双方已同意不袭击能源目标，但俄方暂未回应，落实仍待观察。",
+      "source": "中新网 / 央视新闻",
+      "url": "https://www.chinanews.com.cn/gj/2026/09-15/10696486.shtml"
+    },
+    {
+      "title": "美制裁俄银行",
+      "summary": "美国财政部将俄罗斯外贸银行重新列入制裁名单，指控其为伊朗规避制裁提供金融通道；该行动延续华盛顿对伊朗资金网络的挤压，也会加重俄伊金融结算的不确定性。",
+      "source": "VOA中文",
+      "url": "https://www.voachinese.com/a/us-designates-russian-bank-for-role-in-iran-sanctions-evasion-20260914/8198761.html"
+    },
+    {
+      "title": "沙特油管关闭",
+      "summary": "沙特近日关闭一条重要输油管道，市场担忧供应趋紧，国际油价继续走高；西德州原油和布伦特原油双双上涨，中东能源通道风险再度传导至通胀和利率预期。",
+      "source": "自由财经 / 中央社",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5574012"
+    }
+  ],
+  "domestic": [
+    {
+      "title": "智能家居方案",
+      "summary": "商务部等8部门印发促进智能家居消费行动方案，提出扩大优质供给、建设体验中心、发展定制服务，并引导金融机构加大消费贷款支持；政策将带动家装、IoT和适老化产品需求。",
+      "source": "每日经济新闻",
+      "url": "https://www.mrjjxw.com/articles/2026-09-14/4581027.html"
+    },
+    {
+      "title": "央行逆回购",
+      "summary": "央行公告9月15日将开展5000亿元6个月期买断式逆回购操作，以保持银行体系流动性充裕；在信贷和社融数据披露后，市场将关注资金价格和政策节奏。",
+      "source": "东方财富 / 上海证券报",
+      "url": "https://finance.eastmoney.com/a/202609143873557757.html"
+    },
+    {
+      "title": "广州商贸港",
+      "summary": "广州国际商业港首开区北地块正式挂牌，项目占地约9.86平方公里，被称为广州版“义乌商贸城”；落地后有望强化广州商贸、物流与电商联动能力。",
+      "source": "每日经济新闻",
+      "url": "https://www.mrjjxw.com/articles/2026-09-14/4581213.html"
+    }
+  ],
+  "tech": [
+    {
+      "title": "三星高通封装",
+      "summary": "媒体称三星电机正与高通合作开发面向AI芯片的2.1D先进封装，采用嵌入式有机桥片以降低成本并绕开部分专利壁垒；先进封装正成为算力竞争的新焦点。",
+      "source": "每日经济新闻",
+      "url": "https://www.mrjjxw.com/articles/2026-09-14/4581230.html"
+    },
+    {
+      "title": "Copilot接Grok",
+      "summary": "微软宣布在Copilot模型选择中加入Grok，并通过Frontier Program向Word、Excel和PowerPoint小范围推出；办公AI开始从单一模型走向多模型可选。",
+      "source": "每日经济新闻",
+      "url": "https://www.mrjjxw.com/articles/2026-09-14/4581230.html"
+    },
+    {
+      "title": "芯片收入新高",
+      "summary": "Omdia报告称2026年二季度全球半导体营收达4250亿美元，环比增长31.4%；AI需求重排存储厂商产能优先级，三季度收入预计进一步突破5000亿美元。",
+      "source": "每日经济新闻 / Omdia",
+      "url": "https://www.mrjjxw.com/articles/2026-09-14/4581027.html"
+    }
+  ],
+  "trending": [
+    {
+      "term": "文字失语症",
+      "desc": "热梗用多后正式表达变难，写总结时词穷。"
+    },
+    {
+      "term": "夯爆了",
+      "desc": "源自台湾口语，表示非常火、很厉害。"
+    },
+    {
+      "term": "背手负鼠",
+      "desc": "形容淡定围观、装老成的站姿和状态。"
+    },
+    {
+      "term": "大脑降噪",
+      "desc": "指减少信息刺激，让脑子安静下来。"
+    },
+    {
+      "term": "CPU干烧",
+      "desc": "信息量太大或题太难，脑子被烧满。"
+    }
+  ],
+  "research": [
+    {
+      "title": "虚拟细胞模型",
+      "summary": "西湖大学等团队在Nature发表ProteinTalks虚拟细胞模型，基于3800多万个时间分辨蛋白质丰度测量值，预测三阴性乳腺癌药效、协同组合和耐药靶点，为AI辅助药物发现提供新路径。",
+      "source": "生物谷 / Nature",
+      "url": "https://news.bioon.com/article/eeec95065825.html"
+    },
+    {
+      "title": "脂肪抑癌信号",
+      "summary": "《科学》研究称瘦体型乳腺脂肪细胞可分泌9S-HODE，诱导乳腺癌细胞铁死亡；肥胖状态下该信号减弱，提示恢复或模拟该脂质通路或可用于肥胖相关乳腺癌干预。",
+      "source": "澎湃新闻 / Science",
+      "url": "https://m.thepaper.cn/newsDetail_forward_34054726"
+    }
+  ],
+  "finance": [
+    {
+      "title": "亚股承压",
+      "summary": "亚洲股市因AI放缓担忧和油价上涨承压，软银、三星、SK海力士等科技权重下跌；投资者同时担心能源价格推升通胀，可能让主要央行维持偏紧立场。",
+      "source": "Investing.com / Reuters",
+      "url": "https://www.investing.com/news/stock-market-news/asian-stocks-fall-as-ai-slowdown-fears-deepen-oil-surge-lifts-rate-risks-4898813"
+    },
+    {
+      "title": "AI股齐跌",
+      "summary": "Anthropic、OpenAI等呼吁放慢AI研发节奏后，全球AI和半导体板块普跌，英伟达、AMD、ASML、台积电及存储厂商盘前走弱；市场开始重新定价AI资本开支节奏。",
+      "source": "财新网",
+      "url": "https://companies.caixin.com/2026-09-14/102484800.html"
+    },
+    {
+      "title": "前八月信贷",
+      "summary": "央行数据显示前八个月人民币贷款增加10.44万亿元，企业部门贷款继续支撑总量，住户贷款仍偏弱；结合5000亿元买断式逆回购，宽信用和稳流动性信号并行。",
+      "source": "每日经济新闻",
+      "url": "https://www.mrjjxw.com/articles/2026-09-14/4581027.html"
+    }
+  ],
+  "sources_checked": [
+    "Tavily Search",
+    "中新网",
+    "VOA中文",
+    "自由财经",
+    "每日经济新闻",
+    "东方财富",
+    "生物谷",
+    "澎湃新闻",
+    "Investing.com",
+    "财新网"
+  ]
+}
