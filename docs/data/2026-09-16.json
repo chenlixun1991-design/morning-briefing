@@ -1,0 +1,131 @@
+{
+  "date": "2026-09-16",
+  "created_by": "Tomato 🍅",
+  "international": [
+    {
+      "title": "俄乌能源互袭",
+      "summary": "特朗普称俄乌同意停止攻击能源目标后，双方9月15日仍互袭能源设施。基辅称俄军发射约200架无人机并造成人员伤亡，乌方也打击俄炼油厂和无人机设施，停火倡议落地难度上升。",
+      "source": "VOA中文",
+      "url": "https://www.voachinese.com/a/russia-and-ukraine-launched-new-energy-attacks-a-day-after-president-trump-said-they-agreed-to-stop-such-strikes-20260915/8200195.html"
+    },
+    {
+      "title": "乌军费缺口",
+      "summary": "泽连斯基称将在纽约联大期间会晤马克龙，并推动俄乌直接谈判。与此同时，乌克兰面临约230亿欧元军费缺口，政府准备推进多项预算法案，可能带来财政和民生双重压力，后续援助安排受关注。",
+      "source": "RFI",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260915-%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E6%8B%9F%E5%9C%A8%E7%BA%BD%E7%BA%A6%E4%BC%9A%E6%99%A4%E9%A9%AC%E5%85%8B%E9%BE%99-%E4%B9%8C%E5%85%8B%E5%85%B0%E9%9D%A2%E4%B8%B4230%E4%BA%BF%E6%AC%A7%E5%85%83%E5%86%9B%E8%B4%B9%E7%BC%BA%E5%8F%A3"
+    },
+    {
+      "title": "太空军备升温",
+      "summary": "美国太空军首次承认在轨部署具攻防能力的武装太空监控系统，称用于保护联合部队免受敌对行动威胁。中国和俄罗斯均表达反对，太空军事化风险成为新的大国博弈焦点，各方互信进一步受损。",
+      "source": "RFI",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260915-%E5%8D%8E%E7%9B%9B%E9%A1%BF%E7%A7%B0%E5%9C%A8%E5%A4%AA%E7%A9%BA%E9%83%A8%E7%BD%B2%E4%BA%86%E6%AD%A6%E5%99%A8-%E4%B8%AD%E5%9B%BD%E6%95%A6%E4%BF%83%E7%BE%8E%E5%9B%BD-%E5%81%9C%E6%AD%A2%E5%A4%AA%E7%A9%BA%E5%A4%87%E6%88%98"
+    }
+  ],
+  "domestic": [
+    {
+      "title": "平台酒店规范",
+      "summary": "市场监管总局会同文旅部召开在线酒店预订平台行政指导会，要求美团、抖音、京东、携程、同程、飞猪等平台落实合规主体责任，防范价格战和不透明规则扰乱旅游市场秩序，后续整改值得关注。",
+      "source": "每日经济新闻",
+      "url": "https://www.mrjjxw.com/articles/2026-09-15/4582237.html"
+    },
+    {
+      "title": "前八月经济",
+      "summary": "国家统计局称前8个月经济运行延续总体平稳、向新向优态势，8月规模以上工业增加值同比增长5.2%，装备制造业和高技术制造业增速明显快于整体，政策仍强调继续扩大内需。",
+      "source": "上海证券报",
+      "url": "https://paper.cnstock.com/html/2026-09/16/content_2269653.htm"
+    },
+    {
+      "title": "香港五年规划",
+      "summary": "香港首份经济和社会发展五年规划将于9月16日出台，李家超称其将主动对接国家“十五五”规划，推动香港在融入和服务国家发展大局中实现更宏观、精准的治理部署，施政节奏也将更清晰。",
+      "source": "中国新闻周刊 / 华人号",
+      "url": "https://www.52hrtt.com/ys/n/w/info/G1786949167842"
+    }
+  ],
+  "tech": [
+    {
+      "title": "朱雀一箭十星",
+      "summary": "蓝箭航天朱雀二号改进型遥七火箭9月15日发射成功，将千帆极轨19组10颗卫星送入预定轨道，千帆星座卫星增至248颗，商业火箭进入更高密度组网发射阶段，民营航天订单可见度提升。",
+      "source": "每日经济新闻",
+      "url": "https://www.mrjjxw.com/articles/2026-09-15/4582239.html"
+    },
+    {
+      "title": "华为超节点",
+      "summary": "华为汪涛在AIDC产业发展大会表示，大模型规模已突破万亿参数，10万亿参数将成基础规模，10万卡以上超节点集群到2027年会成为基础配置，AI算力架构继续重构。",
+      "source": "每日经济新闻",
+      "url": "https://www.mrjjxw.com/articles/2026-09-15/4582239.html"
+    },
+    {
+      "title": "DDR5调涨",
+      "summary": "存储资源端持续拉涨后，行业DDR5内存条本周小幅调涨，但客户价格承受度逼近极限。厂商可能继续低备货、低出货，AI和PC需求节奏将影响后续价格弹性，供需错配仍待消化。",
+      "source": "每日经济新闻",
+      "url": "https://www.mrjjxw.com/articles/2026-09-15/4582336.html"
+    }
+  ],
+  "trending": [
+    {
+      "term": "发朋友圈滞后性",
+      "desc": "热搜话题，指延迟发布生活动态避免打扰或暴露行程。"
+    },
+    {
+      "term": "特种兵快闪模式",
+      "desc": "形容假期高强度短途打卡，来得快走得也快。"
+    },
+    {
+      "term": "纯狱风",
+      "desc": "吐槽穿搭或装修像监狱风格，冷硬又克制。"
+    },
+    {
+      "term": "低山臭水遇知音",
+      "desc": "反差版“高山流水”，形容抽象同频。"
+    },
+    {
+      "term": "身材很曼妙",
+      "desc": "源自买家神回复，用来回避追问和自信打趣。"
+    }
+  ],
+  "research": [
+    {
+      "title": "实时情绪解码",
+      "summary": "Nature Computational Science研究称，个性化深度学习模型可整合灰质和白质颅内神经信号，实时解码情绪效价和唤醒状态，并跨图片、视频任务泛化，或推动闭环情绪治疗脑机接口。",
+      "source": "Nature Computational Science",
+      "url": "https://www.nature.com/articles/s43588-026-01055-0"
+    },
+    {
+      "title": "AI发现暗蛋白",
+      "summary": "迈阿密大学团队用AI比较超2.14亿个预测蛋白三维结构，发现隐藏的GPCR家族成员并验证功能。研究提示AI能打开“暗蛋白质组”视野，但仍需实验验证支撑疾病机制探索。",
+      "source": "Newswise / Nature",
+      "url": "https://www.newswise.com/articles/ai-helps-find-hidden-human-proteins-and-reveals-what-they-do"
+    }
+  ],
+  "finance": [
+    {
+      "title": "美股油债承压",
+      "summary": "9月15日美股期指因油价上涨、美债收益率走高和AI需求不确定性走弱；布油和WTI均上行，10年期美债收益率一度升破5%，市场担心通胀和融资成本继续压制风险资产估值。",
+      "source": "Reuters / MarketWatch",
+      "url": "https://www.kitco.com/news/off-the-wire/2026-09-15/wall-st-futures-slip-rising-oil-treasury-yields-compound-ai-anxiety"
+    },
+    {
+      "title": "资金池推广",
+      "summary": "上海证券报称跨国公司资金池政策进入全国推广阶段，多地首批业务落地。该政策有助于企业统筹境内外资金，提高跨境资金使用效率，也会增强重点城市金融服务竞争力，企业现金管理灵活性提高。",
+      "source": "上海证券报",
+      "url": "https://paper.cnstock.com/html/2026-09/16/node_7.htm"
+    },
+    {
+      "title": "保险新规将至",
+      "summary": "互联网保险或迎新规，监管方向包括禁止以免费赠险诱导投保、限制静默续保等。规则若落地，将压缩平台粗放获客空间，推动保险销售从流量转向透明披露和真实服务，用户续费权益更受保护。",
+      "source": "上海证券报",
+      "url": "https://paper.cnstock.com/html/2026-09/16/node_7.htm"
+    }
+  ],
+  "sources_checked": [
+    "Tavily Search",
+    "VOA中文",
+    "RFI",
+    "每日经济新闻",
+    "上海证券报",
+    "Nature Computational Science",
+    "Newswise",
+    "Reuters",
+    "MarketWatch"
+  ]
+}
