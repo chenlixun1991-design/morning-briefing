@@ -1,0 +1,134 @@
+{
+  "date": "2026-10-14",
+  "created_by": "Tomato 🍅",
+  "international": [
+    {
+      "title": "美乌情报未断",
+      "summary": "特朗普表示美国没有切断与乌克兰的情报共享，并称仍在推动俄乌停战。泽连斯基则抱怨未获俄军弹道导弹预警，能源停火刚宣布就遭质疑，前线防空和外交互信继续承压。",
+      "source": "VOA中文",
+      "url": "https://www.voachinese.com/a/trump-says-us-has-not-cut-off-intelligence-sharing-with-ukraine-20261013/8210858.html"
+    },
+    {
+      "title": "俄拘日记者",
+      "summary": "俄罗斯宣布在萨哈林逮捕一名《北海道新闻》记者，指其涉嫌收集国防相关信息并从事间谍活动。事件发生在北方四岛争议升温之际，东京与莫斯科关系可能进一步恶化。",
+      "source": "RFI",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261013-%E4%BF%84%E7%BD%97%E6%96%AF%E6%8C%87%E6%8E%A7%E4%B8%80%E5%90%8D%E6%97%A5%E6%9C%AC%E8%AE%B0%E8%80%85%E4%BB%8E%E4%BA%8B%E9%97%B4%E8%B0%8D%E6%B4%BB%E5%8A%A8%EF%BC%8C%E5%B9%B6%E5%B0%86%E5%85%B6%E9%80%AE%E6%8D%95"
+    },
+    {
+      "title": "加沙非军事化",
+      "summary": "美国国务院称，加沙非军事化进程取得实际进展，并强调重建将是多年艰巨任务。停火、人质释放和援助扩大已有阶段成果，但解除哈马斯武装、以军撤出与治理重建仍是关键难点。",
+      "source": "VOA中文",
+      "url": "https://www.voachinese.com/a/us-says-there-is-real-progress-toward-a-demilitarized-gaza-20261013/8210917.html"
+    }
+  ],
+  "domestic": [
+    {
+      "title": "黄奇帆被查",
+      "summary": "重庆市委原副书记、市政府原市长黄奇帆涉嫌严重违纪违法，正在接受中央纪委国家监委审查调查。其曾长期参与地方经济治理，案件将继续牵动政商关系与地方治理舆论。",
+      "source": "每日经济新闻 / 央视新闻",
+      "url": "https://www.mrjjxw.com/articles/2026-10-13/4603627.html"
+    },
+    {
+      "title": "航展规模创新高",
+      "summary": "第十六届中国航展将于12月在珠海举行，室内展览面积达13.5万平方米，参展装备超3000件，并首次采用“一展三区”布局。月球正背面月壤同框和多型主战装备首秀值得关注。",
+      "source": "新华社 / 天津日报",
+      "url": "https://epaper.tianjinwe.com/tjrb/html/2026-10/14/content_143082_3914855.htm"
+    },
+    {
+      "title": "服务贸易增长",
+      "summary": "商务部数据显示，前8个月我国服务进出口总额50701.6亿元，同比增长7.9%，其中出口增长14.8%。旅行和运输服务出口贡献接近一半，服务贸易逆差继续收窄。",
+      "source": "新华社 / 天津日报",
+      "url": "https://epaper.tianjinwe.com/tjrb/html/2026-10/14/content_143082_3914858.htm"
+    }
+  ],
+  "tech": [
+    {
+      "title": "求索4.0发布",
+      "summary": "国内首个面向算力、模型算法、智能系统、行业应用和安全治理的人工智能全产业链评测基准“求索”4.0发布。它将为AI产品选型和监管提供统一尺度，安全评测权重进一步提高。",
+      "source": "每日经济新闻 / 央视新闻",
+      "url": "https://www.mrjjxw.com/articles/2026-10-13/4603627.html"
+    },
+    {
+      "title": "Meta新模型亮相",
+      "summary": "Meta发布Muse Wonder系列AI模型，并称其代码编写能力较过往模型明显提升。AI编程市场仍由OpenAI和Anthropic主导，Meta加速补位，企业级AI服务竞争继续升温。",
+      "source": "网易科技 / IT之家",
+      "url": "https://www.163.com/dy/article/L945RTOG0511FQO9.html"
+    },
+    {
+      "title": "三星展示CXL",
+      "summary": "三星在OCP全球峰会上展示下一代内存与存储技术，并与AMD演示CXL内存扩展方案。AI服务器对高带宽和大容量内存需求攀升，存储产业链正从短单转向长期绑定。",
+      "source": "每日经济新闻",
+      "url": "https://www.mrjjxw.com/articles/2026-10-13/4603154.html"
+    }
+  ],
+  "trending": [
+    {
+      "term": "找我最安全",
+      "desc": "源自《边水往事》红毯玩梗，夸人靠谱能兜底。"
+    },
+    {
+      "term": "活人感",
+      "desc": "小红书热词，指真实松弛、有生命力的状态。"
+    },
+    {
+      "term": "抽象力",
+      "desc": "用离谱造梗消解压力，适合自嘲和群聊整活。"
+    },
+    {
+      "term": "AI人格",
+      "desc": "把AI当搭子或嘴替，强调陪伴和情绪价值。"
+    },
+    {
+      "term": "这很难评",
+      "desc": "委婉表达槽点太多，不好直接下结论。"
+    }
+  ],
+  "research": [
+    {
+      "title": "AI协管癫痫",
+      "summary": "Nature Medicine发表研究，探索人类医生与AI实时协作管理癫痫，通过神经数据和临床反馈辅助识别发作风险。若经更多验证，闭环神经护理有望减轻医护负担并提升响应速度。",
+      "source": "Nature Medicine",
+      "url": "https://www.nature.com/articles/s41591-026-04680-4"
+    },
+    {
+      "title": "新生儿影像AI",
+      "summary": "Nature Biomedical Engineering刊文称，研究团队用持续学习改造成人胸片AI模型，使其适配新生儿护理场景。多中心结果提示旧模型可迁移，但儿童和新生儿AI仍需独立验证与监管。",
+      "source": "Nature Biomedical Engineering",
+      "url": "https://www.nature.com/articles/s41551-026-01812-6"
+    }
+  ],
+  "finance": [
+    {
+      "title": "IMF谈生活成本",
+      "summary": "IMF发布10月《世界经济展望》分析章节，强调食品和能源涨价造成生活成本危机。报告认为临时、定向转移支付更有效，价格管制可能消耗数倍财政资源并扭曲市场信号。",
+      "source": "IMF",
+      "url": "https://www.imf.org/zh/publications/weo/issues/2026/10/13/world-economic-outlook-october-2026"
+    },
+    {
+      "title": "对冲基金风险",
+      "summary": "IMF《全球金融稳定报告》分析称，对冲基金资产约13万亿美元，市场平稳时有助流动性，但压力期杠杆、拥挤交易和赎回联动可能放大抛售，需要更好数据和审慎工具。",
+      "source": "IMF",
+      "url": "https://www.imf.org/zh/publications/gfsr/issues/2026/10/13/global-financial-stability-report-october-2026"
+    },
+    {
+      "title": "亚洲科技股下挫",
+      "summary": "亚洲股市受科技股抛售拖累，韩股与日本股指明显回落，三星、SK海力士等存储股承压。市场担心中国存储竞争、AI投资回报和本周美国通胀数据，风险偏好短线降温。",
+      "source": "Yahoo Finance / Investing.com",
+      "url": "https://hk.finance.yahoo.com/news/%E4%BA%9E%E6%B4%B2%E8%82%A1%E5%B8%82%E4%B8%8B%E6%8C%AB-%E4%B8%AD%E5%9C%8B%E6%99%B6%E7%89%87%E5%A8%81%E8%84%85%E8%A1%9D%E6%93%8A%E4%B8%89%E6%98%9F%E8%88%87sk%E6%B5%B7%E5%8A%9B%E5%A3%AB-%E6%B2%B9%E5%83%B9%E5%9B%9E%E8%90%BD-041712811.html"
+    }
+  ],
+  "sources_checked": [
+    "Tavily Search",
+    "VOA中文",
+    "RFI",
+    "新华社",
+    "央视新闻",
+    "每日经济新闻",
+    "天津日报",
+    "网易科技",
+    "Nature Medicine",
+    "Nature Biomedical Engineering",
+    "IMF",
+    "Yahoo Finance"
+  ]
+}
